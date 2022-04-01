@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">156</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7b3f5fd-a4b9-4416-89c1-4487dba6df1f</dc:identifier>
+        <dc:title>Soy la Puerta</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1971-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;La historia relata el relato de un exastronauta discapacitado sobre el aterrador cambio que sufre después de haber sido expuesto a un mutágeno extraterrestre, durante una misión espacial a Venus (similar a la cancelada Venus Flyby tripulada, pero usando un cohete "Saturno 16"). Arthur, el narrador, comienza la historia con las manos vendadas y se duele de una picazón terrible tanto después de la misión como en la actualidad. El cambio toma la forma de numerosos globos oculares pequeños que estallan en sus dedos. Estos globos oculares actúan como el "portal" para una especie alienígena, permitiéndoles ver nuestro mundo. Perciben a los humanos como monstruosas criaturas, que temen y odian intensamente.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Pronto, la presencia alienígena no solo puede ver a través de esta puerta, sino que también puede controlar el cuerpo destrozado de Arthur, usándolo para cometer terribles asesinatos. En un intento desesperado por mantener su humanidad, Arthur mete las manos en queroseno y las prende fuego, solo para descubrir que una vez que la puerta se ha abierto, no puede cerrarse tan fácilmente. Se las arregla para hacer desaparecer la presencia alienígena durante casi siete años. Pero después de que vuelven a aparecer los ojos en el pecho de Arthur, él revela que planea suicidarse con una escopeta para evitar que los alienígenas cometan más atrocidades.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Doubleday</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Cuento</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:15:14.024020+00:00"/>
+        <meta name="calibre:title_sort" content="Soy la Puerta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
