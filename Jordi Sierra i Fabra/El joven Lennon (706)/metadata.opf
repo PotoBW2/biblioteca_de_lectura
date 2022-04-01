@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">706</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">265eddcf-b0ab-4d92-9e12-8efbcd05e4df</dc:identifier>
+        <dc:title>El joven Lennon</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-02-01T05:00:00+00:00</dc:date>
+        <dc:description>Se han escrito muchas cosas sobre John Lennon: beatle, cantante, artista individual, símbolo de tantas realidades humanas… Pero nos han llegado muy pocos datos sobre sus vivencias durante la adolescencia, etapa que acostumbra a marcar nuestra vida de manera imborrable. ¿Qué hizo este mito de la música de los catorce a los dieciocho años? Esta es la intención del autor: contarnos la adolescencia de Lennon y mostrarnos como todo lo que hizo después se gestó durante estos tres años.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Crónica</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:28:44.545924+00:00"/>
+        <meta name="calibre:title_sort" content="joven Lennon, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

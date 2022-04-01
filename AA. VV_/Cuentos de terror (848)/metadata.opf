@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">848</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6f298b0-70c4-40e0-a099-60e5b567d528</dc:identifier>
+        <dc:title>Cuentos de terror</dc:title>
+        <dc:creator opf:file-as="AA. VV." opf:role="aut">AA. VV.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Desde tiempos inmemoriales, el misterio, lo macabro, lo sobrenatural, han cautivado a los hombres; y precisamente porque la seducción de este género es más poderosa que el miedo, los cuentos fantásticos ocupan un lugar tan destacado dentro de la literatura. En esta extraordinaria antología, se han reunido algunos de los mejores relatos de terror. Pero quizás si lo más fascinante de estas narraciones sea el hecho de que en lugar de hablarnos de seres monstruosos, nos muestran algo aún más aterrador: ese lado oscuro de la realidad y de las personas que emerge de pronto, sorpresivamente, en la vida cotidiana, trastornándola, convirtiéndola en una pesadilla. Un conjunto de relatos magistrales, llenos de sorpresas, que una vez abiertos no pueden ya cerrarse sino hasta volver la última página.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;AA. VV.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:32:26.210829+00:00"/>
+        <meta name="calibre:title_sort" content="Cuentos de terror"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

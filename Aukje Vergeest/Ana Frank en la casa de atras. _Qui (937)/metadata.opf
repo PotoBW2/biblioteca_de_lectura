@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">937</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">148ae64c-76b4-4973-b9fc-fc1e6500d77b</dc:identifier>
+        <dc:title>Ana Frank en la casa de atrás. ¿Quién fue quién?</dc:title>
+        <dc:creator opf:file-as="Vergeest, Aukje" opf:role="aut">Aukje Vergeest</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-09T22:00:00+00:00</dc:date>
+        <dc:description>En su diario, Ana Frank dio una cara a los ocho escondidos en la Casa de atrás y a sus cinco protectores: entre julio de 1942 y agosto de 1944, vivió dos intensos años con ellos. Su mirada juvenil y las circunstancias de la guerra determinaron en gran medida su manera de retratarlos. Ana asignó en su diario un seudónimo a cada uno de ellos, excepto a sus padres y hermana.Pero ¿quiénes eran en realidad estas personas? ¿De dónde venían? ¿Cómo era su vida cotidiana durante la ocupación? ¿Qué comían los escondidos, a qué se dedicaban todo el día? Y ¿cómo hicieron los protectores para, aparte del trabajo de oficina, alimentar a ocho bocas adicionales sin que el entorno lo notara? ¿Mantuvieron el contacto entre sí una vez terminada la guerra?En este libro se pasa revista por primera vez a las vidas de los escondidos y sus protectores, antes, durante y después del paso a la clandestinidad, en forma de trece retratos personales. Además de los mencionados, estuvieron ligados al edificio de Prinsengracht 263 varios mozos de almacén, proveedores y representantes de comercio; los papeles que desempeñaron nunca antes se habían reseñado.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Historia</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Aukje Vergeest&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:34:49.920736+00:00"/>
+        <meta name="calibre:title_sort" content="Ana Frank en la casa de atrás. ¿Quién fue quién?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

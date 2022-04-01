@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">813</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a6ade82-dd07-48aa-a285-27b49b261eaa</dc:identifier>
+        <dc:title>Diario de Ana Frank</dc:title>
+        <dc:creator opf:file-as="Frank, Ana" opf:role="aut">Ana Frank</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1947-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Tras la invasión de Holanda, los Frank, comerciantes judíos alemanes emigrados a Amsterdam en 1933, se ocultaron de la Gestapo en una buhardilla anexa al edificio donde el padre de Ana tenía sus oficinas. Eran ocho personas y permanecieron recluidas desde junio de 1942 hasta agosto de 1944, fecha en que fueron detenidos y enviados a campos de concentración. En ese lugar y en las más precarias condiciones, Ana, a la sazón una niña de trece años, escribió su estremecedor Diario: un testimonio único en su género sobre el horror y la barbarie nazi, y sobre los sentimientos y experiencias de la propia Ana y sus acompañantes. Ana murió en el campo de Bergen-Belsen en marzo de 1945. Su Diario nunca morirá.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>No Ficción</dc:subject>
+        <dc:subject>Crónica</dc:subject>
+        <dc:subject>Memorias</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ana Frank&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:31:31.929176+00:00"/>
+        <meta name="calibre:title_sort" content="Diario de Ana Frank"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

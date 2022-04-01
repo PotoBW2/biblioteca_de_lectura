@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a73ec7e-86fb-46dc-905a-c38ee94d09ae</dc:identifier>
+        <dc:title>El quinto cristal</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-01T05:00:00+00:00</dc:date>
+        <dc:description>Joa intuye que el cristal que le dejó su madre es la clave para volver a establecer el contacto con ella. Todas las Hijas de las Tormentas habían aparecido con uno pero también habían desaparecido con él. Excepto en su caso y en el de Amina. Necesitan encontrar a la tercera mujer que puede darles la pista definitiva para unir sus fuerzas: Indira Pradesh, nacida de una de las Hijas de las Tormentas en la India. Sin embargo, convencer a Indira no será fácil. Su dura vida la ha convertido en una mujer escéptica y amoral con unos extraordinarios poderes.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Las hijas de las tormentas"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:27:48.837846+00:00"/>
+        <meta name="calibre:title_sort" content="quinto cristal, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

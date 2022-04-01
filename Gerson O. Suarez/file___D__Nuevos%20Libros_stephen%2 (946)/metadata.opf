@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">946</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb2ec7bc-9f28-4bc2-b6fa-0ae2ce9f7b3a</dc:identifier>
+        <dc:title>file://D:\Nuevos%20Libros\stephen%20king%20cuentos%20cortos\King,%20Stephen%20-%20(X-Files)%20Chinga.htm</dc:title>
+        <dc:creator opf:file-as="Suárez, Gerson O." opf:role="aut">Gerson O. Suárez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Gerson O. Suárez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:35:04.558471+00:00"/>
+        <meta name="calibre:title_sort" content="file://D:\Nuevos%20Libros\stephen%20king%20cuentos%20cortos\King,%20Stephen%20-%20(X-Files)%20Chinga.htm"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

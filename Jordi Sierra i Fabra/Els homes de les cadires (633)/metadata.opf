@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">633</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd1a330d-3cfa-42b6-b917-021ea282548b</dc:identifier>
+        <dc:title>Els homes de les cadires</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Un relat de misteri fosc i absorbent que enganxa des de la primera pàgina i amb un desenllaç sorprenent… Set homes vestits de negre duen cadascun una cadira. Està a punt de passar una desgràcia. Ningú no veu els homes llevat d’en Sergi, el protagonista de la novel·la, que intenta resoldre l’enigma que s’amaga darrere aquestes visions. Un bon dia, en Sergi comença a veure els homes de les cadires. Son set i van completament vestits de negre: només la camisa és blanca, perquè les seves cares són grises. Cada un d’ells porta una cadira, quan s’aturen i s’asseuen és perquè està a punt de produir-se una desgràcia i ho volen veure.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">54439</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Infantil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:26:50.264900+00:00"/>
+        <meta name="calibre:title_sort" content="Els homes de les cadires"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

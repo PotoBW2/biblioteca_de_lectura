@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">318</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7733ac82-bca7-490c-aaca-cd8c686e3bb6</dc:identifier>
+        <dc:title>Malas Tierras</dc:title>
+        <dc:creator opf:file-as="Sierra I Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Malas tierras es un libro sensible y comprometido, donde vemos que al final la vida siempre triunfa. En Madrid, unos padres esperan un donante de órganos para salvar a su hija. En Barcelona, unos jóvenes están dispuestos a pasar una noche memorable en el concierto de Bruce Springsteen. Y al mismo tiempo, un hombre despechado va cometiendo locuras por la Ciudad Condal a bordo de su coche. En esa noche, el destino de todos se unirá, y lo que en Barcelona termina en tragedia por una muerte a media noche, en Madrid gracias a un trasplante se puede salvar una vida.</dc:description>
+        <dc:publisher>www..net</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>children</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:19:07.832612+00:00"/>
+        <meta name="calibre:title_sort" content="Malas Tierras"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

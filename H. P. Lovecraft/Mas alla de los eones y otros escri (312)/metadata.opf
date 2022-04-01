@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">312</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">904e8a0e-b229-48bf-82e7-75aea5e77212</dc:identifier>
+        <dc:title>Más allá de los eones y otros escritos</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Versiones definitivas de los relatos delmaestro del terror. Incluye la cronología completa de todos los relatos de H.P. Lovecraft Relatos fantásticos(Dos botellas negras,Más allá de los eones, etc.) Poemas en prosa(Memoria, Nyarlathotep, etc.) Narraciones literarias(Ibid, etc.) Relatos satíricos (ElViejo Bugs, etc.) Primeros relatos (Labotellita de cristal, etc.) La presente recopilación, Más allá de los eones y otros escritos, recoge los últimos cuentosque aún quedaban por aparecer en nuestro idioma, atípicos dentro de laproducción de Lovecraft, pero muy interesantes para llegar a comprender lafigura del escritor de Providence. Esta antología está dividida en cinco bloques temáticos,respetando el orden cronológico de su elaboración dentro de cada apartado. Más allá de los eones es el cuentoestrella del volumen, modelo del mejor estilo del autor, perteneciente, además,a los mitos de Cthulhu. Fue escrito por H. P. Lovecraft a partir de una idea deHazel Heald y nos cuenta la historia mítica de T’yog, sumo sacerdote de Shub-Niggurath,en su hazaña contra el blasfemo dios de Yuggoth, Ghatanothoa. En conjunto, esta antología es un fiel reflejo de lapersonalidad insegura y contradictoria de Lovecraft que revolucionó eltratamiento del cuento moderno de terror.</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:18:59.420620+00:00"/>
+        <meta name="calibre:title_sort" content="Más allá de los eones y otros escritos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

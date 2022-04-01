@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">783</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96f1950e-d829-41f1-81b3-6c5f66ecdc0c</dc:identifier>
+        <dc:title>El asesinato de la profesora de ciencias</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-19T23:00:00+00:00</dc:date>
+        <dc:description>Después de que un grupo de alumnos vuele por los aires el laboratorio de ciencias, de forma accidental, la profesora Fernanda decide darles una lección para demostrarles lo importantes que son la física y la química. Les hará beber un extraño líquido y les dejará un mensaje: tendrán que seguir una serie de pistas para encontrar el antídoto, pero deberán hacerlo antes de las dos de la tarde, o algo terrible ocurrirá. Jorge, Petra y Max recorrerán toda la ciudad buscando y resolviendo los acertijos para salvar su vida, y es que ya sabían ellos que el accidente terminaría pasándoles factura, aunque jamás pensaron que de forma tan dramática.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:30:46.486459+00:00"/>
+        <meta name="calibre:title_sort" content="asesinato de la profesora de ciencias, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">637</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72d7c48b-0f90-4b19-9ba3-5a499491d030</dc:identifier>
+        <dc:title>El misterio del Goya Robado</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-03T22:00:00+00:00</dc:date>
+        <dc:description>Un pequeño cuadro de Goya ha desaparecido del Museo del Rincón. Amadeo Bola ha de encontrarlo, y también al ladrón. Pero entre el jefe que le grita siempre, una madre empeñada en hacerle comer berenjenas y buscarle novia, y un enjambre de personajes a cual más loco, la tarea no será fácil. Encima, en el museo hay más cosas valiosas, y el patoso Amadeo no sabe donde meter las manos. ¡Enfréntate al juego! ¡Un libro con 5 finales! ¡Descubrete qual tegusta más!</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:26:56.984114+00:00"/>
+        <meta name="calibre:title_sort" content="misterio del Goya Robado, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

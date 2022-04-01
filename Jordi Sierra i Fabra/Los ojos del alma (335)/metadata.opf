@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">335</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8dcb077a-770e-48d5-8a82-a2d298ba4e9f</dc:identifier>
+        <dc:title>Los ojos del alma</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Edurne tiene diecisiete años y es una triunfadora. Su gran meta competir en los Juegos Olímpicos. Campeona desde la infancia, está dispuesta a codearse con las mejores y regresar con una medadilla. Su mundo se derrumba cuando le diagnostican una enfermedad incurable: una retinosis pigmentaria que acabará por dejarla prácticamente ciega. Cuando cree que su vida ya no tiene sentido, su entrenador le propone algo inesperado: competir en los Juegos…Paralímpicos. Desde ese momento, la vida de Edurne vuelve a tener sentido. Un a novela basada en un hecho real sucedido a la más joven medallista de oro española de los juegos Paralímpicos de 2004. Un ejemplo de superación, coraje y valor. Jordi Sierra i Fabra es uno de los autores más conocidos dentro de la literatura infantil y juvenil española. Fue premio Nacional de literatura Infantil y Juvenil 2007.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:19:31.110758+00:00"/>
+        <meta name="calibre:title_sort" content="ojos del alma, los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

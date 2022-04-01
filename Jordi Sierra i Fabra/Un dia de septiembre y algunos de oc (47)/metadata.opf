@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">caae7d9b-de56-481b-81b2-c9e6dcf78792</dc:identifier>
+        <dc:title>Un día de septiembre y algunos de octubre</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-01T05:00:00+00:00</dc:date>
+        <dc:description>La décima entrega de la saga del entrañable e implacable inspector Miquel Mascarell. En esta ocasión tiene que encargarse de los casos de su amigo el detective David Fortuny, después que este sufra un atentado que lo deja en coma. Un fresco nítido y revelador de la vida de la posguerra española, doce años después del final de la contienda. Un mundo que sigue siendo cruel para los vencidos, las mujeres, los marginados sociales que viven bajo el poder absoluto de la dictadura.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">52299</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Miquel Mascarell"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:11:07.996801+00:00"/>
+        <meta name="calibre:title_sort" content="día de septiembre y algunos de octubre, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

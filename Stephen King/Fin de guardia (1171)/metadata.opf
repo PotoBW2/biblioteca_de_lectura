@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b09378a2-8963-47bd-b5ec-fc6ad658fa6c</dc:identifier>
+        <dc:title>Fin de guardia</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-06T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span itemprop="description"&gt;Al detective retirado Hodges, que dirige 
+una agencia de investigación privada con Holly, le diagnostican un 
+cáncer de páncreas: le quedan meses de vida. En ese momento Hodges 
+investiga una serie de suicidios recientes con un punto en común: todos 
+los fallecidos tuvieron relación con Brady Hartsfield, el tristemente 
+famoso Mercedes, que hace años planeó volar una sala de conciertos de 
+rock llena de adolescentes. &lt;br&gt;
+&lt;br&gt;
+Hodges y Holly dejaron al asesino en estado vegetativo del que no se ha 
+recuperado. Sin embargo, el médico del hospital ha estado suministrando a
+ Brady drogas experimentales que han supuesto que adquiera nuevos 
+poderes, incluida la capacidad de mover objetos pequeños con la mente y 
+de entrar en los cuerpos de ciertas personas vulnerables a su control. 
+Desde su cama, Brady ha ideado una aplicación del videojuego Zappit, 
+capaz de controlar a los usuarios. En cuanto tiene a una persona bajo 
+control, con la aplicación puede arrastrarlo al suicidio. Solo que esta 
+vez sus objetivos no son solo adolescentes en un concierto...esta vez va
+ por un grupo aún más grande.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401018343</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">313ff77b-2836-4a57-ae5a-7bb659150d35</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policíaca</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Bill Hodges"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:44:34.197424+00:00"/>
+        <meta name="calibre:title_sort" content="Fin de guardia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

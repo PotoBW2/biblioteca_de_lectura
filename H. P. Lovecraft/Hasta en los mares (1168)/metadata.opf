@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d618492f-4ab4-41e4-8e25-7bca33de8415</dc:identifier>
+        <dc:title>Hasta en los mares</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1935-11-08T10:57:57+00:00</dc:date>
+        <dc:description>Hasta en los mares (Till a' the seas) es un relato de terror del escritor norteamericano Howard Phillip Lovecraft, escrito en colaboración con H. Barlow y publicado en 1935. Aquí observamos una curiosa versión de la evolución, dividida en dos partes bien marcadas. A pesar de la tendencia de Lovecraft a sobreescribir, se advierte en Hasta en los mares una economía insospechada, certera, muy diferente a la de otros textos.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Sobrenatural</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:44:28.813770+00:00"/>
+        <meta name="calibre:title_sort" content="Hasta en los mares"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,2386 @@
+﻿The Project Gutenberg EBook of De profundis, by Oscar Wilde
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: De profundis
+
+Author: Oscar Wilde
+
+Translator: Helmi Setälä
+
+Release Date: September 9, 2014 [EBook #46824]
+
+Language: Finnish
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DE PROFUNDIS ***
+
+
+
+
+Produced by Juha Kiuru and Tapio Riikonen
+
+
+
+
+
+
+DE PROFUNDIS
+
+Kirj.
+
+Oscar Wilde
+
+
+Englannin kielestä suomentanut Helmi Setälä
+
+
+
+Otava, Helsinki, 1907.
+
+
+
+
+
+
+ALKULAUSE.
+
+
+_De profundis clamavi ad te, Domine_ -- syvyydestä minä huudan sinua,
+Herra!
+
+Kun Oscar Wilde ahtaassa vankilakopissansa kirjoitti sen teoksen,
+joka nyt ilmestyy suomalaisessa asussa, tuli hänelle Davidin kiihkeä
+tuskanhuuto mieleen.
+
+Wilde seisoi uransa korkokohdalla, miehuusaikansa voimassa,
+ihailijoittensa keskellä, häntä ihailtiin ja kadehdittiin kuin harvoja,
+hän oli kuuluisa kirjailija ja ajattelija, kun hän valoisasta ja
+pilvettömästä onnenolemuksestaan astui tuomiosaliin syyttääkseen niitä,
+jotka olivat häväisseet hänen nimeänsä. Hän oli kokonaisen sukupolven
+symboli Europassa, hänen draamansa oli otettu vastaan ihastuksella,
+hänen esteetiset teoriiansa olivat muuttuneet evankeliumiksi kauneutta
+palveleville sieluille, hän itse säkenöivällä henkevyydellään,
+hurmaavilla paradokseillaan oli yksi Lontoon seuraelämän enimmin
+hemmoiteltuja dandytyypejä. Parissa tunnissa tapahtui muutos,
+satuprinssi kadotti kuningasvaippansa, syyttäjä muuttui syytetyksi,
+huvinäytelmä vaihtui surunäytelmäksi, ja se yhteiskunta, joka vastikään
+oli kantanut häntä käsillään, heitti hänen ylitsensä vihan ja
+halveksumisen mustinta lokaa. Toukokuussa 1895 hän tuomittiin kahden
+vuoden kuritushuoneesen, sen vuoksi että -- niinkuin hän itse sanoo --
+hänen elämänsä oli ollut täynnä luonnottomia nautintoja ja ihmeellisiä
+himoja. Kevään keskeltä, missä kukat parhaillaan puhkesivat ja linnut
+kisailivat, hän vietiin kuritushuoneen pimeyteen, missä hän sai kokea
+kaikkea sitä keskiaikuista raakuutta, joka vallitsee vielä Englannin
+vankilalaitoksessa.
+
+Huuto keskeltä näitä kärsimyksiä on _De Profundis_. Tai pikemmin
+tunnustus.
+
+Hän näkee elämänsä sellaisena kuin se oli ollut ja sellaisena
+miksi sen tulee muodostua -- sellaisena miksi hän tahtoisi sen
+muodostuvan -- niinkuin joskus ihminen voi nähdä sen yksinäisinä,
+hiljaisina hetkinä: ikäänkuin jonakin, joka on ulkopuolella häntä
+itseään, kuin satua, jonka on lukenut niin kauan aikaa sitten, että
+vain rajaviivat ovat jääneet mieleen. Ensimäinen vuosi vankeudessa
+on häneltä kulunut loppuun ja hänen murtumuksensa aika on ohitse,
+hänen itsesäilyttämisvaistonsa on herännyt. Ja se pakoittaa häntä
+-- niinkuin se pakoittaa jokaista -- ajatuksissaan muodostamaan
+elämänsä kokonaisuudeksi, niin paloitellulta, niin hajanaiselta,
+niin oikulliselta kuin se tuntuukin. Hän tuntee, että hänen täytyy
+saada siihen jotakin tarkoitusta; ei kukaan liene vielä kyennyt
+katsomaan elämän täydellistä tarkoituksettomuutta suoraan silmiin, sen
+hirvittävän naamion edessä kaikki taivuttavat polvensa ja peittävät
+silmänsä. Hän yrittää muodostaa sen runoelmaksi, joka nyt vasta
+saavuttaa täydellisen sopusointunsa. Siitä oli puuttunut kärsimystä,
+nyt vankila on avannut hänen silmänsä näkemään sitä. Ja hän uneksii,
+että se elämä, joka alkaa silloin, kuin vankilan portti taas sulkeutuu
+hänen jälkeensä, on oleva rikkaampi kuin se, josta hän luopui
+astuessaan vankilaan. Sillä nyt siihen sisältyi myös surua.
+
+Sitten hän johtuu häneen, joka on tullut kärsimyksen ja surun
+symboliksi -- Kristukseen. Myös Wilde kääntyy. Mutta omalla tavallaan.
+Hänen Kristuksensa ei ole kirkon, ei edes kristinuskon Kristus. Vaan
+aivan toinen, taiteilijoiden Kristus ja niiden, jotka rakastavat
+kauneutta ylitse kaikkea maallista, niiden Kristus, jotka uskovat
+mielikuvituksen ikuiseen voimaan. "Le doux et galant conteur des
+paraboles" -- lempeä ja henkevä satujenkertoja -- sanoi Wilden mestari
+ja hengenheimolainen Theofile Gautier jossakin Kristuksesta, ja sitä
+samaa Kristusta on Wildekin oppinut rakastamaan.
+
+Onko hän se oikea?
+
+Niin monen vuosisadan ilma on meidän ja historiallisen Kristuksen
+välillä, että meidän on vaikea eroittaa kangastusta todellisuudesta.
+Jokainen historiallinen henkilö on jälkimaailman luoma runoelma,
+joka aina aika-ajoittain sepitetään uudestaan. Mikä lopulta on
+totuudenmukaisin -- sitä ei kukaan voi ratkaista. Kukin sukupolvi,
+kukin yksilö luopi oman kuvansa mukaan. Ja Wilden Kristustyyppi on
+joka tapauksessa meidän sydäntämme lähempänä kuin ne hahmot, joissa
+menneiden vuosisatojen ihmiset ovat nähneet hänet.
+
+       *       *       *       *       *
+
+Mutta voimaa toteuttaa unelmaansa elämässä ei Wildellä ollut enää, kun
+hän pääsi vapaaksi. Ne harvat vuodet, jotka hänellä oli vielä jäljellä
+elettävänään, olivat täynnä hätää ja ehkäpä kurjuuttakin. Ja ne
+teokset, joita hän oli suunnitellut vankilan raskaassa hiljaisuudessa,
+eivät koskaan toteutuneet vapaassa ilmassa. _De Profundis_ tuli hänen
+elämänsä suureksi tunnustukseksi, jossa hän oli paljastanut sielunsa
+niin täydellisesti kuin hän saattoi. Se on teos, jonka tuskat ja
+kyyneleet ja epätoivo ja toivo on synnyttänyt.
+
+Tosin täydellistä suoruutta hänellä ei kai sittenkään ollut. Se
+on lahja, jota jumalat harvoin meidän päivinämme lahjoittavat.
+Näyttelijänaamiosta, joka peittää meidän sisimpämme, ei kukaan voi
+vapautua. Minun mielestäni sen tuntee paikkapaikoin tässä kirjassa.
+Mutta se oli varmaan myös läheisemmin liittynyt Wilden sieluun kuin
+useimpien muitten, se oli tullut osaksi siitä.
+
+_Gunnar Castrén_.
+
+
+
+
+ESIPUHE.
+
+
+Kauan aikaa odotettiin uteliaisuudella _De Profundis_ kirjan
+käsikirjoitusta, jonka tiedettiin olevan minun hallussani, sillä
+tekijä oli usealle ystävälleen maininnut sen olemassa-oloa. Kirja ei
+kaipaa pitkää esipuhetta eikä juuri minkäänlaista selitystäkään. Minä
+tahtoisin vain sanoa, että ystäväni kirjoitti sen vankeutensa viime
+kuukausina, että tämä on ainoa teos minkä hän vankeudessa kirjoitti
+ja viimeinen suorasanainen tuote, joka hänen kynästään on lähtenyt.
+("Ballad of Reading Gaol" Readingin vankilan ballaadi -- ei ollut
+sepitetty, ei edes suunniteltu ennenkuin hän pääsi vapauteen).
+
+Antaessaan minulle määräyksensä _De Profundis_ kirjan julkaisemisesta
+kirjoitti Oscar Wilde:
+
+"_Minä en puolusta menettelyäni. Minä selitän sitä. Minun kirjeessäni
+on muutamia kohtia, jotka koskevat henkistä kehitystäni vankilassa ja
+sitä välttämätöntä muutosta, joka minun luonteessani on tapahtunut
+ja henkisessä suhteessani elämään; ja minä tahtoisin, että sinä ja
+te muut, jotka vielä seisotte minun puolellani ja olette kiintyneet
+minuun, tietäisitte tarkalleen, millä mielellä ja millä tavalla minä
+toivon voivani katsoa elämätä suoraan silmiin. Tietysti, punniten
+asiata yhdeltä puolelta, minä tiedän, että sinä päivänä, jolloin pääsen
+vapaaksi, astun vain toisesta vankeudesta toiseen, ja tulee olemaan
+aikoja, jolloin koko maailma ei ole tuntuva minusta laajemmalta kuin
+vankilakoppini ja on herättävä minussa yhtä paljon kauhua kuin sekin.
+Mutta minä uskon sittenkin, että alussa Jumala loi maailman kullekin
+ihmiselle eriksensä, ja siinä maailmassa, joka on meidän sisässämme,
+pitäisi jokaisen koettaa elää. Joka tapauksessa luet näitä paikkoja
+kirjeessäni vähemmällä tuskalla kuin muita. Tietysti minun ei tarvitse
+huomauttaa sinulle kuinka haihtuvia minun ajatukseni ovat -- meidän
+kaikkien -- ja kuinka epämääräisestä aineesta meidän tunneliikkeemme
+ovat kokoonpannut. Kuitenkin minä näen jonkunlaisen päämäärän, jota
+ehkä voin taiteen kautta lähennellä_.
+
+"_Vankilaelämä opettaa näkemään ihmisiä ja asioita sellaisina kuin ne
+todellisuudessa ovat. Sen vuoksi ihminen kivettyy siellä. Ulkopuolella
+olevat ihmiset, ne ne pettyvät harhakuvissaan alituisessa liikkeessä
+olevasta elämästä. He seuraavat elämän kiertokulun mukana ja edistävät
+sen epätodellisuutta. Me, jotka emme liiku mukana, me sekä näemme että
+tiedämme_.
+
+"_Tuottipa kirjeeni jotakin hyvää ahdasmielisille luonteille ja
+kiihtyneille aivoille tai ei, minulle se on tehnyt hyvää. Olen
+'puhdistanut sydämeni vaarallisista aineksista.' Minun ei tarvitse
+muistuttaa sinulle, että taiteilijalle ilmaisumuoto on korkein ja ainoa
+elämän muoto. Ilmaisun kautta me elämme. Niistä monen monista asioista,
+joista olen kiitollisuuden velassa vankilan johtajalle, olen kaikkein
+enimmin kiitollinen siitä, että hän on sallinut minun esteettömästi
+kirjoittaa sinulle ja niin pitkältä kuin olen halunnut. Lähes kaksi
+vuotta olen sydämessäni hautonut yhä kasvavaa katkeruuden taakkaa,
+ja nyt olen vapautunut siitä suureksi osaksi. Vankilamuurin toisella
+puolella on muutamia mustia, nokisia puu raukkoja, joista parhaallaan
+puhkeaa esiin melkein räikeän viheriäisiä silmukoita. Minä tiedän
+hyvin, mikä niissä tapahtuu. Ne etsivät ilmaisumuotoa itsellensä_."
+
+Minä luulen voivani toivoa, että _De Profundis_, joka kuvaa
+niin elävästi ja tuskaisesti yhteiskunnallisen turmion ja
+vankilarangaistuksen vaikutusta henkisesti korkeaan ja hienostuneesen
+luonteesen, on antava monelle lukijalle aivan toisen käsityksen sen
+henkevästä ja tenhoavasta kirjoittajasta.
+
+_Robert Ross_.
+
+
+
+
+DE PROFUNDIS.
+
+
+... Oli määrä teljetä minut Gilles de Retzin ja markisi de Saden
+väliin. Olkoonpa menneeksi! Minä en huoli valittaa. Yksi niistä
+monista opeista, joista vankilaa saa kiittää, on tämä: että asiat ovat
+sellaisia, jommoisiksi ne kerran ovat tulleet, ja sellaisina ne aina
+pysyvätkin. En epäilekkään yhtään, että keskiaikainen elostelija ja
+"Justinen" tekijä on mieluisampi seuratoveri kuin Sandford ja Merton,
+lastenkirjojemme hyveen esikuvat...
+
+Marraskuun alkupuoliskolla kaksi vuotta sitten kaikki tapahtui. Elämän
+leveä virta eroittaa meidät nyt tästä ajanjaksosta, joka on jo niin
+kaukana poissa. Se, joka kulkee vapaana, voi tuskin käsittää, että
+minusta tuntuu, ikäänkuin se ei olisi tapahtunut eilen, vaan vasta
+tänään. Kärsimys on yksi ainoa silmänräpäys. Me emme voi paloitella
+sitä eri jaksoihin. Me voimme vain määrätä sen eri vivahtelut ja pitää
+muistissa, milloin ne palaavat jälleen. Aika ei meissä kulje eteenpäin.
+Se käy kiertokulkua. Se ikäänkuin kiertää yhden ainoan keskipisteen
+ympärillä, joka on tuskaa. Tämän elämän herpaiseva liikkumattomuus,
+elämän, jonka joka ainoa yksityiskohta on järjestetty muuttumattoman
+mallin mukaan, niin että me syömme ja juomme ja nukumme ja rukoilemme,
+tai ainakin polvistumme rukoukseen, seuraten rautaisen kaavan
+taipumattomia lakeja: tämä liikkumattomuus, joka tekee jokaisen uuden
+kauhuisan päivän vähimpiä yksityiskohtiaan myöten veljensä kaltaiseksi,
+se näyttää siirtyvän niihin ulkonaisiinkin voimiin, joiden olemassaolon
+todellinen olemus on alituista muutosta. Kylvö- ja korjuuajasta,
+niittomiehistä, jotka kumartuvat viljan yli, tai viininkorjaajista,
+jotka astuvat viiniköynnösten keskellä, ruohosta puutarhassa, johon
+valkoiset omenakukat karisevat tai hedelmät putoavat puusta -- kaikesta
+tästä me emme tiedä mitään, emme voi mitään tietää.
+
+Meillä on vain yksi vuodenaika, surun aika. Itse aurinko ja kuu
+näyttävät olevan meiltä riistetyt. Ulkona päivä voi loistaa sinisenä
+ja kultaisena, mutta se valo, joka pujahtaa sisään likaisista
+rautaristikkoikkunoista, joiden takana me istumme, on harmaata ja
+niukkaa. Vankikopissa vallitsee alituinen sama hämärä kuin omassa
+sydämessäkin. Eikä ajatusten maailmassa, yhtä vähän kuin ajankaan, ole
+vähintäkään liikettä enää. Se mitä sinä puolestasi aikoja sitten olet
+unohtanut tai helposti voit unohtaa, se minun mielessäni nyt liikkuu
+ja liikkuu vielä huomennakin. Pidä se mielessäsi, niin voit hiukan
+paremmin ymmärtää miksi minä kirjoitan ja miksi kirjoitan juuri tällä
+tavalla...
+
+Viikkoa myöhemmin minut muutettiin tänne. Vieläkin kolme kuukautta
+kuluu, niin minun äitini kuolee. Ei kukaan voi tietää, kuinka syvästi
+minä häntä rakastin ja kunnioitin. Hänen kuolemansa oli minulle
+hirveä; mutta minä, joka ennen kokonaan hallitsin kieltä, en löydä
+sanoja, millä tulkita tuskaani ja häpeääni; en koskaan edes silloin
+kuin seisoin taiteilijavoimani korkeimmalla kukkulalla, olisi voinut
+kylliksi arvokkaihin sanoihin pukea niin pyhää tuskaa, en loihtia
+esille sulosointua, joka olisi ollut kyllin ylevä tulkitsemaan suruni
+traagillisuutta. Äitini ja isäni olivat antaneet minulle perinnöksi
+nimen, jonka he olivat kohottaneet arvoon ja kunniaan, ei yksin
+kirjallisuuden, taiteen, muinaistieteen ja luonnontieteen alalla,
+vaan oman maani historiassakin, sen kansallisessa kehityksessä.
+Minä olin ikiajoiksi häväissyt tämän nimen. Minä olin saattanut sen
+herjaussanaksi huonojen ihmisten suuhun. Minä olin laahannut sen
+lokaan. Minä olin antanut sen raakuudelle alttiiksi ja heittänyt sen
+hulluille, jotka leimasivat sen hulluudeksi. Mitä minä silloin kärsin
+ja yhä vieläkin kärsin, sitä kynä ei voi kirjoittaa eikä sitä voi
+paperille painaa. Minun vaimoni, joka aina oli ystävällinen ja hyvä
+minulle, matkusti, niin sairas kuin hän olikin, tuon pitkän matkan
+Genovasta Englantiin, jotta hän itse, eivätkä mitkään välinpitämättömät
+huulet, saattaisi minulle sanaa tästä korvaamattomasta, äärettömästä
+tappiosta. Minä sain vastaanottaa myötätuntoisuuden osoituksia
+kaikilta, jotka tunsivat vielä ystävyyttä minua kohtaan. Vieläpä
+henkilöt, jotka eivät olleet tunteneet minua personallisesti,
+kirjoittivat ja pyysivät, kuullessaan siitä uudesta surusta, joka
+oli minua kohdannut, että heidän osanottonsa tulisi minulle jollakin
+tavalla ilmituoduksi...
+
+Kolme kuukautta kuluu taaskin. Kertomus minun jokapäiväisestä
+käytöksestäni ja työstäni, joka riippuu koppini oven ulkopuolella ja
+johon minun nimeni ja tuomioni on kirjoitettu, sanoo minulle että on
+toukokuu...
+
+Rikkaus, nautinto ja menestys voivat olla rosopintaisia ja
+karheasyisiä, mutta suru on herkin kaikesta mikä on luotu. Ei ole
+mitään koko ajatuksen maailmassa, jolle suru ei värähtelisi tuskaisin,
+kiihkein sykähdyksin. Hienoksi taottu kultalehti, joka osoittaa
+sellaisten voimien suuntaa, joita ei voi silmin nähdä, on siihen
+verrattuna karkea. Se on haava, joka vuotaa verta joka kerta kun joku
+muu kuin rakastava käsi sitä koskettelee, ja silloinkin se vuotaa
+verta, vaikkei tuskasta.
+
+Missä suru on, siellä on pyhä paikka. Kerran vielä ihmiset ymmärtävät
+mitä se merkitsee. He eivät tiedä mitään elämästä, kunnes he sen
+tekevät. Robbie ja hänen kaltaisensa luonteet voivat sen käsittää.
+Kun minua kuljetettiin vankilastani konkurssioikeuden eteen kahden
+poliisin välissä, niin Robbie odotti pitkässä käytävässä, jotta hän
+tuon suuren joukon edessä, joka vaikeni nähdessään niin liikuttavan
+ja yksinkertaisen teon, saattaisi nostaa minulle hattuansa, kun minä
+käsiraudoissa ja kumarassa kuljin hänen ohitsensa. Pienemmistäkin
+teoista ihmiset ovat päässeet taivaasen. Sellaisessa mielentilassa
+ja sellainen rakkaus sydämessään pyhimykset polvistuivat pestäkseen
+köyhien jalkoja tai pysähtyivät suudellakseen spitalitautista poskelle.
+En ole koskaan sanonut hänelle sanaakaan sen johdosta. En tiedä
+vielä nytkään, tokko hän tiesi minun edes huomanneen hänen tekoansa.
+Sellaisesta teosta ei voi muodollisesti kiittää, muodollisilla
+sanoilla. Minä säilytän sitä sydämeni aarreaitassa. Minä talletan
+sitä siellä kuin salaista velkaa, ja iloitsen ajatellessani, etten
+koskaan voi sitä maksaa takaisin. Se on balsamoitu monien kyynelten
+myrrhamilla ja narduksella. Silloin kuin viisaus ei ole voinut antaa
+minulle mitään, kun filosofia on ollut hedelmätöntä ja kaikkien niiden
+aforismit ja lauseparret, jotka ovat koettaneet lohduttaa minua,
+ovat vain muuttuneet tomuksi ja tuhaksi minun suussani, niin tämän
+pienen suloisen, äänettömän rakkaudenteon muisto on avannut minulle
+kaikki armeliaisuuden lähteet: saattanut erämaan puhkeamaan kukkaan
+kuin ruusun, vapauttanut minut kolkon maanpakolaisen katkeruudesta
+ja saattanut minut sopusointuun maailman haavoittuneen, murtuneen ja
+suuren sydämen kanssa. Kun ihmiset kykenevät ymmärtämään ei yksin sitä,
+kuinka kaunis tuo Robbien teko oli, vaan myöskin miksikä se merkitsi ja
+aina tulee merkitsemään minulle niin paljon, silloin ehkä he käsittävät
+myöskin, millä tavalla ja millä mielellä heidän pitäisi lähestyä minua.
+
+Esikoisteoksen, jonka nuori mies elämän keväänä lähettää maailmaan,
+tulee olla kuin keväinen kukka, kuin orapihlaja Oxfordin niityllä tai
+kuin kevätesikko Cumnerin kentillä. Sitä teosta ei saa raskauttaa
+kauhea, tärisyttävä murhenäytelmä, eikä kauhistuttavat, tärisyttävät
+herjaukset. Jos olisin antanut nimeni toimia jonkun kirjan airueena,
+niin olisi se ollut suuri taiteellinen erehdys. Se olisi asettanut koko
+teoksen väärään ympäristöön, ja ympäristö painaa paljon nykyaikuisen
+taiteen vaa'assa. Nykyaikuinen elämä on kokoonpantu yhtymyksestä ja
+suhteellisuudesta; nämät ovat sen määräävät tuntomerkit. Voidaksemme
+esittää edellisiä tarvitsemme ympäristön ja sen hienot vivahdukset,
+viittaukset, sen ihmeelliset perspektiivit; jälkimäinen vaatii taustaa.
+Sen vuoksi plastiikka ei ole enää kuvaamataidetta, mutta sitä on
+musiikki, ja kirjallisuus on, on ollut ja tulee olemaan kuvaamataidetta
+par exellence.
+
+Joka neljännesvuosi Robbie lähettää minulle yleiskatsauksen
+kirjallisiin uutuuksiin. Ei mikään voi olla mieltäkiehtovampaa kuin
+hänen kirjeensä, niin henkevästi ja taitavasti ne ovat sommiteltuja ja
+sulavasti ja luontevasti kirjoitettuja. Ne ovat todellisia kirjeitä:
+tuttavallisia keskusteluja kahdenkesken; niillä on kaikki ranskalaisen
+koserian edut; osoittaakseen ihailuaan minulle hienotunteisella
+tavalla hän vetoaa milloin terävänäköisyyteeni, milloin perinnäisen
+kauneuden- ja kultuurinharrastukseeni, ja hän muistuttaa minun mieleeni
+lukemattomin eri tavoin, että minä kerran muitten mielestä olin
+arbiter elegantiaram, auktoriteetti taiteellisissa tyylikysymyksissä,
+niin, vieläpä muutamille korkeinkin auktoriteetti. Sillä tavalla hän
+osoittaa, että hänellä on ei ainoastaan sydämen hienotunteisuutta, vaan
+myöskin kirjallista hienotunteisuutta. Hänen kirjeensä ovat olleet
+minulle yhdyssiteenä ihanaan, epätodelliseen taidemaailmaan, jossa minä
+kerran olin kuningas ja olisin sinä pysynytkin, jollen olisi antanut
+viekoitella itseäni intohimojen törkeään, epätäydelliseen maailmaan,
+jossa aisti ei ole valikoiva eikä nautinnonhimolla ole rajoituksia...
+
+Muut surkuteltavat olennot, jotka ovat heitetyt vankeuteen ja
+joilta on riistetty tämän maailman kauneus, saattavat, ainakin
+jossakin määrin, olla enää pelkäämättä maailman pahimpia ansoja, sen
+katkerimpia nuolia. He voivat piiloutua kammionsa pimeyteen ja luoda
+häpeästänsä jonkinmoisen loukkaamattoman pyhyyden. Maailma on saanut
+tyydytyksensä, maailma jatkaa kulkuaan; he saavat rauhassa kärsiä.
+Niin ei ole minun laitani. Toinen nöyryytys toisensa jälkeen on minua
+väijyen kolkuttanut vankilan ovelle. Ovet ovat avatut selkoselälleen
+nöyryytykselle ja annettu sen astua sisään. Minun ystäväni ovat tuskin
+tai eivät ollenkaan saaneet lupaa käydä minun luonani. Mutta minun
+vihollisillani on aina ja esteettömästi ollut vapaa pääsö. Molemmilla
+kerroilla, jolloin minun oli pakko astua konkurssioikeuden eteen ja
+sitäpaitsi kahdesti muulloin, jolloin minua julkisesti kuljetettiin
+toisesta vankilasta toiseen, annettiin minut sanomattoman halventavissa
+oloissa alttiiksi ihmisjoukon katseille ja pilkalle. Kuolemanlähetti
+on tuonut minulle sanomansa ja taas lähtenyt luotani; aivan yksinäni,
+erillään kaikesta siitä, joka olisi voinut lohtua tuoda tai lieventää
+suruani, on minun täytynyt kantaa sitä kurjuuden ja omantunnonvaivojen
+sietämätöntä tuskaa, jonka äitini muisto herätti henkiin. Tuskin aika
+oli lieventänyt tämän haavan kiihkeimmän poltteen (täysin umpeen
+se ei koskaan voinut mennä) -- niin kirjoitutti vaimoni minulle
+asianajajallaan katkeria, epäystävällisiä, luotansakarkoittavia
+kirjeitä. Köyhyys uhkaa minua, ja samalla se käännetään syytökseksi
+minua itseäni vastaan. Sitä olisin kuitenkin voinut kantaa. Voin
+tottua sellaiseen, mikä on vielä pahempaa. Mutta molemmat lapseni
+ovat riistetyt minulta laillista tietä. Se on tuottanut minulle
+ääretöntä tuskaa, sanomatonta katkeruutta, rajatonta surua, josta en
+koskaan voi päästä eroon. Että laki voi määrätä jotakin sellaista ja
+ottaa vastatakseen sellaisesta teosta, että se voi eroittaa minut
+omista lapsistani: se ajatus herättää minussa kauhua. Sen rinnalla
+vangin häpeä on vähäinen. Kuinka minä kadehdin noita toisia miehiä,
+jotka minun kanssani kulkevat edes-takaisin vankilapihalla! Heidän
+lapsensa -- siitä olen varma -- odottavat heitä, odottavat heidän
+kotiintuloansa, ja tuhlaamalla tuhlaavat heille hellyyttä.
+
+Köyhät ovat viisaita, he ovat armeliaampia, ystävällisempiä,
+tunteellisempia kuin me. Heidän mielestään vankila on murhenäytelmä
+miehen elämässä, onnettomuus, kohtalo, joka vaatii toisten
+myötätuntoisuutta. Vanki on heidän kielellään yksinkertaisesti vain
+ihminen, joka on "joutunut onnettomuuteen". Sitä lausepartta he aina
+käyttävät, ja tuossa lauseparressa on rakkauden täysi totuus. Ihmisten
+laita meidän asemassamme on toinen. Minulla ja minun kaltaisillani on
+tuskin oikeutta ilmaan ja aurinkoon. Meidän läsnäolomme pilaa toisten
+ilon. Me olemme vastenmielisiä vieraita mihin ikänä me menemme. Me
+emme saa palata takaisin maailmaan varjojen valtakunnasta. Meidän
+omat lapsemme riistetään meiltä. Nämät suloiset yhdyssiteet meidän ja
+ihmiskunnan välillä ovat katkaistut. Me olemme tuomitut yksinäisyyteen,
+sillä aikaa kuin meidän poikamme vielä elävät. Meiltä kielletään se
+ainoa mikä voisi parantaa ja kohottaa meitä, se mikä voisi parantaa
+haavoittuneen sydämen ja tuoda rauhaa tuskaakärsivälle sielulle...
+
+Minun täytyy sanoa itselleni, että itse syöksen itseni turmioon ja
+ettei ketään, ei suurta eikä pientä, voi syöstä turmioon muuta kuin
+hänen oman kätensä kautta. Olen aivan valmis sitä tunnustamaan. Minä
+koetan tunnustaa sitä, vaikka sitä ei uskottaisikaan tällä hetkellä.
+Tämän säälimättömän syytöksen minä heitän säälittä itseäni vastaan.
+Vaikka maailma on minua julmasti kohdellut, niin vieläkin julmemmin
+minä olen kohdellut itseäni.
+
+Minä olin mies, joka olin symbolisessa suhteessa oman aikani taiteesen
+ja kultuuriin. Olin sen itse oivaltanut miehuuteni aamukoitteessa ja
+myöhemmin olin pakoittanut omaa aikaani ymmärtämään sitä. Harvalla
+miehellä on ollut sellainen asema eläessänsä ja harva on nähnyt sitä
+sillä tavalla tunnustettavan. Historioitsija tai kritikoitsija sen
+vasta tavallisesti keksii, jos se laisinkaan tulee keksityksi, mutta
+vasta kauan sen jälkeen kuin mies ja hänen aikansa on mennyt. Minun
+laitani on toinen. Minä tunsin sen itse ja pakoitin muutkin sitä
+tuntemaan. Byron oli symbolinen hahmo, mutta hän kohdistui aikansa
+intohimoon ja sen intohimoväsymykseen. Minä liityin johonkin jalompaan,
+kestävämpään, olennaisempaan, laajaperäisempään.
+
+Jumalat olivat antaneet minulle melkein kaikkea. Olin saanut neroa,
+kunniassa pidetyn nimen, hyvän yhteiskunnallisen aseman, kiitosta,
+loistoa ja älyllistä uskaliaisuutta; olen tehnyt taiteen filosofiaksi,
+filosofian taiteeksi; olen opettanut ihmisiä toisin ajattelemaan ja
+antamaan esineille toiset värit; kaikki, mitä minä sanoin ja tein,
+hämmästytti maailmaa. Minä valitsin draaman -- objektiivisimman
+muodon mitä taide tuntee -- ja muutin sen personalliseksi luomaksi,
+sellaiseksi kuin lyriikka ja sonetti on; samalla laajensin sen piirin
+ja tein sen luonteenkuvauksen rikkaammaksi; draaman, romaanin,
+runomuotoisen tai suorasanaisen runon, dialogin, hiotun, aktuaalisen
+tai haaveilevan -- kaiken, mihin minä koskin, sen minä kaunistin,
+verhosin uuteen kauneuden pukuun; itse totuudellekin annoin sekä
+totuuden että valheen oikeutetuksi valtakunnaksi ja osoitin että valhe
+ja totuus ovat vain älyllisiä olomuotoja. Taidetta minä käsittelin
+korkeimpana todellisuutena; elämää yhtenä runouden haarana. Minä
+herätin oman vuosisatani mielikuvituksen, jotta se minun ympärilleni
+punoi taruja ja legendoja. Kaikki filosofiset järjestelmät minä
+yhdistin yhteen lauseesen, koko olemassaolon yhteen epigrammiin. Ja sen
+ohella minulla oli paljon muuta. Mutta minä annoin viekoitella itseni
+pitkäksi aikaa järjettömään ja aistilliseen työttömyyteeni.
+
+Omaksi huvikseni minä heittäydyin tyhjäntoimittajaksi, keikariksi
+ja muotimieheksi. Minä keräsin ympärilleni pienempiä sieluja ja
+ahdasmielisiä olentoja. Minä tuhlasin tyhjiin oman nerollisuuteni ja
+minä nautin hävittäessäni ikuisen nuoruuden. Olin väsynyt kulkemaan
+korkeuksissa ja siksi minä vapaaehtoisesti laskeuduin syvyyksiin etsien
+uutta mielenkiihoitusta. Mitä paradoksi minulle oli ajatuksen piirissä,
+siksi tuli minulle luonnottomuus himon maailmassa. Nautinnonhalu
+oikeastaan oli sairautta tai hulluutta tai kumpaistakin. Muitten
+elämä ei merkinnyt minulle mitään. Minä tyydytin nautinnonhaluani
+missä ikänä mieleni teki ja kuljin eteenpäin. Minä en ajatellut,
+että jokainen pieni teko jokapäiväisessä elämässä joko kehittää tai
+turmelee luonnetta, ja sentähden se minkä on tehnyt salakammiossansa,
+se on kerran julkihuudettava huoneen katolta. En voinut enää hallita
+itseäni. En ollut enää sieluni herra, enkä tiennyt sitä. Minä antauduin
+nautinnon valtaan. Minun loppuni oli hirveä häpeä. Ei mitään muuta
+minulla ole enää jäljellä kuin täydellinen nöyryys.
+
+Olen oleskellut vankilassa lähes kaksi vuotta. Minun sielustani on
+puhjennut esiin hurja epätoivo; antautuminen suruun, jota oli sääli
+nähdäkkin; kauhea ja tunnoton vimma; katkeruus ja uhka; ääneensä itkevä
+tuska; mykkä kärsimys; sanaton suru. Olen kokenut kärsimyksen kaikki
+eri laadut. Paremmin kuin Wordsworth itse tiedän mitä hän tarkoitti
+sanoessansa --
+
+    "Suffering is permanent, obscure, and dark
+    and has the nature of infinity."
+
+    [Kärsimys on kestävää, salaperäistä ja synkkää
+    ja luonteeltaan loppumatonta.]
+
+Mutta vaikka ajoittain iloitsin siitä, että minun kärsimyksilläni ei
+olisi loppua, niin en voinut sittenkään kestää sitä ajatusta, että ne
+olivat tarkoituksettomia. Nyt minä näen syvällä omassa olennossani
+jotakin, joka sanoo, ettei mikään koko maailmassa ole ilman tarkoitusta
+ja kärsimys vähimmin kaikesta. Ja se mikä on piiloitettu minun
+olentooni, aivankuin aarre maan sisään, on nöyryys.
+
+Nöyryys on ainoa mitä minulla on jäljellä ja se oli parasta kaikesta:
+se on se lopullinen havainto, johon minä olen tullut, uuden kehityksen
+lähtöpiste. Se on tullut minulle suoraan minusta itsestäni, ja siksi
+minä tiedän että se on tullut oikeaan aikaan. Se ei olisi voinut tulla
+aikaisemmin eikä myöhemminkään. Jos joku olisi minulle siitä puhunut,
+niin olisin sen luotani torjunut. Jos joku olisi tuonut sen minulle,
+niin olisin kieltäytynyt ottamasta sitä vastaan. Mutta koska minä itse
+sen löysin, niin tahdon sen myös säilyttää. Minun täytyy se tehdä. Se
+on se ainoa, jossa on elämän alkuaineet, uuden elämän siemen, se mikä
+minulle on _Vita Nuova_. Kaikista olevista se on merkillisin. Ihminen
+ei voi sitä saavuttaa muulla tavalla kuin luopumalla kaikesta mitä
+hänellä on. Vasta sitten kun hän on kaikki kadottanut, voi hän tietää
+omistavansa sen.
+
+Nyt kun olen selvillä siitä, että se on minussa, näen selvästi mitä
+minun tulee tehdä; totta tosiaan -- mitä minun täytyy tehdä. Ja kun
+minä käytän tämmöistä lausetta, niin minun ei tarvitse sanoa, etten
+sillä tarkoita mitään ulkonaista lakia tai käskyä. Minä en tunnusta
+niiden olemassaoloa. Olen paljoa enemmän individualisti nyt kuin ennen.
+Ei mikään ole minusta minkään arvoista paitsi se mikä puhkeaa meistä
+itsestämme esiin. Minun luontoni etsii uutta itsetoteuttamismuotoa. Se
+yksin kiinnittää minun mieltäni. Ja ensimäinen asia, jota minun tulee
+tehdä, on vapauttaa itseni siitä katkeruudesta, jota mahdollisesti
+vielä tunnen maailmaa kohtaan.
+
+Olen kerrassaan varaton ja koditon. Mutta on niitä pahempiakin
+asioita maailmassa. Olen aivan tosissani, kun nyt sanon, että paljoa
+mielemmin kuin lähtisin tästä vankilasta katkera tunne sydämessäni
+maailmaa kohtaan, paljoa mielemmin kulkisin talosta taloon ja kerjäisin
+leipääni. Jollen saisi mitään rikkaan talosta, niin saisin ainakin
+köyhältä. Ne, joilla on paljon, ovat usein kitsaita; ne, joilla on
+vähän, ovat aina alttiit jakamaan. Minusta olisi yhdentekevää, vaikka
+kesällä saisinkin maata kylmässä heinikossa ja talvella etsiä suojaa
+heinäsuovasta tai ladosta, kun minulla sydämessä vain olisi rakkautta.
+Elämän ulkonaiset seikat eivät tunnu minusta nyt ensinkään tärkeiltä.
+Tästä voi nähdä, kuinka pitkälle individualismi minussa on kehittynyt
+-- tai pikemmin on kehittymässä, sillä matka on pitkä ja minun tieni on
+orjantappurainen.
+
+Tietysti minä tiedän, ettei minun tehtäväni ole oleva kerjätä almuja
+maantien varrelta, ja jos milloin makaan kylmässä ruohikossa, niin
+teen sen kirjoittaakseni sonetteja kuulle. Kun pääsen vankilasta,
+niin Robbie odottaa minua suuren raudoitetun portin takana, eikä hän
+ole ainoastaan oman rakkautensa symboli, vaan monen muunkin. Luulen
+että minulla tulee olemaan riittävästi varoja ainakin puoleksitoista
+vuodeksi, ja jollen voikkaan itse kirjoittaa kauniita kirjoja, niin
+ainakin voin lukea kauniita kirjoja; ja mikä ilo voisi olla suurempi?
+Sen jälkeen toivon voivani elvyttää uudestaan oman luomisvoimani.
+
+Mutta jos olot olisivat toisenlaisia: jollei minulla olisikaan
+ainoatakaan ystävää maailmassa; jollei ainoakaan talo olisi säälien
+minulle avoinna; jos minun täytyisi turvautua köyhyyden kerjuupussiin
+ja kuluneesen takkiin: niin kauan kuin minua ei vainota kostonhimolla,
+kovuudella ja halveksumisella, olisin valmis katsomaan elämää suoraan
+silmiin paljoa suuremmalla tyyneydellä ja luottamuksella, kuin jos
+ruumiini olisi purppuralla ja hienolla liinalla verhottu, mutta sieluni
+sairaana vihasta.
+
+Ei minua mitkään vaikeudet kohtaa, siitä olen varma. Se, joka
+vilpittömästi hakee rakkautta, hän sen myös löytää.
+
+Minun ei tarvitse sanoa, että tehtäväni siihen loppuisi. Sehän olisi
+suhteellisesti hyvin helppoa, jos niin olisi laita. Paljon enemmän
+vaikeuksia minulla on edessä. Paljon jyrkempiä vuoria minun täytyy
+kavuta, paljon pimeämpien laaksojen läpi samota. Ja kaikki täytyy tulla
+minusta itsestäni; siinä ei auta uskonto, eikä moraali, eikä järki.
+
+Moraali ei auta minua. Olen synnynnäinen lainomaisuuden vastustaja.
+Minä olen yksi niitä, jotka ovat luodut poikkeuksia eikä sääntöjä
+varten. Minun käsitykseni on se, ettei väärä ole siinä mitä ihminen
+tekee, vaan ainoastaan siinä miksi hän tulee. Se oppi on ihmiselle
+hyödyksi.
+
+Uskonto ei auta minua. Toiset uskovat johonkin näkymättömään, minä
+uskon siihen mihin voin käsin koskea ja jota voin silmin nähdä. Minun
+jumalani asuvat käsin tehdyissä temppeleissä; ja tosiasiain kokemuksen
+alalla minun uskontunnustukseni on tullut täydelliseksi ja eheäksi:
+ehkä liiankin täydelliseksi, sillä samoinkuin monet tai kaikki ne,
+jotka ovat pystyttäneet taivaansa tämän maan päälle, olen minä
+maailmassa löytänyt taivaallista kauneutta, mutta myös helvetin kauhua.
+Kun minä ajattelen uskontoa, niin tahtoisin perustaa veljeskunnan
+niitä varten, jotka eivät voi uskoa: epäilijöiden veljeskunnaksi
+sitä voisi nimittää, ja siellä, alttarin ääressä, jossa ei palaisi
+vahakynttilöitä, seisoisi pappi, jonka sydämessä ei rauhalla olisi
+asuinsijaa, toimittaen jumalanpalvelusta siunaamattomalla leivällä
+ja kalkilla, josta viini puuttuisi. Jotta jokin voisi olla totta,
+täytyy sen muuttua uskonnoksi. Ja agnostikkojen opilla pitäisi olla
+kirkonmenonsa yhtä hyvin kuin kirkon uskollakin. Se on kylvänyt
+marttyyrinsa, sen pitäisi niittää pyhimyksensä ja kiittää Jumalaa joka
+päivä siitä, että hän on salannut itsensä ihmisten katseilta. Mutta
+olipa uskoa tai agnostisismia, mitään ulkonaista se ei saa minulle
+olla. Sen vertauskuvien pitää olla minun omat luomani. Vain se on
+henkistä, mikä luopi oman muotonsa. Jollen voi löytää sen salaisuutta
+omasta sielustani, niin en löydä sitä koskaan: jollen omista sitä nyt
+jo, niin se ei koskaan tule omakseni.
+
+Järki ei auta minua. Se sanoo minulle, että ne lait, joiden uhriksi
+minä olen joutunut, ovat vääriä ja kieroja lakeja ja että se
+järjestelmä, jonka alaisena olen saanut kärsiä, on väärä ja kiero
+järjestelmä. Mutta, miten tahansa, minun täytyy käsittää ne siten,
+että ne minulle muuttuvat tosiksi ja oikeiksi. Ja aivan samoin
+kuin taiteessakin määrätty asia vain määrätyllä hetkellä merkitsee
+jotakin ihmiselle, samoin on laita luonteenkin eetillisen kehityksen.
+Minun tehtäväni on etsiä esille kaikesta siitä, mikä minulle on
+tapahtunut, se mikä minulle on hyväksi. Lautavuode, kuvottava ruoka,
+karheat köydet, joista täytyy riipiä rivettä, kunnes sormenpäät
+ovat tunnottomat kivusta, rengintoimet, joilla joka päivä alkaa ja
+loppuu, tylyt käskyt, jotka tottumus on tehnyt välttämättömiksi,
+inhottava puku, joka tekee surun luonnottoman näköiseksi, hiljaisuus,
+yksinäisyys, häpeä -- kaiken tuon tulee kehittyä henkiseksi
+kokemukseksi. Ei ole olemassa minkäänlaista ruumiin alennusta, jota
+minun ei olisi koetettava tehdä hengen kohottamiseksi.
+
+Minä tahtoisin päästä niin pitkälle, että voisin yksinkertaisesti ja
+teeskentelemättä sanoa, että minun elämässäni on ollut kaksi suurta
+käännekohtaa: toinen, kun isäni lähetti minut Oxfordiin, ja toinen, kun
+yhteiskunta lähetti minut vankilaan. En tahdo väittää, että vankeus
+olisi ollut parasta, mitä minulle saattoi tapahtua; sillä tällä
+väitteellä olisi liiaksi katkeruuden sivumakua minua itseäni vastaan.
+Pikemmin sanoisin, tai haluaisin, että joku sanoisi minulle, että olin
+niin tyypillinen oman aikani lapsi, että minä luonnottomuudessani ja
+tämän luonnottomuuden vuoksi käänsin kaiken hyvän elämässäni pahaksi ja
+kaiken pahan hyväksi.
+
+Mutta mitä minä itse tai toiset sanovat, se merkitsee niin sanomattoman
+vähän. Se tärkeä asia, se, mikä minulla on edessä, joka minun tulee
+tehdä, jollei se lyhyt aika, mikä minun elämästäni on vielä jäljellä,
+kokonaan turmellu ja mene hukkaan, on se, että sulatan itseeni
+kaiken sen, mikä minulle on tehty, teen sen osaksi omasta itsestäni,
+omistan sen valittamatta, pelotta ja vastustamatta. Suurin pahe on
+puolinaisuus. Kaikki mikä on toteutunut, on myös oikeaa.
+
+Kun minä ensin jouduin vankilaan, niin jotkut henkilöt antoivat minulle
+sen neuvon, että koettaisin unohtaa, kuka oikeastaan olin. Se oli
+turmeleva neuvo. Vain tajuamalla, kuka minä olen, olen jossakin määrin
+saanut lohtua. Nyt muut ovat neuvoneet minulle, että päästyäni vapaaksi
+koettaisin unohtaa koskaan vankilassa olleenikaan. Tiedän että se olisi
+yhtä turmiollista. Sillä sehän olisi samaa, kuin jos minua alituisesti
+seuraisi sietämätön häpeän tunne, ja että kaikki se, mikä merkitsee
+minulle yhtä paljon kuin kelle muulle ihmiselle hyvänsä -- auringon ja
+kuun kauneus, eri vuodenaikojen viehkeys, sulosävel aamun sarastaessa
+ja valtavien öitten hiljaisuus, sade, joka hiljaa tihkuu lehtien
+lomitse tai kaste, joka hopeoittaa ruohokentän hiipiessään sen ylitse
+-- että tuo kaikki on tahraista minulle ja vailla sitä voimaa, joka
+haavat parantaa ja riemua synnyttää. Se joka suree omia kokemuksiansa,
+hän estää omaa kehitystänsä. Se joka kieltää kokemuksensa, hän
+pakoittaa oman elämänsä huulet valheesen. Tämä ei ole vähempää, kuin
+oman sielunsa kieltämistä.
+
+Sillä samalla tavalla kuin ruumis ottaa vastaan kaikenlaisia aineita,
+alhaisia ja epäpuhtaita yhtä hyvin kuin papin tai ilmestyksen
+pyhittämiä, ja muuntaa ne joustavuudeksi tai voimaksi, kauniiksi
+lihasliikkeiksi ja ruumiin sulavuudeksi, hiusten, huulien ja silmien
+kaarrokseksi ja väriksi, samoin sielullakin on ravintotoimintansa,
+ja se voi muuttaa jaloiksi taipumuksiksi ja syviksi tunteiksi sen,
+mikä itsessään on alhaista, tuskallista ja alentavaa -- niin vielä
+enemmänkin, juuri se, millä alkuaan oli häpeällinen ja hävittävä
+tarkoitus, voi sielulle tarjota korkeimman kehitysmahdollisuuden ja
+täydellisimmän ilmaisumuodon.
+
+Minun täytyy tottua siihen ajatukseen, että olen ollut tavallinen
+vanki tavallisessa vankilassa, ja niin kummalta kuin se kuuluukin,
+niin yksi niistä asioista, joihin minun täytyy pakoittaa itseäni, on
+se, etten häpeäisi sitä. Minun täytyy käsittää se rangaistukseksi, ja
+jos ihminen häpeää rangaistustansa, niin on aivan samaa, kuin hän ei
+olisi kärsinytkään rangaistusta. Tietysti oli monta asiaa, joista minua
+rangaistiin, vaikka en ollut niitä tehnyt, mutta minua rangaistiin myös
+monesta sellaisesta asiasta, joita olin tehnyt, ja on vielä paljoa
+suurempi joukko asioita minun elämässäni, joista minua ei koskaan
+ole vaadittu edesvastuusen. Ja koska jumalien tiet ovat ihmeelliset
+ja he rankaisevat meitä yhtä paljon siitä, mikä meissä on hyvää ja
+inhimillistä kuin siitä, mikä on pahaa ja luonnonvastaista, niin minun
+täytyy tyytyä siihen, että saa kärsiä rangaistusta sekä hyvistä että
+huonoista teoistansa. Enkä minä epäile, ettei se ole oikeudenmukaista.
+Se auttaa meitä, tai sen pitäisi auttaa meitä, selvittämään itsellemme
+kumpiakin, sekä estää meitä muodostamasta niistä liioiteltuja
+käsityksiä. Ja jollen minä siis häpeä rangaistustani -- ja minä
+toivoisin, etten sitä tee niin voin vapaasti ajatella ja liikkua ja
+elää.
+
+Monet ihmiset, kun he pääsevät vankeudesta vapaaksi, kuljettavat
+vankilan mukanansa ja piiloittavat sen kuin salaisen häpeän sydämeensä,
+ja vihdoin he hiipivät kuin myrkytetyt olennot johonkin koloon
+kuolemaan. Miten inhottavaa, että heidän on pakko niin tehdä, ja
+yhteiskunta tekee väärin, kauhistuttavan väärin, pakoittaessaan
+heitä sellaiseen. Yhteiskunta anastaa itselleen oikeuden määrätä
+yksilölle hirveän rangaistuksen, mutta se tekee itsensä syypääksi myös
+puolinaisuuden törkeimpään paheesen, sillä se ei kykene saattamaan
+perille sitä, mitä se on alulle pannut. Kun ihminen on kärsinyt
+rangaistuksensa, niin yhteiskunta jättää hänet oman onnensa nojaan;
+se on: se hylkää hänet juuri sinä hetkenä, jolloin sen suurin
+velvollisuus häntä kohtaan alkaa. Se häpeää ilmeisesti omia tekojansa
+ja karttaa niitä, joita se on rangaissut, samoinkuin ihmiset karttavat
+saamamiestä, jolle he eivät voi maksaa velkaa, tai sitä, jolle he ovat
+tuottaneet jonkun korvaamattoman vahingon. Minä puolestani vaadin, että
+jos minä kerran olen selvillä siitä, minkä vuoksi minä olen kärsinyt,
+niin yhteiskunnankin pitää olla selvillä siitä, mitä se minulle on
+tehnyt; ja että katkeruus ja viha on katoava kummaltakin puolelta.
+
+Tietysti minä tiedän, että yhdessä suhteessa minulla tulee
+olemaan suurempia vaikeuksia kuin muilla; ja täytyykin olla aivan
+luonnollisista syistä. Varas ja kulkuri raukat, jotka minun kanssani
+ovat täällä vankilassa, ovat monessa suhteessa paljoa onnellisemmat
+kuin minä. Se synkän kaupungin sola tai vihreä kenttä, joka näki heidän
+syntinsä, on pieni; löytääkseen ihmisiä, jotka eivät tiedä mitään
+heidän teoistansa, heidän ei tarvitse kulkea pitempää matkaa, kuin
+minkä lintu jaksaa lentää hämärän ja aamusarastuksen välillä; mutta
+minulle maailma on puristunut kokoon kämmenen levyiseksi, ja minne
+ikänä minä käännyn, siellä minun nimeni on kaiverrettu kallioihin.
+Sillä minä en ole astunut esiin pimeydestä ja saavuttanut tilapäisen
+rikoksentekijän kuuluisuutta, vaan olen jonkinlaisesta kuolemattomasta
+kunniasta vajonnut jonkinmoiseen ikuiseen häpeään, ja joskus minusta
+tuntuu, kuin olisin todistanut, jos todistus todellakin oli tarpeen,
+että kunniasta häpeään ei ole muuta kuin yksi ainoa askel, jos edes
+senkään vertaa.
+
+Sittenkin, juuri siitä seikasta, että ihmiset tuntisivat minut
+minne ikänä minä menen, ja tietäisivät minun koko elämäni, kaikki
+sen hulluudetkin, voin löytää jotakin hyvää. Se pakoittaisi minua
+esiintymään taas taiteilijana, ja niin pian kuin vain voisin. Jos
+voisin luoda yhdenkin etevän taideteoksen, niin samalla olisin
+riistänyt myrkyn panettelulta ja pistopuheet pelkuriudelta ja juurineen
+temmannut irti häpäisijän kielen.
+
+Ja jos elämä onkin, niinkuin todellakin on, minulle probleemi, niin
+en minäkään ole sen vähempi probleemi elämälle. Ihmisten täytyy
+asettua jollekin kannalle minun suhteeni ja ilmaista mielipiteensä
+sekä heistä itsestään että minusta. Minun ei tarvitse vakuuttaa, etten
+puhu kenestäkään erityisestä henkilöstä. Ainoat ihmiset, joiden kanssa
+mielelläni nyt seurustelisin, ovat taiteilijat ja ihmiset, jotka ovat
+kärsineet: ne, jotka tietävät mitä kauneus on, ja ne, jotka tietävät
+mitä suru on: ei kukaan muu herätä minun mielenkiintoani. En minä
+vaadi myöskään mitään elämältä. Kaikki mitä tässä olen lausunut julki,
+tarkoittaa aivan yksinkertaisesti vain minun omaa henkistä asemaani
+elämän suhteen kokonaisuudessaan; ja minä tunnen, että se seikka, etten
+häpeä rangaistustani, on ensimäisiä asioita, johon minun täytyy päästä
+oman kehitykseni ja epätäydellisyyteni vuoksi.
+
+Sitten minun pitää oppia miten tulla onnelliseksi. Kerran minä osasin
+olla tai luulin osaavani olla onnellinen, vaistomaisesti. Ennen
+oli aina kevät minun sydämessäni. Minun temperamenttini oli sukua
+elämänilon kanssa. Minä täytin elämäni reunojaan myöten nautinnolla,
+samoin kuin pikarin voi täyttää reunojaan myöten viinillä. Nyt minä
+lähestyn elämää aivan uudelta kannalta, ja usein minun on kovin
+vaikea kuvaillakkaan onnea mielessäni. Muistan miten ensi lukukautena
+Oxfordissa luin Paterin teosta _Renaissance_ -- tuota kirjaa, joka
+niin omituisesti on vaikuttanut minun elämääni -- ja jossa kerrotaan
+miten Dante asettaa syvälle Infernoon ne, jotka ehdoin-tahdoin elävät
+murheessa; ja minä menin yliopiston kirjastoon ja etsin esille sen
+paikan _Divina Comedia_sta, jossa sanotaan, että ne, jotka ovat
+suloisen ilman raskauttamia, ikuisesti huokaavat --
+
+                            "Tristi fummo
+    Neli aer dolce che dal sol s'allegra:"
+
+    [Surulliset olimme ihanasta ilmasta,
+    joka auringosta keventyy.]
+
+Minä tiesin, että kirkko tuomitsi _accidia_n, elämäänkyllästymisen,
+mutta koko tuo ajatus tuntui minusta kovin haaveelliselta, se oli juuri
+sellainen synti minun mielestäni, jonka elämääkokematon pappi keksisi.
+En voinut myöskään ymmärtää miten Dante, joka sanoo että "suru yhdistää
+meidät jälleen Jumalaan", saattoi olla niin armoton niille, jotka
+olivat taipuvaiset alakuloisuuteen, jos sellaisia ihmisiä todellakin
+on olemassa. Minä en aavistanut, että se kerran tulisi suurimmaksi
+kiusaukseksi minun elämässäni.
+
+Niin kauan kuin olin Wandsworthin vankilassa minä toivoin kuolemaa. Se
+oli minun ainoa toivoni. Kaksi kuukautta oltuani sairasosastolla minut
+muutettiin tänne, ja kun huomasin terveyteni vähitellen parantuvan,
+niin jouduin vihan vimmaan. Minä päätin tehdä itsemurhan vielä samana
+päivänä, jona pääsisin täältä vapaaksi. Jonkun ajan kuluttua tuo
+synkkä mielentila haihtui, ja minä päätin elää ja verhota itseni
+suruun niinkuin kuningas purppuraan: en hymyilisi enää koskaan;
+jokaisen talon, jonka kynnyksen yli astuisin, muuttaisin murheen
+majaksi: ystäväni pakoittaisin astumaan hitain askelin ja murheen
+murtamina rinnallani: opettaisin heille, että alakuloisuus on elämän
+syvin salaisuus: myrkyttäisin heidät toisen surulla: kiusaisin heitä
+omalla tuskallani. Nyt minä tunnen aivan toisin. Olisin kiittämätön ja
+epäystävällinen, jos venyttäisin kasvoni niin pitkiksi, että ystäväni
+olisivat pakoitetut minun luonani venyttämään kasvonsa vieläkin
+pitemmiksi voidakseen osoittaa minulle myötätuntoisuutta, tai jos
+kutsuessani heidät luokseni, pyytäisin heitä ääneti istumaan pöytään
+ja nauttimaan katkeria yrttejä ja hautajaisruokia. Minun täytyy oppia
+olemaan iloinen ja onnellinen.
+
+Kummallakin viime kerralla, jolloin ystäväni saivat tulla tänne,
+minä koetin olla niin iloinen kuin suinkin ja näyttää heille hyvää
+tuultani hyvittääkseni hiukan heidän vaivaansa, kun he olivat tulleet
+tuon pitkän matkan aina Lontoosta tänne saakka. Se on vain pieni
+hyvitys, sen tiedän, mutta ei mikään, siitä olen varma, olisi heille
+rakkaampaa. Minä näin Robbien tunnin aikaa lauantaista viikko sitten,
+ja minä koetin niin selvästi kuin suinkin osoittaa hänelle iloani,
+jota todellakin tunsin tavatessamme toisemme. Ja että ne mielipiteet
+ja käsityskannat, jotka täällä hiljaisuudessa ovat minulle selvinneet,
+johtavat minua oikealle tolalle, sen todistaa minulle se tosiasia, että
+nyt ensi kertaa vankeuteen jouduttuani todellakin ikävöin elämää.
+
+Minulla on edessäni niin paljon tehtävää, että minusta tuntuisi
+hirveältä murhenäytelmältä, jos minun pitäisi kuolla ennenkuin
+olisin ehtinyt suorittaa edes osan siitä. Minä näen uusia
+kehitysmahdollisuuksia taiteessa ja elämässä, ja kukin niistä muodostaa
+tien täydellisyyttä kohti. Minä haluan elää, jotta voisin tutkia sitä,
+mikä vielä on melkein uusi maailma minulle. Tahdotko tietää, mikä tuo
+uusi maailma on? Sitä ei liene vaikea arvata. Se on se maailma, jossa
+olen nyt kaksi vuotta elänyt. Suru ja kaikki se, mitä se ihmiselle
+opettaa, on minun uusi maailmani.
+
+Ennen minä elin vain nautintoa varten. Minä kartoin kärsimystä ja
+kaikkea surua. Minä vihasin kumpaakin. Minä päätin ottaa niitä huomioon
+niin vähän kuin suinkin, se on, kohdella niitä epätäydellisyyden
+muotoina. Ne eivät sisältyneet minun elämänsuunnitelmaani. Ne eivät
+soveltuneet minun filosofiaani. Äitini, joka tunsi elämän perinpohjin,
+lausui minulle usein erään Goethen säkeen -- Carlyle oli kirjoittanut
+sen erääsen kirjaan, jonka hän oli antanut äidilleni useita vuosia
+sitten: --
+
+    "Wer nie sein Brot mit Thränen ass,
+    wer nie die kummervollen Nächte
+    auf seinem Bette weinend sass,
+    er kennt euch nicht, ihr himmlischen Mächte!"
+
+    [Ken ei kyynelin ole leipäänsä syönyt,
+    ken ei ole tuskallisia öitä
+    itkien vuoteellaan viettänyt,
+    hän teitä ei tunne, te jumalalliset voimat.]
+
+Tätä samaa säettä jalo Preussin kuningatar, jota Napoleon kohteli
+niin törkeästi, lausui usein nöyryytyksensä ja maanpakolaisuutensa
+aikana; tämä sama säe oli usein minun äitini huulilla hänen viimeisinä,
+surunpainostamina vuosinaan. Minä en tahtonut tunnustaa enkä myöntää
+oikeaksi sitä hirvittävää totuutta, joka siinä piili. Minä en voinut
+sitä ymmärtää. Muistan varsin selvästi, miten minulla oli tapana sanoa
+äidilleni, etten halunnut kyynelin leipääni syödä enkä viettää yötäni
+itkien ja odottaa vielä katkerampaa aamua.
+
+Minulla ei ollut aavistustakaan siitä, että se juuri oli yksi niistä
+erikoisista kokemuksista, joita kohtalo oli minulle varannut: etten
+kokonaiseen vuoteen saisi muuta tehdäkkään. Niin runsaasti minulle
+sitä on mitattu; ja näinä viime kuukausina olen suurien ponnistusten
+ja taistelujen kautta voinut ymmärtää muutamia opetuksia, jotka ovat
+kätketyt kärsimyksen sydämeen. Papit ja muut ihmiset, jotka käyttävät
+tyhjiä lauseparsia, puhuvat usein kärsimyksestä ikäänkuin jostakin
+mysteriosta. Todellisuudessa se on ilmestys. Ihminen ymmärtää asioita,
+joita hän ei koskaan ennen ole voinut käsittää. Koko historiakin
+näyttäytyy aivan uudelta näkökannalta. Mitä hämärästi ja vaistomaisesti
+on taiteesta tuntenut, se toteutuu ajatuksen ja tunteen puolesta saaden
+havainnon kirkkauden ja tajunnan ehdottaman voimakkuuden.
+
+Minä käsitän nyt, että suru, joka on ylevin tunne, mitä ihminen
+kykenee tuntemaan, on samalla myös kaiken suuren taiteen alkumuoto ja
+koetinkivi. Taiteilija pyrkii alati siihen olomuotoon, jossa sielu ja
+ruumis ovat yhtä ja toisistaan eroittamattomia: missä ulkokuori on
+sisällisen olemuksen ilmaus: missä muoto on ilmituojana. Sellaisia
+olomuotoja on monta: nuoruus ja ne taiteet, jotka ovat tekemisessä
+nuoruuden kanssa, voivat jonkun kerran olla meille esimerkkinä:
+toisella kertaa voi olla mieluista ajatella, että nykyaikuinen
+maisemamaalaus, sen vaikutteiden hienous ja herkkyys, se tapa millä se
+ilmaisee henkeä, joka asuu ulkonaisissa esineissä ja luo yhtä hyvin
+maasta ja ilmasta kuin sumusta ja kaupungista itselleen ulkonaisen
+verhon, ja sen sairaaloisen herkkä tunnelmien, sävelien ja värien
+sointuisuus -- että tämä maisemamaalaus toteuttaa meille kuvin sen,
+mikä kreikkalaisilla oli toteutettuna sellaisella plastillisella
+täydellisyydellä. Musiikki, missä ilmaisumuoto on itseensä imenyt
+kaiken aineen eikä voi siitä irtaantua, on mutkikas esimerkki, ja kukka
+tai lapsi on yksinkertainen esimerkki siitä, mitä minä tarkoitan; mutta
+suru on sekä elämän että taiteen äärimmäisin tyyppi.
+
+Ilon ja naurun takana voi piillä raaka, kova ja tunteeton
+temperamentti. Mutta surun takana ei koskaan ole muuta kuin surua.
+Kärsimys ei koskaan kanna naamaria niinkuin ilo. Totuus taiteessa
+ei merkitse yhdenmukaisuutta olennaisen aatteen ja satunnaisen
+ilmaisumuodon välillä; se ei tarkoita yhdenmukaisuutta esineen ja
+sen varjon välillä, eikä jonkun henkilön peilikuvan ja itse henkilön
+välillä; se ei ole mikään kaiku, joka vastaa ontosta kalliosta, eikä
+myöskään hopeankirkas lähde laaksossa, joka kuvastaa kuuta kuulle
+tai Narkissoksen Narkissokselle. Totuus taiteessa on olion yhtyys
+oman itsensä kanssa: ulkokuori, joka ilmaisee sisällistä olemusta:
+sielu, joka on pukeutunut ruumiin muotoon: ruumis, jonka henki
+elostuttaa. Tämän johdosta ei ole totuutta, jota voisi suruun verrata.
+Aika-ajoittain on suru minun mielestäni ainoa totuus. Kaikki muu voi
+olla meidän silmiemme tai himojemme hairahduksia, jotka häikäisevät
+edelliset ja tyydyttävät jälkimäiset, mutta surusta ovat maailmat
+luodut ja tuskalla sekä lapset että tähdet synnytetyt.
+
+Ja vieläkin enemmän, surussa itsessään on voimakas todellisuuden
+leima. Olen sanonut itsestäni, että minä olin semmoinen, joka olin
+symbolisessa suhteessa oman aikakauteni taiteesen ja kultuuriin. Ei
+ole ainoatakaan kurjaa olentoa tässä kurjuuden pesässä, joka ei olisi
+symbolisessa suhteessa itse elämän salaisuuteen. Sillä elämän salaisuus
+on kärsimys! Kaiken takana se on kätkettynä. Kun me alamme elää,
+niin makea on niin makeata meille ja karvas niin karvasta, että me
+pakostakin kohdistamme kaikki halumme nautintoihin, emmekä pyydä vain
+kuukauden tai kaksi saada elää hunajasta, vaan haluamme koko elämämme
+elää vain sillä ravinnolla, ja unohdamme sillä välin, että sielumme
+ehkä koko ajan näkeekin nälkää.
+
+Muistan kerran puhuneeni tästä asiasta eräälle kaikkein jaloimmista
+henkilöistä, mitä koskaan olen tuntenut: eräälle naiselle, joka osoitti
+minulle aivan harvinaista ja sanoin selittämätöntä myötätuntoisuutta
+ja hienotunteista ystävyyttä sekä ennen vankeuteni murhetapahtumia
+että niiden kestäessä; naiselle, joka on auttanut minua kantamaan
+kärsimysteni kuormaa enemmän kuin kukaan muu koko maailmassa, vaikka
+hänellä itsellään ei ole siitä aavistustakaan. Sillä hän on auttanut
+minua vain olemassaolonsa kautta, sillä, että hän on se, mikä hän
+on -- osaksi ihanne ja osaksi vaikuttava voima: samalla kertaa sekä
+osoitus siitä, miksi ihminen voi tulla, että todellinen apu ihmisen
+pyrkimykselle siksi tulemaan; hän on henki, joka muuttaa arki-ilman
+suloiseksi, ja saattaa kaiken sen, mikä on henkistä, näyttämään yhtä
+yksinkertaiselta ja luonnolliselta kuin auringonpaiste tai meri; jolle
+kauneus ja suru käyvät käsi kädessä ja jolle ne ovat saman sanoman
+tuojia. Siinä tilaisuudessa, jota nyt ajattelen, muistan selvästi
+sanoneeni hänelle, että Lontoossa oli yhden ainoankin kapean kadun
+varrella kylliksi kurjuutta todistamaan, ettei Jumala rakastakkaan
+ihmistä, ja kaikkialla missä oli surua, vaikkapa vain lapsi jossakin
+pienessä puutarhassa itkisi pahaa, jonka se on tehnyt tai jota se ei
+ole tehnyt, olivat luomisen kasvot kokonaan vääristyneet. Olin aivan
+väärässä. Hän sanoi sen minulle, mutta minä en uskonut häntä. Minä en
+elänyt siinä ilmakehässä, jossa tuollainen usko saattoi herätä. Nyt
+minusta tuntuu, että rakkaus, olkoon se mitä lajia tahansa, on ainoa
+selitys kaikkeen siihen loppumattomaan kärsimykseen, mitä maailmassa
+on olemassa. Minä en voi ymmärtää muunlaista selitystä. Olen varma
+siitä, ettei muuta olekkaan, ja jos maailma todellakin on, niinkuin
+olen sanonut, syntynyt surusta, niin rakkaus on sen synnyttänyt,
+sillä muulla tavalla ei ihmisen sielu, jolle se on rakennettu, voisi
+saavuttaa täydellisyytensä voimaa. Nautintoa kauniille ruumiille, mutta
+kärsimystä kauniille sielulle.
+
+Kun sanon olevani varmasti vakuutettu näistä asioista, niin puhun
+liian suurella ylpeydellä. Kaukana etäisyydessä, ikäänkuin puhtaan
+helmen, me voimme nähdä Jumalan kaupungin. Se on niin ihmeellinen,
+että luulisi lapsen ehtivän sinne kesäisenä päivänä. Ja niinpä lapsi
+voikin. Mutta minun ja minun kaltaisteni laita on aivan toinen. Jokin
+asia voi tuntua aivan selvältä lyhyen hetken, mutta se voi jälleen
+kadota niinä pitkinä puhteina, jotka seuraavat jäljissä lyijynraskain
+jaloin. On niin vaikeata pidättää luonaan ne korkeudet, joihin sielu on
+kyennyt kohoamaan. Meidän ajatuksemme liikkuvat iankaikkisuudessa,mutta
+me itse kuljemme hitaasti ajallisuuden läpi; ja kuinka hitaasti aika
+kuluu meiltä, jotka olemme vankilassa, on minun turha uudistaa, eikä
+minun liioin tarvitse puhua siitä väsymyksestä ja epätoivosta, joka
+hiipii vankilakoppiin ja sydämen kammioon niin itsepintaisesti, että on
+pakko koristaa ja puhdistaa taloansa niiden tuloa varten yhtä tarkasti
+kuin odottaessaan vastenmielistä vierasta tai ankaraa isäntää tai
+orjaa, jonka orjaksi on kohtalon pakosta tai vapaan valintansa johdosta
+joutunut.
+
+Ja vaikka tätä nykyä minun ystävieni ehkä on vaikea sitä uskoa,
+niin on sittenkin aivan varmaa, että heidän, jotka elävät rauhassa
+ja työttömyydessä ja mukavuudessa, on helpompi oppia nöyryyttä kuin
+minun, joka ensi työkseni aamulla polvillani pesen vankilakoppini
+lattian. Sillä elämä vankeudessa ja sen loppumattomat kieltäytymiset
+ja rajoitukset tekevät ihmisen kapinalliseksi. Kauheinta siinä ei ole
+se, että sydän murtuu -- sydämet ovatkin luodut murtumista varten
+-- vaan, se, että se kivetyttää sydämen. Tuntuu joskus siltä, kuin
+rautainen otsa ja uhmailevat huulet olisivat välttämättömiä, jotta
+saisi päivänsä loppuun kulumaan. Ja se, jonka mieli on kapinallinen, ei
+voi ottaa vastaan armoa, puhuakseni niillä sanoin, joita kirkko niin
+mielellään käyttää -- minun mielestäni täydellä syylläkin -- sillä
+elämässä, samoinkuin taiteessakin, kapinanhenki sulkee sielun kanavat
+ja karkoittaa taivaan tuulahdukset. Kuitenkin minun täytyy oppia sitä
+täällä, jos ollenkaan tahdon sitä oppia, ja minun tulee tuntea iloa,
+jos jalkani ovat oikealla tiellä ja kasvoni kääntyneenä sitä "porttia
+kohti, jota kauniiksi kutsutaan", joskohta useasti lankeaisinkin lokaan
+ja kulkisin sumussa harhaan.
+
+Tämä Uusi Elämä, joksi sitä joskus rakkaudesta Danteen nimitän, ei
+tietenkään ole mikään uusi elämä, vaan ainoastaan edellisen elämiseni
+jatkamista kehityksen tietä ja sen kohoamista täydellisempään
+asteesen. Muistan Oxfordissa sanoneeni eräälle ystävälleni, kun me
+kuljeskelimme Magdalen Collegen kapeilla kujilla, joissa parveili
+joukoittain lintuja, että halusin syödä kaikkien puiden hedelmiä,
+jotka kasvoivat maailman puutarhassa ja että aioin lähteä ulos
+maailmaan tuo kiihkeä halu sydämessä. Ja niin minä läksinkin ja niin;
+minä elin. Ainoa erehdykseni oli se, että nautin yksinomaan vain
+niiden puiden hedelmistä, jotka minun mielestäni kasvoivat puutarhan
+päivänpuolella, ja kartoin toista puolta siksi, että se oli pimentoinen
+ja synkkä. Vastoinkäymistä, häpeää, köyhyyttä, surua, epätoivoa,
+kärsimystä, vieläpä kyyneleitäkin, katkonaisia sanoja, joita tuska
+huulilta puristaa esiin, katumusta, joka kylvää okaita elämän tielle,
+omaatuntoa, joka tuomitsee, itsensä-alennusta, joka rankaisee, tuskaa,
+joka sirottaa tuhkaa pään päälle, sielunvaivaa, joka pukee ihmisen
+säkkiin ja sekoittaa sappea omaan juomaansa: -- kaikkea tuota minä
+pelkäsin. Ja koska olin päättänyt, etten oppisi niitä tuntemaan, niin
+minun oli pakko maistaa niitä kutakin vuorostansa, ja pitkän ajan
+kuluessa olla vailla mitään muuta ravintoa.
+
+En kadu hetkeäkään, että olen elänyt nautintoa varten. Tein sen
+perinpohjaisesti, niinkuin ihmisen tulisi kaikkea tehdä. Ei ollut
+sitä nautintoa, jota en olisi koettanut. Minä heitin sieluni helmen
+viinipikariin. Minä astuin huilujen soittaessa tietä, jossa kevään
+esikot kukkivat. Minä elin hunajasta. Mutta tuollaisen elämän
+jatkaminen olisi ollut väärää, sillä se oli yksipuolista. Minun täytyi
+astua eteenpäin. Puutarhan toisellakin puolella oli salattuja aarteita
+minulle. Tietysti kaikki tämä esiintyy viittauksina ja ennustuksina
+minun kirjoissani. Osittain sitä on _Onnellisessa prinssissä_, osittain
+_Nuoressa kuninkaassa_, varsinkin siinä kohdassa, missä piispa sanoo
+polvistuneelle pojalle: "Eikö Hän, joka loi kärsimyksen, ole sinua
+viisaampi?" fraasi, joka ei kirjoittaessani tuntunut minusta juuri
+paljoa enemmältä kuin fraasilta; suuri osa siitä on kätkettynä siihen
+tuomion säveleesen, joka kulkee punaisen langan tavoin läpi _Dorian
+Grayn_; monivärisenä se kimaltelee teoksessa _Kriitikko taiteilijana;_
+se on kirjoitettu kirjaan _Ihmisen sielu_ liiankin helposti tajuttavin
+sanoin. Se on yhtenä laulukertona, jonka alituisesti palaavat motiivit
+tekevät _Salomen_ musiikki-teoksen kaltaiseksi ja muodostavat sen
+ballaadiksi. Se on muuttunut lihaksi ja vereksi suorasanaisessa
+runoelmassa miehestä, jonka tuli "Hetken iloa" esittävän kuvan
+pronssista muovata "Ikuisen surun" kuva. Toisin ei olisi voinut olla.
+Jokaisena elämänsä yksityisenä hetkenä ihminen on yhtä paljon se miksi
+hänen on määrä kehittyä, kuin se mikä hän on ollut. Taide on symboli
+siksi, että ihminen on symboli.
+
+Jos täydellisesti voin sen saavuttaa, niin siinä juuri on taide-elämän
+korkein toteutus. Sillä taide-elämä on vain itsekehitystä. Taiteilijan
+nöyryys on siinä, että hän suoraan ottaa vastaan kaikki kokemukset,
+samoinkuin rakkaus taiteilijassa on vain kauneudentunnetta, joka
+maailmalle paljastaa ruumiinsa ja sielunsa. Romaanissaan _Marius the
+Epicurean_ Pater koettaa sovittaa taide-elämää uskonnolliseen elämään,
+sanan syvässä, kauniissa ja ankarassa merkityksessä. Mutta Marius ei
+ole juuri muuta kuin katselija: tosin ihanteellinen katselija, jonka
+on suotu "tarkastaa elämän näytelmää oikeilla tunteilla", se minkä
+Wordsworth leimaa runoilijan todelliseksi päämääräksi; mutta sittenkään
+hän ei ole muuta kuin katselija, jonka huomio ehkä hiukan liiaksi on
+kiintynyt temppelin penkkien kauneuteen voidakseen ymmärtää, että hän
+tarkastaakin surun pyhättöä.
+
+Minä voin huomata paljoa syvällisemmän ja suoranaisemman yhteyden
+Kristuksen ja taiteilijan todellisen elämän välillä. Ja minä iloitsen
+suuresti ajatellessani, että paljoa aikaisemmin, ennenkuin suru oli
+omakseen omistanut minun päiväni ja kahlehtinut minut pyöräänsä, olin
+sanonut teoksessa _Ihmisen sielu_, että sen, joka tahtoo elää niinkuin
+Kristus, täytyy olla kokonaan oma itsensä; ja tyypeikseni olin valinnut
+en ainoastaan paimenen vuoren rinteellä ja vangin vankilakopissa, vaan
+myöskin maalarin, jolle maailma on juhlakulkua, ja runoilijan, jolle
+elämä on laulua. Muistan kerran sanoneeni Andre Gidelle, istuessamme
+yhdessä jossakin parisilaisessa kahvilassa, että vaikka minä en
+suuresti harrastanut metafysiikkaa enkä siveysoppia lainkaan, niin ei
+sittenkään kaikessa siinä mitä Plato tai Kristus oli sanonut, ollut
+mitään, jota ei olisi voinut välittömästi siirtää taiteen piiriin ja
+siitä saada sille täyttä vahvistusta.
+
+Kristuksessa me voimme nähdä personallisuuden ja täydellisyyden
+yhtyneinä, mikä on varsinaisena eroituksena klassillisen ja romantisen
+liikkeen välillä elämässä, ja vieläpä hänen luonteensa varsinaisena
+pohjana oli sama kuin taiteilijankin luonteen -- voimakas, liekehtivä
+mielikuvitus. Kaikessa, mikä koski ihmisiä, hän osoitti sitä
+mielikuvituksen myötätuntoisuutta, mikä taiteen maailmassa on luomisen
+koko salaisuus. Hän ymmärsi spitaalisen taudin, sokean pimeyden,
+nautinnonhaluisen katkeran tuskan, rikkaitten omituisen köyhyyden. Eräs
+henkilö kirjoitti minulle kerta onnettomuuteni aikana: "Kun te ette
+seiso piedestalillanne, niin te ette herätä enää mielenkiintoa." Kuinka
+kaukana tuo kirjeenkirjoittaja oli siitä, jota Matthew Arnold nimittää
+"Jeesuksen salaisuudeksi." Jompikumpi heistä olisi voinut opettaa
+hänelle, että se mikä toiselle tapahtuu voi tapahtua itsellekin, ja
+jos te haluatte saada lauseen, jota voitte lukea sekä aamun koittaessa
+että yöllä, sekä ilossa että surussa, niin kirjoittakaa talonne
+seinään, jotta aurinko voisi sen kirjaimet kullata ja kuu ne hohdollaan
+hopeoittaa: "Kaikki mikä kohtaa itseä, kohtaa myös toista."
+
+Totisesti Kristuksen paikka on runoilijoiden parissa. Koko hänen
+käsityksensä ihmisyydestä sai alkunsa suoraan mielikuvituksesta ja on
+vain sen kautta ymmärrettävissä. Mitä Jumala oli panteistille, sitä
+ihminen oli Kristukselle. Hän ensimäisenä käsitti erillään olevat
+rodut yhdeksi kokonaisuudeksi. Ennen hänen aikaansa oli ollut olemassa
+jumalia ja ihmisiä, ja tuntien myötätuntoisuuden salaperäisellä
+ymmärtämyksellä, että kumpaisetkin olivat hänessä muuttuneet lihaksi
+ja vereksi, hän nimitti itseään milloin Jumalan milloin ihmisen
+pojaksi, kulloinkin mielentilansa mukaan. Suuremmassa määrässä kuin
+kukaan muu historiallinen henkilö hän herättää meissä sitä ihmettelyä,
+johon romantillisuus aina vetoo. Vieläkin on minun mielestäni jotakin
+uskomatonta tuon nuoren galilealaisen talonpojan ajatuksessa, että
+hän luulee voivansa kantaa hartioillaan koko maailman kuormaa: kaiken
+sen, mikä jo ennestään oli tehty ja kärsitty, ja mitä vastedes tehdään
+ja kärsitään: kaikki Neron, Caesar Borgian, Aleksanteri VI:nnen ja
+hänenkin syntinsä, joka samalla oli Rooman keisari ja auringon pappi:
+kaikkien niiden kärsimykset, joiden luku on legio, ja jotka asuvat
+hautojen parissa: sorrettujen kansallisuuksien, tehtaitten lasten,
+varkaitten, vankien, kodittomien, niiden, jotka ovat mykkiä orjuuden
+ikeen alla ja joiden äänettömyyden Jumala yksin kuulee. Eikä hän
+vain luule voivansa sitä tehdä, vaan hän todellakin sen tekee, niin
+että vielä tänäkin hetkenä kaikki ne, jotka tulevat yhteyteen hänen
+personallisuutensa kanssa, vaikkapa he eivät kumartaisikaan hänen
+alttarillensa eivätkä polvistuisi hänen pappiensa eteen, sittenkin
+tuntevat, että heidän syntiensä rumuus on poispyhitty ja heidän
+kärsimyksensä kauneus avautunut heidän eteensä.
+
+Sanoin, että Kristus kuuluu runoilijoiden pariin. Se onkin totta.
+Shelley ja Sophokles ovat hänen veljiään. Mutta koko hänen elämänsä
+on myös mitä ihanin runoelma. Jos etsii "sääliä ja kauheutta",
+niin koko kreikkalaisessa murhenäytelmistössä ei ole mitään sen
+vertaista. Protagonistin tahraton puhtaus kohottaa koko draaman
+rakenteen romantisen taiteen korkeuteen, josta Theben ja Pelopsin
+jälkeläisten kärsimykset ovat poissuljetut vain oman hirmuisuutensa
+vuoksi; ja se todistaa myös kuinka väärässä Aristoteles oli, kun
+hän tutkimuksessaan draamasta sanoo, että olisi sietämätöntä nähdä
+viattoman kärsimystä. Ei Aiskhyloksella eikä Dantella, noilla lempeyden
+ankarilla mestareilla, ei Shakespearella, puhtaimmin inhimillisellä
+kaikista suurista taiteilijoista, eikä keltiläisessä tarustossa,
+jossa maailman sulous esiintyy kyynelusvan läpi ja ihmisen elämä
+merkitsee yhtä vähän kuin kukan -- ei missään ole mitään, joka
+vetäisi vertoja tai edes lähentelisi viimeistä näytöstä Kristuksen
+kärsimyshistoriassa, jossa tuskan yksinkertainen ilmaisu yhdistyy ja
+kohoaa traagillisen vaikutuksen ylevyyteen. Yksinkertainen ateria
+opetuslasten parissa, joista yksi hänet jo on myönyt rahasta;
+sieluntuska hiljaisessa kuutamoisessa puutarhassa; kavala ystävä, joka
+lähestyy häntä, voidakseen pettää hänet suutelolla; ystävä, joka vielä
+uskoi häneen ja johon aivan kuin kallioon hän oli toivonut voivansa
+perustaa turvapaikan ihmiskunnalle, mutta joka nyt kieltää hänet,
+kun kukko laulullaan ilmoitti päivän sarastavan; hänen täydellinen
+yksinäisyytensä, hänen alistumisensa ja nöyryytensä, ja kaiken tuon
+ohella semmoisia kohtauksia, kuin se, että oikeauskoisuuden ylimmäinen
+pappi repii vihassa vaatteensa ja siviilioikeuden virkamies käskee
+tuoda vettä siinä turhassa toivossa, että hän voisi pestä itsensä
+puhtaaksi viattomasti vuodatetun veren tahroista, jotka tekevät
+hänestä historian veripunaisen henkilön; surun kruunausjuhla, yksi
+ihmeellisimpiä tapahtumia muistoonmerkittyjen aikojen historiassa;
+viattoman ristiinnaulitseminen äidin ja rakkaimman opetuslapsen silmien
+edessä; sotamiehet, jotka heittävät arpaa hänen vaatteistansa; hirveä
+kuolema, jonka kautta hän antoi maailmalle sen ikuisimman symbolin; ja
+vihdoin hänen ruumiinsa hautaaminen rikkaan miehen hautaan, jolloin se
+käärittiin egyptiläisiin liinoihin ja balsameerattiin kallisarvoisilla
+yrteillä ja hyvillä hajuilla, ikäänkuin hän olisi ollut kuninkaan
+poika. Jos tarkastelee tätä vain taiteen kannalta, niin täytyy
+olla kiitollinen siitä, että kirkon suurin juhla tarkoittaa tämän
+murhenäytelmän esittämistä ilman verenvuodatusta. Herransa kärsimyksen
+salaperäistä esittämistä vuoropuheluin, puvuin ja liikkein; ja minä
+ajattelen aina ilolla ja kunnioituksen tunteella, että viimeinen
+jäännös kreikkalaisesta kuorosta, joka muuten on kokonaan mennyt
+hukkaan taiteelta, on säilynyt messussa laulajain vastauksessa papille.
+
+Kokonaisuudessaan on Kristuksen elämä kuitenkin -- niin täydellisesti
+voi suru ja kauneus yhtyä yhdeksi sekä merkityksensä että ilmenemisensä
+puolesta, -- todellinen idylli, vaikka se loppuukin siihen, että
+temppelin esirippu repeää, pimeys peittää maan ja kivi vieritetään
+haudan suulle. Tulee ajatelleeksi häntä aina nuorena sulhasena
+ystäviensä parissa, jommoiseksi hän todellakin joskus kuvaa itseään;
+paimenena, joka kuljeskelee laumansa kanssa laaksossa etsien varjoa
+puun juurella tai vilpoisen virran reunalta; laulajana, joka yrittää
+sävelin rakentaa Jumalan kaupungin muureja; tai rakastajana, jonka
+rakkaudelle koko maailma oli liian pieni. Hänen ihmeensä tuntuvat
+minusta yhtä ihanilta kuin kevään tulo, ja aivan yhtä luonnollisilta.
+Minusta ei ole lainkaan vaikea uskoa, että hänen personallinen
+viehätysvoimansa oli niin suuri, että yksin hänen läsnäolonsakin
+saattoi tuottaa rauhaa tuskaakärsiville sieluille ja että ne, jotka
+koskettivat hänen vaatteitaan tai käsiään, unohtivat kipunsa; tai
+että, kun hän kulki ohitse elämän valtatiellä, ne, jotka eivät ennen
+olleet tienneet mitään elämän salaisuudesta, näkivät sen äkkiä selvänä
+edessänsä, tai että toiset, jotka olivat olleet kuurot kaikille muille
+paitsi nautinnon äänille, kuulivat ensi kerran rakkauden äänen ja
+huomasivat, että se oli yhtä sulosointuinen kuin Apollon luuttu; tai
+että huonot himot pakenivat hänen lähestyessänsä ja että ihmiset,
+joiden yksitoikkoinen, mielikuvituksesta köyhä elämä oli ollut kuin
+yksi kuoleman monista muodoista, ikäänkuin nousivat ylös haudoistansa,
+kun hän kutsui heitä; tai että hänen opettaessaan vuorenrinteellä
+ihmisjoukko unohti nälän ja janon ja kaikki maalliset huolet ja että
+hänen ystävistänsä, jotka kuuntelivat hänen puhettansa, kun hän
+istui heidän keskellään aterioimassa, yksinkertainen ruoka tuntui
+herkulliselta, vesi maistui hyvältä viiniltä ja koko huone tuoksui
+hyvänhajuiselta nardukselta.
+
+Renan sanoo kirjassaan _Jeesuksen elämä_ -- tuossa kauniissa
+viidennessä evankeliumissa, jota voisi nimittää Pyhän Tuomaan
+evankeliumiksi -- että Kristuksen suuruus ilmenee siinä, että
+häntä rakastettiin yhtä paljon hänen kuolemansa jälkeen kuin hänen
+eläissänsäkin. Ja totta tosiaan, jos hänen paikkansa on runoilijoiden
+parissa, niin on hän myös ensimäinen kaikista niistä, jotka ovat
+rakastaneet. Hän ymmärsi, että rakkaus oli suurin kaikista maailman
+salaisuuksista, joita viisaat olivat etsineet, ja että vain rakkauden
+kautta ihminen saattoi lähetä spitaalitautisen sydäntä tai Jumalan
+jalkoja.
+
+Ja ennen kaikkea Kristus on suurin kaikista individualisteista.
+Nöyryys, samoinkuin kaikki kokemukset, joita taiteilijan sielu ottaa
+vastaan, on vain ilmestysmuoto. Ihmisen sielua Kristus alati etsii. Hän
+nimittää sitä "Jumalan valtakunnaksi", ja hän näkee sen joka ainoassa.
+Hän vertaa sitä vähäpätöisyyksiin, pieneen siemeneen, kouralliseen
+hapatusta, helmeen. Sillä ihminen kehittää sieluaan vain vapautumalla
+vieraista himoista, ulkoa hankitusta kultuurista ja kaikesta
+ulkonaisesta omaisuudesta, sekä hyvästä että pahasta.
+
+Minä nousin kaikkea vastaan koko tahtoni voimalla ja luonteeni
+kapinanhalulla, kunnes minulle ei jäänyt mitään muuta maailmassa
+jäljelle kuin yksi ainoa asia. Olin kadottanut nimeni, asemani,
+onneni, vapauteni, omaisuuteni. Minä olin vanki ja rutiköyhä. Mutta
+minulla oli vielä lapseni jäljellä. Silloin laki äkkiä otti minulta
+nekin pois. Se oli niin kova isku, etten tiennyt mitä tehdä, ja minä
+heittäydyin polvilleni, painoin pääni maahan ja sanoin itkien: "Lapsi
+on kuin Herran ruumis, minä en ole kelvollinen kumpaiseenkaan." Tuo
+hetki oli minun pelastukseni. Minä ymmärsin, että minun täytyi ottaa
+kaikki nöyrästi vastaan. Siitä saakka -- niin kummalta kuin se saattaa
+kuuluakin -- olen ollut onnellisempi. Sillä minä olen saavuttanut
+sieluni perimmäisen olemuksen. Monessa suhteessa olin ollut sen
+vihollinen, mutta minä huomasin, että se odotti minua kuin ystävää.
+Kun joutuu kosketukseen sielun kanssa, niin tulee mieleltään jälleen
+lapseksi, niinkuin Kristus sanoo, että ihmisen täytyykin tulla.
+
+On traagillista ajatella, kuinka harvat ihmiset todellakin "omistavat
+sielunsa" ennenkuin he kuolevat. "Ei mikään ole harvinaisempaa
+ihmisessä", sanoo Emerson, "kuin omintakeinen teko". Se on aivan
+totta. Useimmat ihmiset ovat toisia ihmisiä. Heidän ajatuksensa ovat
+toisten mielipiteitä, heidän elämänsä näyttelemistä, heidän himonsa
+jäljittelyä. Kristus ei ollut vain täydellinen individualisti, vaan
+myöskin ensimäinen individualisti historiassa. Ihmiset ovat yrittäneet
+tehdä hänestä tavallisen ihmisystävän, tai altruistina antaneet
+hänelle paikan intoilijoiden ja hempeämielisten parissa. Mutta
+tosiasiassa hän ei ollut kumpikaan. Sääliä hän tietysti tunsi kaikkia
+köyhiä ja vankeja, alhaisia ja kurjia ihmisiä kohtaan; mutta hän
+sääli vielä paljoa enemmän rikkaita, piintyneitä hedonisteja, niitä,
+jotka heittävät pois vapautensa ruvetakseen maallisten tavaroitten
+orjiksi, niitä, jotka käyttävät pehmeitä pukuja ja asuvat kuninkaitten
+palatseissa. Rikkaus ja nautinto olivat hänen mielestään suurempia
+elämän murhenäytelmiä kuin köyhyys ja suru. Ja mitä epäitsekkäisyyteen
+tulee, niin kukapa käsitti paremmin-kuin hän, että kutsumus, eikä
+vapaa tahto, määrää meidän tekomme, ja ettei voi saada viinirypäleitä
+orjantappuroista eikä viikunoita ohdakkeista.
+
+Hän ei opettanut, että eläminen toisten hyväksi tuli olla ihmisen
+elämän määrätty, itsetietoinen päämäärä. Se ei ollut edes hänen oppinsa
+pohjana. Kun hän sanoo, "Antakaa anteeksi vihollisillenne", niin hän
+ei sano sitä vihollisen, vaan meidän itsemme tähden, ja siksi että
+rakkaus on suloisempi kuin viha. Sanoessaan nuorukaiselle: "Myy mitä
+sinulla on ja anna vaivaisille", niin hän ei ajattele köyhien tukalaa
+elämää, vaan nuorukaisen sielua, sielua, jota rikkaus tukahdutti.
+Elämänkatsomuksessaan hän on samaa mieltä kuin taiteilija, joka
+tietää, että ikuisen itsensätäydennyslain mukaan runoilijan täytyy
+runoilla, kuvanveistäjän ajatella pronssissa ja maalarin muodostaa
+maailma tunnelmiensa kuvastimeksi, yhtä varmasti ja luonnollisesti kuin
+orapihlajan täytyy kukkia keväällä, viljan valjeta korjuuaikana ja kuun
+määräkulussaan vaihtua kilvestä sirpiksi ja sirpistä kilveksi.
+
+Mutta jollei Kristus siis sanonutkaan ihmisille, "Eläkää toisten
+hyväksi", niin hän kuitenkin huomasi, ettei ollut minkäänlaista
+eroitusta toisten ja oman elämän välillä. Siten hän antoi ihmiselle
+laajennetun, jättiläismäisen personallisuuden. Hänen ilmestymisensä
+jälkeen on jokaisen yksityisen ihmisen historia myös koko maailman
+historia, tai voi ainakin sitä olla. Kultuuri on tietysti syventänyt
+ihmisen personallisuuden. Taide on antanut meille tuhat eri sydäntä.
+Ne, joilla on taiteilijan temperamentti, lähtevät Danten kera
+maanpakoon ja oppivat, kuinka suolainen toisten leipä on ja kuinka
+jyrkät heidän polkunsa; hetkeksi he saavuttavat Goethen kirkkauden
+ja rauhan, ja sittenkin he tietävät liiankin hyvin, miten Baudelaire
+rukoili Jumalaa --
+
+    "O Seigneur, donnez moi la force et le courage
+    de contempler mon corps et mon coeur sans dégoût."
+
+    [Oi Herra, anna minulle voimaa ja rohkeutta,
+    jotta voisin tarkastaa ruumistani ja sydäntäni
+    ilman vastenmielisyyttä.]
+
+Shakespearen soneteista he etsivät esille, ehkäpä omaksi vahingoksensa,
+hänen rakkautensa salaisuuden ja omistavat sen omakseen; he
+katselevat uusin silmin nykyaikuista elämää, siksi että he ovat
+kuunnelleet yhtä Chopinin nocturneista, tai pidelleet kädessään
+kreikkalaisia taide-esineitä, tai lukeneet kertomusta jonkun
+kuolleen miehen rakkaudesta kuolleesen naiseen, jonka hiukset olivat
+kuin hienointa kultaa ja jonka suu oli kuin granaattiomena. Mutta
+taiteilijatemperamentin täytyy välttämättä tuntea myötätuntoisuutta
+sitä kohtaan, joka on saanut ilmaisumuodon. Joko sanoin tai värein,
+musiikin tai marmorin kautta, Aiskhylos-draaman maalattujen naamioiden
+takaa tai sisilialaisen paimenen onton ja yhteenliitetyn pillin
+välityksellä tulee miehen ja hänen sanomansa tulla ilmisaatetuksi.
+
+Taiteilijalle on ilmaisu ainoa muoto, millä hän edes voi kuvitella
+elämää. Se mikä on mykkää, on hänelle kuollutta. Mutta niin ei ollut
+Kristuksen laita. Laajalla ja ihmeellisellä mielikuvituksella,
+joka herättää meissä kunnioitusta, hän omisti valtakunnakseen koko
+sanattoman maailman, äänettömän kärsimyksen maailman, ja rupesi itse
+sen ulkonaiseksi puhe-elimeksi. Ne, joista olen puhunut, jotka ovat
+mykkiä orjuuden ikeen alla ja joiden äänettömyyden vain Jumala kuulee,
+hän valitsi veljiksensä. Hän koetti olla sokeitten silmänä, kuurojen
+korvana, ja huutona niiden huulilla, joiden kieli oli kahlehdittu. Hän
+tahtoi olla niille lukemattomille, jotka eivät voineet saada ääntänsä
+kuuluville, pasuunana, jonka kautta he saattoivat huutaa taivaasen. Ja
+taiteilijaluonteellaan, jolle kärsimys ja suru olivat ilmaisumuotoja,
+joiden kautta hän saattoi toteuttaa kauneudenkäsitteensä, hän tunsi,
+ettei aatteella ollut mitään arvoa ennenkuin se oli muuttunut lihaksi
+ja vereksi ja saanut näkyvän muodon, ja siksi hän otti päällensä surun
+hahmon, ja sellaisena hän on lumonnut ja hallinnut taidetta suuremmalla
+voimalla kuin mikään kreikkalainen jumala on kyennyt tekemään.
+
+Sillä kreikkalaiset jumalat huolimatta joustavien jäsentensä valkeasta
+ja punaisesta väristä, eivät todellisuudessa olleet sitä, miltä
+he näyttivät. Apollon kaareva otsa oli kuin auringon pyörä aamun
+sarastaessa kukkulan takaa, ja hänen jalkansa olivat kuin aamun siivet,
+mutta hän itse oli kohdellut julmasti Marsyasta ja oli tehnyt Nioben
+lapsettomaksi. Athenen silmien teräskilvet eivät tunteneet sääliä
+Arakhnea kohtaan; Heran komeus ja riikinkukot olivat hänen ainoa
+todellinen hienoutensa; ja itse jumalien isä oli liiaksi rakastanut
+maan tyttäriä. Kaksi syvintä hahmoa kreikkalaisessa mytologiassa olivat
+uskonnon alalla Demeter, maan jumalatar, joka ei kuulunut Olympon
+asujamiin, ja taiteen alalla Dionysos, kuolevaisen vaimon poika, jonka
+syntymähetki oli äidille muuttunut kuolemaksi.
+
+Mutta alhaisimmasta ja yksinkertaisimmasta piiristänsä loi elämä itse
+olennon, joka oli paljoa ihmeellisempi kuin Proserpinan äiti tai
+Semelen poika. Puusepän työpajasta Natsaretista läksi henkilö, joka oli
+paljoa suurempi kaikkia niitä, joita jumalaistarut ja legendat ovat
+luoneet, olento, joka, ihmeellistä kyllä, oli määrätty ilmaisemaan
+maailmalle viinin salaperäistä tarkoitusta ja kedon liljojen todellista
+kauneutta tavalla, jota ei kukaan muu ole tehnyt, yhtä vähän
+Kithaironilla kuin Ennassakaan.
+
+Jesaiaan sanat: "Hän oli kaikkein ylönkatsottava ja kaikkein halvin,
+kipua ja sairautta täynnä. Hän oli niin ylönkatsottu, ettei kenkään
+kehdannut katsoa hänen päällensä", oli hänen mielestään ollut ennustus
+hänestä itsestänsä, ja hänessä ennustus täyttyikin. Meidän ei pidä
+pelästyä sellaista lausetapaa. Jokainen yksityinen taideteos on
+ennustuksen täyttämistä: sillä jokainen taideteos on mielikuva, joka
+saa hahmon. Jokaisen inhimillisen olennon tulisi olla ennustuksen
+toteutus: sillä jokaisen inhimillisen olennon pitäisi toteuttaa jokin
+ihanne, joko Jumalan tai ihmisen mielen mukaan. Kristus löysi tyypin ja
+kiinsi sen, ja se unelma, jonka eräs virgilialainen runoilija uneksi
+joko Jerusalemissa tai Babylonissa, muuttui vuosisatojen kuluttua
+lihaksi ja vereksi hänen kauttansa, jota maailma "odotti".
+
+Enimmin valitettavaa koko historian kulussa minun mielestäni on se,
+että Kristuksen oma renessansi, joka synnytti Chartresin tuomiokirkon,
+Arthur-runoston, Franciskus Assisilaisen elämän, Giotton taiteen
+ja Danten _Divina Comedia_n, ei saanut kehittyä omia ratojaan
+myöten, vaan että sen keskeytti ja pilasi ikävystyttävä klassillinen
+renessansi, joka antoi meille Petrarcan, Raphaelin freskot,
+Palladion rakennustaiteen, jäykän ranskalaisen murhenäytelmän, St.
+Paulin tuomiokirkon ja Popen runouden -- ja kaiken sen, mikä tuli
+ulkoapäin, kuolleiden sääntöjen vaikutuksesta, eikä puhjennut esiin
+vaistomaisesti, taiteilijan sielusta. Mutta missä ikänä esiintyy
+romantinen suunta taiteessa, niin siellä tavataan aina jossakin
+muodossa Kristus tai Kristuksen henki. Hän esiintyy _Romeossa ja
+Juliassa, Talvisessa tarinassa_, provencelaisessa runoudessa,
+Coleridgen kertomuksessa _Ancient Mariner_, Keats'in runossa _La Belle
+Dame sans merci_ ja Chattertonin ballaadissa _Ballad of Charity_.
+
+Me saamme kiittää häntä mitä erilaisimmista asioista ja henkilöistä.
+Hugon romaani _Les Miserables_, Baudelairen _Fleurs du Mal_, se
+säälin sävy, joka on läpikäypänä venäläisissä novelleissa, Verlaine
+ja Verlainen runoelmat, Burne-Jones'in ja Morris'in ikkunamaalaukset,
+seinäpaperit ja 1400-luvun teokset ovat hänen omiaan yhtä hyvin kuin
+Giotton kellotapuli, Lancelot ja Guinevere, Tannhäuser, Michelangelon
+kiihkeät, romantiset marmoriteokset, suippokaariarkkitehtuuri ja
+rakkaus lapsiin ja kukkasiin -- noilla molemmilla viimemainituilla ei
+ollut klassillisessa taiteessa paljon sijaa, tuskin sen vertaa, että
+olisivat voineet siinä kasvaa ja leikkiä; mutta kahdennestatoista
+vuosisadasta alkaen aina meidän päiviimme saakka ne ovat esiintyneet
+taiteessa eri muodoissa ja eri aikakausina, ilmaantuneet oikullisesti
+ja sattuman varassa niinkuin lapsilla ja kukkasilla on tapana tehdä.
+Sillä keväisin on minusta aina tuntunut ikäänkuin kukkaset olisivat
+olleet piilossa ja tulleet esiin auringon paisteesen vain siksi, että
+he pelkäsivät aikaihmisten väsyvän niiden hakemiseen ja jättävän
+sikseen niiden etsimisen; ja lapsen elämä vain huhtikuunpäivältä,
+jolloin narsissit saavat sekä sadetta että auringonpaistetta.
+
+Mielikuvituksellisuuden rikkaus Kristuksen omassa luonteessa tekee
+hänet juuri romantiikan tykkiväksi keskustaksi. Runollisen draaman
+ja balladin ihmeelliset hahmot ovat toisten mielikuvituksen luomia,
+mutta Jeesus Natsaretilainen loi itsensä omasta mielikuvituksestaan.
+Jesaiaan huuto ei todellakaan vaikuttanut sen enempää hänen tuloonsa
+kuin satakielen laulu kuun nousuun -- ei sen enempää, vaikkei ehkä
+vähempääkään. Yhtä paljon hän teki tyhjäksi ennustuksen kuin vahvisti
+sitä. Sillä joka kerta, kun jokin odotus täyttyi, oli toinen, joka
+pettyi. "Kaikessa kauneudessa", sanoo Bacon, "on aina tuntemattomia
+suhteita", ja niistä, jotka ovat hengestä syntyneet -- se on, niistä,
+jotka samoinkuin hänkin ovat liikevoimia -- sanoo Kristus, että he
+ovat kuin tuuli, joka "puhaltaa kussa hän tahtoo, etkä tiedä kusta hän
+tulee, taikka kuhunka hän menee." Senvuoksi hän taiteilijana on niin
+mieltäkiehtova. Hänellä on kaikki ne alkuaineet, jotka antavat väriä
+elämälle: salaperäisyyttä, uutuutta, paatosta, innostusta, hurmausta,
+rakkautta. Hän vetoo ihmisen tunteesen ja herättää sen tunnelman, jonka
+kautta yksin häntä voi ymmärtää.
+
+Ja minua ilahuttaa ajatella, että jos hän on "kaikkeakäsittävä
+mielikuvitus", niin silloin maailmakin on luotu samasta aineesta.
+Minä sanoin _Dorian Gray_ssä, että maailman suuret synnit tapahtuvat
+aivoissa: mutta kaikki tapahtuukin aivoissa. Me tiedämme nyt, ettemme
+näe silmillä emmekä kuule korvilla. Ne ovat vain johtokanavia, jotka
+täysin tai puutteellisesti välittävät aistimuksia. Aivoissahan unikko
+punertaa, omena tuoksuu ja leivo laulaa.
+
+Viime aikoina olen innokkaasti tutkinut neljää suorasanaista runoelmaa
+Kristuksesta. Jouluna minun onnistui saada käsiini kreikkalainen
+testamentti, ja joka aamu puhdistettuani koppini ja kiillotettuani
+tina-astiani, minä luen hiukan evankeliumeista, noin tusinan värssyjä
+sieltä-täältä. Siten on suloista aloittaa päivänsä. Jokaisen
+ihmisen, niidenkin, jotka viettävät vaihtelevaa ja levotonta elämää,
+tulisi tehdä samoin. Loppumattomat kertaamiset sekä sopivissa että
+sopimattomissa tilaisuuksissa ovat riistäneet evankeliumeilta niiden
+tuoreuden, alkuperäisyyden ja yksinkertaisen romantisen viehätyksen. Me
+kuulemme niitä luettavan aivan liian usein ja aivan liian huonosti, ja
+kaikki kertaaminen kuolettaa hengen. Kun lukee kreikkalaista tekstiä,
+niin tuntuu siltä kuin ahtaasta ja pimeästä talosta astuisi puutarhaan
+liljojen keskelle.
+
+Lukiessani nautintoni tuli kahdenkertaiseksi, kun ajattelin, että
+meillä siinä luultavasti on edessämme se puhetapa, jota Kristus
+todellisuudessa käytti, hänen omat sanansa, _ipsissima verba_. Ennen
+aina luultiin, että Kristus puhui aramean kieltä. Sitä Renankin oletti.
+Mutta nyt me tiedämme, että galilealaiset talonpojat, samoinkuin
+irlantilainen kansa meidän päivinämme, olivat kaksikielisiä ja että
+kreikka oli tavallinen keskustelukieli Palestiinassa, niinkuin
+kaikkialla idässä. Minä en voinut koskaan sulattaa sitä ajatusta,
+että me tunsimme Kristuksen sanat vain käännöksen käännöksestä.
+Minua ilahduttaa se ajatus, että Charmides olisi ainakin kielen
+puolesta voinut kuunnella hänen puhettansa, ja Sokrates väitellä
+hänen kanssansa, ja Plato ymmärtää häntä; että hän todellakin sanoi:
+εγω ειμι ὁ ποιμην ὁ καλος -- minä olen hyvä paimen; että kun
+hän ajatteli kukkasia kedolla ja sanoi, etteivät ne työtä tee eikä
+kehrää, hänen sanansa kuuluivat: καταμαθετε τα κρινα του
+αγρου πως αυξανει ου κοπια ουδε νηθει], ja että hänen
+viimeinen sanansa, kun hän lausui: "se on täytetty" kuului juuri
+niin kuin Pyhä Johannes sen meille kertoo: τετελεσται
+eikä sen enempää.
+
+Lukiessani evankeliumeja -- varsinkin Pyhän Johanneksen, tai sen
+gnostikon, joka otti hänen nimensä ja viittansa -- ja tullessani yhä
+enemmän vakuutetuksi siitä, että mielikuvitus on kaiken henkisen ja
+ruumiillisen elämän pohja, niin huomaan myöskin, että Kristukselle
+mielikuvitus oli vain yksi rakkauden muoto, ja että rakkaus oli
+hänelle kaikkivaltias sanan täydellisimmässä merkityksessä. Noin
+kuusi viikkoa sitten sain lääkäriltä luvan syödä vehnäleipää karkean,
+mustan leivän asemesta, joka on tavallisena vankilaravintona. Se on
+suuri herkku minulle. Voi tuntua kummalta, että kuiva leipä voisi
+kellekään olla herkkua. Minulle se on niin suuri herkku, että joka
+aterian jälkeen syön tarkasti jokaisen murunkin tinalautaseltani tai
+karhealta käsiliinalta, jota käytetään pöytäliinana, jotta pöytä ei
+tahraantuisi; en tee sitä siksi, että minun olisi nälkä -- saan nykyään
+aivan riittävästi ruokaa -- vaan ainoastaan sen vuoksi, ettei mitään
+hukkuisi siitä, mitä minulle on annettu. Samalla tavalla pitäisi myös
+ottaa vaarin rakkaudesta.
+
+Kristuksella, samoinkuin kaikilla viehättävillä henkilöillä, oli
+kyky puhua kauniisti, sekä myös saada muut ihmiset puhumaan hänelle
+kauniisti; ja minä olen suuresti ihastunut siihen kertomukseen, jonka
+Pyhä Markus kertoo meille kreikkalaisesta vaimosta, jonka uskoa
+Kristus koetteli sanomalla hänelle, ettei hän voinut antaa hänelle
+Israelin lasten leipää, ja johon tämä vastasi: "syövät penikatkin --
+kumaria -- pöydän alla lasten muruista". Useimmat ihmiset elävät
+saadakseen rakkautta ja ihailua osaksensa. Mutta meidän tulisi elää
+rakastaaksemme ja ihaillaksemme. Jos meille annetaan rakkautta, niin
+meidän tulisi tunnustaa, ettemme sitä ansaitse. Ei kukaan ansaitse
+rakkautta. Se tosiasia, että Jumala rakastaa ihmistä, osoittaa meille,
+että ihanteellisten asioiden jumalallisessa säädännössä on kirjoitettu,
+että iankaikkista rakkautta on annettava iankaikkisesti kelvottomalle.
+Tai jos tätä lausetta tuntuu katkeralta kantaa, niin sanokaamme, että
+jokainen ansaitsee rakkautta paitsi se, joka luulee sitä ansaitsevansa.
+Rakkaus on sakramentti, jota olisi polvilla vastaanotettava, ja niiden
+huulilla ja sydämessä, jotka ottavat sen vastaan, pitäisi olla sanat:
+_Domine, non sum dignus_ -- Herra, en ole minä mahdollinen.
+
+Jos koskaan enää kirjoitan, nimittäin teen taiteellista työtä, niin on
+varsinkin kaksi aihetta, joista ja joiden kautta minä tahdon puhua:
+toinen on "Kristus romantisen liikkeen edeltäjänä elämässä", toinen
+"Taide-elämä katsottuna ulkonaisen elämän yhteydessä." Edellinen aihe
+on tietysti hyvin mieltäkiehtova, sillä minä en näe Kristuksessa
+ainoastaan korkeimman romantisen tyypin tunnusmerkkejä, vaan myöskin
+kaiken sen, mikä on satunnaista ja arvaamatonta romantisessa
+temperamentissa. Hän kaikkein ensimäisenä sanoi ihmisille, että
+heidän tuli elää kuin kukkaset. Hän kiinsi tämän lauseen. Hän valitsi
+lapset tyypeiksi, jommoisiksi ihmisten tuli pyrkiä. Hän näytti niitä
+esimerkkinä vanhemmille, ja tämä on aina minun omasta mielestänikin
+ollut pää-etu lapsista, jos siitä, mikä on täydellistä, on oleva etua.
+Dante kuvaa ihmissielua, kun se nousee Jumalan kädestä, "itkevänä ja
+nauravana kuin pieni lapsi", ja Kristus näki myöskin, että jokaisen
+sielun tuli olla _a guisa di fanciulla che piangendo e ridendo
+pargoleggia_. [Lapsen tapainen, joka itkien ja nauraen lepertelee.]
+Hän tunsi, että elämä oli vaihteleva, lyhytaikainen, liikkuva, ja jos
+sallisi sen jähmettyä johonkin muotoon, niin se merkitsisi samaa kuin
+kuolema. Hän ymmärsi, ettei ihmisten pitänyt liian vakavasti kiintyä
+ajallisiin, jokapäiväisiin asioihin: että epäkäytännöllisyys oli
+jotakin suurta: ettei ihmisen tullut liiaksi huolehtia ulkonaisista
+asioista. Linnut eivät sitä tehneet, miksikä siis ihminen? Hän on
+ihastuttava sanoessaan: "Älkäät surko huomisesta päivästä; eikö henki
+enämpi ole kuin ruoka? ja ruumis parempi kuin vaate?" Kreikkalainen
+olisi voinut käyttää tätä viimeistä lausetta. Se on täynnä
+kreikkalaista henkeä. Mutta Kristus yksin saattoi sanoa molemmat ja
+siten antaa meidän elämällemme täydellisen ojennusnuoran.
+
+Hänen siveysoppinsa on kauttaaltaan myötätuntoisuutta, juuri sitä,
+mitä siveysopin pitäisi olla. Vaikkei hän koskaan olisi sanonut
+muuta kuin: "Sentähden hänelle paljo syntiä anteeksi annettiin, että
+hän paljon rakasti", niin hänen olisi kannattanut kuolla saadakseen
+sanoa sen. Hänen oikeutensa on kauttaaltaan runollista oikeutta,
+juuri mitä oikeuden tulee olla. Kerjäläinen tulee taivaasen siksi,
+että hän on ollut onneton. En voi löytää parempaa syytä, miksi hänet
+sinne lähetetään. Ne, jotka työskentelevät viinitarhassa tunnin
+aikaa iltaviileydessä, saavat yhtä suuren palkan kuin ne, jotka ovat
+kantaneet päivän kuorman ja helteen. Miksikä he eivät saisikin?
+Luultavasti ei kukaan ollut ansainnut mitään. Tai ehkä he olivat
+toisenlaisia ihmisiä. Kristus ei voinut sietää hengettömiä, koneellisia
+järjestelmiä, jotka kohtelevat ihmisiä kuin elottomia olentoja ja
+kaikkia aivan samalla tavalla: hän ei tuntenut lakeja: vain poikkeuksia
+oli olemassa, ikäänkuin kukaan, tai mikään, olisi toisensa kaltainen
+maailmassa!
+
+Se, mikä on perussäveleenä romantisessa taiteessa, oli hänelle
+luonnollisen elämän oikeana pohjana. Hän ei tuntenut muuta pohjaa. Ja
+kun he toivat hänen eteensä ihmisen, joka oli tavattu synninteossa, ja
+osoittivat hänelle hänen tuomionsa lakiin kirjoitettuna, ja kysyivät
+mitä oli tehtävä, niin hän kirjoitti sormellansa maahan ikäänkuin hän
+ei olisi kuullut heitä, ja lopulta, kun he ahdistivat häntä, hän ojensi
+itsensä ja sanoi: "Joka teistä on synnitön, se heittäköön ensin häntä
+kivellä." Kannatti elää saadakseen sanoa tämän.
+
+Samoinkuin kaikki runolliset luonteet hän rakasti oppimattomia. Hän
+tiesi, että oppimattoman sielussa on aina tilaa suurelle aatteelle.
+Mutta hän ei voinut sietää typeriä, varsinkin niitä, joita sivistys on
+typeröittänyt: ihmisiä, jotka ovat täynnä mielipiteitä ymmärtämättä
+niistä ainoatakaan, tuo erityinen nykyaikuinen tyyppi, jonka Kristus
+muutamin sanoin esittää kuvatessaan niitä, joilla on opin avain,
+mutta eivät voi sitä itse käyttää, eivätkä salli toistenkaan,
+vaikka sillä voisi avata oven Jumalan valtakuntaan. Hän oli aina
+sodassa poroporvarillisuutta vastaan. Ja sitä sotaa täytyy jokaisen
+valon lapsen käydä. Poroporvarillisuus oli vallitsevana sävynä
+siinä ajassa ja yhteiskunnassa, jossa hän eli. Aatteiden hitaassa
+vastaanottavaisuudessaan, ikävässä arvokkaisuudessaan, jyrkässä
+oikeauskoisuudessaan, ulkonaisen menestyksen halussa, täydellisessä
+antautumisessaan elämän aineelliseen puoleen ja naurettavassa oman
+itsensä arvossapitämisessään Jerusalemin juutalaiset olivat Kristuksen
+aikana täydellisiä esikuvia meidän päiviemme englantilaisille
+poroporvareille. Kristus pilkkasi ulkokultaisuuden "valkeaksi sivuttuja
+hautoja" ja kiinsi tämän lauseen ikuisiksi ajoiksi. Hän puhui
+maallisesta menestyksestä kuin jostakin halveksittavasta. Hän ei nähnyt
+siinä yhtään mitään. Hän näki rikkaudessa vain esteen ihmiselle. Hän ei
+tahtonut, että elämä olisi uhrattava jollekin ajatusten tai siveyden
+järjestelmälle. Hän huomautti, että muodot ja seremoniat olivat
+säädetyt ihmistä varten, eikä ihminen muotoja ja seremonioja varten.
+Hän piti sabbatti-intoilijoiden oppia arvottomien muotojen tyyppinä.
+Viileän ihmisystävyyden, kerskailevan, julkisen hyväntekeväisyyden,
+ikävän muodollisuuden, joka hivelee keskiluokan sydämiä, hän paljasti
+syvällä halveksumisella. Se mitä nykyään sanotaan oikeauskoisuudeksi,
+on meille vain mukava ja ajattelematon alistuminen; mutta heille ja
+heidän käsissänsä se oli hirveä ja lamauttava hirmuvalta. Kristus sen
+poisti. Hän näytti, että hengellä yksin on arvoa. Hänestä oli hauska
+osoittaa heille, että vaikka he aina lukivat lakia ja profeettoja,
+niin heillä ei sittenkään ollut vähintäkään aavistusta kummankaan
+tarkoituksesta. Sen sijaan, että he jaoittivat jokaisen eri päivän
+kymmeneen osaan määrättyjen velvollisuuksien tottumuksen-omaiseen
+kaavaan, samoin kuin he kymmeneen osaan jakoivat rahansa ja
+mittansakin, sen sijaan hän saarnasi miten tärkeätä oli elää täydesti
+joka ainoana hetkenä.
+
+Ne, jotka hän pelasti synnistä, pelastuivat aivan yksinkertaisesti
+vain heidän elämänsä kauniiden hetkien vuoksi. Kun Maria Magdaleena
+näkee Kristuksen, niin hän särkee kallisarvoisen alabasterimaljakon,
+jonka yksi hänen seitsemästä rakastajastaan on antanut hänelle,
+ja kaataa hyvänhajuiset yrtit Kristuksen väsyneille ja tomuisille
+jaloille, ja tuon yhden hetken vuoksi saa hän iankaikkisesti istua
+Ruutin ja Beatricen kanssa paradiisin lumivalkoisten ruusupensaitten
+varjossa. Kaikki mitä Kristus sanoo meille hellänä varoituksena on
+se, että joka hetken tulisi olla täynnä kauneutta, että sielun alati
+pitäisi olla valmiina vastaanottamaan ylkää, aina kuunnella rakastetun
+ääntä, sillä poroporvarillisuus on vain se puoli ihmisen luontoa, jota
+mielikuvitus ei kirkasta. Hän näkee kaikki elämän suloiset vaikutteet
+ikäänkuin valonsäteinä: mielikuvitus itse on valon maailma. Se on
+luonut maailman, eikä maailma sittenkään kykene sitä käsittämään;
+sillä mielikuvitus on vain rakkauden ilmaisumuoto, ja vain rakkaus ja
+rakastamiskyky eroittaa toisen inhimillisen ihmisen toisesta.
+
+Mutta silloin kun Kristus joutuu tekemiseen syntisen kanssa, hän
+on kaikista romantisin, sen todellisimmassa merkityksessä. Maailma
+oli aina rakastanut pyhimystä siksi, että tämä oli lähin askel
+Jumalan täydellisyyteen. Kristus jumalallisella vaistollaan näytti
+aina rakastaneen syntistä siksi, että hän oli lähin askel ihmisen
+täydellisyyteen. Hänen korkein toiveensa ei ollut parantaa ihmisiä,
+yhtä vähän kuin hänen korkein toiveensa oli lievittää tuskaa. Hänen
+päämääränsä ei ollut käännyttää mielenkiintoista varasta ikäväksi,
+rehelliseksi ihmiseksi. Hän ei olisi pannut suurta arvoa vapautettujen
+vankien avustamisyhdistykseen eikä muihin senkaltaisiin uudenaikuisiin
+yrityksiin. Publikaanin käännyttäminen fariseukseksi ei olisi hänen
+mielestään ollut mikään ansiokas teko. Mutta tavalla, jota maailma ei
+vielä ole ymmärtänyt, hän katsoi, että synti ja suru itsessään olivat
+jotakin pyhää ja kaunista ja tavallaan täydellisyyden muotoja.
+
+Tuo ajatus tuntuu varsin vaaralliselta. Niin se onkin -- kaikki suuret
+ajatukset ovat vaarallisia. Että se oli Kristuksen ajatus, siitä ei ole
+epäilyä. Että se on oikea ajatus, sitä en minä itse epäile.
+
+Tietysti syntisen täytyy katua. Mutta minkä vuoksi? Yksinkertaisesti
+sen vuoksi, ettei hän muulla tavalla voisi selvittää itselleen mitä
+hän on tehnyt. Katumuksen hetki on alku johonkin uuteen. Ja vieläkin
+enemmän: se on se keino, jonka avulla ihminen muuttaa entisyytensä.
+Kreikkalaiset luulivat sitä mahdottomuudeksi. He sanovat usein
+aforismeissansa: "Eivät edes Jumalat voi entisyyttä muuttaa." Kristus
+osoitti, että halvinkin syntinen saattoi sitä tehdä, että se oli ainoa,
+mitä hän saattoi tehdä. Jos Kristukselta olisi kysytty, niin hän olisi
+sanonut -- minä olen aivan varma siitä -- että sinä hetkenä, jolloin
+tuhlaajapoika lankesi polvilleen ja itki, hän muutti koko entisen
+elämänsä, tuon elämän, jolloin hän irstaisuudessa oli hukannut varansa,
+sikoja kainnut ja himoinnut rapaa, jota siat söivät, kauniiksi ja
+pyhiksi hetkiksi. Useimpien ihmisten on vaikea käsittää tätä ajatusta.
+Tahtoisin väittää, että ihmisen täytyy joutua vankilaan ymmärtääkseen
+sitä. Jos todellakin niin on, niin maksaa vaivaa istua vankilassa.
+
+Kristuksen olemuksessa on jotakin aivan erikoista. Samoinkuin
+sarastus käy ennen aamun valkenemista, ja talvipäivät voivat olla
+niin aurinkoisia, että ne viettelevät kevätkukan tuhlaamaan kultaansa
+ennen aikojaan, ja mielettömän linnun rakentamaan pesänsä paljaille
+oksille, samoin on tietysti ollut kristityitä ennen Kristusta. Siitä
+meidän pitäisi olla kiitollisia. Onnettomuus on vain siinä, ettei
+niitä ole ollut hänen jälkeensä. Yksi poikkeus on kuitenkin ollut,
+Pyhä Franciskus Assisilainen. Mutta Jumala olikin antanut hänelle
+syntyessään runoilijan sielun, ja itse hän aivan nuorena oli ottanut
+köyhyyden morsiamekseen salaperäiseen avioliittoon: ja runoilijan
+sielulla ja kerjäläisen ruumiilla hän huomasi tien täydellisyyteen
+helpoksi. Hän ymmärsi Kristusta ja tuli hänen kaltaiseksensa. Meidän
+ei tarvitse lukea kirjaa Liber Conformitatum saadaksemme tietää, että
+Pyhän Franciskuksen elämä oli todellinen _Imitatio Christi_, Kristuksen
+seuraaminen, runoelma, johon verrattuna tämän niminen kirja ei ole
+muuta kuin proosaa.
+
+Kun kaikki on sanottu Kristuksesta, niin huomaamme hänessä suurimmaksi
+viehätykseksi sen, että hän on aivan kuin taideteos. Hän ei oikeastaan
+opeta meille mitään, mutta hänen läheisyydessään ihminen tulee
+joksikin. Ja jokaisella on etuoikeus päästä hänen läheisyyteensä.
+Kerran ainakin elämässään jokainen astuu Kristuksen kanssa Emaukseen.
+
+Mitä minun toiseen aiheeseni tulee, taiteellisen elämän suhteesta
+ulkonaiseen elämään, niin tuntunee varmaan oudolta, että minä olen
+valinnut juuri sen aineen. Ihmiset viittaavat Reading Gaoliin ja
+sanovat: "Sinne taiteellinen elämä johtaa ihmisen". No, voisihan se
+johtaa pahempaankin paikkaan. Koneellisemmat ihmiset, joille elämä
+on ovelaa keinottelua, joka riippuu tarkoista keinojen ja tointen
+punnitsemisesta, tietävät aina mihin heidän tulee mennä, ja menevätkin
+sinne. He aloittivat sillä ihanteellisella toiveella, että he
+pääsisivät seurakunnan kirkonvartioiksi, ja olkoot he missä asemassa
+hyvänsä, niin seurakunnan kirkonvartijoiksi he pääsevät, mutta ei
+myöskään muuksi. Ihminen, joka haluaa tulla joksikin ulkopuolella
+omaa itseänsä, joko parlamentin jäseneksi tai kelvolliseksi
+maustekauppiaaksi tai suosituksi asianajajaksi tai tuomariksi tai
+joksikin muuksi yhtä ikäväksi, pääsee aina siksi, miksi hän on
+halunnut. Se on hänen rangaistuksensa. Ne, jotka haluavat naamiota,
+saavat sitä kantaa.
+
+Mutta elämän liikevoimien ja niiden, joissa nuo liikevoimat ovat
+muuttuneet lihaksi ja vereksi, niiden laita on aivan toinen. Ihmiset,
+jotka vain haluavat itsensätoteuttamista, eivät koskaan tiedä minne
+mennä. He eivät voi sitä tietää. Sanan yhdessä merkityksessä on
+tietysti välttämätöntä, niinkuin kreikkalainen oraakkeli sanoi,
+tuntea itsensä: siinä on tiedon ensimäinen tehtävä. Mutta viisauden
+korkein päämäärä on siinä, että tajuaa, ettei ihmisen sielua voi oppia
+tuntemaan. Perimmäinen salaisuus on ihminen itse. Kun on punninnut
+aurinkoa vaa'alla ja mitannut kuun askeleita ja kartoittanut seitsemän
+taivaan tähti tähdeltä, niin jäljelle jää sittenkin oma itse. Kuka
+voi laskea oman sielunsa kiertorataa? Kun poika läksi etsimään
+isänsä aaseja, niin hän ei tiennyt, että Jumalan mies odotti häntä
+kruunausöljy kädessä ja että hänen sielunsa jo oli kuninkaan sielu.
+
+Toivon saavani elää kylliksi kauan voidakseni luoda sellaisen teoksen,
+jotta elämäni ehtoona voisin sanoa: "Niin! juuri tähän taiteellinen
+elämä johtaa ihmisen!" Kaksi täydellisintä elämää, mitä minä omasta
+kokemuksesta olen nähnyt, ovat Verlainen ja ruhtinas Krapotkinin:
+kumpikin on viettänyt vuosikausia vankeudessa: edellinen on ainoa
+kristillinen runoilija, joka on elänyt Danten jälkeen; jälkimäisellä
+on tuon ihmeellisen Valkean Kristuksen sielu, joka näyttää tulevan
+Venäjältä. Ja näinä viimeisinä seitsemänä, kahdeksana kuukautena,
+huolimatta niistä melkein yhtämittaisista suruista, jotka ulkoa
+maailmasta ovat minua kohdanneet, olen tullut suoranaiseen yhteyteen
+uuden hengen kanssa, joka työskentelee tässä vankilassa ihmisten ja
+esineitten kautta ja joka on auttanut minua enemmän, kuin mitä sanoin
+voin selittää. Ensimäisenä vuonna vankilassa en voi muistaa tehneeni
+muuta kuin vääntäneeni käsiäni voimattomassa tuskassa ja sanoneeni:
+"Millainen loppu, millainen hirveä loppu!" Mutta nyt sen sijaan koetan
+sanoa itselleni, ja sanonkin joskus, kun en rääkkää itseäni, aivan
+vilpittömästi: "Millainen alku, millainen ihmeellinen alku!" Se voi
+todellakin olla sitä. Se voi siksi tulla. Jos se siksi tulee, niin olen
+suuressa kiitollisuudenvelassa tälle uudelle personallisuudelle, joka
+on muuttanut jokaisen ihmisen elämän tällä paikalla.
+
+Sen voi helposti ymmärtää kun sanon, että jos olisin päässyt vapaaksi
+viime toukokuussa, niinkuin koetin pyrkiä, niin olisin lähtenyt
+täältä kiroten tätä vankilaa niin katkeralla vihalla, että se olisi
+myrkyttänyt minun elämäni. Olen saanut olla vuotta kauemmin vankilassa,
+mutta hyvyys on tunkeutunut tänne meidän kaikkien luokse, ja nyt kun
+lähden täältä, niin muistan aina sitä suurta ystävällisyyttä, jota
+melkein jokainen täällä on osoittanut minulle, ja vapautuspäivänäni
+minulla on tilaisuus lausua kiitokseni monelle ja pyytää heitä
+muistamaan minua.
+
+Vankilajärjestelmä on kokonaan väärä. Tahtoisin antaa vaikka mitä, jos
+voisin muuttaa sitä päästyäni vapaaksi. Aion ainakin koettaa. Mutta
+ei mikään maailmassa ole niin väärää, ettei hyvyyden henki, joka on
+rakkauden henki, se Kristuksen henki, jota ei löydy kirkoissa, voisi
+muuttaa sitä, jollei oikeaksi, niin ainakin sellaiseksi, että sitä voi
+kestää ilman liian suurta sydämen katkeruutta.
+
+Minä tiedän myös, että tuolla ulkona on minulle varattu paljon
+ilonaihetta, alkaen niistä suloisista olennoista, joille Pyhä
+Franciskus Assisilainen on antanut nimeksi tuuli veljeni ja
+sade sisareni, aina suurten kaupunkien puodinikkunoihin ja
+auringonlaskuihin. Jos tekisin luettelon kaikesta siitä, mikä minulla
+on jäljellä, niin en tiedä missä lopettaisin: sillä, totta tosiaan,
+Jumala loi maailman minua varten yhtä paljon kuin ketään muutakaan
+varten. Ehkäpä vien vankilasta mukananikin jotakin, jota minulla
+ei ollut ennen. Minun ei tarvitse sanoa, että minulle parannukset
+moraalissa ovat yhtä tyhjänpäiväisiä ja mauttomia kuin parannukset
+jumaluusopissakin. Mutta vaikka ihminen osoittaa vain typerää
+teeskentelyä siinä, että luulottelee tulevansa paremmaksi ihmiseksi,
+niin on sen etuoikeus, joka on kärsinyt, tulla syvemmäksi ihmiseksi. Ja
+siksi minä luulen tulleeni.
+
+Jos päästyäni vapaaksi joku ystäväni panisi toimeen juhlan, eikä
+kutsuisi minua siihen, niin en panisi sitä yhtään pahakseni. Voin
+olla täysin onnellinen itsekseni. Kukapa ei olisi täysin onnellinen,
+jolla on vapautta, kukkia, kirjoja ja kuutamoa? Sitäpaitsi juhlat
+eivät enää ole minua varten. Olen itse pannut toimeen liian monta,
+jotta niistä vielä välittäisin. Se puoli elämää on minulta lopussa,
+onneksi, uskallan sanoa. Mutta jos päästyäni vapaaksi suru kohtaisi
+jotakuta ystävääni, eikä hän sallisi minun ottaa siihen osaa, niin
+tuntisin katkeruutta. Jos hän sulkisi minulta surutalon ovet, niin
+palaisin takaisin yhä uudestaan ja pyytäisin päästä sisään, jotta
+voisin ottaa osaa siihen, mihin minulla on oikeutta. Jos hän arvelisi,
+etten ansaitsisi sitä, etten kelpaisi itkemään hänen kanssansa, niin
+olisi se minulle kaikkein raskain nöyryytys, kaikkein katkerin tapa,
+millä minua voitaisiin loukata. Mutta se ei voisi tapahtua. Minulla on
+oikeus ottaa osaa suruun, ja se, joka voi katsella maailman suloutta ja
+ottaa osaa sen suruun, ja ymmärtää osittain kumpaistakin mysteriota, on
+välittömässä yhteydessä sen kanssa, mikä on jumalallista, ja on tullut
+niin lähelle Jumalan salaisuutta, kuin ihminen voi tulla.
+
+Ehkäpä minun taiteeseni, yhtä hyvin kuin elämäänikin, voi tulla
+vieläkin syvempi sävy, jonka tunne on kokonaisempi ja vaikutus
+välittömämpi. Ei laajuus ole nykyaikuisen taiteen todellinen määrä,
+vaan syvällisyys. Me emme enää taiteessa ole sidotut tyyppiin.
+Poikkeuksiin meidän tulee kiinnittää huomiomme. Minä en voi kuvata
+kärsimyksiäni siinä muodossa, kuin ne ilmenivät, sitä minun tuskin
+tarvinnee sanoa. Taide alkaa siinä, missä jäljittely loppuu, mutta
+jotakin täytyy tulla minun työhöni, täysinäisemmät muistot, rikkaammat
+sävelet, ihmeellisemmät vaikutukset, yksinkertaisempi rakenne --
+jotakin esteetistä arvoa ainakin.
+
+Kun Marsyas "riistettiin jäsentensä tupesta" -- _della vagina delle
+membre sue_, käyttääkseni yhtä Danten kauheimmista Tacituksen
+omaisista lauseparsista -- niin hänen laulunsa oli vaiennut, sanoivat
+kreikkalaiset. Apollo oli voittanut. Lyyra oli voittanut huilun. Mutta
+ehkäpä kreikkalaiset erehtyivät. Minä kuulen usein Marsyaksen huudon
+nykyaikuisessa taiteessa. Baudelairella se on katkera, Lamartinella
+suloinen ja valittava, Verlainella salaperäinen. Se piilee Chopinin
+musiikin hillityissä sulatuksissa. Se esiintyy siinä tyytymättömässä
+ilmeessä, joka kummittelee Burne-Jonesin naiskasvoissa. Myöskin
+Matthew Arnoldilla, jonka laulu Callicleesta kertoo meille "suloisen,
+houkuttelevan lyyran triumfeista" ja "mainehikkaasta lopullisesta
+voitosta" niin lyyrillisestä kauneudesta loistavin sävelin, --
+hänelläkin on sitä varsin paljon; epäilyksen ja rauhattomuuden
+kiihkeästä pohjasävelestä, joka asuu hänen sävelissään, ei Goethe
+eikä liioin Wordsworth voineet häntä vapauttaa, vaikka hän seurasi
+kumpaistakin vuorossansa, ja kun hän tahtoo surra _Thyrsis_tä, tai
+laulaa _Mustalais-ylioppilaasta_, niin hänen täytyy tarttua huiluun
+saadakseen ilmi sävelmänsä. Mutta vaikenipa frygiläinen fauni tai ei,
+minä en voi vaieta. Ilmaisu on minulle yhtä välttämätöntä kuin lehdet
+ja kukat noille mustille puunoksille, jotka näkyvät vankilan muurin
+yläpuolelta ja levottomasti liikkuvat tuulessa. Minun taiteeni ja
+maailman välillä on nyt leveä kuilu, mutta taiteen ja minun välilläni
+sitä ei ole. Ainakin minä toivon, ettei sitä ole olemassa.
+
+Jokaiselle meistä on määrätty erilaiset kohtalot. Minun osakseni
+on tullut julkinen häväistys, pitkä vankeudenaika, kärsimystä,
+köyhyyttä ja häpeää, mutta minä en ole sen arvoinen -- en ainakaan
+vielä. Muistan, että minulla oli tapana sanoa, että luulin voivani
+kestää todellista murhenäytelmää, jos se tulisi minun luokseni
+purppuravaipassa ja jalon surun naamiossa, mutta että nykyajan pahin
+vika oli siinä, että se puki murhenäytelmän huvinäytelmän verhoon,
+jotta suuret tosiasiat muuttuivat jokapäiväisiksi tai tyylittömiksi.
+Tämä pitää täydellisesti paikkansa nykyaikaan nähden. Ja ehkäpä olevien
+olojen laita on ollutkin sellainen. On sanottu, että marttyyrius on
+aina katselijasta tuntunut kehnolta. Yhdeksästoista vuosisata ei ole
+mikään poikkeus säännöstä.
+
+Kaikki minun murhenäytelmässäni on ollut inhottavaa, kehnoa,
+vastenmielistä, tyylitöntä; yksin meidän pukummekin tekee meidät
+luonnottomiksi. Me olemme surun klovneja, joiden sydän on murtunut.
+Meidän tulee herättää ihmisissä huumorin tunnetta. Marraskuun 13:na
+p. 1895 minut tuotiin tänne Lontoosta. Kello kahdesta puoli kolmeen
+sinä päivänä minun täytyi seisoa Clapham Junction aseman keskisillalla
+vangin puvussa ja käsiraudoissa kaikkien nähtävänä. Minut oli otettu
+pois sairashuoneosastolta ilmoittamatta minulle siitä edeltäpäin.
+Kaikista mahdollisista olennoista olin minä enimmin groteski. Kun
+ihmiset näkivät minut, niin he nauroivat. Jokainen juna, joka tuli
+asemalle, lisäsi katselijajoukkoa. Ei mikään voinut hillitä heidän
+iloansa. Se tapahtui tietysti ennenkuin he tiesivät kuka minä olin. Kun
+he saivat sen tietää, niin heidän naurunsa vain yltyi. Puolen tuntia
+minä seisoin siinä harmaassa marraskuun sateessa, pilkkaavan roskaväen
+keskellä.
+
+Kokonaisen vuoden aikana tämän jälkeen minä itkin joka päivä samaan
+aikaan ja yhtä kauan. Se ei ole niin traagillista, kuin miltä se voi
+kuulua. Niille, jotka ovat vankeudessa, ovat kyyneleet jokapäiväisen
+kokemuksen osana. Päivä vankeudessa, jona ei itke, on päivä, jolloin
+sydän on kova, eikä päivä, jolloin sydän on onnellinen.
+
+Mutta nyt minä todellakin rupean säälimään enemmän niitä, jotka
+nauroivat kuin itseäni. Tietysti en silloin, kun he näkivät minut,
+seisonut piedestalillani, vaan häpeäpaalussa. Mutta ainoastaan
+mielikuvitukseton luonne tuntee mielenkiintoa piedestalilla seisovaa
+ihmistä kohtaan. Piedestali voi olla hyvin epätodellinen kapine.
+Häpeäpaalu on hirveää todellisuutta. Heidän olisi myös pitänyt ymmärtää
+tulkita surua paremmin. Olen sanonut, että surun alla piilee aina
+surua. Olisi vieläkin viisaampaa sanoa, että surun alla aina piilee
+sielu. Ja pilkata sielua, joka kärsii, on julmaa. Elämän ihmeellisen
+yksinkertaisessa taloudessa ihmiset saavat vain takaisin sen, minkä he
+itse ovat antaneet, ja jollei ihmisellä ole kylliksi mielikuvitusta
+tunkeutuakseen ulkokuoren läpi ja tunteakseen sääliä, mitäpä muuta
+hänen osakseen voisi tulla kuin pilkan sääliä?
+
+Minä puhun mielentilastani muuton aikana vain siksi, että
+käsitettäisiin, kuinka vaikea minun on ollut tuntea mitään muuta
+kuin katkeruutta ja epätoivoa rangaistukseni johdosta. Minun täytyy
+sittenkin koettaa, ja silloin-tällöin on minulla hetkiä, jolloin
+mieleni on alistuvainen ja nöyrä. Koko kevät voi olla kätkettynä
+pieneen silmukkaan, ja leivon alhaalla maaperässä oleva pesä voi
+sisältää riemun, joka on monien rusottavien aamunsarastusten airueena.
+Ja samalla tavalla ehkäpä se elämän kauneus, joka vielä on minulle
+varattuna, piilee jossakin alistumisen ja nöyryytyksen hetkessä. En voi
+muuta kuin jatkaa oman kehitykseni rataa sekä ottamalla vastaan kaiken
+mikä minua kohtaa, tehdä itseni sen arvoiseksi.
+
+Ihmisillä oli tapana sanoa minusta, että olin liiaksi individualisti.
+Minun pitää tulla vieläkin enemmän individualistiksi, kuin mitä
+koskaan olen ollut. Minun täytyy saada vielä paljoa enemmän omasta
+itsestäni kuin ennen, ja vaatia vähemmän maailmalta kuin koskaan
+ennen. Tosiaankin, minun perikatoni ei johtunut liian suuresta elämän
+individualismista, vaan pikemmin liian pienestä. Ainoa häpeällinen,
+anteeksiantamaton ja kaikkina aikoina moitittava teko minun elämässäni
+oli se, että saatoin vedota yhteiskuntaan apua ja suojelusta anoen.
+Sellainen vetoaminen olisi individualistin kannalta katsoen ollut
+kylläkin paha, mutta millä tätä tekoa koskaan voidaan puolustella?
+Tietysti kun kerran olin saattanut liikkeelle yhteiskunnan voimat, niin
+yhteiskunta kääntyi minua vastaan ja sanoi: "Oletko koko elämäsi ajan
+vastustanut minun lakejani ja nytkö vetoat näihin samoihin lakeihin
+saadaksesi suojaa? Saat nähdä, miten nämät lait toimivat täydellä
+voimallaan. Saat alistua niiden alle, joihin olet vedonnut!" Tuloksena
+on se, että istun vankeudessa. Varmaankaan ei kukaan ole sortunut niin
+häpeällisesti, eikä niin häpeällisten välikappaleiden kautta kuin minä.
+
+Poroporvarillinen aines elämässä ei ole taiteen ymmärtämisen puutetta.
+Viehättävät ihmiset, sellaiset kuin kalastajat, paimenet, kyntömiehet,
+talonpojat ja muut sen kaltaiset, eivät tiedä mitään taiteesta, ja he
+ovat sittenkin maan suola. Se on poroporvari, joka ylläpitää ja auttaa
+raskaita, taipumattomia, sokeita, koneellisia yhteiskunnan voimia, ja
+joka ei tunne liikevoimaa, kun hän kohtaa sen ihmisessä tai liikkeessä.
+
+Ihmiset arvelivat minun tehneen pahoin, kun istuin pöytään elämän
+huonojen ainesten kanssa ja kun minulla oli huvia heidän seurastaan.
+Mutta siltä kannalta kuin minä elämän taiturina katselin niitä, olivat
+ne erinomaisen vaikuttavia ja kiihoittavia. Vaara oli jo puoleksi
+jännitystä... Minun paikkani taiteilijana oli Arielin rinnalla. Minä
+aloin painiskella Calibanin kanssa...
+
+Eräs hyvä ystäväni -- kymmenvuotinen ystäväni -- kävi minua
+tervehtimässä joku aika sitten ja sanoi, ettei hän uskonut sanaakaan
+siitä, mistä minua syytettiin, ja hän tahtoi sanoa minulle, että hän
+uskoi minun olevan aivan viattoman ja vain pahanilkisen salaliiton
+uhrin. Minä purskahdin itkuun, kun hän sen sanoi, ja vakuutin
+hänelle, että vaikka suoranaisissa syytöksissä olikin paljon väärää
+ja sellaista, jota pahansuovat ihmiset olivat hartioilleni kasanneet,
+niin oli minun elämäni ollut täynnä luonnottomia nautintoja, ja
+jollei hän tunnustanut tätä tosiasiaa eikä sitä täysin ymmärtänyt,
+niin emme enää voisi olla ystäviä, emmekä seurustella yhdessä. Se
+oli hirveä isku hänelle, mutta me olemme ystäviä, enkä ole voittanut
+hänen ystävyyttänsä valheellisilla keinoilla. Totuuden sanominen on
+tuskallista, mutta vieläkin pahempi on valhetella.
+
+Kun asiani viimeisen kerran oli oikeuden edessä esillä, niin minä
+istuin syytettyjen penkillä ja kuuntelin Lockwodin musertavaa syytöstä;
+se oli ikäänkuin palanen Tacitusta tai Dantea, aivankuin joku
+Savonarolan palopuheista Rooman paaveja vastaan. Minua inhotti se,
+mitä minun korvani kuuli. Silloin äkkiä välähti aivoissani: "Kuinka
+suurenmoista se olisi, jos itse sanoisit kaikkea tätä itsestäsi!"
+Samalla ajattelin: se mitä ihmisestä sanotaan, ei merkitse mitään,
+kaikki riippuu vain siitä, kuka sen sanoo. Ihmisen suurin hetki on
+se, jolloin hän polvistuu tomuun, lyö rintoihinsa ja tunnustaa kaikki
+elämänsä synnit...
+
+Tunnevoimat ovat, niinkuin sanon jossakin kohtaa kirjassani
+_Intentions_ (Aikomuksia) yhtä rajoitettuja alaltaan ja
+kestävyydeltään, kuin tyypillisen energian voimat. Pikariin ei
+mahdu enempää kuin juuri se määrä, jota varten se on tehty vaikka
+kaikki Bourgognen purppuranpunaiset viiniastiat täytettäisiin aivan
+reunojansa myöten viinillä, ja viininkorjaajat seisoisivat polviaan
+myöten rypäleitten keskellä Espanjan viinimäissä. Ei mikään erehdys
+ole tavallisempi kuin se luulo, että muka ne, jotka ovat syypäät
+suuriin murhenäytelmiin, myös itse tuntisivat sellaisia tunteita,
+jotka seuraavat traagillisen tunnelman mukana: ei mikään erehdys ole
+vaarallisempi, kuin tuollainen oletus. Marttyyri tuliverhossansa voi
+nähdä Jumalan kasvot, mutta sille, joka kerää risukimput ja kohentaa
+kekäleitä, ei koko näytös merkitse sen enempää kuin härän teurastaminen
+teurastajalle, tai puun kaataminen hiilienpolttajalle metsässä, tai
+kukan taittuminen niittäjälle. Suuret intohimot ovat suuria sieluja
+varten, ja suuria tapauksia voivat vain ne nähdä, jotka ovat samalla
+tasolla kuin nekin.
+
+       *       *       *       *       *
+
+Taiteen näkökannalta katsoen en tiedä mitään koko draamallisessa
+kirjallisuudessa, joka todistaisi herkempää huomiokykyä kuin
+Shakespearen kuvaamat Rosencrantz ja Guildenstern. Ne ovat Hamletin
+yliopistotovereita. Ne ovat olleet hänen ystäviänsä. Ne muistuttavat
+hänelle yhteisiä iloisia päiviä. Sinä hetkenä, jolloin he näytelmässä
+kohtaavat hänet, hän hoippuu taakan alla, joka hänen luonteiselleen
+miehelle on sietämätön. Kuolleet ovat aseissa nousseet haudastansa
+pakoittaakseen hänelle tehtävän, joka samalla on hänelle sekä liian
+suuri että liian halpa. Hän on uneksija, ja nyt häntä käsketään
+ryhtymään toimintaan. Hänellä on runoilijan luonne, ja hänen on pakko
+taistella tuota yleistä syyn ja seurauksen toisistaan riippuvaisuutta
+vastaan, jokapäiväisen elämän todellista hahmoa vastaan, josta hän
+ei tiedä mitään, eikä sen ihanteellista olemusta vastaan, josta
+hän tietää niin paljon. Hänellä ei ole aavistustakaan siitä, mitä
+hänen tulee tehdä, ja hänen hulluutensa on siinä, että hän tekeytyy
+hulluksi. Brutus käytti hulluutta viittanaan peittäen sillä aikeensa
+miekan, tahtonsa tikarin, mutta Hamletin hulluus on vain naamio, jonka
+tulee salata heikkoutta. Panemalla toimeen ilveilyjä ja sanomalla
+sukkeluuksia hän toivoo saavansa aikaan viivytystä. Hän leikittelee
+teon kanssa niinkuin taiteilija leikittelee teorialla. Hän tekee
+itsensä omien tekojensa vakoojaksi ja kuunnellessaan omia sanojaan
+hän tietää, että ne ovat vain sanoja, sanoja, sanoja. Sen sijaan,
+että hän koettaisi olla oman historiansa sankari, hän koettaa olla
+oman murhenäytelmänsä katselija. Hän epäilee kaikkea, myös itseänsä,
+eikä hänen epäilyksensä auta häntä sittenkään, sillä se ei johdu
+skeptisyydestä, vaan murtuneesta tahdosta.
+
+Kaikesta tästä ei Guildenstern eikä Rosencrantz ymmärrä mitään.
+He kumartavat ja imartelevat ja hymyilevät, ja mitä toinen sanoo,
+sen toinen kaikuna toistaa heikolla äänellä. Kun Hamlet vihdoin on
+näytelmässä esiintyvän näytelmän ja hyppivien nukkien kautta "kuninkaan
+omantunnon ansaan vienyt" ja karkoittanut onnettoman miehen kauhun
+vallassa valtaistuimeltaan, niin Guildenstern ja Rosencrantz eivät näe
+hänen käytöksessään muuta kuin kiusallista hovietiketin rikkomista.
+Niin syvällisesti he kykenevät "tarkastamaan elämän näytelmää
+oikeilla tunteilla". He ovat aivan lähellä hänen salaisuuttansa,
+eivätkä tiedä siitä mitään. Eikä siitä mitään hyötyä olisi vaikka
+sen heille sanoisikin. He ovat niitä pieniä pikareita, joihin mahtuu
+vain määrätty mittansa, eikä sen enempää. Lopussa viitataan siihen,
+että he joutuvat kiinni toiselle viritettyyn, sukkelaan ansaan, että
+heitä on kohdannut tai voi kohdata väkivaltainen ja äkillinen kuolema.
+Mutta sellainen traagillinen loppu, vaikkapa siihen Hamletin huumorin
+kautta on tullutkin hiukan komedian yllätystä ja oikeuden jakoa, ei ole
+tosiaankaan heidän kaltaisiaan varten. He eivät koskaan kuole. Horatio,
+jonka määränä on "kertoa maailmalle Hamletin teot oikein", hän, joka
+
+    "-- heittää hetkeks taivaan autuudet,
+    jää tähän kolkkoon, kurjaan mailmahan",
+
+hän kuolee, mutta Guildenstern ja Rosencrantz ovat yhtä kuolemattomia
+kuin Angelo ja Tartuffe, ja ne olisivat asetettavat heidän
+rinnalleen. He edustavat sitä, mikä nykyajan elämässä vastaa antiikin
+ystävyydenihannetta. Sen, joka kirjoittaa uuden _De Amicitia_
+(Ystävyydestä) teoksen, tulee keksiä heille oma lukunsa ja ylistää
+heitä tusculumilaisella proosalla. He ovat tyyppejä, jotka ikuisesti
+pitävät paikkansa. Jos heitä moittii, niin osoittaa se ymmärtämisen
+puutetta. He ovat vain ulkopuolella omaa ilmapiiriänsä: ei muuta.
+Sielun ylevyys ei ole tarttuvaa. Jalot ajatukset ja tunteet ovat
+eristetyt pelkän olemassaolonsa kautta.
+
+Minä pääsen vapaaksi, jos kaikki käy hyvin, toukokuun lopussa,
+ja toivon heti voivani lähteä johonkin pieneen ulkomaalaiseen
+rannikkokylään Robbien ja More Adeyn kanssa.
+
+Meri, niinkuin Euripides sanoo yhdessä Iphigenia näytelmistään, huuhtoo
+maailman tahrat ja haavat.
+
+Toivon saavani olla ystävieni kanssa ainakin kuukauden päivät, jotta
+pääsisin taas rauhaan ja tasapainoon, ja jotta sydämeni levottomuus
+vähenisi ja mielentilani tyyntyisi. Minä kaipaan kiihkeästi kaikkea
+sitä, mikä on suurta, yksinkertaista ja alkuperäistä, niinkuin merta,
+joka minulle on yhtä paljon äiti kuin maakin. Minusta tuntuu, että me
+kaikki katselemme liiaksi luontoa, emmekä elä kyllin sen yhteydessä.
+Minun mielestäni kreikkalainen käsitys oli paljoa terveempi. He
+eivät koskaan puhuneet auringonlaskusta, eivätkä väitelleet siitä,
+olivatko varjot ruohistossa todellakin malvanvärisiä vai ei. Mutta
+he näkivät, että meri oli uimaria varten ja hiekka juoksijan jalkoja
+varten. He rakastivat puita sen siimeksen vuoksi, jonka ne loivat, ja
+metsää hiljaisuuden vuoksi sydänpäivällä. Viinitarhan työmies pani
+päähänsä murattiseppeleen varjoksi auringonsäteiltä, kun hän kumartui
+nuorten taimien yli, ja taiteilijalle ja atleetille, noille molemmille
+tyypeille, jotka Kreikka meille on antanut, sidottiin seppeleitä
+karvaan laakerin lehdistä ja villistä persiljasta, joista muuten ei
+ihmisellä olisi ollut mitään hyötyä.
+
+Me kutsumme aikaamme käytännöllisen hyödyn aikakaudeksi, emmekä osaa
+sittenkään mitään käyttää. Me olemme unohtaneet, että vesi voi pestä
+puhtaaksi ja tuli puhdistaa, ja että maa on meidän kaikkien äiti.
+Seurauksena siitä on se, että meidän taiteemme on kuusta kotoisin
+ja että se leikkii varjoilla, jota vastoin kreikkalaisten taide on
+auringosta ja käsittelee välittömästi kaikkea. Minä olen varma siitä,
+että alkuvoimissa on puhdistava kyky, ja minä tahtoisin palata niihin
+ja elää niiden läheisyydessä.
+
+Tietysti minulle, joka olen niin kokonaan nykyajan ihminen, "enfant
+de mon siècle", tulee aina olemaan suuri nautinto vain katsellakin
+maailmaa. Minä vapisen ilosta ajatellessani, että jo samana päivänä,
+jolloin pääsen pois vankilasta, sekä kultavihma että sireeni kukkivat
+puutarhoissa, ja että saan nähdä tuulen keinuttelevan edestakaisin
+noita kultaisia terttuja ja koskettelevan sireenin sulkain vaaleaa
+purppuraa, niin että ilma on tuleva minulle kuin Arabiaksi. Linné
+polvistui maahan ja itki ilosta, kun hän ensi kerran näki jossain
+Englannin ylängöillä laajan nummen, joka kimalteli keltaisena
+tavallisen piikkiherneen tuoksuvista kukista; ja minä tiedän, että
+minua, joka rakastan melkein intohimoisesti kukkia, odottavat kyyneleet
+jonkun ruusun terälehdissä. Minun laitani on ollut sellainen aina
+lapsuudesta saakka. Ei ole ainoatakaan väriä kätkettynä kukan kupuun
+eikä simpukan kierteisiin, jolla ei olisi vastinetta minun luonteessani
+-- sen vaikuttaa hieno sympatia esineiden sielun kanssa. Samoinkuin
+Gautier olen minäkin ollut yksi niistä, "pour qui le monde visible
+existe". [Joille näkyvä maailma on olemassa.]
+
+Kuitenkin minä olen tietoinen nyt siitä, että kaikessa tässä
+kauneudessa, olipa se kuinka tyydyttävää hyvänsä, piilee sielu,
+jonka ilmaisumuotoja vain ovat maalatut hahmot ja muodot, ja tämän
+sielun kanssa minä tahdon olla sopusoinnussa. Olen väsynyt ihmisten
+ja esineitten havaittaviin ilmaisuihin. Salaperäisyyttä taiteessa,
+salaperäisyyttä elämässä, salaperäisyyttä luonnossa -- kas siinä se,
+mitä minä etsin. On aivan välttämätöntä, että minä löydän sen jossain.
+
+Kaikki oikeudelliset tutkinnot ovat tutkintoja ihmisen elämästä,
+samoinkuin kaikki tuomiot ovat kuolemantuomioita; ja kolme kertaa
+minua on kuulusteltu. Ensi kerran minä läksin salista, jotta
+minut vangittaisiin, toisella kertaa minut saatettiin takaisin
+tutkintovankilaan, kolmannella kerralla minut vietiin vankilaan
+kahdeksi vuodeksi. Yhteiskunnalla, sellaiseksi kuin me sen olemme
+rakentaneet, ei ole mitään paikkaa minulle tarjottavana; mutta luonto,
+jonka virkistävät sateet käyvät tasan sekä väärille että vanhurskaille,
+tarjoaa minulle kallioittensa koloja piilopaikoiksi ja yksinäisiä
+laaksoja, joiden hiljaisuudessa voin häiritsemättä itkeä. Hän valaisee
+yön tähdillä, jotta voin vaeltaa ulkona pimeässä kompastumatta ja antaa
+tuulen tasoittaa minun askelteni jäljen, jotta ei kukaan voi minua ajaa
+takaa ja vahingoittaa: hän puhdistaa minut syvissä vesissä ja parantaa
+minut katkerilla yrteillä.
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of De profundis, by Oscar Wilde
+
+*** END OF THIS PROJECT GUTENBERG EBOOK DE PROFUNDIS ***
+
+***** This file should be named 46824-0.txt or 46824-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/6/8/2/46824/
+
+Produced by Juha Kiuru and Tapio Riikonen
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License available with this file or online at
+  www.gutenberg.org/license.
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation information page at www.gutenberg.org
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at 809
+North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+contact links and up to date contact information can be found at the
+Foundation's web site and official page at www.gutenberg.org/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:  www.gutenberg.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For forty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

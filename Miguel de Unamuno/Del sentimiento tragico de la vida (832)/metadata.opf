@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">832</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6087e15-6b3b-43db-9356-856d69333c08</dc:identifier>
+        <dc:title>Del sentimiento trágico de la vida</dc:title>
+        <dc:creator opf:file-as="Unamuno, Miguel de" opf:role="aut">Miguel de Unamuno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1912-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Para numerosos especialistas, este ensayo constituye la expresión más clara y completa del pensamiento filosófico del pensador Miguel de Unamuno, una de las figuras intelectuales más relevantes de la España anterior a la Guerra Civil. Con este libro, agitado y vehemente, Miguel de Unamuno no profundiza en lo que él mismo creía, sino que coloca el foco en lo que, según él, al hombre le valdría la pena creer ante el hecho inevitable de la muerte. En efecto, este ensayo se inscribe en las preocupaciones por la problemática existencial del hombre contemporáneo, tan en boga en las corrientes filosóficas —en particular, el existencialismo— europeas de aquel entonces. Es indudable que existen ecos de pensadores como el francés Pascal y el danés Kierkegaard en la angustia existencial que transmite este ensayo, pero su sustento ideológico también tiene que ver, en no menor medida, con el profundo conocimiento que el bilbaíno poseía de la Biblia, de los místicos españoles —especialmente de santa Teresa de Jesús—, de san Ignacio de Loyola y del pensamiento y teología protestantes.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Espiritualidad</dc:subject>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miguel de Unamuno&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:32:01.900664+00:00"/>
+        <meta name="calibre:title_sort" content="Del sentimiento trágico de la vida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

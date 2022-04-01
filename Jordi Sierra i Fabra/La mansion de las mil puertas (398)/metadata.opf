@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f17fe3d4-c457-4bc4-b914-eead3271051e</dc:identifier>
+        <dc:title>La mansión de las mil puertas</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-10T22:00:00+00:00</dc:date>
+        <dc:description>Tienes entre tus manos tres increíbles historias de terror: en La mansión de las mil puertas, dos gemelos llegan a una casa en ruinas, un laberinto en el que no se distinguen distancias ni barreras temporales; en Cambio de cerebro, un niño no puede dormir, ya que en su cerebro se han instalado unos pequeños seres que pretenden destruirle; y en ¡Máquinas!, Tomás sospecha que sus padres le ocultan algo terrorífico tanto a él como a su hermana.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:01.093164+00:00"/>
+        <meta name="calibre:title_sort" content="mansión de las mil puertas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

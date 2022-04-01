@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">754defb7-c904-4561-8964-2c626841f5f6</dc:identifier>
+        <dc:title>Donde esté mi corazón</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-08-09T22:00:00+00:00</dc:date>
+        <dc:description>Montse es una chica de 16 años que acaba de volver a la vida después de una grave operación de transplante de corazón. No sabe a quien le debe la vida pero está muy agradecida a quien le ha dado una nueva oportunidad para vivir. De todas maneras no es fácil la vuelta a la normalidad y menos en un pequeño pueblecito como Villarina donde todo se sabe. No es fácil actuar con normalidad cuando todos te miran con ojos de compasión y están temiendo que al menor esfuerzo se te vaya 'de nuevo' el aliento. Tiene la ayuda de su íntima amiga Carolina, desenfadada y sincera, de esas que primero hace y luego piensa. Menos mal que siempre tiene buena intención. Por una de esas casualidades conoce a Sergio y enseguida nace una empatía mutua que, al principio, ambos rechazan. Cada uno tiene sus motivos para no dar rienda suelta a lo que siente en su interior. Pero esa fuerza se va haciendo irresistible. En la vida de cualquiera puede haber rincones ocultos pero, si se quiere de verdad a otra persona, habrá que dejarle entrar en ellos aunque pueda producir dolor; de lo contrario sería mejor olvidarse de ella.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:31:17.757849+00:00"/>
+        <meta name="calibre:title_sort" content="Donde esté mi corazón"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

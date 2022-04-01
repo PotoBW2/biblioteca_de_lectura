@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57b6b707-c25d-4003-98c0-63dbc98c2ed8</dc:identifier>
+        <dc:title>Relatos de los mitos de Cthulhu 3</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Campbell, Ramsey &amp; Lumley, Brian &amp; Wade, James &amp; Wilson, Colin" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Campbell, Ramsey &amp; Lumley, Brian &amp; Wade, James &amp; Wilson, Colin" opf:role="aut">Ramsey Campbell</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Campbell, Ramsey &amp; Lumley, Brian &amp; Wade, James &amp; Wilson, Colin" opf:role="aut">Brian Lumley</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Campbell, Ramsey &amp; Lumley, Brian &amp; Wade, James &amp; Wilson, Colin" opf:role="aut">James Wade</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Campbell, Ramsey &amp; Lumley, Brian &amp; Wade, James &amp; Wilson, Colin" opf:role="aut">Colin Wilson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1969-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Alrededor de la figura casi legendaria de Lovecraft, surgieron una serie de autores que explotaron y desarrollaron la terrible mitología evocada por el genio de Providence, dando lugar a uno de los fenómenos literarios más sugestivos e inquitantes de nuestro siglo: LOS MITOS DE CTHULHU. Por primera vez completa en castellano, ésta es la recopilación de LOS MITOS llevada a cabo por August Derleth, colaborador directo y albacea literario de Lovecraft.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;Ramsey Campbell&quot;: &quot;&quot;, &quot;Brian Lumley&quot;: &quot;&quot;, &quot;James Wade&quot;: &quot;&quot;, &quot;Colin Wilson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:16:50.795002+00:00"/>
+        <meta name="calibre:title_sort" content="Relatos de los mitos de Cthulhu 3"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

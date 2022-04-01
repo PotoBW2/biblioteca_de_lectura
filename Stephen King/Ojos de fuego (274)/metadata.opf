@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95e3f356-69db-4aa5-9b32-ec675c1101f2</dc:identifier>
+        <dc:title>Ojos de fuego</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1980-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Charlie es una monada de niña. Rubia, de ojos azules, educada y cariñosa. Pero también es piroquinética. Sí, puede encender fuego a distancia, desde inofensivas fogatas hasta hogueras inmensas, capaces de arrasar grandes extensiones. Y si posee estas capacidades a los siete años, horroriza pensar qué podrá hacer cuando sea adulta. Aunque, la verdad, tiene muy pocas probabilidades de llegar a la edad adulta. Porque “La Tienda”, el ultrasecreto servicio estadounidense encargado de efectuar investigaciones científicas y paracientíficas para aplicarlas a las guerras frías, tibias o calientes, ha decidido estudiarla y eliminarla, tal como estudió y eliminó a sus padres después de haberlos utilizado como cobayas humanos. Y el horror se vive, se masca. Porque el verdadero horror procede de las paradojas de la situación, de una hermosa niña dulce y desamparada, que necesita protección pero que posee una inmensa capacidad destructora, y de una organización gubernamental, dedicada a la investigación científica, que emplea sus mejores hombres y sus mayores recursos en la tarea de localizar y asesinar a una niñita de siete años de cuyas facultades paranormales es responsable y de cuya actuación futura no quiere responsabilizarse.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:18:06.341693+00:00"/>
+        <meta name="calibre:title_sort" content="Ojos de fuego"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

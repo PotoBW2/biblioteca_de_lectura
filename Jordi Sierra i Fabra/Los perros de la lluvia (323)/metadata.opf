@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">323</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81f8c6bb-4042-498f-bda4-331a7cef08a2</dc:identifier>
+        <dc:title>Los perros de la lluvia</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-31T22:00:00+00:00</dc:date>
+        <dc:description>Este libro se publicó por primera vez en 1991, momento en el que ETA estaba aun activa. Comienza por un secuestro de ETA y la forma en que eso cambia la vida de todos los implicados. El secuestrado, los secuestradores, la familia, la amante, un guardía civil que seguía los pasos de los terroristas... La acción, desarrollada en horas, es trepidante, con un final frenético. Un thriller vertiginoso, de acción y de lectura.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:19:15.127060+00:00"/>
+        <meta name="calibre:title_sort" content="perros de la lluvia, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

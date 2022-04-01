@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1074</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b477b25d-84e7-4996-bc8f-2794ceeb2cd0</dc:identifier>
+        <dc:title>Más allá de los eones y otras historias en colaboración</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Debido a la penuria económica en la que transcurrieron los días terrenales de H.P. Lovecraft, el «outsider de Providence» se vio a menudo obligado a completar los magros ingresos obtenidos por sus relatos, publicados en su mayoría en revistas populares, con otro tipo de tareas algo menos gratificantes, como el asesoramiento y revisión de relatos enviados por otros autores, favores que iban desde una sucinta revisión de estilo hasta la reescritura completa de la historia con cambios sustanciales en su argumento.En 1989 apareció en Estados Unidos, publicado por Arkham House, el volumen con las colaboraciones definitivas del Maestro de Providence: «The Horror in the Museum and Other Revisions», cuya edición corrió a cargo del estudioso y experto en H.P. Lovecraft, S.T. Joshi. Estos relatos, cuya autoría comparte Lovecraft con otros escritores, fueron en su mayoría íntegramente escritos por él sobre un argumento, a menudo reconstruido, ideado por otro autor. Así, en los dos cuentos en colaboración con Winifred Virginia Jackson, «La Pradera Verde» y «El caos reptante», Jackson no aportó ni una sola palabra; en el caso de las dos historias corregidas por encargo de Adolphe de Castro, «La última prueba» y «El verdugo eléctrico», Lovecraft reescribió por completo ambos relatos, conservando apenas el hilo argumental primitivo; los tres manuscritos revisados para Zelia Bishop, «La maldición de Yig», «El montículo» y «La cabellera de Medusa», están escritos en su totalidad por HPL, según lo anotado por este en sus cartas, y tan solo conservan una pequeña parte del argumento o idea original. Finalmente, Lovecraft escribió casi por completo los cinco relatos de Hazel Heald, y en cuanto a «El diario de Alonzo Typer», de William Lumley, aparte del núcleo central de la historia, el cuento es casi en su totalidad obra de Lovecraft.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Valdemar - Gótica"/>
+        <meta name="calibre:series_index" content="91"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:41:03.252061+00:00"/>
+        <meta name="calibre:title_sort" content="Más allá de los eones y otras historias en colaboración"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d3ae1d0-553b-4fb3-be60-48b2d56529a4</dc:identifier>
+        <dc:title>San Manuel Bueno, mártir</dc:title>
+        <dc:creator opf:file-as="Unamuno, Miguel de" opf:role="aut">Miguel de Unamuno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1930-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Don Manuel, por sobrenombre Bueno (apelativo que toma Unamuno de Alonso Quijano, el Bueno), parroco de Valverde de Lucerna, es el personaje central de la novela y una de las más complejas criaturas de ficción unamunianas. La novela se organiza en torno a su lucha interior y a su comportamiento para con el pueblo. En don Manuel se condensan además muchos de los problemas que inquietaron a Unamuno durante su vida. Obra maestra de Miguel de Unamuno, considerada como su testamento espiritual. La novela muestra un espacio no descriptivo en el que se asientan los símbolos clave de la dialéctica entre fe y duda, el lago, la montaña, la nieve, la villa sumergida, etc. Manuel asume esta lucha y se convierte en mártir en tanto toma sobre sí la duda y la sufre por toda la comunidad quem sumida en el engaño, avanza cohesionada por esa supuesta verdad no cuestionada.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miguel de Unamuno&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:16:19.682625+00:00"/>
+        <meta name="calibre:title_sort" content="San Manuel Bueno, mártir"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

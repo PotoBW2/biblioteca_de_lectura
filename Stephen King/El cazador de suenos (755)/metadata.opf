@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">755</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04a3dd63-2938-4335-8fe3-d60673dc3225</dc:identifier>
+        <dc:title>El cazador de sueños</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Había una vez cuatro chicos, compañeros en todo, que decidieron proteger a un chico indefenso atormentado por el tirano del colegio. Su acción marcó un cambio decisivo en sus vidas. Un cambio tan grande que tardarían 25 años en comprender su importancia... Ahora son adultos, con más problemas y más desilusiones, pero una vez al año se reúnen para cazar en los bosques de Maine. Este año un desconocido entra en su cabaña y, aturdido y confuso, balbucea que ha visto unas extrañas luces en el cielo. Y parece que no está equivocado... En poco tiempo los cuatro amigos se encuentran en medio de una lucha terrorífica contra seres de otro mundo. La única posibilidad de salvación radica en encontrar a aquel amigo del pasado, el que sabía cazar sueños y que también sabrá frustrar los sueños de los invasores... Una obra maestra del terror y una historia de ternura y amistad profunda.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:30:01.735279+00:00"/>
+        <meta name="calibre:title_sort" content="cazador de sueños, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1219</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8472bbb-c290-461f-b4a1-a9d1a9bb38a0</dc:identifier>
+        <dc:title>El horror oculto</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1923-02-01T10:57:50+00:00</dc:date>
+        <dc:description>El horror oculto (The Lurking Fear) es un relato de terror del escritor norteamericano H.P. Lovecraft, publicado por entregas en 1923 en la revista Home Brew. El horror oculto -a veces publicado en español como El horror que acecha o El miedo que acecha- vuelve sobre un tema central en la obra de H.P. Lovecraft: la culpa atávica. Este sentido culposo se expresa en el mal que se prolonga en la sangre de una familia, generalmente representada como el espíritu vengativo de un ancestro que busca el modo de perpetuar su existencia filtrándose en la mente del protagonista. En 1989 se estrenó Herencia oscura (Dark Heritage), una película basada en El horror oculto de H.P. Lovecraft.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Sobrenatural</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:45:54.763670+00:00"/>
+        <meta name="calibre:title_sort" content="horror oculto, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

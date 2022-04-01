@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">462</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae7cd9cf-93b2-47c5-8763-99a3f4bdb733</dc:identifier>
+        <dc:title>La llamada de Cthulhu</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1928-01-01T00:00:00+00:00</dc:date>
+        <dc:description>El profesor George Angell, autoridad en lenguas semíticas en la Universidad de Brown, ha muerto. Su heredero ordena y revisa sus papeles cuando se da cuenta de que su tío abuelo investigaba un misterioso culto a unos dioses Antiguos, y que su fallecimiento está rodeado de extrañas circunstancias. Él mismo cogerá el testigo de la búsqueda y se verá inmerso en una fascinante aventura por varios rincones del mundo, desentrañando un misterio de horribles implicaciones.</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:22:35.092082+00:00"/>
+        <meta name="calibre:title_sort" content="llamada de Cthulhu, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

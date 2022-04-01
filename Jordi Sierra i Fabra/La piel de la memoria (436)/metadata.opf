@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">436</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb097443-2a3d-4b08-b9a2-6378f7a95015</dc:identifier>
+        <dc:title>La piel de la memoria</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-10-30T23:00:00+00:00</dc:date>
+        <dc:description>La vida de Kalil Mtube, un niño de Malí, cambia drásticamente cuando, después de haber sido vendido por su padre a un traficante, es obligado a trabajar brutalmente como esclavo en una plantación de cacao en Costa de Marfil. Allí conoce la amistad y el amor, pero también la despiadada crueldad de los seres humanos. Kalil lo gra escapar y llega a la ciudad de Dalao. Después de un año, decide regresar a su casa, pero en el camino es hecho prisionero por un grupo de traficantes de esclavos y metido en un barco. Durante la travesía está a punto de morir, aunque al final es rescatado. Cinco años después, Kalil cuenta toda su historia a un hombre blanco, el mismo que la transcribe a los lectores.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:53.322995+00:00"/>
+        <meta name="calibre:title_sort" content="piel de la memoria, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

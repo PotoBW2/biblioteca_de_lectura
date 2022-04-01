@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">648</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7caa1efb-b179-4ee1-bb2f-3a4bcdae7cec</dc:identifier>
+        <dc:title>El terror en la literatura</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un texto capital para conocer mejor las novelas de terror, escrito por el gran maestro del género.H. P. Lovecraft nos habla en este ensayo de «la emoción más antigua y poderosa de la humanidad»: el miedo. De todo lo que nos aterra, nos dice Lovecraft, es lo desconocido lo que nos atrae con más fuerza.El gran maestro del terror analizó el género en este ensayo publicado en 1927 examina en este magnífico texto las raíces del género en la novela gótica y traza su desarrollo a través de autores como Nathaniel Hawthorne, Edgar Allan Poe o Ambrose Bierce. Por otro lado, el autor bautiza en su ensayo a los cuatro «maestros contemporáneos» del terror: Arthur Machen, Lord Dunsany, Algernon Blackwood y M. R. James.«Palabras que nos emocionan. Palabras que nos alteran. Palabras que modifican nuestro metabolismo: haciéndonos llorar, alcanzando a conseguir que el entorno en el que las leemos ya no nos resulte seguro o previniéndonos de lo que leeremos en la página siguiente».Del prólogo de Javier Aparicio Maydeu.</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>Crítica y teoría literaria</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:27:14.707507+00:00"/>
+        <meta name="calibre:title_sort" content="terror en la literatura, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

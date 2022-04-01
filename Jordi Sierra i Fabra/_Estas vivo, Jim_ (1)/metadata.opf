@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5eb2ad4e-2a20-447d-a33a-085ef60cd2cb</dc:identifier>
+        <dc:title>¿Estás vivo, Jim?</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1978-02-15T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;El 3 de Julio de 1971 muere en París Jim Morrison, el polémico cantante del grupo The Doors. Hasta seis días después no se da a conocer la noticia al mundo y en ese momento nacen los rumores, nace la leyenda “Morrison no ha muerto”.&lt;/p&gt;&lt;p&gt;Jordi Sierra i Fabra, en ese momento uno de los principales expertos en música rock, investigó en el entorno del grupo. Siete años después, en 1978, escribió este libro que ahora reeditamos por su interés histórico.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">60977</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:08:29.614532+00:00"/>
+        <meta name="calibre:title_sort" content="¿Estás vivo, Jim?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

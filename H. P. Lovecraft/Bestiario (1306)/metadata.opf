@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1306</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87625572-688b-4596-b71f-00ee87a027f7</dc:identifier>
+        <dc:title>Bestiario</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-01T00:00:00+00:00</dc:date>
+        <dc:description>«Había seres híbridos y torpes que sólo podía concebir la fantasía, modelados con habilidad diabólica, y coloreados de un modo horriblemente afín a la vida. Algunos eran las figuras de mitos bien conocidos: gorgonas, quimeras, dragones, cíclopes y todos sus congéneres estremecedores. Otros procedían de tiempos susurrados furtivamente desde leyendas subterráneas: el negro e informe Tsathoggua, el multitentacular Cthulhu, el proboscidio Chaugnar Faugn y otras blasfemias insinuadas en libros prohibidos como el Necronomicón».Veintidos criaturas nos conducen al mundo perturbador del gran maestro de la narrativa fantástica.Las imágenes de Enrique Alcatena nos revelan los seres más inquietantes del universo de H. P. Lovecraft en un descenso magistral hacia los abismos del terror.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Diccionarios y enciclopedias</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:48:30.731292+00:00"/>
+        <meta name="calibre:title_sort" content="Bestiario"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

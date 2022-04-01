@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1116</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df2d4b06-c88b-4b51-a34f-8760366d2612</dc:identifier>
+        <dc:title>La sombra sobre Innsmouth</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1931-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Se cuentan terribles relatos sobre el pueblo Innsmouth, un pueblo pesquero que antaño fue próspero, pero que ahora se halla sumido en la pobreza. La causa de la degradación se achaca a una epidemia procedente de un barco y que azotó sin piedad al pueblo. Sin embargo, las malas lenguas hablan sobre pactos con el diablo. Son pocos lo que se aventuran a viajar a ese pueblo, pues muchos extranjeros no han regresado tras viajar a Innsmouth. Pese a todo, el protagonista de esta historia, un viajante en busca de sus orígenes familiares, se siente atraído por el pueblo y decide visitarlo de pasada hacia su destino final. Pero, para su desgracia, se ve obligado a pasar la noche en el pueblo. ¿Estará preparado para conocer los macabros secretos del pueblo?</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:42:44.553979+00:00"/>
+        <meta name="calibre:title_sort" content="sombra sobre Innsmouth, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

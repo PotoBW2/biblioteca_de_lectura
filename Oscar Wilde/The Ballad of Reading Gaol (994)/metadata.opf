@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">994</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec618ad6-1fc8-4e36-9b7e-5cc6e8018416</dc:identifier>
+        <dc:title>The Ballad of Reading Gaol</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-07-01T04:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/301</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Imprisonment -- Poetry</dc:subject>
+        <dc:subject>Prisoners -- Poetry</dc:subject>
+        <dc:subject>Prisons -- Poetry</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:38:38.671542+00:00"/>
+        <meta name="calibre:title_sort" content="The Ballad of Reading Gaol"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">849</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c618f53e-8db8-4129-a865-f0b502ba5434</dc:identifier>
+        <dc:title>Cuentos de mí mismo</dc:title>
+        <dc:creator opf:file-as="Unamuno, Miguel de" opf:role="aut">Miguel de Unamuno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Tanta insistencia se ha puesto en ponderar la calidad de los ensayos y novelas de Unamuno, que se ha olvidado el tesoro literario de sus cuentos, merecedores de un lugar destacado en el estudio de su obra. Su valor se incrementa cuando comprobamos que fueron raíz de lo `nivolesco` y que don Miguel veía en el género la itineración hacia atrás de la vida, un corte más profundo en lo vivido y, por ende, la forma protoliteraria que recoge las resonancias más arcanas de la psique humana. A través de estas narraciones, de estos «Cuentos de mí mismo,» llega a nosotros el eco inquietante de don Miguel de Unamuno, de una personalidad escéptica, agónica y polémica que reitera en todas y cada una de sus criaturas de ficción y harán las delicias de los lectores. De aquí que estos «Cuentos de mí mismo» lleguen a lo más alto o más hondo, con abundantes huellas autobiográficas.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miguel de Unamuno&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:32:27.951486+00:00"/>
+        <meta name="calibre:title_sort" content="Cuentos de mí mismo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

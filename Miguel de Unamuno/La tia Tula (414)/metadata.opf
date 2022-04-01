@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">414</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd91debf-83a9-4841-89f9-695d4f9f7fae</dc:identifier>
+        <dc:title>La tía Tula</dc:title>
+        <dc:creator opf:file-as="Unamuno, Miguel de" opf:role="aut">Miguel de Unamuno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Es una de las novelas más conocidas de Unamuno. Aunque comparte con otras novelas el estilo y las preocupaciones habituales del autor, esta novela incluye como factor diferencial el erotismo, un erotismo sutil y sólo en escasos momentos explicitado.
+        Esta novela narra la vida de Gertrudis, también llamada la Tía Tula, y los sacrificios que realiza durante su vida para satisfacer sus ansias de maternidad.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Narrativa Clásica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miguel de Unamuno&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:24.320518+00:00"/>
+        <meta name="calibre:title_sort" content="tía Tula, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

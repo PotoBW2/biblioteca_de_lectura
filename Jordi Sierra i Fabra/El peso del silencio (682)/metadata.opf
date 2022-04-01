@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">682</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47e7ca95-3371-4adc-86b3-6e504da64bc2</dc:identifier>
+        <dc:title>El peso del silencio</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Ya ha transcurrido más de un cuarto de siglo desde que su hijo desapareció en Chile, pero el magnate español de la prensa Agustín Serradel sigue tras su rastro. Con Pinochet sin inmunidad jurídica y pendiente de juicio en Chile, empiezan a desclasificarse informes de la CIA y, gracias a sus contactos, Serradell logra hacerse con la única pista sobre la detención de su hijo poco antes de que ésta se haga pública. Pero después de que ninguno de los detectives que contrató en su día consiguiera una sola pista, ¿en quién confiar ahora que ya le queda poco tiempo de vida? Daniel Ros viaja a Chile para resolver un intrincado enigma, en el momento en que la CIA desclasifica información "privada" de la época de Pinochet. Acompañado por una colega chilena, Daniel recorrerá las calles de Santiago de Chile, Valparaíso y la Isla de Pascua tras los esquivos rastros de los asesinos mientras le asaltan multitud de recuerdos de su juventud.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Daniel Ros"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:28:07.965437+00:00"/>
+        <meta name="calibre:title_sort" content="peso del silencio, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

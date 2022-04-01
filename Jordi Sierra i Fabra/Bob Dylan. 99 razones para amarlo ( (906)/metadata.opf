@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">906</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45e9aaf2-cf84-40db-a573-6f62ca72a3db</dc:identifier>
+        <dc:title>Bob Dylan. 99 razones para amarlo (o no)</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-29T23:00:00+00:00</dc:date>
+        <dc:description>Pocas veces un personaje ha sido tan controvertido como lo es Bob Dylan. Leyenda de la música, poeta, agitador, ídolo de culto y, al mismo tiempo, icónico extraterrestre alejado hoy de todo por su proverbial idiosincrasia y su peculiar carisma. ¿Cómo fue su vida? ¿Cómo se gestó el mito? ¿Qué hizo, por qué lo hizo y cuándo lo hizo? ¿Por qué la Academia sueca lo ha inmortalizado con el máximo galardón del mundo de las letras? La respuesta está, además de en el viento, en este libro. Hay miles de razones para amarlo (o no), pero aquí tenemos las 99 esenciales, recorriendo su historia.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Memorias</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:33:58.246901+00:00"/>
+        <meta name="calibre:title_sort" content="Bob Dylan. 99 razones para amarlo (o no)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

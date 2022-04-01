@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">242</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">147244a9-1947-44f4-bde3-3f6dc93a00c0</dc:identifier>
+        <dc:title>Posesión</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Transcurre una apacible tarde de verano en Wentworth, Ohio. Como es habitual, en la soleada calle Poplar todo es normal: el chico de los periódicos los reparte en bicicleta, los niños juegan en las aceras, las barbacoas se preparan en los jardines y patios. Lo único extraño es la furgoneta roja que hay aparcada en una esquina. El misterioso vehiculo tardará en ponerse en marcha… y con él se desencadenará una atroz matanza. Cuando la noche caiga, los supervivientes del vecindario se encontrarán en un mundo pavoroso donde cualquier cosa es posible, en particular la macabra posesión de las mentes y los cuerpos. POSESIÓN. f. Acto de poseer o tener una cosa material o incorpórea. II Apoderamiento del espíritu del hombre por otro espíritu, generalmente maligno. II Una nueva novela de terror del fallecido Richard Bachman. (Véase también DESESPERACIÓN, de Stephen King, 1996.)</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:17:22.216970+00:00"/>
+        <meta name="calibre:title_sort" content="Posesión"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

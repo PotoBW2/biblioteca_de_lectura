@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">772</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9de2ab49-01f9-4f36-b18e-22824cd29603</dc:identifier>
+        <dc:title>El bazar de los malos sueños</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-08T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Directo desde la mente de Stephen King, el que te roba el sueño y te asusta de verdad. El bazar de los malos sueños es una colección 20 relatos magníficos, inquietantes, absorbentes... Un preciado regalo del autor a sus lectores. « Escribí estos relatos especialmente para ti. Adelante, léelos, pero ten mucho cuidado. Los mejores tienen dientes.»Stephen King Stephen King nos presenta en El bazar de los malos sueños una excepcional selección de relatos, algunos nuevos y otros revisados en profundidad. Cada uno viene precedido de su propia introducción, donde habla sobre sus orígenes y sobre los motivos que lo llevaron a escribirlo, incluyendo aspectos autobiográficos. Aunque han pasado ya treinta y cinco años desde que escribió su primera colección, Stephen King sigue deslumbrándonos con su maestría en el género. En esta ocasión trata temas como la moralidad, la vida después de la muerte, la culpa y lo que corregiríamos del pasado si pudiéramos ver el futuro. &lt;/p&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01N2VQRQB</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788401018411</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:30:28.754681+00:00"/>
+        <meta name="calibre:title_sort" content="bazar de los malos sueños, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1201</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c96181df-d6b7-4208-b179-1af8326fd1fd</dc:identifier>
+        <dc:title>El retrato de Rose Madder</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-06-10T04:00:00+00:00</dc:date>
+        <dc:description>Era como si el cuadro la hubiera llamado, obligándola a detenerse. Y al leer la inscripción del dorso, "Rose Madder", supo que tenía que ser suyo, el adorno perfecto para su recién estrenado piso de mujer libre. Porque tras años de maltratos, por fin Rosie Daniels había abandonado a su marido y emprendido una nueva vida en otra ciudad. Pero es imposible no dejar pistas y Norman, el brutal policía con quien se había casado, inicia la caza sistemática e implacable de su mujer. Cada vez está más y más cerca, y Rosie advierte, no sin temor, que su única aliada es esa figura pintada en el cuadro, que la invita a pasar a su lado de la realidad.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:45:24.667653+00:00"/>
+        <meta name="calibre:title_sort" content="retrato de Rose Madder, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

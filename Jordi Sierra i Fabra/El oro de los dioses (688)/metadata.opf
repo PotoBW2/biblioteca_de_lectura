@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">688</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50088d49-eb06-409a-9226-82a0e0886499</dc:identifier>
+        <dc:title>El oro de los dioses</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra I" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-05-15T20:30:46+00:00</dc:date>
+        <dc:description>La lucha por llegar a lo más alto en el deporte Marc tiene sólo diecisiete años y hace ya unos cuantos que se entrena seriamente para ser un corredor profesional y llegar a participar en los Juegos Olímpicos, igual que hizo su padre hace veinticinco años. El padre de Marc estuvo a una centésima de segundo de ganar la medalla de oro, pero tuvo que contentarse con un segundo puesto, que le pesaría durante toda la vida como una losa. Veinticinco años más tarde, sale a la luz la noticia de que en esa competición muchos participantes subieron al podio gracias al dopaje, y precisamente la persona que le arrebató el oro al padre de Marc pudo ser uno de ellos. Esta noticia conmocionará al joven de tal forma que luchará por esclarecer los hechos y recuperar la medalla de oro que pertenece a su padre.</dc:description>
+        <dc:publisher>Planeta</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:28:17.035018+00:00"/>
+        <meta name="calibre:title_sort" content="oro de los dioses, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6426046b-f18d-45cf-854f-dd14119ed8f7</dc:identifier>
+        <dc:title>Danza macabra</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1981-04-21T03:00:00+00:00</dc:date>
+        <dc:description>Heredero de la gran tradición norteamericana en narrativa de terror, que nace con E. A. Poe y pasa por H. P. Lovecraft, Stephen King ha logrado con sus obras una difusión jamás alcanzada por ningún otro autor en éste género. Danza macabra (1981) es un lúcido y divertido ensayo, lleno de referencias a multitud de obras y jugosas anécdotas biográficas, que pretende dar respuesta a la paradoja esencial del aficionado a la ficción de terror: «¿Por qué hay personas dispuestas a pagar a cambio de sentirse extremadamente incómodas?». Y para abordar tan complejo asunto, King se vale de un doble recorrido, histórico y personal, a través de la literatura y el cine de terror modernos (1950 -1980), «con un par de salidas al margen para explorar las raíces del género». «El buen cuento de horror —reflexiona King— avanza bailando hasta alcanzar el centro de la vida del lector, donde encontrará la puerta secreta a esa estancia que usted creía que nadie más conocía». Tras sugerir que la ficción de terror remueve los temores sociales más inconfesos, y que está sujeta por tanto a cambios históricos, argumenta a propósito de su pervivencia que «aunque los sueños inquietos del inconsciente colectivo puedan cambiar de década en década, la tubería que se hunde en ese pozo de sueños permanece constante y vital». «Este libro es únicamente mi paseo por todos los mundos de la fantasía y el horror que me han complacido y aterrorizado», explica su autor, al tiempo que nos recomienda: «vaya mordisqueándolo de vez en cuando o devórelo de cabo a rabo, pero disfrútelo».</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Crítica y teoría literaria</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:47:27.837507+00:00"/>
+        <meta name="calibre:title_sort" content="Danza macabra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

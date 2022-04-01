@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">248</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57b73109-404e-43a3-a3f9-0283e745b301</dc:identifier>
+        <dc:title>Poesía</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1920-11-08T10:57:00+00:00</dc:date>
+        <dc:description>Es notorio que la obra poética del escritor norteamericano H.P. Lovecraft (1890-1937) es de menor valor que su fuerte influencia en el relato de terror. Sin embargo, los mismos engendros de ojos bulbosos y arquitecturas tentaculares también se hicieron presentes en su poesía, de un modo menos evidente, menos presionado por las necesidades del cuento de terror, pero vivos y estremecedoramente concretos.Recopilatorio de algunas de sus poesias</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Poesía</dc:subject>
+        <dc:subject>Sobrenatural</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:17:30.219254+00:00"/>
+        <meta name="calibre:title_sort" content="Poesía"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

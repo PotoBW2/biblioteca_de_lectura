@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45b27b4b-02a7-4d8c-85f1-952cb4b0fadf</dc:identifier>
+        <dc:title>El pasillo de la muerte</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-05-05T04:00:00+00:00</dc:date>
+        <dc:description>Octubre de 1932, penitenciaría de Cold Mountain. Los condenados a muerte aguardan el momento de ser conducidos a la silla eléctrica. Los crímenes abominables que han cometido les convierten en carnaza de un sistema legal que se alimenta de un círculo de locura, muerte y venganza. Y en esa antesala del infierno Stephen King traza una pavorosa radiografía del horror en estado puro. He aquí, reunida en un único volumen y con un prólogo especial del autor, esta escalofriante novela originalmente publicada en seis entregas.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:45:38.803332+00:00"/>
+        <meta name="calibre:title_sort" content="pasillo de la muerte, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

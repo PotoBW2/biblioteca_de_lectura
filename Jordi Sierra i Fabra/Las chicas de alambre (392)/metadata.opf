@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">392</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d90d7aa2-c27a-474f-bb1e-7056a47289f6</dc:identifier>
+        <dc:title>Las chicas de alambre</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-08-09T22:00:00+00:00</dc:date>
+        <dc:description>Jon Boix tiene veinticinco años y es periodista. Su nuevo reportaje trata de aclarar el misterio de una de las más famosas top models de la historia, desaparecida hace diez años.
+Con Las chicas de alambre Jordi Serra i Fabra nos descubre los entresijos de un universo anhelado y envidiado, pero tras el que se ocultan chicos y chicas de carne y hueso, a veces demasiado jóvenes para el éxito. El mundo de las top models por dentro. Un viaje por la cara oculta de las chicas que son el sueño de millones de adolescentes.
+Una novela que suelo poner cada dos o tres cursos como lectura para mi alumnado. Les suele gustar, la historia está bien planteada y aunque tiene un tiempo sigue dando de sí para algunos buenos debates sobre diversos temas. Jordi Serra creo que es uno de los mejores autores del panorama actual en literatura infantil y juvenil.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:20:52.258146+00:00"/>
+        <meta name="calibre:title_sort" content="chicas de alambre, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">421</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2ed839a-5361-44de-b2f7-859939c67e4f</dc:identifier>
+        <dc:title>La sombra del desván</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August" opf:role="aut">August Derleth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-12T22:00:00+00:00</dc:date>
+        <dc:description>La sombra en el ático (The shadow in the attic) es un relato de vampiros del escritor norteamericano H.P. Lovecraft. El cuento fue retomado por August Derleth en una de las tantas colaboraciones póstumas que involucran a ambos autores, y publicado en la colección de relatos de terror del 1964: Over the Edge. La sombra del ático expone un caso de vampirismo tipicamente lovecraftiano: un casa habitada por un espíritu que busca tomar posesión de su nuevo habitante. Además de este vampiro energético, los muros de aquel viejo caserón también albergan la presencia de un Súcubo, una especie de vampiro sexual que asiste servicialmente los deseos de su difunto amo.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Vampiros</dc:subject>
+        <dc:subject>Sobrenatural</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;August Derleth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:33.204876+00:00"/>
+        <meta name="calibre:title_sort" content="sombra del desván, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

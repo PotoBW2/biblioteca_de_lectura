@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1198</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e381b14b-f8b9-4a30-b2ea-00e7849328e2</dc:identifier>
+        <dc:title>El Rithmatista</dc:title>
+        <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Más que nada en la vida, Joel quiere ser uno de los Rithmatista. Elegidos en una misteriosa ceremonia, estos tienen el poder de infundir vida a figuras bidimensionales y, además, son la única defensa de la humanidad contra unas despiadadas criaturas que amenazan todas las islas americanas dejando un reguero de cadáveres a su paso.Pero cuando varios estudiantes para Rithmatista empiezan a desaparecer, con visibles muestras de violencia física, Joel es designado como ayudante del profesor que investiga dichos casos. De pronto, el chico se encuentra tras la pista de un descubrimiento inesperado, que cambiará su mundo para siempre.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:45:19.048514+00:00"/>
+        <meta name="calibre:title_sort" content="Rithmatista, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

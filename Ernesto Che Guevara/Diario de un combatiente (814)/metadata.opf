@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">814</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf4360f1-f0c4-4e6c-b781-5511d48571d7</dc:identifier>
+        <dc:title>Diario de un combatiente</dc:title>
+        <dc:creator opf:file-as="Guevara, Ernesto Che" opf:role="aut">Ernesto Che Guevara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-01T05:00:00+00:00</dc:date>
+        <dc:description>El Diario de un combatiente, inédito hasta hoy, recoge momentos irrepetibles de la lucha armada en Cuba desde la llegada del yate Granma a las costas del oriente del país, el 2 de diciembre de 1956, hasta el triunfo revolucionario del 1.º de enero de 1959, narrados por quien fuera uno de sus principales protagonistas, el comandante argentino-cubano Ernesto Che Guevara. En sus páginas encontrará el lector reflexiones que van cobrando un mayor relieve y hondura cuando los escenarios en los que el Che interviene se complejizan, y su participación en la guerra revolucionaria se va tornando cada vez más comprometida. El alto valor testimonial y humano que emana de su lectura propicia un acercamiento a las percepciones del Che sobre la realidad de la isla, su cultura, identidad y contexto político; sus primeras vivencias y el significado real de una gesta a la que se consagró en aras de contribuir a la liberación del pueblo cubano</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Crónica</dc:subject>
+        <dc:subject>Memorias</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernesto Che Guevara&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:31:33.463306+00:00"/>
+        <meta name="calibre:title_sort" content="Diario de un combatiente"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">659</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">097286f0-6ef0-43bf-82c8-ca80e9e4679a</dc:identifier>
+        <dc:title>El sobreviviente</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August" opf:role="aut">August Derleth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-13T23:00:00+00:00</dc:date>
+        <dc:description>El sobreviviente (The survivor) es un relato de terror del escritor norteamericano Howard Phillips Lovecraft, escrito en colaboración con August Derleth, y publicado en la edición de julio de 1954 de la revista Weird Tales. Hay que decir que gran parte de El sobreviviente corresponde a August Derleth. Sólo algunos conceptos y notas preliminares pertenecen a H.P. Lovecraft. De hecho, ésta rara simbiosis de ultratumba entre Derleth y Lovecraft llegó a denominarse Colaboración póstuma, debido a que varios cuentos —reunidos en una discreta antología llamada The survivor and others- fueron redactados por Derleth luego de la muerte de Lovecraft, basándose en escuetas notas, comentarios y dudosas estimaciones del notable narrador de Providence.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;August Derleth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:27:31.847748+00:00"/>
+        <meta name="calibre:title_sort" content="sobreviviente, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

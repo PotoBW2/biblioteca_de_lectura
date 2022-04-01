@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1101</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1d05829-e207-4081-b7b3-c1113bb4dca5</dc:identifier>
+        <dc:title>Las palabras heridas</dc:title>
+        <dc:creator opf:file-as="Jordi Sierra i Fabra" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-12T23:00:00+00:00</dc:date>
+        <dc:description>«A veces, cuando el asombro me podía, me preguntaba cosas. ¿Por qué lo hice? ¿Por qué esas palabras rotas, separadas del todo, heridas por mí, de pronto se convertían en importantes?».&lt;br /&gt;&lt;br /&gt;El joven Li Huan debe cumplir el servicio militar y tiene que abandonar la ciudad donde vive con su familia en algún país de Asia, cuyo nombre no se dice. Lo destinan a un campo de reclusión para disidentes políticos.&lt;br /&gt;El líder del Partido, el Gran Padre, gobierna con puño de hierro, y están prohibidos los libros y cualquier pensamiento que cuestione la doctrina ofi cial. Li Huan era un niño cuando estalló la Revolución y se instauró la dictadura; ahora tiene dieciocho años, cree fi rmemente en el régimen y, gracias a sus habilidades para leer y escribir, será el encargado de censurar la correspondencia de los presos. &lt;br /&gt;Li Huan conocerá en el campo de reclusión al preso 139, Wang Zhu, un profesor universitario encarcelado por difundir ideas contrarias al gobierno. Aunque el joven intenta resistirse, el maestro despertará una profunda admiración en el chico y hará que empiece a replantearse algunas de sus ideas.</dc:description>
+        <dc:publisher>2017</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417041113</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:41:52.483362+00:00"/>
+        <meta name="calibre:title_sort" content="palabras heridas, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">954</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68611a79-9ada-497b-bd9c-6ebbc79a65d6</dc:identifier>
+        <dc:title>Writings in the United Amateur, 1915-1922</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. (Howard Phillips)" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-09T05:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/ebooks/30637</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>Literature -- History and criticism</dc:subject>
+        <dc:subject>Periodicals</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:35:18.624164+00:00"/>
+        <meta name="calibre:title_sort" content="Writings in the United Amateur, 1915-1922"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

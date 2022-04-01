@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1255</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e6eda97-843a-4fae-8dd0-af54b15b7022</dc:identifier>
+        <dc:title>Dos historias para no dormir</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un grupo de chicos y chicas sale a navegar en una balsa sobre un pacífico lago, donde una oscura mancha viscosa los acosa; en la cárcel, un interno tiene extrañas pesadillas en las que aparece una mujer que le atrae y repele a la vez, porque se convierte en una inmensa rata.Dos cuentos inéditos del gran maestro del terror, un terror que se instala en situaciones cotidianas con total familiaridad. Una realidad sobrenatural que traspasa los límites de lo fantástico para infiltrarse en nuestras vidas y sembrar la angustia en las noches de insomnio.Relatos incluidos:—«La balsa» («The Raft», 1982) - [Relato] - Premios: 14º Locus 1983—«Nona» («Nona», 1978) - [Relato]</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Skeleton Crew"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:46:54.867311+00:00"/>
+        <meta name="calibre:title_sort" content="Dos historias para no dormir"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

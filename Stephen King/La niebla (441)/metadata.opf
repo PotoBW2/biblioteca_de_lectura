@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">441</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db497249-d167-439d-8eb3-30624b5fe496</dc:identifier>
+        <dc:title>La niebla</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-12-31T16:00:00+00:00</dc:date>
+        <dc:description>Tras una violenta y ruidosa tormenta, la comunidad de un pequeño poblado se convierte en un feroz ataque de criaturas que merodean en una niebla fina y antinatural. Rumores locales apuntan a que es ocasionado por un experimento llamado “The Arrowhead Project” o "Proyecto Punta de Flecha" conducido en una base militar cercana, pero las respuestas al origen de la mortal niebla van a segundo plano ya que lo importante para el grupo es aumentar sus oportunidades de sobrevivir. Retirándose a un mercado local, los sobrevivientes deben encararse para lograr unirse en contra de un enemigo que no logra</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:22:01.091623+00:00"/>
+        <meta name="calibre:title_sort" content="La niebla"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

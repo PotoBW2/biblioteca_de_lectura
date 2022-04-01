@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1056</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">afb811c6-7571-448d-b8cb-c66cf4fc2f8e</dc:identifier>
+        <dc:title>Noche de viernes</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-01T03:00:00+00:00</dc:date>
+        <dc:description>Otra noche de viernes en busca de libertad. Otra noche marcada por la incongruencia que desatan el alcohol y las drogas. Pero esta noche no será como otras. Al amanecer, las vidas de cinco jóvenes habrán cambiado de forma radical... Una llamada a la reflexión en torno al racismo que invade nuestra sociedad. Noche de viernes ofrece un retrato valiente y sincero de esa juventud en la que late la violencia.</dc:description>
+        <dc:publisher>Santillana</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789562392488</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:40:24.058065+00:00"/>
+        <meta name="calibre:title_sort" content="Noche de viernes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

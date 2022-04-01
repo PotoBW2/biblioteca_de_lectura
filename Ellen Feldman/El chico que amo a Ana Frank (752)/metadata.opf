@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">752</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73ef82dc-253b-4572-bff1-52cffc7333e6</dc:identifier>
+        <dc:title>El chico que amó a Ana Frank</dc:title>
+        <dc:creator opf:file-as="Feldman, Ellen" opf:role="aut">Ellen Feldman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-01T00:00:00+00:00</dc:date>
+        <dc:description>El 16 de febrero de 1944 Ana Frank anotó en su diario que Peter, que al principio no le gustaba pero del que al final se enamoró, le había confiado que si salían del escondite con vida, se reinventaría a sí mismo por completo. Esta novela es la historia de lo que podría haber ocurrido si el chico hubiera sobrevivido y se hubiera convertido en un hombre.Peter llega a Estados Unidos, la tierra de la autocreación, y se hace pasar por cristiano. Con éxito en los negocios y rico en amor en el boom de los años cincuenta, prospera en el presente, planifica el futuro y no tiene pasado. Pero esta charada tiene un precio. La publicación del Diario de Ana Frank, que recibe elogios de todos los rincones del mundo, desencadena paralizantes recuerdos de sus vivencias en el añejo secreto de Ámsterdam. El diario es también su historia, y una vez que la compuerta de los recuerdos se abre, su vida se descontrola.Basado en una exhaustiva investigación sobre Peter van Pels y la extraña y perturbadora vida que el diario de Ana Frank cobró tras su muerte, ésta es una novela sobre el recuerdo de la muerte, la muerte del recuerdo y la imposibilidad de negar el pasado.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ellen Feldman&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:29:57.408248+00:00"/>
+        <meta name="calibre:title_sort" content="chico que amó a Ana Frank, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

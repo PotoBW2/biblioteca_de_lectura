@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">301</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd0e3e16-ade4-40e5-8f27-2691edcc1ba0</dc:identifier>
+        <dc:title>Miscellanies</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-16T05:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>Speeches</dc:subject>
+        <dc:subject>addresses</dc:subject>
+        <dc:subject>etc.</dc:subject>
+        <dc:subject>Wilde</dc:subject>
+        <dc:subject>Oscar</dc:subject>
+        <dc:subject>1854-1900 -- Correspondence</dc:subject>
+        <dc:subject>1854-1900 -- Bibliography</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:18:45.516032+00:00"/>
+        <meta name="calibre:title_sort" content="Miscellanies"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

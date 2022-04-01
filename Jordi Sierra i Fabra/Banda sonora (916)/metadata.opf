@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">916</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4029ff00-3f56-41d3-ba48-7270fbfbe0e0</dc:identifier>
+        <dc:title>Banda sonora</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-01-01T05:00:00+00:00</dc:date>
+        <dc:description>A pesar de no haber convivido con su padre, una de las grandes figuras del «rock» en España, Vic ha heredado de él la afición por la música y se ha convertido, casi en secreto, en un guitarrista brillante. Vic tiene diecisiete años y su sueño es abrirse camino en la industria discográfica, un mundo tan deslumbrante como inhumano en el que el éxito, bien lo sabe su padre, a veces sólo se logra a costa de la piel. «Banda sonora», la novela más personal de Jordi Sierra i Fabra, refleja un universo que él conoce a la perfección, el de la música «rock» y sus protagonistas.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">45945</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:34:16.391211+00:00"/>
+        <meta name="calibre:title_sort" content="Banda sonora"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

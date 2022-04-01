@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">405</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f681df0-f789-4571-928b-45a981b97929</dc:identifier>
+        <dc:title>La venganza del profesor de matemáticas</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-09T05:00:00+00:00</dc:date>
+        <dc:description>El temido profesor de matemáticas está a punto de jubilarse, aunque sigue en su empeño de que sus alumnos comprendan la importancia de su asignatura. Cuando es víctima inesperada de una broma preparada para otra persona, decide dar una lección a tres de sus alumnos que no podrán olvidar. Deberán ir a su casa y pasar una serie de pruebas para poder aprobar la asignatura.</dc:description>
+        <dc:publisher>2017</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788469832929</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:10.839018+00:00"/>
+        <meta name="calibre:title_sort" content="venganza del profesor de matemáticas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

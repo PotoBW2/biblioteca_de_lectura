@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">559</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9685bfbf-e0a7-45d4-a3d1-d86ced951463</dc:identifier>
+        <dc:title>Horror 2</dc:title>
+        <dc:creator opf:file-as="otros, Stephen King y" opf:role="aut">Stephen King y otros</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Los mejores relatos de TWILIGHT ZONE. La más famosa revista mundial dedicada al género de terror.
+La revista &lt;em&gt;Twilight Zone&lt;/em&gt; es la publicación más prestigiosa del género de terror por la calidad insuperable de sus relatos macabros, sobrenaturales y fantásticos. Muchos de ellos fueron filmados por la televisión, y la serie resultante, «Dimensión desconocida», conquistó inmediatamente a una legión de espectadores en todo el mundo.
+Esta antología, que reúne lo mejor de &lt;em&gt;Twilight Zone,&lt;/em&gt; incluye a todos los titanes del género: los modernos STEPHEN KING, «gran maestro de lo macabro»; PETER STRAUB, autor del best seller Fantasmas; los ganadores de los premios más acreditados de la literatura fantástica: RAMSEY CAMPBELL, ROBERT SHECKLEY, THOMAS DISCH y ROBERT SILVERBERG; los clásicos J. SHERIDAN LEFANU, WILLIAM HOPE HODGSON -maestro de LOVECRAFT- y FRANK BELKNAP LONG, premiado por la Convención Mundial de Fantasía por la totalidad de su obra. Además de nuevos nombres como JOE LANSDALE, GEORGE CLAYTON JOHNSON, RON GOULART, DAN SIMMONS, ROBERT H. CURTIS, ARDATH MAYHAR, ROBERT CRAIS, FELICE PICANO, CHRIS MASSIE, CESARIJA ABARTIS y CHET WILLIAMSON, autores todos ellos que crearán adictos entre los aficionados cada vez más numerosos y exigentes.</dc:description>
+        <dc:identifier opf:scheme="ISBN">84-270-1068-9</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King y otros&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:24:53.377277+00:00"/>
+        <meta name="calibre:title_sort" content="Horror 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

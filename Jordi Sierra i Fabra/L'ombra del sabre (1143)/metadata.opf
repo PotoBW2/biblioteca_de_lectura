@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1143</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82669ab8-0bd2-4bd6-8646-77a3e7b17031</dc:identifier>
+        <dc:title>L’ombra del sabre</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Un thriller policíac que recrea la tèrbola Barcelona franquista dels seixanta. Amb una trama implacable, el nou cas del comissari Hilari Soler, després de La mort del censor, il·lumina algunes de les ombres més fosques de la nostra història recent.
+Executat. Al mig del carrer. Un bassal de sang a terra i un forat de bala al clatell. Però la policia no troba cap casquet, és obra d’un professional. Hilari Soler, l’investigador insubornable, l’home honest que incomoda superiors i companys, s’encarrega del cas: la víctima era el xofer d’un dels generals retirats més destacats del règim. Prova a prova, indici a indici una terrible sospita s’obrirà pas davant dels ulls incrèduls dels investigadors. Una sospita tan indefugible com perillosa i repulsiva.
+Sinistres alts càrrecs de la dictadura, militars amb passats obscurs, policies corruptes, cadàvers, prostitutes i menors desapareguts. Tot el cinisme i la hipocresia d’un règim execrable desemboquen en una afilada narració de ritme trepidant i acusacions inclements.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">52371</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Hilari Soler"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:43:37.408291+00:00"/>
+        <meta name="calibre:title_sort" content="L’ombra del sabre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

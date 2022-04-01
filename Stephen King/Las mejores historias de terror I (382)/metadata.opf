@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">382</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd363436-97e1-4dc7-8356-9088b82dc005</dc:identifier>
+        <dc:title>Las mejores historias de terror I</dc:title>
+        <dc:creator opf:file-as="King, Stephen &amp; Campbell, Ramsey &amp; Olonoff, Neil &amp; Etchison, Dennis &amp; Shilston, Peter &amp; Klein, T. E. D. &amp; Relling jr., William &amp; Ellison, Harlan &amp; Timlett, Peter Valentine" opf:role="aut">Stephen King</dc:creator>
+        <dc:creator opf:file-as="King, Stephen &amp; Campbell, Ramsey &amp; Olonoff, Neil &amp; Etchison, Dennis &amp; Shilston, Peter &amp; Klein, T. E. D. &amp; Relling jr., William &amp; Ellison, Harlan &amp; Timlett, Peter Valentine" opf:role="aut">Ramsey Campbell</dc:creator>
+        <dc:creator opf:file-as="King, Stephen &amp; Campbell, Ramsey &amp; Olonoff, Neil &amp; Etchison, Dennis &amp; Shilston, Peter &amp; Klein, T. E. D. &amp; Relling jr., William &amp; Ellison, Harlan &amp; Timlett, Peter Valentine" opf:role="aut">Neil Olonoff</dc:creator>
+        <dc:creator opf:file-as="King, Stephen &amp; Campbell, Ramsey &amp; Olonoff, Neil &amp; Etchison, Dennis &amp; Shilston, Peter &amp; Klein, T. E. D. &amp; Relling jr., William &amp; Ellison, Harlan &amp; Timlett, Peter Valentine" opf:role="aut">Dennis Etchison</dc:creator>
+        <dc:creator opf:file-as="King, Stephen &amp; Campbell, Ramsey &amp; Olonoff, Neil &amp; Etchison, Dennis &amp; Shilston, Peter &amp; Klein, T. E. D. &amp; Relling jr., William &amp; Ellison, Harlan &amp; Timlett, Peter Valentine" opf:role="aut">Peter Shilston</dc:creator>
+        <dc:creator opf:file-as="King, Stephen &amp; Campbell, Ramsey &amp; Olonoff, Neil &amp; Etchison, Dennis &amp; Shilston, Peter &amp; Klein, T. E. D. &amp; Relling jr., William &amp; Ellison, Harlan &amp; Timlett, Peter Valentine" opf:role="aut">T. E. D. Klein</dc:creator>
+        <dc:creator opf:file-as="King, Stephen &amp; Campbell, Ramsey &amp; Olonoff, Neil &amp; Etchison, Dennis &amp; Shilston, Peter &amp; Klein, T. E. D. &amp; Relling jr., William &amp; Ellison, Harlan &amp; Timlett, Peter Valentine" opf:role="aut">William Relling jr.</dc:creator>
+        <dc:creator opf:file-as="King, Stephen &amp; Campbell, Ramsey &amp; Olonoff, Neil &amp; Etchison, Dennis &amp; Shilston, Peter &amp; Klein, T. E. D. &amp; Relling jr., William &amp; Ellison, Harlan &amp; Timlett, Peter Valentine" opf:role="aut">Harlan Ellison</dc:creator>
+        <dc:creator opf:file-as="King, Stephen &amp; Campbell, Ramsey &amp; Olonoff, Neil &amp; Etchison, Dennis &amp; Shilston, Peter &amp; Klein, T. E. D. &amp; Relling jr., William &amp; Ellison, Harlan &amp; Timlett, Peter Valentine" opf:role="aut">Peter Valentine Timlett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1980-01-01T05:00:00+00:00</dc:date>
+        <dc:description>He aquí reunidos, por primera vez en lengua castellana, los más importantes escritores anglosajones del género de terror con lo más nuevo y representativo de su obra: - El gran maestro Stephen King nos habla de un juguete de cuerda, de un mono cuyos platillos, al entrechocar, señalan la diferencia entre la vida y la muerte. - Ramsey Campbell nos cuenta cómo la magia y la obsesión pueden hacer que la imaginación se convierta en terrible realidad. - Harlan Ellison nos habla de una mujer lobo, que necesita a la vez amar y matar para sobrevivir. - Peter Shilston revive la más pura tradición del horror gótico a través de una iglesia abandonada y una catacumba llena de momias&amp; Y así hasta nueve estremecedores relatos que son ya clásicos del terror.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;, &quot;Ramsey Campbell&quot;: &quot;&quot;, &quot;Neil Olonoff&quot;: &quot;&quot;, &quot;Dennis Etchison&quot;: &quot;&quot;, &quot;Peter Shilston&quot;: &quot;&quot;, &quot;T. E. D. Klein&quot;: &quot;&quot;, &quot;William Relling jr.&quot;: &quot;&quot;, &quot;Harlan Ellison&quot;: &quot;&quot;, &quot;Peter Valentine Timlett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Super Terror"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:20:37.434164+00:00"/>
+        <meta name="calibre:title_sort" content="mejores historias de terror I, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

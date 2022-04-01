@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1231</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa65fab1-732a-40c3-9221-e6d06267b37f</dc:identifier>
+        <dc:title>El color surgido del espacio</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1964-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Una de las mejores selecciones de relatos cortos de Howard Phllips Lovecraft. Por sus páginas desfilan los habitantes del alucinante universo privada de este autor norteamericano, reconocido hoy como el más importante escritor del género de horror y fantasía, desde Edgar Allan Poe.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:46:14.293454+00:00"/>
+        <meta name="calibre:title_sort" content="color surgido del espacio, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

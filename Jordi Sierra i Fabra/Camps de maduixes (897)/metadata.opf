@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18e2a775-6ea9-479d-af6e-57235ced2474</dc:identifier>
+        <dc:title>Camps de maduixes</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Neix el dia. En un hospital, la Luci en coma. El motiu? Un cop de calor a causa de l’«èxtasi», la droga de disseny més de moda. Els seus amics comencen a reflexionar sobre el que va passar el dia abans; la seva millor amiga, bulímica, s’enfronta finalment a ella mateixa; el noi que està enamorat de la Luci busca el camell que li va subministrar la pastilla amb l’esperança d’ajudar a salvar-li la vida. La policia també el busca, i un periodista es proposa destapar tot el dramatisme de l’afer. En poques hores, tot s’accelera i tothom qui coneix la Luci lluita per ella, però també per alguna cosa més. Aquest vertigen s’aturarà amb l’explosió final d’aquesta història trepidant i, per damunt de tot, actual, massa actual.</dc:description>
+        <dc:publisher>ePUBCat</dc:publisher>
+        <dc:identifier opf:scheme="EPUBCAT ID">2642</dc:identifier>
+        <dc:identifier opf:scheme="EPUBCAT VERSIO">1.0</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novel·la</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:33:44.724002+00:00"/>
+        <meta name="calibre:title_sort" content="Camps de maduixes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

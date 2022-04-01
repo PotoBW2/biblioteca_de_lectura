@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">951</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44b3b3ca-c64c-4bc1-9b85-b9e4448e017b</dc:identifier>
+        <dc:title>Víctor Jara</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Víctor Jara el cantante más popular de música folk chilena cuando, en septiembre de 1973, se produjo en su país el golpe de Estado que cambió la vida y la historia de todo un pueblo Tras ser torturado durante cinco días, sus manos fueron destrozadas a culatazos antes de ser asesinado. Un cuarto de siglo después, el aliente de Víctor, sus canciones y su vida, permanecen en la memoria.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">49091</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Gran angular"/>
+        <meta name="calibre:series_index" content="183"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:35:13.429028+00:00"/>
+        <meta name="calibre:title_sort" content="Víctor Jara"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

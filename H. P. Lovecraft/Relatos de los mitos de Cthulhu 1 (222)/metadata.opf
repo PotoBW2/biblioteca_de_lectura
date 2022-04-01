@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">222</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8ba0d30-a898-4be8-949c-ddb8bae652a3</dc:identifier>
+        <dc:title>Relatos de los mitos de Cthulhu 1</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August &amp; Smith, Clark Ashton &amp; Howard, Robert E. &amp; Long, Frank Belknap" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August &amp; Smith, Clark Ashton &amp; Howard, Robert E. &amp; Long, Frank Belknap" opf:role="aut">August Derleth</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August &amp; Smith, Clark Ashton &amp; Howard, Robert E. &amp; Long, Frank Belknap" opf:role="aut">Clark Ashton Smith</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August &amp; Smith, Clark Ashton &amp; Howard, Robert E. &amp; Long, Frank Belknap" opf:role="aut">Robert E. Howard</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August &amp; Smith, Clark Ashton &amp; Howard, Robert E. &amp; Long, Frank Belknap" opf:role="aut">Frank Belknap Long</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1969-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Alrededor de la figura casi legendaria de Lovecraft, surgieron una serie de autores que explotaron y desarrollaron la terrible mitología evocada por el genio de Providence, dando lugar a uno de los fenómenos literarios más sugestivos e inquitantes de nuestro siglo: LOS MITOS DE CTHULHU. Por primera vez completa en castellano, ésta es la recopilación de LOS MITOS llevada a cabo por August Derleth, colaborador directo y albacea literario de Lovecraft.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;August Derleth&quot;: &quot;&quot;, &quot;Clark Ashton Smith&quot;: &quot;&quot;, &quot;Robert E. Howard&quot;: &quot;&quot;, &quot;Frank Belknap Long&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:16:54.105661+00:00"/>
+        <meta name="calibre:title_sort" content="Relatos de los mitos de Cthulhu 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

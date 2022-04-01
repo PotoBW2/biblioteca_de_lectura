@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">181</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81272b7c-ac5f-4120-9cd4-16bd5dfc420b</dc:identifier>
+        <dc:title>Sierra I Fabra Jordi - Hilario Soler 03</dc:title>
+        <dc:creator opf:file-as="Infierno, Al Otro Lado Del" opf:role="aut">Al Otro Lado Del Infierno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Al Otro Lado Del Infierno&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:15:54.680555+00:00"/>
+        <meta name="calibre:title_sort" content="Sierra I Fabra Jordi - Hilario Soler 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

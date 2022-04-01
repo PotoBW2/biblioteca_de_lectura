@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1025</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d74a6c5-ba69-4793-afaa-3057a87a231e</dc:identifier>
+        <dc:title>Salomé: A Tragedy in One Act</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-12T04:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/42704</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Salome (Biblical figure) -- Drama</dc:subject>
+        <dc:subject>Tragedies</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:39:33.975660+00:00"/>
+        <meta name="calibre:title_sort" content="Salomé: A Tragedy in One Act"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">372</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71cbbfb0-8b6a-4997-8bfe-05251ced74f4</dc:identifier>
+        <dc:title>Las Voces del futuro</dc:title>
+        <dc:creator opf:file-as="Sierra I Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-02-15T00:00:00+00:00</dc:date>
+        <dc:description>España, Navidad del año 2.049. En un mundo tecnológicamente avanzado, en el que las nuevas formas de vida inteligente amenazan con dispararse y multiplicarse, crece un nuevo racismo movido por el temor a las máquinas, los entes clónicos, los seres sintéticos capaces de tener sentimientos, conciencia, razón. Mientras los humanos buscan leyes protectoras y los científicos superan día a día todos los límites, el difícil equilibrio está a punto de romperse: Pau Quentin, padre de toda una generación de desarrollo y programación de Vida Artificial Inteligente, es asesinado misteriosamente en su despacho. El único sospechoso es un Vai-3, un hombre sintético de Tercera Generación. Su juicio va a ser algo más que un juicio a todas las máquinas vivas de la Comunidad Europea o el mundo entero. Lo que está en juego es el equilibrio de la humanidad en su proyección hacia el futuro. Y además, Zen, el acusado, pese a que todo está en su contra, insiste en su inocencia.&lt;br /&gt;http://www.sierraifabra.com/&lt;br&gt;(fuente: &lt;a href="http://www.biblioeteca.com"&gt;BiblioEteca.com&lt;/a&gt;)&lt;br&gt;</dc:description>
+        <dc:publisher>Ediciones SM</dc:publisher>
+        <dc:identifier opf:scheme="BIBLIOETECA">309437</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00I953FKK</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">QKs_AAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788434862425</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>ciencia-ficción juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:20:20.703379+00:00"/>
+        <meta name="calibre:title_sort" content="Voces del futuro, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

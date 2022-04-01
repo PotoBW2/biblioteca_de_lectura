@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">882</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9d2615a-b37f-48e2-ba20-8c2b3022ebf3</dc:identifier>
+        <dc:title>Cell</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Día 1 de octubre: Dios está en los cielos, la bolsa está a 10.140, la mayoría de los vuelos llegan a tiempo y Clayton Riddell, un artista de Maine, casi salta de alegría por Boylston Street, en Boston. Acaba de firmar un contrato para ilustrar un cómic que le permitirá mantener a su familia con su arte en vez de tener que dar clases. Ya ha comprado un regalo a su sufrida mujer y tiene claro lo que va a regalar a su hijo Johnny. ¿Por qué no también algo para sí mismo? Clay presiente que las cosas van a ir mejor, pero bruscamente se trastorna todo: se produce una devastación masiva, causada por un fenómeno que más adelante llamarán El Pulso, que se reproduce a través del teléfono móvil. De todos los teléfonos móviles. Clay, junto a unos cuantos supervivientes desesperados, es arrojado a una edad oscura, rodeados por el caos, la hecatombe y una masa humana degradada a su estado más primitivo. Esta novela fascinante, absorbente y cruel no solo hace la pregunta «¿Me oyes?», sino que también responde, y de una forma muy, muy inquietante.</dc:description>
+        <dc:identifier opf:scheme="ISBN">978-84-8346-521-9</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:33:21.666303+00:00"/>
+        <meta name="calibre:title_sort" content="Cell"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

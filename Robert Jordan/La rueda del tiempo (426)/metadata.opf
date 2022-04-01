@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">426</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd10f078-e42c-4165-a748-7c3f6778efa0</dc:identifier>
+        <dc:title>La rueda del tiempo</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert &amp; Sanderson, Brandon" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:creator opf:file-as="Jordan, Robert &amp; Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-01-15T05:00:00+00:00</dc:date>
+        <dc:description>En una Era que ya es mito, transcurrida hace más de 3000 años de la época en que comienza el desarrollo de la trama, la humanidad vivía en una época de paz y prosperidad, las guerras parecían olvidadas, no había ejércitos y se combinaban armónicamente un elevado desarrollo tecnológico y un amor por la sabiduría. Como elemento central de la armonía social estaba la hermandad Aes Sedai, hombres y mujeres que utilizaban el don de la Fuente Verdadera en beneficio de todos, de ahí su nombre que significa «Siervos de todos». Pero en medio de esta idílica época, la arrogancia del hombre provocó el resurgimiento de un antiguo mal, un ente que fue desterrado por el Creador a una prisión fuera del tiempo y del espacio al principio de las Eras. El Oscuro fue parcialmente liberado de dicha prisión y algunos de los miembros más poderosos de la influyente hermandad de los Aes Sedai se vieron tentados por promesas de poder e inmortalidad, abandonando la senda de la Luz. Así, los Renegados –o Elegidos, como se llamaban a sí mismos– iniciaron una ola de salvaje destrucción y guerra para hacerse con el poder. Tras un periodo de duros años de desolación que devolvió a la humanidad lo peor de sí misma, el líder de los Aes Sedai, Lews Therin Thelamon, conocido como el Dragón, decidió resolver el conflicto en una arriesgada maniobra. Reunió a los cien varones más poderosos y lideró un ataque con el objetivo de cerrar de nuevo la prisión. Logró su propósito, dejando atrapados al Oscuro y a los traidores Aes Sedai, pero a un elevado precio. El contraataque del Oscuro contaminó el Saidin, la parte masculina de la Fuente Verdadera. Poco a poco, todos los varones capaces de encauzar fueron enloqueciendo de forma terrible, destruyendo todo cuanto había a su alrededor. Así se inició la llamada Época de La Locura. El mundo fue sacudido en sus cimientos; cambiaron las fronteras; donde antes había desiertos, ahora había mares; donde antes había puertos, ahora sólo quedaban las vacías cáscaras de los barcos encallados; donde antes había planicies ahora había cadenas montañosas. Pueblos enteros se vieron obligados a un desolador destierro; la mayoría de la población murió en lenta agonía. Tras siglos de dolor, la humanidad fue paulatinamente recuperándose; volvieron a surgir naciones e imperios, pero ya nada era como antes. Mucho se había perdido en aquella época de locura y destrucción. La hermandad Aes Sedai, ahora compuesta sólo por mujeres, era una pálida sombra de lo que había sido. Y es ahora, 3000 años después de la Época de la Locura, cuando todo ha devenido en mitos y leyendas, una antigua profecía adquiere cada vez más visos de convertirse en una aterradora realidad.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Jordan&quot;: &quot;&quot;, &quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:40.358689+00:00"/>
+        <meta name="calibre:title_sort" content="rueda del tiempo, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

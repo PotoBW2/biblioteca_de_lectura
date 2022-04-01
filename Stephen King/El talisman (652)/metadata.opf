@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">652</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89bb5f70-75ef-4900-9ce7-fae587dcb933</dc:identifier>
+        <dc:title>El talismán</dc:title>
+        <dc:creator opf:file-as="King, Stephen &amp; Straub, Peter" opf:role="aut">Stephen King</dc:creator>
+        <dc:creator opf:file-as="King, Stephen &amp; Straub, Peter" opf:role="aut">Peter Straub</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Un ventoso día otoñal, un chico de doce años está en una playa del gris océano Atlántico, al lado del silenciado parque de atracciones y el apagado pueblo de Alhambra. Jack ha llegado aquí empujado por las circunstancias: su padre ha fallecido, su madre está agonizando y nada tiene ya sentido. Pero para Jack todo está a punto de cambiar: ha sido elegido para emprender un viaje a través de los misteriosos Territorios... Talismán, una de las obras de género fantástico más elogiadas e importantes, es una extraordinaria novela de iniciación sobre la lealtad, el terror y lo desconocido. Jack Sawyer, en su desesperado intento de salvarle la vida a su madre, ha de buscar el talismán en aquel paisaje épico, hogar de monstruos e inocentes. El talismán es imprescindible, pero el viaje de Jack significa mucho más que esto.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;, &quot;Peter Straub&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:27:20.634564+00:00"/>
+        <meta name="calibre:title_sort" content="talismán, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

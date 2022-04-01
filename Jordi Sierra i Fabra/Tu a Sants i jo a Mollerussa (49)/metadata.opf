@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1b71f3d-ef13-406f-8ddf-2300b566e619</dc:identifier>
+        <dc:title>Tu a Sants i jo a Mollerussa</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-01T05:00:00+00:00</dc:date>
+        <dc:description>La Meritxell i en Pau es coneixen en una nit boja. Al matí la Meritxell s’adona horroritzada que ell és «unionista» i en Pablo descobreix, no menys espantat, que ella és «indepe». Dos pols oposats que viuran al límit del 22 de setembre fins a l’1 d’octubre de 2017, debatent-se entre la passió i els ideals. Jordi Sierra i Fabra rememora aquesta setmana crucial amb una divertida però contundent història portada al límit per dos personatges superats per les circumstàncies però units per la bogeria de l’amor. Serà possible la pau?</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">54254</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:11:12.411972+00:00"/>
+        <meta name="calibre:title_sort" content="Tu a Sants i jo a Mollerussa"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

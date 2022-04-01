@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1280</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f82f5cd-db77-4b17-8a1d-fed9706abc41</dc:identifier>
+        <dc:title>Colorado kid</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Una obra atípica en la trayectoria del autor de Carrie, en la mejor tradición de la novela negra; un crimen en las costas de Maine, aparentemente irresoluble. En una isla de las costas de Maine, un hombre es encontrado muerto. No hay identificación de su cuerpo. Solo el esforzado trabajo de un par de periodistas locales y de un graduado en medicina forense logra descubrir algunas pistas para, después de un año, saber quién es el muerto. Pero es aquí donde comienza el misterio. Porque cuanto más descubren del hombre y de la extrañas circunstancias de su muerte, menos comprenden. ¿Se trata de un crimen imposible? ¿O algo aún más extraño…? Con ecos de El halcón maltés de Dashiell Hammet y de la obra de Graham Greene, Stephen King presenta un relato sorprendente y conmovedor, cuyo tema es nada menos que la naturaleza del propio misterio. Haven, serie de SyFy, está basada en este libro de Stephen King.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policíaco</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:47:38.492944+00:00"/>
+        <meta name="calibre:title_sort" content="Colorado kid"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

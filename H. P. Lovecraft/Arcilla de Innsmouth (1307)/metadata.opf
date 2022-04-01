@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1307</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25c8850d-d9c3-4d72-b980-dcd70527e44b</dc:identifier>
+        <dc:title>Arcilla de Innsmouth</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August" opf:role="aut">August Derleth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-12T22:00:00+00:00</dc:date>
+        <dc:description>El relato, en realidad, fue construido por August Derleth sobre algunos apuntes y notas dejadas por H.P. Lovecraft tras su muerte en 1937. Arcilla de Innsmouth se ubica como otro de los relatos del ciclo onírico de Cthulhu. Los acontecimientos relacionados con el extraño destino de mi amigo el fallecido escultor Jeffrey Corey —si es que el término «fallecido» se ajusta a la verdad— se iniciaron a su regreso de París cuando, en el otoño de 1927, decidió alquilar una casita en la costa, al sur de lnnsmouth. Corey procedía de una familia de prosapia que estaba lejanamente emparentada con los Marsh de Innsmouth, si bien dicho parentesco no le imponía obligación alguna de mantener relaciones con estos sus parientes. En todo caso, existían ciertos rumores sobre los solitarios y retraídos March que todavía vivían en aquella ciudad portuaria de Massachussetts, y lo que en ellos se decía no era lo más adecuado para inspirar a Corey ningún deseo de anunciar su presencia en los alrededores.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Sobrenatural</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;August Derleth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:48:32.431567+00:00"/>
+        <meta name="calibre:title_sort" content="Arcilla de Innsmouth"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

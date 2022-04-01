@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7708538-e483-49a9-9542-3d59a3ede723</dc:identifier>
+        <dc:title>La espada infinita. El despertar</dc:title>
+        <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T00:00:00+00:00</dc:date>
+        <dc:description>El despertar.Adiestrado desde su nacimiento en esgrima y combate, un joven caballero llamado Siris ha luchado ferozmente para poder enfrentarse al tiránico Rey Dios en un combate cara a cara.Esta es la misión que ha heredado de toda su estirpe y que se remonta a incontables generaciones, en un continuo esfuerzo por liberar a su pueblo de la esclavitud. Pero cuando finalmente parece lograr su cometido, Siris se verá de pronto arrojado a un mundo mucho más peligroso, lleno de guerreros, ladrones, antiguos conflictos, peleas y alianzas cambiantes, entre mortales, inmortales y aspirantes a reyes. Sus ansias de libertad le llevarán a un viaje épico en busca de un ser, el único ser en el mundo, que podrá desentrañar los verdaderos secretos de Infinity Blade, la Espada Infinita.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Aventuras</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Infinity Blade"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:24:23.973453+00:00"/>
+        <meta name="calibre:title_sort" content="espada infinita. El despertar, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

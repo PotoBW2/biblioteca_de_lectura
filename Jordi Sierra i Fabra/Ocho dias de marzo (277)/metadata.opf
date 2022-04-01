@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">277</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7b57067-6b7c-470a-b079-156a754f8ced</dc:identifier>
+        <dc:title>Ocho días de marzo</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="shortcontent"&gt;&lt;p&gt;En esta octava
+ entrega de la serie del ex policía Miquel Mascarell,  Jordi Sierra i 
+Fabra nos  adentra en una trama tan intensa como adictiva que deleitará a
+ todo lector de novela negra.&lt;/p&gt;&lt;p&gt;Años cincuenta. El inspector 
+Mascarell y su esposa, Patro, están a punto  de ser padres en una 
+Barcelona que sufre un período de agitación social debido al aumento del
+ precio del tranvía.&lt;/p&gt;&lt;p&gt;Un día, Pere Humet, un antiguo subordinado de
+ Mascarell, le cuenta que  Piñol, Arnella y Matarrodona, tres policías 
+que también estuvieron a sus  órdenes, fueron juntos al exilio, al campo
+ de refugiados de Argelès, y  luego trabajaron en el refuerzo de la 
+Línea Maginot, hasta que los  alemanes los enviaron a Mauthausen. 
+Sobrevivían en aquel infierno, pero  el capricho de un mando alemán 
+desencadenó el horror: obligó a Piñol a  que matara de un disparo en la 
+cabeza a Arnella. Después, le obligó a  que hiciera lo mismo con Humet; 
+la pistola solo tenía una bala y Humetsalvó la vida, sin embargo juró 
+vengarse de Piñol, que a partir de ese  momento comenzó a colaborar con 
+los alemanes, y fue culpable de la muerte de otras personas.&lt;/p&gt;&lt;p style="margin-bottom: 0px;"&gt;Humet explica a Mascarell que ha vuelto &lt;span class="ellip"&gt;...&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial Espaa</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Mascarell 08"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:18:10.843342+00:00"/>
+        <meta name="calibre:title_sort" content="Ocho días de marzo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

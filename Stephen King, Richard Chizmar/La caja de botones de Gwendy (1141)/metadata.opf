@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e9a589e-cc35-431d-8e8c-de9e12bfa08b</dc:identifier>
+        <dc:title>La caja de botones de Gwendy</dc:title>
+        <dc:creator opf:file-as="Stephen King, Richard Chizmar" opf:role="aut">Stephen King, Richard Chizmar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-08T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="text-align:center"&gt;&lt;b&gt;Vuelve Stephen King con una impactante novela corta en un formato muy especial. &lt;/b&gt;&lt;/p&gt; &lt;p style="text-align:center"&gt;&lt;b&gt;&lt;i&gt;La pequeña ciudad de Castle Rock, en Maine, ha sido testigo de algunos extraños sucesos, pero solo hay una historia que no se ha contado... hasta ahora.&lt;/i&gt;&lt;/b&gt;&lt;/p&gt; &lt;p align="JUSTIFY"&gt;Existen tres vías para llegar a Castle View desde la ciudad de Castle Rock: por la carretera 117, por Pleasant Road y por las Escaleras de los Suicidios. Cada día del verano de 1974, Gwendy Peterson, de doce años de edad, toma el camino de las escaleras, que ascienden en zigzag por la ladera rocosa.&lt;/p&gt; &lt;p align="JUSTIFY"&gt;Pero un día, al llegar a lo alto, mientras recupera el aliento con la cara roja y las manos apoyadas sobre las rodillas, un desconocido la llama. Allí, en un banco a la sombra, se sienta un hombre con una chaqueta negra y un pequeño sombrero. Llegará un día en el que Gwendy sufra pesadillas con ese sombrero...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Thriller 2018</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King, Richard Chizmar&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:43:33.024119+00:00"/>
+        <meta name="calibre:title_sort" content="caja de botones de Gwendy, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

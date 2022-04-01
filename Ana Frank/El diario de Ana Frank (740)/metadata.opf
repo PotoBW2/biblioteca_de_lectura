@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">740</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e844eec4-a714-4d8c-94f8-81df42b171c0</dc:identifier>
+        <dc:title>El diario de Ana Frank</dc:title>
+        <dc:creator opf:file-as="Frank, Ana" opf:role="aut">Ana Frank</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;El diario de Ana Frank narra con palabras de su protagonista, una niña judía de 13 años, la historia de la invasión nazi en Holanda. Este relato verídico, cuenta la particular situación de ocho personas, entre ellas Ana y su familia, compuesta por su madre Edith Frank-Holländer, su padre Otto Frank y su hermana tres años mayor, Margot, que se escondieron en el anexo oculto de unas grandes oficinas para escapar de la represión nazi. Permanecieron escondidos, en ese lugar ubicado en la ciudad de Amsterdam, desde el 12 de junio de 1942 hasta el 4 de agosto de 1944 cuando fueron finalmente encontrados. Los agentes de la Gestapo detuvieron a todos los ocupantes y los llevaron a diferentes campos de concentración.&lt;br&gt;Ana Frank es sin duda el personaje histórico que más ha contribuido a conservar el triste recuerdo del holocausto, que representa una de las mayores atrocidades de la historia de la humanidad. Su testimonio sirve para conocer los horrores del nazismo en toda su dimensión y dureza.&lt;/p&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Narrativa dramática</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ana Frank&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:29:39.417756+00:00"/>
+        <meta name="calibre:title_sort" content="El diario de Ana Frank"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

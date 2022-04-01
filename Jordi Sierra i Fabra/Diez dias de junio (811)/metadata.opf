@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">811</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">deb1874d-d423-4571-a62c-e1311203c500</dc:identifier>
+        <dc:title>Diez días de junio</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-04T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Novena entrega de la serie del Inspector Mascarell, Diez días de junio nos devuelve a un pasado no muy lejano, a la cruel realidad de los internados franquistas, con el hambre y las humillaciones de los hijos e hijas de los derrotados, apartados de sus padres «por su bien» y convertidos, en muchos casos, en carne de cañón de la peor de las barbaries.
+
+Junio de 1951, durante los días de la verbena de San Juan. Miquel Mascarell descubre por sorpresa que un viejo enemigo está vivo y libre. Es Laureano Andrada, el único hombre al que apuntó con una pistola y deseó matar antes de la guerra, un viejo pederasta irredento, desafiante, que con la dictadura ha salido de la cárcel y, más aún, sigue trabajando con niños.
+
+En los diez días siguientes, acusado de asesinato, perseguido por la policía, y salvado por David Fortuny, un antiguo agente ahora reconvertido en detective privado, Mascarell vivirá escondido, lejos de Patro y de su pequeña hija Raquel, disfrazado y colaborando con Fortuny para demostrar su inocencia. Un Fortuny excombatiente, falso héroe de guerra, seguidor del Régimen y, por lo tanto, en las antípodas de lo que piensa y cree él. Un auténtico choque de trenes en medio de la vorágine de los días más decisivos en la vida del exinspector.&lt;/p&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Miquel Mascarell"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:31:29.086426+00:00"/>
+        <meta name="calibre:title_sort" content="Diez días de junio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">945</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae8633d2-610f-47ac-b014-de07329d0614</dc:identifier>
+        <dc:title>Zonas interiores</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-25T23:00:00+00:00</dc:date>
+        <dc:description>Alejandra, Alicia, Irene y Regina han organizado un fin de semana muy especial lejos de sus familias. Pero las cosas no salen como han previsto y una tormenta de nieve trastoca sus planes y las deja incomunicadas y solas en una casa de montaña. Furiosas por el contratiempo y de muy mal humor, las cuatro amigas se entregan a una larga y singular reflexión sobre sus vidas –familia, sexo, trabajo, estudios, chicos–, de la que ninguna de ellas saldrá indemne. Tema: Amistad y relaciones de pandilla Tratamiento: Realismo Valores: Amistad y compañerismo</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:35:03.184137+00:00"/>
+        <meta name="calibre:title_sort" content="Zonas interiores"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

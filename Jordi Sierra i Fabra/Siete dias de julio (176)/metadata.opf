@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">176</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d82eefa0-d5ea-4765-ba94-fe6de561f287</dc:identifier>
+        <dc:title>Siete días de julio</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-01T05:00:00+00:00</dc:date>
+        <dc:description>1947. Miquel Mascarell, el último policía de la Barcelona republicana, sale en libertad después de ser indultado de la pena a muerte y de haber pasado los últimos años de su vida en el Valle de los Caídos. De vuelta a casa, a una ciudad casi irreconocible en la que ya no tiene nada ni le queda nadie, recibe un misterioso sobre con una fotografía, dinero y una dirección. Su instinto de policía no puede ignorarlo. A lo largo de una semana descubrirá los nuevos caminos que la dictadura está entretejiendo en Barcelona y en España: el estraperlo y sus grandes riquezas floreciendo entre los vencedores; el hambre y la miseria sepultando todavía a los vencidos. Con una fiel y detallada recreación del ambiente de la ciudad y la época, Siete días de julio es una novela que nos habla de la condición humana llevada al límite, y también de su resistencia y su eterna esperanza.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Miquel Mascarell"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:15:46.886416+00:00"/>
+        <meta name="calibre:title_sort" content="Siete días de julio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

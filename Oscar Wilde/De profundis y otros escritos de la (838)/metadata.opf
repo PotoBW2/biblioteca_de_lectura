@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">838</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6704a0c3-87fe-4e74-b6cd-37a76e615408</dc:identifier>
+        <dc:title>De profundis y otros escritos de la cárcel</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1962-01-01T00:00:00+00:00</dc:date>
+        <dc:description>«Nada de lo que me ocurrió en ningún período de mi vida tuvo la menor importancia en comparación con el arte».En 1895 Oscar Wilde se encontraba en la cumbre de su carrera, pero ese mismo año, tras un escandaloso proceso, fue condenado a dos años de prisión y a trabajos forzados. Allí escribió De profundis, una epístola confesional que ilustra su proceso interior durante el encarcelamiento y uno de los textos más descarnados de la historia de la literatura.Esta edición incluye también —ofreciendo un marco contextual excepcional, apoyado en la magnífica introducción del escritor Colm Tóibín— las cartas que escribió antes y después a sus seres queridos, entre ellos su amante, lord Alfred Douglas. Completa el volumen «La balada de la cárcel de Reading», un revelador poema acerca de un hombre sentenciado a la horca.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Memorias</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:32:10.828341+00:00"/>
+        <meta name="calibre:title_sort" content="De profundis y otros escritos de la cárcel"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

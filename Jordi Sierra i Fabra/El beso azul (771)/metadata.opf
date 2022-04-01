@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">771</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54016075-28a2-423d-969c-55c0e59f1a7d</dc:identifier>
+        <dc:title>El beso azul</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-24T03:00:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;Rogelio, al que todos creían muerto en 1936, regresa en junio de 1977 al pueblo donde nació y fue fusilado junto a su padre y su hermano. Son los días de las primeras elecciones democráticas. Cuando la noticia se conoce, los sentimientos de los supervivientes se cruzan y reaparecen tras más de 40 años. Todos dan por hecho que vuelve para vengarse, pero el regreso lo hace con su esposa, veinte años más joven que él, y su hija de 19 años. &lt;p&gt;&lt;/p&gt;&lt;p&gt;Rogelio no sabe quién le delató entonces, por qué está vivo, por qué las balas de los que le fusilaron no le alcanzaron. Tras caer a la fosa logró zafarse de ella en la oscuridad antes de que les cubrieran con tierra. Su hermana sabe que está vivo desde hace 20 años, pero lo ha silenciado por miedo. Ahora que Franco ha muerto es la hora del reencuentro. &lt;/p&gt;&lt;p&gt;¿Qué busca Rogelio? ¿Solo visitar la fosa donde están su padre y su hermano junto a otros vecinos y reencontrarse con sus orígenes? ¿Cómo reaccionará su primera novia, el amor de su vida, o su mejor amigo, que se cambió de bando para sobrevivir y ahora es su marido? ¿Y el topo que ha vivido 38 años encerrado esperando a que el dictador muriera? ¿Qué hará el hijo del alcalde que lideró la revuelta en julio del 36 y que ahora gobierna la villa? ¿Y el sargento de la guardia civil? &lt;/p&gt;&lt;p&gt;¿Se desatará una espiral de violencia en los días en que los españoles sellan, por fin, la paz con su voto en las urnas? &lt;/p&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>HarperCollins Ibérica, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491390237</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Narrativa</dc:subject>
+        <dc:subject>Novela Historica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:30:26.878275+00:00"/>
+        <meta name="calibre:title_sort" content="beso azul, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

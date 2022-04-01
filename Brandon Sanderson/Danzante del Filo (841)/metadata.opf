@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">841</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7129a66d-9d74-4209-ae15-f3eca568a3c3</dc:identifier>
+        <dc:title>Danzante del Filo</dc:title>
+        <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-01T00:00:00+00:00</dc:date>
+        <dc:description>«AVISO: Esta novela corta transcurre después de Palabras radiantes y revela acontecimientos de su trama».Hace tres años, Lift le pidió a una diosa que no la dejara envejecer, un deseo que ella creía que le fue concedido. Ahora, en Danzante del Filo, la recién nacida Caballero Radiante encuentra que el tiempo no se detiene para nadie. A pesar de que el joven emperador Azish le concedió refugio de un verdugo al que sólo conoce como Oscuridad, la vida en la corte está sofocando al espíritu libre que es Lift, que no puede evitar dirigirse a Yeddaw cuando escucha que la inexorable Oscuridad está cazando gente como ella con poderes que empiezan a mostrarse. Los oprimidos en Yeddaw no tienen campeón, y Lift sabe que debe aprovechar esta increíble responsabilidad.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="El archivo de las tormentas"/>
+        <meta name="calibre:series_index" content="2.5"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:32:15.680623+00:00"/>
+        <meta name="calibre:title_sort" content="Danzante del Filo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

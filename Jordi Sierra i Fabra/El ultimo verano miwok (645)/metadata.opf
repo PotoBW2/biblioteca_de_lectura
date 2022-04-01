@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">645</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">714bdd41-d60f-4903-abf2-04c7acb0ac28</dc:identifier>
+        <dc:title>El último verano miwok</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-01-01T05:00:00+00:00</dc:date>
+        <dc:description>David, diecisiete años sin cumplir, parte para California en busca de su padre, un escritor que ha alcanzado la fama en América a costa de abandonar a su familia en España. Viaje y encuentro permiten a David conocer a su padre y conocerse él mismo. En este proceso desempeñan un papel decisivo Susan, con quien David vive su primer amor, y Tortuga Veloz, un indio que se autocrucifica en protesta por la profanación de un cementerio de su tribu…</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">54713</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Gran angular"/>
+        <meta name="calibre:series_index" content="77"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:27:09.838619+00:00"/>
+        <meta name="calibre:title_sort" content="último verano miwok, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

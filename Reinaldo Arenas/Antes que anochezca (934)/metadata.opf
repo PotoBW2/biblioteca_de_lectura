@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">934</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22850df7-1b66-467b-9fdd-c8b5d64938c9</dc:identifier>
+        <dc:title>Antes que anochezca</dc:title>
+        <dc:creator opf:file-as="Reinaldo Arenas" opf:role="aut">Reinaldo Arenas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-08-09T22:00:00+00:00</dc:date>
+        <dc:description>El 7 de diciembre de 1990 el escritor cubano Reinaldo Arenas, en fase terminal del SIDA, se suicidaba en Nueva York dejando este estremecedor testimonio personal y político, que terminó apenas unos días antes de poner fin a su vida. Arenas, en efecto, reunía las tres condiciones más idóneas para convertirse en uno de los muchos parias engendrados por el infierno inquisitorial y carcelario de la Cuba castrista : ser escritor, homosexual y disidente. Silencien o no la presencia de este libro los interesados en perpetuar el engaño, deseamos que sean cada vez menos los que aún digan que ignoran qué encubría, y encubre, el célebre «paraíso caribeño» del patriarca Fidel Castro. De los bajos fondos de la Habana, donde reptan los excluidos del sistema, a la dificultad de vivir, una vez en el exterior, negándose a la discreta neutralidad que la izquierda bien pensante espera de un exiliado cubano, la vida de Arenas fue, muy a pesar suyo, una continua peripecia vital e intelectual.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Variada</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reinaldo Arenas&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:34:44.531840+00:00"/>
+        <meta name="calibre:title_sort" content="Antes que anochezca"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

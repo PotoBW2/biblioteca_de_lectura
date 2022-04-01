@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1256</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9be555d-35fc-42e0-9d3d-f1e7bd554ff2</dc:identifier>
+        <dc:title>Dos botellas negras</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-08-01T10:57:42+00:00</dc:date>
+        <dc:description>Dos botellas negras (Two Black Bottles) es un relato de terror del escritor norteamericano H.P. Lovecraft, publicado en la edición de agosto de 1927 de la revista Weird Tales. Ninguno de los pocos habitantes que quedan en Daalbergen, localidad de las Montañas Ramapo, cree que mi tío, el viejo dómine Vanderhoof, esté realmente muerto. Piensan algunos que se encuentra suspendido en la maldición del viejo sacristán. De no haber sido por aquel viejo mago, acaso pudiera estar todavía rezando en la pequeña y húmeda iglesia del otro lado del páramo. Después de lo que me ocurrió en Daalbergen, difícilmente podría compartir la opinión de los aldeanos. No estoy seguro de que mi tío esté muerto, pero sí lo estoy, en cambio, de que no está vivo en ningún lugar de este mundo. No hay duda de que el viejo sacristán lo enterró una vez, pero, como fuera, no se encuentra ya en aquella tumba. Podría decir que siento su presencia a mi espalda mientras escribo esto; una presencia que me impele a decir la verdad de las extrañas cosas ocurridas en Daalbergen hace tantos años.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Sobrenatural</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:46:56.568782+00:00"/>
+        <meta name="calibre:title_sort" content="Dos botellas negras"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

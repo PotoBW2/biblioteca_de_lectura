@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">295</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6db5c218-76fa-4850-ab1b-796bc27afff1</dc:identifier>
+        <dc:title>Mr. Mercedes</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Justo antes de amanecer, en una decadente ciudad americana, cientos de parados esperan la apertura de la oficina de empleo para reclamar uno de los mil puestos de trabajo que se han anunciado. Han hecho cola durante toda la noche.De pronto, invisible hasta que lo tienen prácticamente encima, un Mercedes surge de la fría niebla de la madrugada. Su conductor atropella y aplasta a todos los que encuentra a su alcance. Acto seguido, el coche da marcha atrás y vuelve a arremeter contra ellos. El asesino huye dejando atrás ocho muertos y quince heridos.Meses después, Bill Hodges, un policía jubilado que sigue obsesionado con este caso sin resolver, recibe una carta anónima de alguien que se declara culpable de la masacre.Brady Hartsfield vive con su madre alcohólica en la casa donde nació. Disfrutó tanto de aquella sensación de muerte debajo de los neumáticos del Mercedes que ahora quiere recuperarlas.MR. MERCEDES es la historia de una guerra entre el Bien y el Mal. Un retrato inolvidable de la mente de un asesino obsesionado y demente.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Mr. Mercedes"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:18:37.220462+00:00"/>
+        <meta name="calibre:title_sort" content="Mr. Mercedes"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

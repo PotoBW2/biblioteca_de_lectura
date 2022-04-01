@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">165</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41773839-f07a-49ea-b495-dcc73f991fd2</dc:identifier>
+        <dc:title>Solo una película amarga</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-05T04:00:00+00:00</dc:date>
+        <dc:description>Mayo de 1964. El inspector Hilario Soler es el encargado de investigar el asesinato de Gonzalo Romeu Sotomayor, uno de los empresarios de la construcción más importantes de Barcelona en los años del desarrollismo. El cadáver tiene una nota clavada en la frente en la que se lee «Por Simón». A partir de los primeros pasos de Soler y el subinspector Quesada, todo un mundo de intereses, odios y pasiones envuelve la investigación, que poco a poco irá derivando hacia algo mucho más oscuro, algo inimaginable que trascenderá más allá del presente y que tendrá sus raíces en el oscuro pasado de los protagonistas de la historia. Porque el pasado, como un corcho sumergido en el agua, siempre vuelve.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">48818</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Hilario Soler"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:15:29.829620+00:00"/>
+        <meta name="calibre:title_sort" content="Solo una película amarga"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

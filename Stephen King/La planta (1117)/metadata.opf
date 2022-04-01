@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8e0f613-ea28-4aa1-a816-73f082851c23</dc:identifier>
+        <dc:title>La planta</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-06-23T04:00:00+00:00</dc:date>
+        <dc:description>Las cosas no van bien para Zenith House, Editores. Sus ventas están fallando y la empresa está a punto de hundirse cuando se les acerca Carlos Detweiller con un libro llamado «Verdaderos Cuentos de Plagas Demoníacas» que le gustaría le publicasen. Después de que la editorial rechazara su libro, Carlos les envía un «regalo»: una planta de hiedra que es recibida y cuidada por Riddley Walker (el asistente de correo de la empresa que pretende ser menos educados de lo que es). Entonces, la empresa experimenta un repentino cambio de destino, pero, como siempre, el éxito no viene sin un precio.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:42:48.227318+00:00"/>
+        <meta name="calibre:title_sort" content="planta, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

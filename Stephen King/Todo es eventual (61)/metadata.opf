@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d035c9cd-fec8-4d23-a24f-862d1819e366</dc:identifier>
+        <dc:title>Todo es eventual</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Todo es eventual es la primera colección de relatos de Stephen King tras nueve largos años. Publicados anteriormente en revistas, en Internet, leídos en público por el autor o bien inéditos, son textos sorprendentes, misteriosos, terroríficos… Desde historias de encuentros con muertos y una habitación de hotel con fantasma asesino hasta escenas del realismo más directo y brutal, King nos transporta al mundo de su increíble imaginación.&lt;/p&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:11:42.382272+00:00"/>
+        <meta name="calibre:title_sort" content="Todo es eventual"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

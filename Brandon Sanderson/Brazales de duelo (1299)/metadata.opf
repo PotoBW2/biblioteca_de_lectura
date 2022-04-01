@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed167f82-bd84-46ea-8cb0-873f3820479b</dc:identifier>
+        <dc:title>Brazales de duelo</dc:title>
+        <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-01T04:00:00+00:00</dc:date>
+        <dc:description>Brandon Sanderson regresa con la sexta entrega de Nacidos de la Bruma (Mistborn) Brazales de Duelo: legendarios brazales que portaba el lord Legislador hace siglos, hasta que la Guerrero de la Ascensión se los arrebató, precipitando su muerte. Dicen de ellos que contienen un poder increíble, aunque, como todo el mundo sabe, hace tiempo que se perdieron entre las brumas del tiempo. Solo que alguien acaba de encontrarlos. La cuenca de Elendel es un polvorín. El descontento de los trabajadores solo es la punta del iceberg; las diferencias son cada vez más irreconciliables entre la capital y las demás ciudades de la cuenca, ciudades que Elendel asegura gobernar mientras sus habitantes denuncian la opresión a la que se sienten sometidos. En medio de todo esto, llega a oídos de Waxillium Ladrian el rumor de que un académico kandra podría haber localizado los legendarios Brazales de Duelo, un arma capaz de sembrar la destrucción y dar al traste con el actual equilibrio de poder imperante en la cuenca.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Aventuras</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Nacidos de la Bruma"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:48:17.169210+00:00"/>
+        <meta name="calibre:title_sort" content="Brazales de duelo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

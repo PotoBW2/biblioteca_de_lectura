@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e789df83-5dea-4b15-97b5-64125d2cee85</dc:identifier>
+        <dc:title>Jugando en las sombras de la luz</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Un guerrero se despierta en un mundo extraño, hecho de luces, frío e inhóspito. Es atacado por extrañas especies de seres y trata de sobrevivir como puede. Caminando sin parar, pronto descubrirá quién es y dónde vive. La revelación será la clave se su supervivencia.&lt;/p&gt;&lt;p&gt;Con esta novela, escrita en 1992, Jordi Sierra i Fabra se adelantó una vez más a su tiempo, al mundo cibernético en el que nos movemos hoy.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">61049</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:23:57.638070+00:00"/>
+        <meta name="calibre:title_sort" content="Jugando en las sombras de la luz"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

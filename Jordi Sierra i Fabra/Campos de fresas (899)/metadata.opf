@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">899</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42a3837c-f0c1-4da8-9aa7-b4ddcf73ecf9</dc:identifier>
+        <dc:title>Campos de fresas</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Amanece. En un hospital, Luci está en coma. Efectivamente, ha sufrido un golpe de calor debido a una pastilla de éxtasis, la droga de diseño de moda. Sus amigos comienzan a reflexionar sobre lo sucedido el día anterior; su mejor amiga, bulímica, se enfrenta finalmente a sí misma; el chico que está enamorado de Luci busca al camello que suministró la pastilla con la esperanza de ayudarla a salvar la vida. La policía también le busca, y un periodista se dispone a destapar todo el dramatismo de la historia. En unas horas, todo se descontrola, y cuantos conocen a Luci luchan por ella, pero también por algo más: mejorar sus vidas y recuperar el tiempo perdido.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:33:47.483745+00:00"/>
+        <meta name="calibre:title_sort" content="Campos de fresas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

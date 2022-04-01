@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">748</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5bbbf1b-5ee7-421e-9fbf-ed0cd3a52671</dc:identifier>
+        <dc:title>El color que cayó del cielo</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La historia es contada en primera persona por un ingeniero encargado de hacer un estudio para edificar un lago en un remoto paraje, llamado Arkham. Allí encuentra un área de terreno que es distinta a todas y que le causa extrañas sensaciones. Un anciano vecino del lugar le explica que el motivo del estado de esa parcela es que un meteorito se estrelló cerca de una granja, y, al transcurrir el tiempo, las plantas y árboles primero, y los animales después, empiezan a sufrir mutaciones, cambios de color, olores desagradables, acabando afectando a la familia que habita la granja, enloqueciéndola hasta morir en un trágico final, y el ingeniero decide abandonar su trabajo electrizado por el horror que descubre.</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:29:51.247562+00:00"/>
+        <meta name="calibre:title_sort" content="color que cayó del cielo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

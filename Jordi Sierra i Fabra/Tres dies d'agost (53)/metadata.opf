@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d76c8632-e5df-477d-a64f-c671ae666048</dc:identifier>
+        <dc:title>Tres dies d’agost</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Agost del 1950. En Miquel i la Patro es disposen a passar un dia de platja magnífic. Tanmateix, tot es torça quan la Patro desapareix sense més ni més i en Miquel rep una nota molt explícita: si no resol en tres dies un cas que va deixar inacabat l’any 1938, la Patro morirà. Des d’aquest instant, contra rellotge, en una Barcelona colpejada per la canícula estival, en Miquel haurà d’afrontar, un cop més, els fantasmes del passat.
+El cas que no va tancar, a causa d’una malaltia sobtada, i que va resoldre un altre inspector apressadament i va causar la mort d’un innocent, es remunta als cruels bombardejos del març del 1938 sobre la ciutat. Uns bombardejos que, després dels de Guernica, van ser els més sanguinaris i salvatges de la guerra. La bomba que va fer esclatar la cantonada de la Gran Via amb el carrer de Balmes és el detonant de la història. Allí va aparèixer el cadàver d’un soldat que no va morir per causa de l’explosió, sinó que va ser assassinat. Per qui? Per què?
+Tres dies té, en Miquel Mascarell, per resoldre un misteri que resta en peu des de fa dotze anys. I per descobrir, també, en plena investigació, una cosa que li canviarà la vida. Una cosa que afecta la Patro. Una cosa que el farà suar tant o més que la calor.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">d7ff5bf0-41dc-4c11-ae24-413903d3db25</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:11:21.642814+00:00"/>
+        <meta name="calibre:title_sort" content="Tres dies d’agost"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

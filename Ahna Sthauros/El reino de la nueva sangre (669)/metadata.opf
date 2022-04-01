@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">669</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7989ad92-1118-4262-b40a-53cb9f140d9c</dc:identifier>
+        <dc:title>El reino de la nueva sangre</dc:title>
+        <dc:creator opf:file-as="Ahna Sthauros" opf:role="aut">Ahna Sthauros</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-06-16T22:00:00+00:00</dc:date>
+        <dc:description>El momento de la Verdad Absoluta ha llegado y el Apocalipsis amenaza con destruir a la humanidad y a los vampiros. La Milicia Celestial ha decidido llevar a cabo la erradicación de los Condenados hasta sus últimas consecuencias y los demonios acechan en las sombras para repartirse lo que quedará de los tres mundos. En medio del caos, Diane, la Doncella de la Sangre, aparece como la última esperanza para restablecer el ansiado Equilibrio, pero tiene que luchar contra todos e incluso contra sí misma para no convertirse en un ser demasiado poderoso y letal. La última batalla, el último sacrificio, el último beso. ¿La copa con la Sangre divina traerá un nuevo despertar o sumirá a la Tierra en las eternas tinieblas?¿Se puede construir un reino armonioso sobre las cenizas de otro corrupto e injusto y que ya no tiene razón de ser? Y la pregunta más importante: ¿las reglas del juego se pueden cambiar cuando el Destino ya lleva siglos en marcha?</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Romántico</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ahna Sthauros&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Los hijos de los Ángeles Caídos"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:27:46.970255+00:00"/>
+        <meta name="calibre:title_sort" content="El reino de la nueva sangre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

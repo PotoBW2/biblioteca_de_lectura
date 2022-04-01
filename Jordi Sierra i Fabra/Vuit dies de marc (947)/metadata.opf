@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">947</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">530cf8c3-fb71-4118-9a59-cbe6a67f1967</dc:identifier>
+        <dc:title>Vuit dies de març</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-01T05:00:00+00:00</dc:date>
+        <dc:description>En aquesta vuitena entrega de la sèrie del expolicia Miquel Mascarell, Jordi Sierra i Fabra ens endinsa en una trama tant intensa com addictiva que delectarà qualsevol lector de novel·la negra. Són els anys cinquanta, l’inspector Mascarell i la seva dona, la Patro, estan a punt de ser pares quan Barcelona està immersa en un període d’agitació social a causa de l’augment del preu del tramvia. Un dia, en Pere Humet, un antic subordinat d’en Mascarell d’abans de la guerra, li explica que en Piñol, l’Arnella i en Matarrodona, tres policies que també havien estat a les ordres de l’exinspector van marxar junts a l’exili, al camp de refugiats d’Argelers, i després van treballar en el reforç de la Línia Maginot, fins que els alemanys els van enviar a Mauthausen. Tots tres van sobreviure, amb penes i treballs, a aquell infern fins que el capritx d’un oficial alemany va desencadenar l’horror, va obligar en Piñol a matar l’Arnella d’un tret al cap. Tot seguit el va obligar a fer el mateix a l’Humet, però la pistola només tenia una bala: l’Humet es va salvar i va jurar venjar-se d’en Piñol, que va començar a col·laborar amb els alemanys i va ser el responsable de la mort dels altres presoners. L’Humet confessa a en Mascarell que ha tornat a Barcelona perquè sap que en Piñol és a la capital catalana i vol fer justícia. També li explica que té un càncer i no li queda gaire temps de vida. En Miquel accepta ajudar-lo i el convida l’endemà a dinar a casa seva, però l’Humet no s’hi presenta. Quan l’inspector va a buscar-lo, troba el cadàver de l’antic company i el de la seva cosina, que han mort apunyalats. L’acusat és en Nicolau, l’exnòvio de la noia, però l’instint de policia d’en Mascarell li diu que en Nicolau no és el culpable.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Miquel Mascarell"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:35:06.092812+00:00"/>
+        <meta name="calibre:title_sort" content="Vuit dies de març"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

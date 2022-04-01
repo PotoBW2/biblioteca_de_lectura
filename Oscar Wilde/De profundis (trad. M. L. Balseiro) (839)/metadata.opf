@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">839</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f4614d0-25bf-4775-b27a-98c42ae9168b</dc:identifier>
+        <dc:title>De profundis (trad. M. L. Balseiro)</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1905-01-01T00:00:00+00:00</dc:date>
+        <dc:description>De Profundis es, sin duda, el texto más íntimo de Oscar Wilde. En esta larga carta que dirigió desde la cárcel de Reading a su amante lord Alfred Douglas, se revela la parte más ­viva y más honda no sólo de su clara inteligencia sino también de su compleja personalidad humana. De Profundis marca el punto culminante de la vida y fi­losofía personal de su autor y evi­dencia cómo todas las experiencias adquirían para él significado artístico. Wilde, que había luchado por huir tanto del dolor como de la degeneración del espíritu y que había perseguido siempre el placer estético y logrado la máxima brillantez social, tuvo que vivir en los últimos años de su vida el escándalo, la vergüenza de un terrible proceso que lo envió a la cárcel y el desprecio y las burlas de sus múltiples enemigos. Así descubrió por primera vez el significado del dolor, un mundo hasta entonces desconocido para él.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:32:12.470663+00:00"/>
+        <meta name="calibre:title_sort" content="De profundis (trad. M. L. Balseiro)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

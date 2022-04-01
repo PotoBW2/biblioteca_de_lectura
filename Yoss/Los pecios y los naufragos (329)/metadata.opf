@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">329</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11c8e48b-b172-4ccf-ad2d-577b0c24a4ad</dc:identifier>
+        <dc:title>Los pecios y los náufragos</dc:title>
+        <dc:creator opf:file-as="Yoss" opf:role="aut">Yoss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Siglo XXIV: Quince ciudades en La Tierra con cinco millones de habitantes que viven bajo cúpulas, aislados del mundo exterior, para que la interferencia con la naturaleza sea mínima y esta pueda reponerse del desastre ocurrido en el siglo XXII, cuando la última guerra mundial exterminó al 95% de la población.&lt;/p&gt;
+
+    &lt;p&gt;Mundo artificial sofisticado. Nubes y lluvias programadas. Y también: teletransporte, crononáutica: acceso a siglos pasados, disponibilidad absoluta de recursos materiales. ¿El edén? ¿El mejor de los mundos posibles? Muchas preguntas no tienen respuestas para todos. La verdad no es nada simple. Novela de ciencia ficción, pero también novela de reflexión, de indagación de temas esenciales: ¿hacia dónde vamos?, ¿cómo podríamos ser dentro de 300 años?&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">48941</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yoss&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:19:23.271665+00:00"/>
+        <meta name="calibre:title_sort" content="pecios y los náufragos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

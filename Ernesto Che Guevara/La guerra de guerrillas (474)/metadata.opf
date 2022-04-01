@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">474</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">455a2001-4606-40b0-8866-e8834bfb2ed1</dc:identifier>
+        <dc:title>La guerra de guerrillas</dc:title>
+        <dc:creator opf:file-as="Guevara, Ernesto Che" opf:role="aut">Ernesto Che Guevara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1960-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Ensayo sobre sus concepciones de la guerra de guerrillas. Convertido en manual para la lucha de liberación de los pueblos. Utilizado, además, por el Ejército de los Estados Unidos para preparar a sus soldados en las tácticas y estrategias contrainsurgentes.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Referencia</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernesto Che Guevara&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:22:52.462871+00:00"/>
+        <meta name="calibre:title_sort" content="guerra de guerrillas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

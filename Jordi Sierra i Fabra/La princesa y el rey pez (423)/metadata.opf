@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">423</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e5bc3cb-9cb2-43a1-8638-84a58c7d60b1</dc:identifier>
+        <dc:title>La princesa y el rey pez</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-25T22:00:00+00:00</dc:date>
+        <dc:description>Cuenta la leyenda que en el mar que baña las mil islas del arrecife coralino vivía el más hermoso de los peces. Era feliz surcando las profundidades hasta que un día se enamoró de una niña. Así comenzó la historia de Seleine y Bayir, la princesa y el rey pez...</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Infantil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:35.947861+00:00"/>
+        <meta name="calibre:title_sort" content="princesa y el rey pez, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

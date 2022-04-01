@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b61febf-214c-4490-8a8b-03754ee2e298</dc:identifier>
+        <dc:title>Tres días de agosto</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-09T23:00:00+00:00</dc:date>
+        <dc:description>Agosto de 1950. Miquel y Patro se disponen a pasar un día de playa. Sin embargo, todo se torcerá cuando ella desaparezca y él reciba una nota muy explícita: si no resuelve en tres días un caso que dejó inconcluso en 1938, Patro morirá. Desde ese instante, a contrarreloj, en una Barcelona batida por la canícula estival, Miquel deberá enfrentarse a los fantasmas del pasado una vez más. El caso que no concluyó, debido a una intempestiva enfermedad, y que resolvió otro inspector demasiado rápido causando la muerte de un inocente, se remonta a los crueles bombardeos de marzo de 1938 sobre la ciudad. Bombardeos que, después de los de Guernica, fueron los más sanguinarios y salvajes de la guerra. La bomba que hizo saltar por los aires la esquina de la Gran Vía con la calle de Balmes es el detonante de la novela. Allí apareció el cadáver de un soldado que no murió por la explosión, sino asesinado. ¿Por quién? ¿Por qué? En tres días, Miquel Mascarell ha de resolver un misterio sin desvelar desde hace doce años. Y además, en plena investigación, descubrirá algo que va a cambiarle la vida. Algo que atañe a Patro. Algo que hará que sude por algo más que por el calor.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Miquel Mascarell"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:11:27.348386+00:00"/>
+        <meta name="calibre:title_sort" content="Tres días de agosto"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

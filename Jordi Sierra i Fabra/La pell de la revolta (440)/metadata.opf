@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">440</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b61208c-2b92-4bb0-a110-143ad63f5be6</dc:identifier>
+        <dc:title>La pell de la revolta</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T05:00:00+00:00</dc:date>
+        <dc:description>El 23 de febrer de 1905 un nen d’11 anys pateix un greu accident a la fàbrica de la Colònia Güell. Entre la vida i la mort, el capellà de la colònia, els dos fills de l’amo i un grapat d’obrers ofereixen la seva pell per salvar el nen, en un fet històric que el temps ha anat esborrant fins quasi a l’oblit. Per primera vegada, obrers, amos i Església unien forces per a un acte singular que va ser conegut a l’època com «el fet de la pell» i va tenir una àmplia repercussió als mitjans de comunicació. Aquesta és la història d’una família obrera a la Catalunya de començaments del segle XX, els Vidal: pare, mare i quatre fills vius. La història de l’Esteve, que dóna la seva pell, i la d’en Ventura, l’heroi irreductible i rebel que es nega a ser com els altres. Arrenca el 1905 i enllaça amb la Setmana Tràgica de Barcelona.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:59.116939+00:00"/>
+        <meta name="calibre:title_sort" content="pell de la revolta, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

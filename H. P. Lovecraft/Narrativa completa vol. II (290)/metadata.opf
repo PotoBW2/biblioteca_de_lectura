@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e89be0d-fa6d-4d4e-990b-7aff9f15d036</dc:identifier>
+        <dc:title>Narrativa completa vol. II</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En esta segunda y última entrega de la Narrativa completa de Lovecraft, el lector encontrará los relatos escritos entre 1927 y 1937, década fecunda en la que HPL, además de enriquecer sus espantosos Mitos de Cthulhu con cuentos como La sombra sobre Innsmouth, El horror de Dunwich, El ser del umbral o El Asiduo de las tinieblas, alumbra sus dos únicas novelas: El caso de Charles Dexter Ward y En las montañas de la locura. Este volumen completa el periplo interior que Lovecraft emprendió a lo más profundo de sí mismo, a las regiones más subterráneas y sombrías de la psique.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Lovecraft: Narrativa completa"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:18:29.367359+00:00"/>
+        <meta name="calibre:title_sort" content="Narrativa completa vol. II"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

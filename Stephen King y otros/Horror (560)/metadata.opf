@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">560</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf06399d-86cd-4ba1-9053-9731f6e70652</dc:identifier>
+        <dc:title>Horror</dc:title>
+        <dc:creator opf:file-as="otros, Stephen King y" opf:role="aut">Stephen King y otros</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-01-01T05:00:00+00:00</dc:date>
+        <dc:description>20 SUPER RELATOS.
+Reunidos en un volumen de los autores contemporáneos más famosos, y más premiados, por sus historias de terror.
+Stephen King, considerado «el maestro de lo macabro», es el más popular escritor de literatura de terror en el mundo. Entre sus best-sellers, convertidos en éxitos cinematográficos, se cuentan: «Carrie», «El misterio de Salem's Lot», «Christine», «Cujo», «Los niños del maíz»…
+Ramsey Campbell, galardonado con los premios más acreditados de la literatura fantástica.
+T.E.D Klein, director de la revista Twilight Zone, cuyos relatos se han hecho famosos en la serie de televisión «Dimensión desconocida».
+Dennis Etchison, reciente ganador del British Fantasy Award.
+Todos ellos y muchos otros, como Theodore Sturgeon, Robert Bloch, Tannith Lee, William F. Nolan, Joseph Payne Brennan, Stephen R. Donaldson, Alan Ryan, Bernard Taylor, Gardner Dozois, Jack Dann, John Coyne, Michael Bishop, David Morrell, Steve Rasnic Tem, Eric Van Lustbader, Chelsea Quinn Yarbro y Craig Shaw Gardner, nos ofrecen lo mejor de su producción actual.
+Primera de la interesante serie de antologías de terror que la editorial Martínez Roca publicó en su día. Seleccionadas por Charles L. Grant.</dc:description>
+        <dc:identifier opf:scheme="ISBN">978-84-270-1032-1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King y otros&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:24:54.993996+00:00"/>
+        <meta name="calibre:title_sort" content="Horror"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

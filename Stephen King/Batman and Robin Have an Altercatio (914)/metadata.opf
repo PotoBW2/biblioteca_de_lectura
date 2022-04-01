@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">914</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1773c05-4278-4b8d-a0db-059dd7ee96e7</dc:identifier>
+        <dc:title>Batman and Robin Have an Altercation</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-24T04:00:00+00:00</dc:date>
+        <dc:description>A middle-aged man named Sanderson brings his Alzheimer’s-afflicted father to their weekly lunch, that ends in an challenging adventure based in the strong bond of love that have united them since forever.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:34:11.293388+00:00"/>
+        <meta name="calibre:title_sort" content="Batman and Robin Have an Altercation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

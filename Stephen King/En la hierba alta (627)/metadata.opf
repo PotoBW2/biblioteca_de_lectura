@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">627</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93a54ea7-2981-4254-87d7-6f78577f7340</dc:identifier>
+        <dc:title>En la hierba alta</dc:title>
+        <dc:creator opf:file-as="King, Stephen &amp; Hill, Joe" opf:role="aut">Stephen King</dc:creator>
+        <dc:creator opf:file-as="King, Stephen &amp; Hill, Joe" opf:role="aut">Joe Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;, &quot;Joe Hill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:26:41.654177+00:00"/>
+        <meta name="calibre:title_sort" content="En la hierba alta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

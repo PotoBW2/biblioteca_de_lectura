@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6541905-2c4d-4c16-b2c3-61deb77a2327</dc:identifier>
+        <dc:title>La niebla</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-12-31T23:00:00+00:00</dc:date>
+        <dc:description>El maestro se supera a sí mismo… en aterrar. He aquí una serie de historias —unas, horripilantes en su extravagancia; otras, tan terroríficas que disparan el corazón— que son el producto más acabado de una de las más poderosas imaginaciones de nuestro tiempo. En La niebla, historia inicial del libro, extensa como una novela, un supermercado se convierte en último bastión de la humanidad al invadir la tierra un enemigo inimaginable… En los desvanes hay cosas que conviene dejar tranquilas, cosas como El mono… La más soberbia conductora del mundo le ofrece a un hombre El atajo de la señora Todd, para llegar antes al paraíso… En fin, todo un ramillete de emociones y escalofríos, cuyas flores se abren por la noche… «King tiene verdadero talento: sus cuentos de terror son entretenidos y copias exactas de nuestras más profundas pesadillas». New York Times</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Skeleton Crew"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:42:55.831005+00:00"/>
+        <meta name="calibre:title_sort" content="niebla, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

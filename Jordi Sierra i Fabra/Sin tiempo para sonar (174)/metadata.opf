@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">174</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a46ee958-7986-4987-9861-8b9af045c514</dc:identifier>
+        <dc:title>Sin tiempo para soñar</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-08-09T22:00:00+00:00</dc:date>
+        <dc:description>¿Qué se esconde detrás de una noticia cualquiera de un periódico? Es lo que tratan de averiguar Julia y Gil, dos estudiantes de periodismo en un trabajo a simple vista rutinario. La noticia es la del asesinato de Marta, una adolescente cargada de antecedentes penales.
+Pero la investigación les llevará a descubrir mucho más: su vida, sus sueños... ¿Por qué murió Marta? ¿Cuál es la verdad? ¿Quién la asesinó?
+Esta novela es el retrato generacional de una adolescencia marcada que lucha por salir de la desesperanza.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:15:43.993876+00:00"/>
+        <meta name="calibre:title_sort" content="Sin tiempo para soñar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

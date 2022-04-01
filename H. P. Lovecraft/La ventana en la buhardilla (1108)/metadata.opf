@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1347072c-09f9-4938-9cbc-8257702d6e6d</dc:identifier>
+        <dc:title>La ventana en la buhardilla</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August" opf:role="aut">August Derleth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-29T23:00:00+00:00</dc:date>
+        <dc:description>La ventana en la buhardilla (The gable window) es un relato de terror del escritor norteamericano H.P. Lovecraft creado en colaboración con August Derleth —una colaboración póstuma, si se quiere—, publicado en la edición de mayo de 1957 de la revista Saturn. La ventana en la buhardilla apareció con varios nombres alternativos, el más conocido es: El cristal oscuro (The murky glass). Nosotros hemos preferido conservar el título que normalmente aparece en las antologías fantásticas en español, a pesar de que su traducción sea francamente espantosa.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;August Derleth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:42:22.383223+00:00"/>
+        <meta name="calibre:title_sort" content="ventana en la buhardilla, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1270</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99ef9a25-779b-42a9-b408-e7121a2c3d9c</dc:identifier>
+        <dc:title>De Profundis</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-05-01T04:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/921</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Wilde</dc:subject>
+        <dc:subject>Oscar</dc:subject>
+        <dc:subject>1854-1900</dc:subject>
+        <dc:subject>Suffering</dc:subject>
+        <dc:subject>Grief</dc:subject>
+        <dc:subject>Imprisonment</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:47:20.435673+00:00"/>
+        <meta name="calibre:title_sort" content="De Profundis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

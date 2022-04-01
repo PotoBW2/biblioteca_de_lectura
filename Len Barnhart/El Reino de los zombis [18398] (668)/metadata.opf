@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">668</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d8e55ac-35fe-4afc-9f83-5c1690a2e374</dc:identifier>
+        <dc:title>El Reino de los zombis [18398]</dc:title>
+        <dc:creator opf:file-as="Barnhart, Len" opf:role="aut">Len Barnhart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Jim Workman, dueño de una gran empresa de construcción y protagonista de esta historia, regresa de tres semanas de solitario descanso en una cabaña rústica perdida en el bosque y aislada de la civilización. A su llegada al pueblo una extraña sensación le invade todo el cuerpo. 
+El olor a carne podrida impregna el aire mañanero y no ve a nadie caminar por las calles. Durante su ausencia e incomunicación se ha extendido una epidemia en todo el mundo, un extraño virus que provoca que los muertos se levanten de sus tumbas con un deseo irrefrenable de comerse a los vivos.La humanidad rápidamente se está extinguiendo y son pocos los que sobrevivirán pues el tiempo se acaba. La única oportunidad para los seres humanos será que unan sus fuerzas y trabajen en equipo, ya que los extraños seres antinaturales están llenando las calles y casi ningún lugar ya es seguro.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Len Barnhart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="El reino de los Zombis"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:27:45.653725+00:00"/>
+        <meta name="calibre:title_sort" content="Reino de los zombis [18398], El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

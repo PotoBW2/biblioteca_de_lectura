@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">446</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6615919a-793e-43fa-8a22-1e36c604a738</dc:identifier>
+        <dc:title>La música del viento</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Un periodista encuentra en una alfombra traída de la India un mensaje del niño que la ha tejido. Es una petición de socorro, un grito desesperado, y no puede permanecer ajeno a él. Aunque millones de niños son explotados en el mundo, el mensaje tiene un nombre, Iqbal, y una procedencia: la ciudad de Madurai. Un viaje a la tienda donde fue comprada la alfombra enfrentará al protagonista con la realidad de los niños esclavos que son vendidos por sus propios padres. Pero ¿qué puede hacer un occidental ante lo desconocido y en un mundo que permite la esclavitud infantil? El insólito desenlace de la historia, lleno de fuerza y coraje, es un canto de esperanza, tan necesaria en estos momentos en los que la sociedad se enfrenta al reto de erradicar definitivamente la explotación infantil.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:22:10.179037+00:00"/>
+        <meta name="calibre:title_sort" content="música del viento, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

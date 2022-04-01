@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">687</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebc5f4dc-8212-4c8e-9c23-8ba574271444</dc:identifier>
+        <dc:title>El otro</dc:title>
+        <dc:creator opf:file-as="Unamuno, Miguel de" opf:role="aut">Miguel de Unamuno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1926-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Pocas obras de Miguel de Unamuno nos sitúan tan de lleno ante sus preocupaciones como este drama escrito en 1926, durante su exilio, y estrenado en las navidades de 1932 en Madrid por la compañía de Margarita Xirgu y Enrique Borrás. El otro lleva a escena el conocido dilema de personalidad entre conciencia e imaginación. El argumento del drama se centra en dos hermanos (Cosme y Damián) que pueden ser sinónimos de Caín y Abel. El asesinato Abel por Caín y la suplantación de su personalidad hacen que sus esposas se vean envueltas en la duplicidad del «uno» y el «otro». El drama se dirige, según declara el propio autor, a todos aquellos que se arriman alguna vez al brocal del pozo sin fondo de nuestra conciencia personal, y de bruces sobre él tratan de descubrir su propia verdad de sí mismos: la vida ¿es realidad o muerte? Las voces de los personajes brotan de fuera y de dentro, formando parte de un diálogo que convoca a las voces interiores del lector.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Teatro</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Filosófico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miguel de Unamuno&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:28:15.384684+00:00"/>
+        <meta name="calibre:title_sort" content="otro, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

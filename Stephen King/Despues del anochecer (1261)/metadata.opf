@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1261</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1514b4e9-e544-4ab3-b8b5-390fcd26ff0b</dc:identifier>
+        <dc:title>Después del anochecer</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-11-11T05:00:00+00:00</dc:date>
+        <dc:description>Llámalo anochecer. Llámalo crepúsculo. Llámalo ocaso. El atardecer es aquel momento en el que el devenir humano toma derroteros sobrenaturales, aquel instante en que la luz se transfigura en tinieblas. Cuando el sol se esconde, la imaginación comienza a deslizarse por sombras que derivan en la oscuridad más absoluta y la luz del día huye despavorida de la faz de la Tierra. Después del anochecer es, en definitiva, el momento del día perfecto para Stephen King. En Después del anochecer Stephen King reúne una colección de trece relatos tan asombrosos y escalofriantes que te obligarán a dormir con la luz de la mesilla encendida.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:47:04.521117+00:00"/>
+        <meta name="calibre:title_sort" content="Después del anochecer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

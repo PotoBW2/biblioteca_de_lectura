@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">599</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9c51d2d-60d7-4c27-af6a-cb0b8efc490b</dc:identifier>
+        <dc:title>Frío</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-13T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;span itemprop="description"&gt;En su mundo aséptico de asesino a sueldo no
+ había sitio para los sentimientos, aunque el destino le deparaba una 
+sorpresa dulce, sensual y amarga a la vez.
+&lt;br&gt;
+&lt;br&gt;Cuando recibe el encargo de acabar con la vida de una bellísima 
+mujer, Leo se enfrenta a un insospechado contratiempo: enamorarse no 
+entraba en sus planes. Pero las sorpresas nunca llegan solas y un nuevo 
+giro de los acontecimientos da un vuelco a su vida. La pasión lo lleva a
+ emprender una búsqueda obsesiva para desentrañar la verdad en un 
+inteligente juego de intriga, erotismo y jazz, mucho jazz.
+&lt;br&gt;
+&lt;br&gt;Al ritmo sincopado de las notas de Take Five y ambientada en la 
+Barcelona actual, esta trepidante historia llena de sexo, sangre, sudor y
+ lágrimas sigue la tradición de la mejor novela negra americana. Y es, 
+sin duda, la más negra de las novelas de Jordi Sierra i Fabra.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B075VVK9VX</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781477818336</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:25:58.318661+00:00"/>
+        <meta name="calibre:title_sort" content="Frío"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

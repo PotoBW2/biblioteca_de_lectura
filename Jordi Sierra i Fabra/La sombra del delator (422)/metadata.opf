@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">422</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29b87b3d-8633-47da-8435-611a662d84a9</dc:identifier>
+        <dc:title>La sombra del delator</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-17T22:00:00+00:00</dc:date>
+        <dc:description>Mucho antes de que nacieran sus emblemáticos personajes policiacos Miquel Mascarell e Hilario Roser, Jordi Sierra i Fabra creó al periodista y detective aficionado Daniel Ros. Eran los años 80. Jordi escribió seis novelas hasta comienzos de los años 90 e hizo en 1989 el guión previo de una película para televisión que TVE rodó en 1991 y estrenó, después de años congelada, en 1994. La película la protagonizaron un joven Mario Gas y el gran Manuel Alexandre y se tituló «La sombra del delator». Hoy, treinta años después de escribir la historia, Jordi recupera el relato que dio pie a esta película tal y como fue escrito entonces. Toda una novedad para los amantes del primer personaje policiaco creado por el autor y cuya serie estamos recuperando ahora. Un mensaje en el contestador automático de su teléfono, es el inicio del misterio que llevará a Daniel Ros a adentrarse en el sórdido mundo de las residencias piratas para ancianos, donde se encontrará con un extraño asesinato. También le llevará a las herméticas y millonarias partidas ilegales organizadas por la mafia del juego y tendrá que andar un difícil camino hasta la resolución del enigma.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Daniel Ros"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:34.657005+00:00"/>
+        <meta name="calibre:title_sort" content="sombra del delator, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

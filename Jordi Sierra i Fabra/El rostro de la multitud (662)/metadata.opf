@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">662</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e70de808-0ef0-4002-b788-62eea41d1346</dc:identifier>
+        <dc:title>El rostro de la multitud</dc:title>
+        <dc:creator opf:file-as="Jordi Sierra i Fabra" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-21T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p align="justify"&gt;Una espectacular chica de 17 años entra en un banco y anuncia que es un robo. Pero en lugar de huir con el dinero, se queda en el interior, atrincherada con rehenes, a la espera de que lleguen la policía y los medios de información. ¿Por qué? Un periodista decidido a buscar la verdad tiene apenas unas horas para encontrarla antes de que, con los GEO a punto de intervenir, estalle la tragedia.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>editorial SiF</dc:publisher>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:27:36.133968+00:00"/>
+        <meta name="calibre:title_sort" content="El rostro de la multitud"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

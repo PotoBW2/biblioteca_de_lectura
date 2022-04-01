@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1003</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">858731e1-513a-4986-bfa5-571155e6929b</dc:identifier>
+        <dc:title>Sordo, mudo y ciego</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Eddy, C.M." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Eddy, C.M." opf:role="aut">C.M. Eddy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-12T22:00:00+00:00</dc:date>
+        <dc:description>Sordo, mudo y ciego (Deaf, dumb and blind) es un relato de terror del escritor norteamericano Howard Phillip Lovecraft, escrito en colaboración con C.M. Eddy (con quien escribiría Los amados muertos, entre otros cuentos), y publicado en Weird tales en mayo de 1924. Nos cuenta la estremecedora historia que Richard Blake, poeta impedido que sólo mantiene el sentido del tacto como vínculo con el mundo exterior (es sordo, mudo y ciego) deja en una máquina de escribir poco antes de morir.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Sobrenatural</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;C.M. Eddy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:38:54.364803+00:00"/>
+        <meta name="calibre:title_sort" content="Sordo, mudo y ciego"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

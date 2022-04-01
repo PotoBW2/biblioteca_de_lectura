@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da9174cd-e70b-4c00-85c9-6fad1b6ed329</dc:identifier>
+        <dc:title>Salem's Lot (Edición Ilustrada)</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Ben Mears, escritor de éxito, creció en la pequeña ciudad de Jerusalem's Lot, en Maine, que había abandonado hacía años. Ahora, después de la muerte de su mujer, ha decidido volver con la intención de escribir un libro sobre Marsten House, la mansión abandonada que le había producido tantas pesadillas de niño. Durante los años treinta Marsten House fue la residencia de un gángster que se suicidó en ella. Después de su muerte se descubrió que había asesinado a varios niños. Para su sorpresa, Ben descubre que alguien había comprado la casa: dos hombres de negocios, Straker y Barlow. Nadie había visto nunca al primero. La llegada de Ben coincide con la desaparición de un niño… y luego de otro. Además, la ciudad entera está cambiando: se está convirtiendo en una ciudad de fantasmas, o en algo mucho peor: de seres que solo salen de noche. Ben y dos amigos suyos se ven obligados a emprender una lucha a muerte contra las espeluznantes fuerzas del mal… En 1975 Stephen King publicó su segunda novela, Salem's Lot. Más de treinta años después aquí está la versión completa de dicha novela, que incorpora cincuenta páginas que habían sido eliminadas. El libro incluye además una nueva introducción escrita por el autor, dos relatos inéditos sobre los personajes y una serie de fotografías que reflejan perfectamente el ambiente, opresivo y subyugante, de la obra. Hoy en día, Salem's Lot se considera una de las obras más significativas de su autor y su energía diabólica sigue estremeciendo a los lectores.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:16:36.941569+00:00"/>
+        <meta name="calibre:title_sort" content="Salem's Lot (Edición Ilustrada)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

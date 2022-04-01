@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">60</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29dafd52-c5bf-4d5b-b2a1-9acd9f00dc44</dc:identifier>
+        <dc:title>Todo oscuro, sin estrellas</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-01T04:00:00+00:00</dc:date>
+        <dc:description>«Creo que existe otro hombre dentro de cada hombre, un extraño...» son palabras de la confesión que escribe Wilfred Leland James en «1922», el primer relato de este cuarteto hipnotizador y profundamente oscuro. El ser desconocido que James lleva dentro se despierta cuando su esposa Arlette le anuncia que piensa vender el terreno que acaba de heredar y que va a trasladarse a la ciudad. Sus palabras le empujan hacia el asesinato y la locura. En «Camionero Grande» Tess, una escritora de novelas simpáticas de intriga, se encuentra con un hombre gigantesco cuando vuelve a casa por una carretera rural después de dar una charla en un club de lectura. Violada y abandonada tras ser dada por muerta, Tess planea su venganza y para llevarla a cabo tendrá que sacar de sí misma un lado totalmente desconocido. «Una extensión justa», el relato más corto, es el más malvado y el más divertido. Harry Streeter hace un pacto con el diablo quien le quitará no solamente su cáncer mortal, sino también todos los rencores que había sentido en su vida. Y finalmente, en «Un buen matrimonio» conocemos a Darcy Anderson quien, un día en que su marido está fuera por trabajo, va a buscar pilas al garaje y descubre una caja que él tenía allí escondida. Su contenido es tan horrendo como el ser desconocido que hay dentro de su marido. En un solo instante acabarán veinte felices años de matrimonio. Stephen King es autor de más de cincuenta libros, todos best sellers internacionales. Los más recientes incluyen La cúpula, Después del anochecer, Duma Key, Cell, La historia de Lisey, Todo es eventual y los últimos tomos de La Torre Oscura. En 2003 fue galardonado con la medalla del National Book Foundation for Distinguished Contribution to American Letters, y en 2007 fue nombrado Gran Maestro de los Mystery Writers of America. Vive en Maine con su esposa Tabitha King, también novelista. «Todo oscuro, Sin estrellas es una colección de relatos extraordinaria, terrorífica, sin piedad. El autor está en el cénit de su poder creativo.» The Telegraph «Un libro que te obliga a seguir leyendo. King domina tanto la novela corta como la novela muy larga.» The New York Times</dc:description>
+        <dc:identifier opf:scheme="ISBN">978-84-01-33974-5</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:11:39.122185+00:00"/>
+        <meta name="calibre:title_sort" content="Todo oscuro, sin estrellas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

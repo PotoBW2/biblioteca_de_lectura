@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">692</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ccdfe6d-ddff-4baa-a974-413b4ad0af74</dc:identifier>
+        <dc:title>El museo de los horrores</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-01-01T05:00:00+00:00</dc:date>
+        <dc:description>«Es medianoche. Antes del alba darán conmigo y me encerrarán en una celda negra, donde languideceré interminablemente, mientras insaciables deseos roen mis entrañas y consumen mi corazón, hasta ser al fin uno con los muertos que amo. Mi asiento es la fétida fosa de una vetusta tumba; mi pupitre, el envés de una lápida caída y desgastada por los siglos implacables; mi única luz es la de las estrellas y la de una angosta media luna, aunque puedo ver tan claramente como si fuera mediodía. A mi alrededor, como sepulcrales centinelas guardando descuidadas tumbas, las inclinadas y decrépitas lápidas yacen medio ocultas por masas de nauseabunda maleza en descomposición. Y sobre todo, perfilándose contra el enfurecido cielo, un solemne monumento alza su austero chapitel ahusado, semejando el espectral caudillo de una horda fantasmal. El aire está enrarecido por el nocivo olor de los hongos y el hedor de la húmeda tierra mohosa, pero para mí es el aroma del Elíseo. Todo es quietud —terrorífica quietud—, con un silencio cuya intensidad promete lo solemne y lo espantoso. De haber podido elegir mi morada, lo hubiera hecho en alguna ciudad de carne en descomposición y huesos que se deshacen, pues su proximidad brinda a mi alma escalofríos de éxtasis, acelerando la estancada sangre en mis venas y forzando a latir mi lánguido corazón con júbilo delirante… ¡Porque la presencia de la muerte es vida para mí!». (de Los amados muertos).</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">48754</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:28:23.621393+00:00"/>
+        <meta name="calibre:title_sort" content="museo de los horrores, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

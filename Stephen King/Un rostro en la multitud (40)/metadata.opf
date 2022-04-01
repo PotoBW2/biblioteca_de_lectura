@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e670885-fa18-42a4-a02a-6894d6b9135b</dc:identifier>
+        <dc:title>Un rostro en la multitud</dc:title>
+        <dc:creator opf:file-as="King, Stephen &amp; O'Nan, Stewart" opf:role="aut">Stephen King</dc:creator>
+        <dc:creator opf:file-as="King, Stephen &amp; O'Nan, Stewart" opf:role="aut">Stewart O'Nan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-21T04:00:00+00:00</dc:date>
+        <dc:description>El viudo Dean Evers se pasa las tardes frente al televisor viendo un partido de béisbol tras otro. Un día empieza a reconocer rostros de personas de su pasado entre las gradas. Desde la muerte de su mujer, Dean Evers se pasa las tardes apoltronado en el sofá viendo partidos de béisbol. Durante una de estas tardes solitarias, mientras mira un partido de los Devil Rays contra los Mariners, la visión de una figura entre las gradas lo saca de su letargo. Dos filas detrás de la multitud, en el asiento asignado a un invitado especial, alguien le mira fijamente desde el otro lado del televisor. Es el rostro de una persona de su pasado, de hace décadas, de alguien que no debería estar en un partido de béisbol ni tampoco en ningún lugar de este planeta. Y así empiezan a desfilar por la pantalla personas de su pasado. Hasta que un día aparece la más terrorífica de todas…</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;, &quot;Stewart O'Nan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:10:40.766021+00:00"/>
+        <meta name="calibre:title_sort" content="rostro en la multitud, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">486</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25cc9378-2ff2-472b-a7ea-daf1ede640d9</dc:identifier>
+        <dc:title>La conspiració del coltan</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-01T05:00:00+00:00</dc:date>
+        <dc:description>La Magda Ventura té quaranta-dos anys, és periodista d’investigació i és supervivent d’un passat tràgic que inclou l’assassinat de la seva parella poc abans de casar-se i un atemptat amb bomba a l’Afganistan. Ara, habita un present fosc, viscut al límit de les seves possibilitats. El dia que la Sònia, una prostituta de luxe, l’avisa que li ha d’explicar una cosa molt important, la Magda no dubta gens i la va a veure immediatament, però arriba massa tard i es troba la dona morta, en aparença víctima d’una pràctica sexual de risc: el shibari. La Magda no en tindrà prou d’avisar el seu amic, l’inspector Joan Molins, i voldrà saber la veritat per ella mateixa. Submergida en l’univers del shibari, el sexe convertit en art, i en el món de la prostitució, descobrirà l’entramat d’un complot internacional que pot canviar el destí de moltes persones i afectar l’economia del país. Un complot a punt d’esclatar i del qual no en té cap prova.
+Aquest és el primer cas de la Magda Ventura, una periodista intrèpida que s’enfronta a la investigació més important de la seva carrera. Ara més que mai haurà d’arriscar la seva vida per saber l’autèntica veritat.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">59134</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Magda Ventura"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:23:09.598564+00:00"/>
+        <meta name="calibre:title_sort" content="conspiració del coltan, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05165d74-0e94-4430-8981-e2486dfff87d</dc:identifier>
+        <dc:title>The Complete Works of H. P. Lovecraft</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Howard Phillips Lovecraft (August 20, 1890 – March 15, 1937), a prolific and problematic writer, is often considered one of the greatest authors of early American horror, science-fiction, and "weird" fiction. His stories echo such great horror and fantasy authors as Poe, Dunsany, and Chambers. But Lovecraft also brought to his writing a "cosmic horror," which sprang out of his fantasies and nightmares. The Complete Works of H.P. Lovecraft contains all Lovecraft's solo writings as an adult, beginning in 1917 with "The Tomb" and ending in 1935 with "The Haunter of the Dark." His collaborative works and revisions are not included.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:14:35.086427+00:00"/>
+        <meta name="calibre:title_sort" content="The Complete Works of H. P. Lovecraft"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

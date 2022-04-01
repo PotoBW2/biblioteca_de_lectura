@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32a5bb14-7242-4d8b-88d8-7cde0bc1a31d</dc:identifier>
+        <dc:title>Sombras en el tiempo</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-01T04:00:00+00:00</dc:date>
+        <dc:description>Carmen y sus hijos llegan a la Barcelona de 1949 para reunirse con Antonio, el padre de familia, que les espera después de trabajar varios años en la ciudad. Animados por la promesa de una vida mejor, alejada de las penurias del campo en Murcia, su tierra natal, se enfrentan a la dureza de un mundo desconocido para ellos donde las heridas entre vencedores y vencidos están todavía demasiado abiertas. El deseo de Úrsula por triunfar en los escenarios como cantante, las dificultades de Fuensanta para incorporarse al mundo laboral, los devaneos amorosos del galán Ginés, la lucha de Salvador contra la intolerancia y la brecha que empezará a crearse entre Carmen y Antonio por los secretos de un matrimonio oscuro marcarán sus destinos en un país que camina con esfuerzo en pos del futuro. Con las cartillas de racionamiento, la represión ideológica, la amenaza de las cárceles franquistas o la tenaz rebeldía de los maquis como telón de fondo, Sombras en el tiempo es una historia minuciosamente ambientada que atrapará al lector por sus personajes emotivamente trazados, sus tramas apasionantes y la sensacional recreación de los años más emblemáticos y turbulentos de la posguerra, un tiempo donde la subsistencia del día a día era el único recurso frente a la adversidad.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:15:24.277435+00:00"/>
+        <meta name="calibre:title_sort" content="Sombras en el tiempo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

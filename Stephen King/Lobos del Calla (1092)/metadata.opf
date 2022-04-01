@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1092</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0eecf9b3-1ef8-4864-92eb-3369059542e5</dc:identifier>
+        <dc:title>Lobos del Calla</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Roland Deschain y su ka-tet viajan hacia el sudeste a través de los bosques del Mundo Medio. El camino les lleva a él y sus compañeros hasta el Calla Bryn Sturgis, una tranquila comunidad de granjeros y rancheros en las fronteras del Mundo Medio. Más allá de este pueblo se encuentra Tronido, de donde procede la más terrible de las amenazas: los lobos. En el Calla, los viajeros se encuentran con el padre Callahan, otro refugiado de nuestro mundo. Él también es uno de los protectores de la Torre Oscura, en particular de un solar de la Segunda Avenida de Manhattan donde crece una sola rosa roja. Los lobos de Tronido se están acercando y por primera vez los habitantes del Calla Bryn Sturgis, entrenados e inspirados por el coraje de Roland y su ka-tet, van a luchar.</dc:description>
+        <dc:identifier opf:scheme="ISBN">978401335299</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="La torre oscura"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:41:33.868329+00:00"/>
+        <meta name="calibre:title_sort" content="Lobos del Calla"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

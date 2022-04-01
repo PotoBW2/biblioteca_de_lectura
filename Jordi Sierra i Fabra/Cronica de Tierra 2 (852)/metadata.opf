@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">852</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f731fd18-2e59-41e9-bfac-b9e5b2f83ea7</dc:identifier>
+        <dc:title>Crónica de Tierra 2</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-09-23T22:00:00+00:00</dc:date>
+        <dc:description>Hace casi tres siglos que los humanos han regresado a su planeta original y Tierra 2 está habitado sólo por las máquinas. La estabilidad que se conquistó entonces parece ideal e inquebrantable. Sólo la científica Nathanian es consciente de que la falta de materias primas y de capacidad de adaptación constituye una condena a la desaparición. Cuando propone el revolucionario Proyecto Génesis, la recreación de la raza humana, todo se tambalea, hasta el punto que reaparece el asesinato en la sociedad.Ésta es una insólita combinación de space opera y thriller policíaco y judicial, donde la ambientación sirve de excusa para reflexionar sobre la naturaleza humana y cuestiones de nuestro tiempo, como el papel de la innovación en la civilización, el conflicto entre el arriesgado progresismo y el inmovilizante conservadurismo o el binomio cultura—naturaleza. Premios: finalista del Premio Minotauro 2004</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:32:33.513213+00:00"/>
+        <meta name="calibre:title_sort" content="Crónica de Tierra 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cae328f6-cdc6-4045-9cc3-e04d9c16c4a5</dc:identifier>
+        <dc:title>Night Shift</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1978-01-01T05:00:00+00:00</dc:date>
+        <dc:description>King’s first collection of short stories showcases the darkest depths of his brilliant imagination. Here we see mutated rats gone bad (“Graveyard Shift”); a cataclysmic virus that threatens humanity (“Night Surf,” the basis for The Stand); a possessed, evil lawnmower (“The Lawnmower Man”); unsettling children from the heartland (“Children of the Corn”); a smoker who will try anything to stop (“Quitters, Inc.”); a reclusive alcoholic who begins a gruesome transformation (“Gray Matter”); and many more shadows and visions that will haunt you long after the last page is turned.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:18:23.765755+00:00"/>
+        <meta name="calibre:title_sort" content="Night Shift"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a63b043-7116-4750-ba98-bb96688db899</dc:identifier>
+        <dc:title>Sense retorn</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-23T04:00:00+00:00</dc:date>
+        <dc:description>Un noi s’ha suïcidat. Ha deixat una carta a la mare. Un fals orgull i la por li han anul·lat la capacitat de demanar ajuda. Era alumne de l’institut d’un poble gran. Feia temps que uns companys de classe li feien la vida impossible. Aquella societat queda trasbalsada: companys, amics, pares, germans, professors, veïns... Com passa sovint, no s’ha volgut veure allò que s’intueix o que no ens afecta a nosaltres directament. Però quan s’arriba a una situació límit, les preguntes es disparen, les consciències es desperten, les reaccions són imprevisibles.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:16:09.378607+00:00"/>
+        <meta name="calibre:title_sort" content="Sense retorn"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">447</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db518a3d-5fe0-48c7-93a3-9d427cb5ccf3</dc:identifier>
+        <dc:title>La muerte del censor</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-10T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Yo he contado como mínimo veinte cuchilladas, y puede que haya más si algunas se han superpuesto. Mucho odio dijo Hilario. Y rabia. Debió de seguir acuchillándole ya muerto. Una turbia trama de odios ocultos y pasiones escondidas abre una trepidante serie de intriga policial ambientada en la Barcelona de los años sesenta, en pleno franquismo. El protagonista es el comisario Hilario Soler, oveja negra entre sus compañeros por sus escrúpulos de conciencia y su celo ejemplar. Veintisiete puñaladas y cuatro balas, una cruel venganza. Cuando aparece el cadáver de uno de los más importantes censores del régimen se encienden todas las alarmas del Estado. El caso se encargará a Soler, el mejor hombre de la comisaría. Pero ¿es esa la investigación más adecuada para encargar a alguien con escrúpulos Personajes oscuros, pasados escabrosos, palabras prohibidas y todas las miserias de una sociedad dominada por la represión y la censura confluyen en una intensa narración de resonancias impresionantes.&lt;/p&gt;</dc:description>
+        <dc:publisher>Harlequin Ibérica, una división de HarperCollins, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a00c87e2-195d-45a6-8dff-ad689b39ad2b</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>misterio</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:22:11.888091+00:00"/>
+        <meta name="calibre:title_sort" content="muerte del censor, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

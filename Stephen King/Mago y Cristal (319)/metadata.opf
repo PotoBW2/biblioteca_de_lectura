@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">319</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dccf9fe3-871c-4a01-8ac3-bbe6dd0e5896</dc:identifier>
+        <dc:title>Mago y Cristal</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-12-31T16:00:00+00:00</dc:date>
+        <dc:description>Rolando y el ka-tet han conseguido escapar de la ciudad de Lud a bordo de Blaine, el tren enloquecido. Vencen a este último en un concurso de adivinanzas y siguen su camino hacia la Torre Oscura. Rolando ahora cuenta su historia, una historia trágica de traiciones y de destierro y de cómo se convirtió en pistolero solitario, sin hogar, entregado a una búsqueda quizá imposible. Pero lo que fundamentalmente narra Rolando es la historia de su amor por Susan Delgado, su primer amor y probablemente el único verdadero de su vida, y de las maniobras para separarlos. Y es que Rolando era demasiado joven para defenderse de las fuerzas naturales y sobrenaturales que conspiraban contra él...</dc:description>
+        <dc:publisher>EDICIONES B, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">84-663-0121-6</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="La torre oscura"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:19:09.308367+00:00"/>
+        <meta name="calibre:title_sort" content="Mago y Cristal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

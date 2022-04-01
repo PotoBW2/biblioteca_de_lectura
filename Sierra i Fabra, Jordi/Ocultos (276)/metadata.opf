@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">276</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a9a9a5a-b2d2-4b0a-ac70-5e52a8fa01c0</dc:identifier>
+        <dc:title>Ocultos</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Sierra i Fabra, Jordi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-26T21:03:27+00:00</dc:date>
+        <dc:description>&lt;p&gt;¿Quién no ha oído hablar alguna vez de los Libros Prohibidos?¿Existen en realidad?Enrique Ardiach, un hombre de negocios y reconocido anticuario barcelonés, forma parte de la orden de los custodios, encargada de proteger y estudiar los Libros Prohibidos. Está a punto de recuperar El libro de Thot, el que se conoce como prim er libro de la historia y fuente de todo conocimiento humano. Sabe que siguen sus pasos y por eso ha dejado a sus dos nietos, Elisabet y Eduardo, una serie de complejísimas pistas por si él no pudiera continuar...Cuando Ardiach muere en extrañas circunstancias, Elisabet y Eduardo deberán emprender una carrera contrarreloj para que nadie se apodere del libro: y es que el Vaticano lo quiere para que no caiga en manos equivocadas, los poderosos Hombres de Negro para lucrarse y Enzo, un joven de perturbadora y sobrenatural belleza, para dejar de vivir?&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">88244cea-4f71-42dd-a4ae-07a4f4e6e352</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sierra i Fabra, Jordi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:18:09.343819+00:00"/>
+        <meta name="calibre:title_sort" content="Ocultos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

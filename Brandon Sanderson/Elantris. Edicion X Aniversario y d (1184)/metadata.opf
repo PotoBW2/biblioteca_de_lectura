@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1184</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82dbcf0c-dc15-4fad-8433-9d3a2da87c08</dc:identifier>
+        <dc:title>Elantris. Edición X Aniversario y definitiva del autor</dc:title>
+        <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Brandon Sanderson debutó en 2006 ante los lectores en castellano con Elantris, una novela de fantasía épica que marcó un auténtico hito. Cuando se cumple el décimo aniversario de su publicación, se relanza en esta edición especial, que permite rememorar y descubrir los inicios de un autor que, desde entonces, ha cosechado ocho millones de seguidores en todo el mundo, confirmando su condición de heredero al trono de todo un género.Esta nueva versión, convertida en la edición definitiva del autor, empieza con un prefacio de Dan Wells, la primera persona que leyó el manuscrito completo, y un nuevo prólogo de Miquel Barceló, su primer editor en castellano. Lo cierra un epílogo en que el propio Sanderson nos cuenta por qué escribió esta novela y su importancia en el Cosmere, el fascinante universo que comparte la mayoría de sus obras. Se incluye también una versión ampliada del apéndice «Ars Arcanum», con más detalles técnicos sobre la magia de un libro mítico para su legión de lectores.Bienvenidos a la ciudad de Elantris, la poderosa y bella capital de Arelon llamada la «ciudad de los dioses». Antaño famosa sede de inmortales, lugar repleto de poderosa magia, Elantris ha caído en desgracia. Ahora solo acoge a los nuevos «muertos en vida», postrados en una insufrible «no-vida» tras una misteriosa y terrible transformación. Un matrimonio de Estado destinado a unir los reinos de Arelon y Teod se frustra, ya que el novio, Raoden, el príncipe de Arelon, sufre inesperadamente la Transformación y se convierte en un «muerto en vida» obligado a refugiarse en Elantris. Su reciente esposa, la princesa Sarene de Teod, creyéndolo muerto, se ve obligada a incorporarse a la vida de Arelon y su nueva capital, Kae. Mientras, el embajador y alto sacerdote de otro reino vecino, Fjordell, usará su habilidad política para intentar dominar Arelon y Teod con el propósito de someterlos a su emperador y su dios.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Nova"/>
+        <meta name="calibre:series_index" content="258"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:44:56.094708+00:00"/>
+        <meta name="calibre:title_sort" content="Elantris. Edición X Aniversario y definitiva del autor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

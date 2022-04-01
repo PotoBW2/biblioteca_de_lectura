@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">896</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35e01393-9055-4468-be48-52fbe46bd19d</dc:identifier>
+        <dc:title>Canción de Susannah</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La diabólica Mia se ha apoderado del cuerpo y parte de la mente de Susannah para que dé a luz a su hijo. Para ello, la obliga a viajar al Nueva York del año 1999, un mundo que aterroriza a Mia y donde necesita a Susannah para sobrevivir. También a Nueva York llegan Jake, Ancho y el padre Callahan, con el propósito de rescatar a Susannah y proteger una parcela, aquella donde crece un rosal que es mucho más que un símbolo. La suya será una búsqueda desesperada, pues una vez nacida la criatura, Mia no va a necesitar a Susannah. Mientras tanto, en el verano de 1977 en Maine, Eddie y Roland se enfrentan al escritor Stephen King, que se había olvidado de ellos después de los cuatro primeros volúmenes de sus aventuras y en cuyas manos está su futuro. Canción de Susannah arrastra al lector en un gran crescendo cuyo desenlace está en el aire. Y es que las fuerzas del mal acechan y el final se acerca…</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="La torre oscura"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:33:43.056720+00:00"/>
+        <meta name="calibre:title_sort" content="Canción de Susannah"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

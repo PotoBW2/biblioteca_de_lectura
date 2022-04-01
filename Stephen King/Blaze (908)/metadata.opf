@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">908</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">118985f8-d0b3-40b0-93b1-8ed43f87228c</dc:identifier>
+        <dc:title>Blaze</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="sinopsis minisalto"&gt;Con la ayuda de un muerto, Blaze ha logrado perpetrar el crimen del siglo.&lt;/p&gt; &lt;p class="sinopsis minisalto"&gt;Clay Blaisdell, llamado Blaze por todos, mide dos metros y pesa ciento treinta y seis kilos. Es un verdadero gigante. Sin embargo, hasta conocer a George Rackley nunca había hecho nada grande. George le enseñó cien maneras de estafar a la gente e ideó para él un plan ambicioso: secuestrar a un niño rico.&lt;/p&gt; &lt;p class="sinopsis minisalto"&gt;La familia Gerard es multimillonaria y el nuevo retoño del clan valdrá muchos de estos millones. Solo hay un problema: cuando llega el momento de ponerlo todo en marcha, George, el cerebro de la operación (y de todo lo que hacen), muere.&lt;/p&gt; &lt;p class="sinopsis minisalto"&gt;O quizá no.&lt;/p&gt; &lt;p class="sinopsis"&gt;Por eso Blaze se encuentra huyendo desesperado de una tormenta y de la policía. Ha conseguido raptar al bebé, pero el secuestro se ha convertido en una carrera contrarreloj a través de los bosques infernales de Maine…&lt;/p&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:34:01.338962+00:00"/>
+        <meta name="calibre:title_sort" content="Un saco de huesos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

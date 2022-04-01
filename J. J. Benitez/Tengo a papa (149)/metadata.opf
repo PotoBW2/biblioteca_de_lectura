@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa273e50-26e5-478e-9e86-99d8a6c16723</dc:identifier>
+        <dc:title>Tengo a papá</dc:title>
+        <dc:creator opf:file-as="Benítez, J. J." opf:role="aut">J. J. Benítez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-01T04:00:00+00:00</dc:date>
+        <dc:description>El 8 de octubre de 1967, Ernesto Che Guevara fue capturado por el ejército boliviano en las proximidades de la aldea de La Higuera, al sudeste de Bolivia. Al día siguiente lo fusilaron sin juicio previo. Transcurrido medio siglo desde aquel suceso, la opinión pública sigue dividida. ¿Fue el Che un héroe? ¿O se trataba de un asesino despiadado a la cabeza de una banda de guerrilleros comunistas? J. J. Benítez, gracias a su predilección por personajes malditos, ha dedicado seis años de investigación para tratar de averiguar qué sucedió en las últimas horas del mítico guerrillero argentino y a quién cabe atribuir su muerte. Una obra desmitificadora que nos descubrirá quién ordenó matar al Che, cuál era su cara oculta o cuál es el verdadero paradero de su cuerpo, entre muchos otros misterios alrededor de su figura.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Memorias</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;J. J. Benítez&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:15:02.911418+00:00"/>
+        <meta name="calibre:title_sort" content="Tengo a papá"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

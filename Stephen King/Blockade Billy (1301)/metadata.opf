@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1301</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f8c7b61-65c8-413d-97e8-83d91d931bee</dc:identifier>
+        <dc:title>Blockade Billy</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-20T04:00:00+00:00</dc:date>
+        <dc:description>Stephen King vuelve a darnos una muestra de su talento narrativo en este libro que aúna dos relatos cortos de sabor intenso. «Blockade Billy» nos introduce en la misteriosa vida de William Blakely, el mejor jugador de la historia del baseball al que, asombrosamente, nadie recuerda ya. Su rastro ha desaparecido por completo de todos los registros deportivos. Y con razón. El joven Billy ocultó un oscuro secreto que solo el maestro indiscutible del terror contemporáneo podía desvelar. En «Moralidad» conoceremos a una joven enfermera atrapada por la turbia proposición del acaudalado y anciano reverendo al que cuida. Dividida entre sus principios y una acuciante situación económica, su decisión cambiará su vida y la de su marido para siempre. Una lectura escalofriante para los amantes de las sensaciones fuertes.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:48:20.735213+00:00"/>
+        <meta name="calibre:title_sort" content="Blockade Billy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

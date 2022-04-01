@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">743</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af88e951-16b4-41ae-9fa1-ae4baf673919</dc:identifier>
+        <dc:title>El devorador de fantasmas</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Eddy, C. M. Jr." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Eddy, C. M. Jr." opf:role="aut">C. M. Eddy Jr.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-29T23:00:00+00:00</dc:date>
+        <dc:description>El devorador de fantasmas (The Ghost-Eater) es un relato de hombres lobo del escritor norteamericano H.P. Lovecraft, escrito en colaboración con C.M. Eddy, Jr. —con quien previamente había trabajado en Los amados muertos (The loved dead)—, y publicado en la edición de abril de 1924 de la revista Weird Tales.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;C. M. Eddy Jr.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:29:43.781850+00:00"/>
+        <meta name="calibre:title_sort" content="devorador de fantasmas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

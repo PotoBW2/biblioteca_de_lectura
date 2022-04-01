@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">792</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de42171a-e93d-490a-83e0-f6076806cdf2</dc:identifier>
+        <dc:title>a394abd24fab4327f80a326bc77030f9</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-23T11:58:53.402298+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">8650e322-d21e-4b1d-8519-1888ab053c08</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Unknown&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:30:59.508885+00:00"/>
+        <meta name="calibre:title_sort" content="a394abd24fab4327f80a326bc77030f9"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

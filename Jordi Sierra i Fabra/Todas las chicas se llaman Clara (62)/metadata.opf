@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">62</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e107372d-d64a-41c6-b8dd-66d34f128856</dc:identifier>
+        <dc:title>Todas las chicas se llaman Clara</dc:title>
+        <dc:creator opf:file-as="Jordi Sierra i Fabra" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-25T23:00:00+00:00</dc:date>
+        <dc:description>Todo empieza con una ruptura. Clara deja a Víctor y él se siente perdido, desmotivado, tocado y hundido. Nada le sale bien, ni siquiera estar con los amigos.
+Pero llega la remontada en forma de una sucesión de chicas (¿todas se llaman Clara?) que sacuden la vida del personaje?.
+«¿Hay algo más tonto que dos personas enamoradas diciéndose bobadas?».
+Una historia ágil, desenfadada y cargada de humor en torno a las peripecias amorosas de un protagonista algo patoso que no hace más que enredar, y enredarse, en un ligue tras otro tratando de recuperar a su chica ideal, Clara.
+La canción «Las chicas son guerreras» de Juan Márquez, abre la novela.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Romántico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:11:44.883105+00:00"/>
+        <meta name="calibre:title_sort" content="Todas las chicas se llaman Clara"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

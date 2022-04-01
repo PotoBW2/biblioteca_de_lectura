@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5e10ccc-2bfb-42fb-b3f5-d3d19cea06d5</dc:identifier>
+        <dc:title>Solo tú</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-09T22:00:00+00:00</dc:date>
+        <dc:description>Una novela seductora y palpitante sobre el primer amor. Beatriz, 17 años, a punto de dejar atrás el bachillerato y empezar ¿el qué? Esa es la cuestión: no sabe por dónde tirar. Entonces aparece Rogelio, 38 años y director de márketing en una empresa discográfi ca. Imposible, demasiadas diferencias, comenzando por los veint iún años que los separan. Pero el amor no entiende de divergencias, ¿quién dice que hay que ser mayor para enamorarse? «Desnúdate, quítatelo todo, pero déjate el corazón» A partir de 14 años.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:15:35.115067+00:00"/>
+        <meta name="calibre:title_sort" content="Solo tú"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1038</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c8a6eb97-669a-4c43-9584-81b6b58e1e25</dc:identifier>
+        <dc:title>Quien pierde paga</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-01T05:00:00+00:00</dc:date>
+        <dc:description>«Despierta, genio». Así comienza la fascinante nueva novela de Stephen King sobre un lector fanático. El genio es John Rothstein, un autor de culto, creador del personaje de Jimmy Gold. Morris Bellamy está fuera de sí, no solo porque Rothstein haya dejado de escribir, sino también porque considera que el inconformista Jimmy Gold se ha vendido para dedicarse a la publicidad. Morris decide matar a Rothstein y vacía su caja fuerte para llevarse no solo todo el dinero sino además el verdadero tesoro: los cuadernos de notas de otra novela protagonizada por Jimmy Gold. Morris lo esconde todo y al día siguiente acaba en la cárcel por otro crimen terrorífico. Décadas más tarde un chico llamado Pete Saubers encuentra el tesoro y ahora son él y su familia a quienes han de salvar Bill Hodges, Holly Gibney y Jerome Robinson del vengativo y trastornado Morris cuando salga de la cárcel tras treinta y cinco años encerrado.</dc:description>
+        <dc:publisher>ePubGratis</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Trilogía de Bill Hodges"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:39:54.488006+00:00"/>
+        <meta name="calibre:title_sort" content="Quien pierde paga"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

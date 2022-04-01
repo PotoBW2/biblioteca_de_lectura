@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">186</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d5c001d-0c2a-4501-b24d-3eafe7b25c11</dc:identifier>
+        <dc:title>La memoria de los seres perdidos</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-01-01T05:00:00+00:00</dc:date>
+        <dc:description>¿Cómo puede reaccionar una joven española a quien anuncian que sus padres no son sus padres? Hace treinta años, la represión provocada por la dictadura argentina hizo desaparecer a 30.000 personas. Hoy los vivos que no olvidan siguen buscando esa memoria. La historia de Estela es una más. Tan real que aún sigue sucediendo.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">54808</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Gran angular"/>
+        <meta name="calibre:series_index" content="357"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:16:01.667724+00:00"/>
+        <meta name="calibre:title_sort" content="memoria de los seres perdidos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">506</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">594fc083-185d-4df9-b030-dc9cfb426d73</dc:identifier>
+        <dc:title>Korad 12</dc:title>
+        <dc:creator opf:file-as="Desconocido" opf:role="aut">Desconocido</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-25T20:34:03+00:00</dc:date>
+        <dc:description>ciencia ficción cubana</dc:description>
+        <dc:language>es</dc:language>
+        <dc:subject>fanzine</dc:subject>
+        <dc:subject>Korad</dc:subject>
+        <dc:subject>e-zine</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Cuba</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Desconocido&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:23:37.055250+00:00"/>
+        <meta name="calibre:title_sort" content="Korad 12"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b74a25e-01c7-44ce-bf8a-b286c1d39de7</dc:identifier>
+        <dc:title>Horror en el museo</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Heald, Hazel" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Heald, Hazel" opf:role="aut">Hazel Heald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-12T22:00:00+00:00</dc:date>
+        <dc:description>Horror en el museo (The horror in the museum) es un relato de terror del escritor norteamericano H.P. Lovecraft, escrito en colaboración con Hazel Heald en octubre de 1932. Horror en el museo es un cuento que, si bien participa en las espeluznantes realidades del ciclo de Cthulhu, no termina de adherirse él, participando del maravilloso terror bizarro de los años treinta y marcando un ritmo decididamente impresionista. Lovecraft, o aquello parecido a Lovecraft, busca horrorizar los sentidos del lector, empaparlo de impresiones formidables y aterradoras, a menudo oníricas.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Sobrenatural</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;Hazel Heald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:44:09.172061+00:00"/>
+        <meta name="calibre:title_sort" content="Horror en el museo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

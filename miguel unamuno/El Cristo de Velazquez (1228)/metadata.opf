@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1228</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad3017c1-7a30-4d81-b45a-eb40697c7fb1</dc:identifier>
+        <dc:title>El Cristo de Velázquez</dc:title>
+        <dc:creator opf:file-as="unamuno, miguel" opf:role="aut">miguel unamuno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;miguel unamuno&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:46:09.960066+00:00"/>
+        <meta name="calibre:title_sort" content="Cristo de Velázquez, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">917</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25193f11-c106-450f-9989-c641e2855944</dc:identifier>
+        <dc:title>Azul...</dc:title>
+        <dc:creator opf:file-as="Darío, Rubén" opf:role="aut">Rubén Darío</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1887-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;AZUL... es una compilación de los escritos que Darío había realizado para La Epoca de Santiago de Chile durante los años 1886 al 1888. El libro se compone de dos secciones. La primera, CUENTOS EN PROSA, contiene dos partes en si: historietas no relacionadas, en las que se destaca la nueva tendencia con gran claridad, y EN CHILE, donde “el poeta” narra sus experiencias durante su estancia en Chile. La segunda parte EL AÑO LÍRICO, se compone de exquisitas poesías que aunque aun románticas, se les notan las inquietudes innovadoras.&lt;/p&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <dc:subject>Cuentos</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Rubén Darío&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:34:18.087235+00:00"/>
+        <meta name="calibre:title_sort" content="Azul..."/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

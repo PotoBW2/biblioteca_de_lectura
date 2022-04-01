@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1018</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d47191ce-84eb-4e78-9217-1ec168128a5c</dc:identifier>
+        <dc:title>Set dies de juliol</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-23T04:00:00+00:00</dc:date>
+        <dc:description>1947. Miquel Mascarell, l’últim policia de la Barcelona republicana, surt en llibertat després de ser indultat de la pena de mort i d’haver passat uns anys empresonat al Valle de los Caídos. En tornar a casa troba una ciutat gairebé desconeguda, on no li queda res ni ningú. El seu instint de policia es posa en acció quan rep un misteriós sobre amb una fotografia, diners i una adreça. Al llarg d’una setmana descobrirà els nous camins que la dictadura està traçant a Barcelona i a Espanya: l’estraperlo i la gran riquesa que proporciona als vencedors, la fam i la misèria sepultant encara els vençuts. Amb una recreació de l’ambient de la ciutat i l’època fidel i detallada, Set dies de juliol és una novel·la que ens parla de la condició humana portada al límit, i també de la seva resistència i de l’eterna esperança que l’anima.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Miquel Mascarell"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:39:21.278108+00:00"/>
+        <meta name="calibre:title_sort" content="Set dies de juliol"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

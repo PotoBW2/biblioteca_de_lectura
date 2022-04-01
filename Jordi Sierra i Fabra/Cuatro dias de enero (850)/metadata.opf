@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">850</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b3cb460a-f3f5-4a61-8f9f-b3b18aea307e</dc:identifier>
+        <dc:title>Cuatro días de enero</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Barcelona, 1939: cuatro días antes de la ocupación franquista, un inspector republicano deberá resolver su último caso. En pleno caos previo a la inminente entrada de los nacionales en Barcelona, el inspector Mascarell afrontará el caso de la misteriosa desaparición de una joven. Aunque todo está perdido, el inspector pretende llegar hasta el fondo del asunto, pero se topará con las altas esferas de la ciudad, que están preparando la llegada de los vencedores. Un intenso retrato de una Barcelona hambrienta, triste y aterrorizada, y una hermosa historia de amor en medio de la desolación.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Miquel Mascarell"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:32:30.048855+00:00"/>
+        <meta name="calibre:title_sort" content="Cuatro días de enero"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

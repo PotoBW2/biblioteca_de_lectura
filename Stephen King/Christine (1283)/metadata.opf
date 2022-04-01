@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1283</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">467a9980-be72-43aa-8f79-50aa95d2bcc5</dc:identifier>
+        <dc:title>Christine</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-04-29T04:00:00+00:00</dc:date>
+        <dc:description>El oscuro protagonista de esta novela es un automóvil marca Plymouth de 1958 llamado Christine. Arnie Cunningham está dispuesto a conseguirlo a cualquier precio. Y lo consigue. Pero mientras trabaja en la ardua tarea de restaurarlo, el coche da muestras de vida propia. ¿O es sólo imaginación? Dennis sigue creyéndolo así, pero la gente muere en las oscuras calles y avenidas de Libertyville. Dennis ya no puede negar la aterradora verdad: Christine está viva...﻿</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:47:43.487091+00:00"/>
+        <meta name="calibre:title_sort" content="Christine"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

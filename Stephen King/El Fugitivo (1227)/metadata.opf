@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1227</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6554a7d-c4e6-46df-81a6-ddae847aab0d</dc:identifier>
+        <dc:title>El Fugitivo</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>A mediados del siglo XXI, un concurso televisivo cuyo principal atractivo es la muerte de los participantes bate récords de audiencia. Ben Richards, padre de una niña enferma y sumido en la más profunda miseria, decide concursar atraído por los extraordinarios premios, aun a sabiendas de que no sobrevivirá. Sometido a una implacable persecución, se plantea un único objetivo: resistir tantos días como sea posible para aumentar el premio y asegurar la subsistencia de su familia. Un aterrador futuro donde la televisión es la única realidad.</dc:description>
+        <dc:identifier opf:scheme="ISBN">9788497930147</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:46:08.469550+00:00"/>
+        <meta name="calibre:title_sort" content="Fugitivo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

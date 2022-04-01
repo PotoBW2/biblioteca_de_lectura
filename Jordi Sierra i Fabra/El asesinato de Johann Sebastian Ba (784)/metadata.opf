@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">784</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b866ab6-ddbc-45e4-a00c-63c6ecf4ef6e</dc:identifier>
+        <dc:title>El asesinato de Johann Sebastian Bach</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-01T04:00:00+00:00</dc:date>
+        <dc:description>«Laura Torras era todo lo que los solitarios y no tan solitarios sueñan alguna vez en la monotonía de su existencia». Una mañana de verano de Barcelona en un edificio de la calle Johann Sebastian Bach, Daniel Ros descubre en el piso de enfrente el cuerpo destripado de su vecina. Ha sido víctima de un verdadero sádico. Pocos minutos después, conoce a Julia, una chica muy atractiva que aparece en el piso de Laura y dice ser su prima. En vez de llamar a la policía, el periodista decide comenzar su propia investigación y descubre, poco a poco, que detrás de su oficio de modelo, Laura, escondía una vida mucho menos fascinante. Testarudo y con don para verse envuelto en líos, el periodista sigue varias pistas que llevarán hasta diversos sospechosos y, sobre todo, a volver a encontrarse con Julia, cuyas mentiras le dejan tan confundido como sus encantos juveniles. En un juego de pistas a través de la ciudad, envuelto de imágenes que evocan escenas del cine americano, Daniel Ros descubre que el «glamour» puede transformarse, en ocasiones, en una película de terror.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Daniel Ros"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:30:47.911647+00:00"/>
+        <meta name="calibre:title_sort" content="asesinato de Johann Sebastian Bach, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

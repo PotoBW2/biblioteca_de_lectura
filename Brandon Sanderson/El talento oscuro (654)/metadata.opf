@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">654</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c48b5cb2-3f1b-4e49-a910-009f46d20fc6</dc:identifier>
+        <dc:title>El talento oscuro</dc:title>
+        <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-31T22:00:00+00:00</dc:date>
+        <dc:description>Quinta entrega de la fabulosamente divertida serie protagonizada por Alcatraz Smedry. Durante años, los Bibliotecarios malvados se las han arreglado para mantener este libro en secreto, pero Alcatraz regresa ahora con una nueva aventura. Alcatraz Smedry ha derrotado al ejército de Bibliotecarios malvados y ha logrado salvar el reino de Mokia. Lo malo es que se las arregló para acabar con los Talentos de los Smedry en el proceso. Lo peor es que su padre está intentando llevar a cabo una treta que podría destruir el mundo, y su amiga Bastille está en coma. Para revivirla, Alcatraz debe infiltrarse en el Highbrary, la Biblioteca del Congreso de los Hushlanders, el lugar donde reside el poder de los Bibliotecarios malvados. Sin sus Talentos para ayudarse, ¿podrá Alcatraz hallar la manera de salvar a Bastille y derrotar a los Bibliotecarios malvados de una vez por todas?</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:27:23.544563+00:00"/>
+        <meta name="calibre:title_sort" content="talento oscuro, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

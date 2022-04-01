@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">263</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1ab1bd4-97d1-44e0-ba24-d127ca40d7c4</dc:identifier>
+        <dc:title>Pasajes de la guerra revolucionaria</dc:title>
+        <dc:creator opf:file-as="Guevara, Ernesto Che" opf:role="aut">Ernesto Che Guevara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1963-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Texto emblemático en la obra escrita del Che, devenido uno de sus libros clásicos al narrarnos, mediante el empleo de crónicas con un estilo muy propio, pasajes de la más reciente gesta libertaria cubana. Su primera edición fue revisada y ordenada por el propio Che, además de publicarse en el mundo entero como un libro imprescindible para conocer la historia de la Revolución Cubana. Junto a El Diario del Che en Bolivia, fue uno de los libros inspiradores de la reciente película sobre su vida, realizada por el cineasta norteamericano Steven Soderbergh. La presente edición incluye las correcciones que el Che hiciera personalmente para futuras ediciones antes de su salida definitiva de Cuba e incluye un prólogo de su hija Aleida Guevara.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Crónica</dc:subject>
+        <dc:subject>Memorias</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernesto Che Guevara&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:17:50.035134+00:00"/>
+        <meta name="calibre:title_sort" content="Pasajes de la guerra revolucionaria"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

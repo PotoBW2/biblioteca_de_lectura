@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0229e943-15d3-4930-bdd5-307d41f7cf6c</dc:identifier>
+        <dc:title>A l’altre costat de l’infern</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Sang, cinisme, pecat i perdó. El nou cas de l’investigador Hilari Soler, l’ovella negra de la comissaria durant els anys més tèrbols del franquisme, farà trontollar un dels pilars del règim: l’Església. La tercera investigació del nostre detectiu té com a detonant el terrible assassinat de la germana Maria, una monja que ajudava en els parts en un hospital, però que amagava a la seva cel·la estris de tortura i flagel·lació Maria, hi ha pecats que ni tan sols Déu és capaç de perdonar? Un cas esfereïdor: crueltat, doble moral, degradació personal i impunitat. Un cas que ens submergeix, de la manera més grotesca i abominable, en les clavegueres de la societat de l’època, allà on els diners poden amb tot: amb les persones, amb les creences i amb el més enllà.</dc:description>
+        <dc:publisher>ePUBCat</dc:publisher>
+        <dc:identifier opf:scheme="EPUBCAT ID">2806</dc:identifier>
+        <dc:identifier opf:scheme="EPUBCAT VERSIO">1.0</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novel·la</dc:subject>
+        <dc:subject>Policíac</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Hilari Soler"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:08:48.054751+00:00"/>
+        <meta name="calibre:title_sort" content="A l’altre costat de l’infern"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

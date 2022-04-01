@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c087d8b-bb71-4858-a51f-2e0a24a5b0b7</dc:identifier>
+        <dc:title>Temps de gebre</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-01-01T05:00:00+00:00</dc:date>
+        <dc:description>L’Òscar, un noi de ciutat, va a passar un estiu al mas del seu avi perquè els seus pares tenen problemes. Li costa adaptar-se a la senzillesa d’aquest tipus de vida i se sent rebutjat per la gent jove. Per això passa moltes hores remenant les golfes del vell casalot de l’avi. I serà en aquestes golfes on trobarà allò que l’ajudarà a comprendre què els passa als seus pares i què busca ell mateix.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:15:06.428739+00:00"/>
+        <meta name="calibre:title_sort" content="Temps de gebre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

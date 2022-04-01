@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">557</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5913334-b894-41d1-8aa9-0ba57a17abab</dc:identifier>
+        <dc:title>Horror en el cementerio</dc:title>
+        <dc:creator opf:file-as="Heald, Hazel &amp; Lovecraft, H.P." opf:role="aut">Hazel Heald</dc:creator>
+        <dc:creator opf:file-as="Heald, Hazel &amp; Lovecraft, H.P." opf:role="aut">H.P. LOVECRAFT</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-13T23:00:00+00:00</dc:date>
+        <dc:description>Horror en el cementerio (The Horror in the Burying-Ground) es un relato de terror del escritor norteamericano Hazel Heald, escrito en colaboración con H.P. Lovecraft, y publicado en la edición de mayo de 1937 de la revista Weird Tales.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hazel Heald&quot;: &quot;&quot;, &quot;H.P. LOVECRAFT&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:24:50.492360+00:00"/>
+        <meta name="calibre:title_sort" content="Horror en el cementerio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

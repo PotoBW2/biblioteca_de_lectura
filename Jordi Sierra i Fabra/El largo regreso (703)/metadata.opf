@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">703</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb1203a5-f24b-42a8-8ca0-971c652cf0a4</dc:identifier>
+        <dc:title>El largo regreso</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-18T22:00:00+00:00</dc:date>
+        <dc:description>Una desaparición misteriosa y un regreso no menos extraño que enganchará a los lectores desde la primera página. &lt;/b&gt;&lt;/p&gt;&lt;p&gt;Cuatro años después de su desaparición, Susana aparece en su casa como si nada hubiera pasado. Ante el desconcierto de su familia, y el suyo propio, la muchacha debe asumir que hay una laguna en su memoria que no es capaz de desvelar. &lt;/p&gt;&lt;p&gt;Juzgada por el entorno y los medios de comunicación, que siguieron de cerca su caso, colaborará con la policía para intentar desvelar el misterio de su ausencia estos años. ¿Dónde estuvo retenida? ¿Quién se la llevo? ¿Cómo es posible que no recuerde nada? ¿Cómo pudo volver a casa? &lt;/p&gt;&lt;p&gt;Demasiadas incógnitas que no parecen tener fácil respuesta.</dc:description>
+        <dc:publisher>2020</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788469874684</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:28:40.044486+00:00"/>
+        <meta name="calibre:title_sort" content="largo regreso, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">525</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ee1a91d-99c4-4c0e-b656-f2e5bf01a434</dc:identifier>
+        <dc:title>Jordi Sierra I Fabra - 03 Fiicele Furtunilor</dc:title>
+        <dc:creator opf:file-as="cristal, Al cincilea" opf:role="aut">Al cincilea cristal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-24T04:00:00+00:00</dc:date>
+        <dc:language>ron</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Al cincilea cristal&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:24:06.290399+00:00"/>
+        <meta name="calibre:title_sort" content="Jordi Sierra I Fabra - 03 Fiicele Furtunilor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

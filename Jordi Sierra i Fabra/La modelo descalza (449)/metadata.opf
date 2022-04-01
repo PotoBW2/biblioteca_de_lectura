@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">449</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37ef5398-631e-477b-92c9-6494e4964350</dc:identifier>
+        <dc:title>La modelo descalza</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Jon Boix, periodista, acaba de regresar de un viaje por África, adonde ha ido a investigar sobre las mafias del mundo de la moda que buscan nuevas candidatas. A su regreso, recibe una noticia: Alejandra, una de las más famosas top models españolas, y su novia hace tres años, ha sido acusada de asesinato después de una noche de alcohol y drogas. Pero Jon, a pesar de las evidencias, no cree que ella haya matado a nadie. Se propone, pues, buscar a Alejandra, que ha desaparecido, y demostrar su inocencia. Una carrera contrarreloj. La modelo descalza es un viaje a los infiernos de la fama en general y del mundo de las top models en concreto. Chicas muy jóvenes sometidas a la brutalidad de un mercado voraz. El precio del éxito a veces es demasiado caro: soledad, anorexia, alcohol, drogas… El lado oscuro del mundo de la moda que pocos conocen y que aquí se muestra con toda su crudeza, envuelto en un trepidante caso policiaco… y sentimental.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Infantil</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:22:16.098148+00:00"/>
+        <meta name="calibre:title_sort" content="modelo descalza, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

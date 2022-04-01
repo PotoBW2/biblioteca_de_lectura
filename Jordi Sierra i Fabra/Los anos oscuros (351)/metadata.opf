@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">351</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d40581cc-652b-45ba-915f-95d9f1baea76</dc:identifier>
+        <dc:title>Los años oscuros</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-09-01T04:00:00+00:00</dc:date>
+        <dc:description>Mayo de 1939. Un hombre, una mujer y dos familias embarcan en el Sinaia con cientos de exiliados más de la guerra civil española para iniciar una nueva vida en México. El destino de cada uno de ellos tejerá una historia de encuentros y desencuentos, amores y tragedias, a la espera de un regreso a España que, poco a poco, se irá haciendo imposible.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="El tiempo del exilio"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:19:53.159414+00:00"/>
+        <meta name="calibre:title_sort" content="años oscuros, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

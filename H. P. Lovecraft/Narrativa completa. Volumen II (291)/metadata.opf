@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">291</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48893f0d-dc35-41b0-a8ff-bf71d9e922e4</dc:identifier>
+        <dc:title>Narrativa completa. Volumen II</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Howard Phillips Lovecraft (1890-1937) fue un ave nocturna y un cazador de sueños. Nació en Providence (Nueva Inglaterra), donde vivió la mayor parte de su corta vida, que dedicó a contemplar las estrellas, leer con avidez cuanto caía en sus manos y, sobre todo, escribir (poesía, ensayo, relatos y una ingente correspondencia). Al refugiarse en su hermético mundo onírico, Lovecraft se embarcó en un viaje sin retorno hacia una nueva dimensión: el miedo cósmico, el «terror de los espacios infinitos», que estremecía a Pascal. Lo que caracteriza la ficción lovecraftiana es la utilización de elementos de la tradición gótica reinterpretados en términos científicos. Sus relatos expresan la soledad y la pequeñez de la condición humana en un universo infinito y amoral, azaroso y hostil, carente de significado y angustiosamente ajeno a nuestras preocupaciones y cavilaciones. «Lovecraft fue –como dijo el escritor Fritz Leiber– el Copérnico del relato de horror. Desplazó el foco del temor sobrenatural del hombre y su pequeño mundo y sus dioses, a las estrellas y a los negros e insondables abismos del espacio intergaláctico». En el universo lovecraftiano siempre hay una presencia amenazadora, pero no se sabe bien qué es. En esta segunda y última entrega de la Narrativa completa de Lovecraft, el lector encontrará los relatos escritos entre 1927 y 1937, década fecunda en la que HPL, además de enriquecer sus espantosos Mitos de Cthulhu con cuentos como La sombra sobre Innsmouth, El horror de Dunwich, El ser del umbral o El Asiduo de las tinieblas, alumbra sus dos únicas novelas: El caso de Charles Dexter Ward y En las montañas de la locura. Este volumen completa el periplo interior que Lovecraft emprendió a lo más profundo de sí mismo, a las regiones más subterráneas y sombrías de la psique.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Valdemar: Gótica"/>
+        <meta name="calibre:series_index" content="63"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:18:30.884595+00:00"/>
+        <meta name="calibre:title_sort" content="Narrativa completa. Volumen II"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

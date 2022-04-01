@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1132</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef52fa83-9b55-46be-a1b1-63dcdc221913</dc:identifier>
+        <dc:title>La hoya de las brujas</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August" opf:role="aut">August Derleth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-12T22:00:00+00:00</dc:date>
+        <dc:description>La hoya de las brujas (Witches' hollow) es un relato de terror del escritor norteamericano Howard Phillip Lovecraft, escrito en colaboración con August Derleth, y publicado en 1962. Un profesor de escuela se interesa per un extraño y misterioso alumno, Andrew Potter, que tiene en su clase de quinto. El muchacho podría pasar directamente a séptimo o octavo pues es un estudiante brillante, pero su familia no lo permitiría. Con la intención de convencer a sus padres el profesor acude a su solitaria casa, ubicada en la temida Hoya de la Brujas, pero no lo consigue. Su familia, así como el lugar en donde viven, le despiertan unas desgradables sensaciones malsanas que comenta a un amigo suyo que trabaja en el periódico Gazette. Este le explica los rumores de la venida de un tal Hechicero Potter, antepasado de su alumno Andrew, que según dicen 'invocó algo que bajó del cielo y vivió con él o en él hasta su muerte'. Consultando el maldito libro del Necronomicón encuentra datos que hacen pensar en la veracidad de esos rumores y deciden volver a visitar la Hoya de la Brujas y a la familia Potter.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Sobrenatural</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;August Derleth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:43:18.161346+00:00"/>
+        <meta name="calibre:title_sort" content="hoya de las brujas, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">527ac941-c94c-4095-9c75-fd1e75f09b41</dc:identifier>
+        <dc:title>36 Preguntas para conocerte y 4 minutos para amarte</dc:title>
+        <dc:creator opf:file-as="Jordi Sierra i Fabra" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-01T22:00:00+00:00</dc:date>
+        <dc:description>Nunca había creído en los ligues de una noche. Ni siquiera estaba muy seguro de lo del amor a primera vista. Pero ninguno de los dos había bebido, así que no cabía atribuir al alcohol lo que estaba pasando. Bibiana era una turbulencia. Exudaba ternura, amor, fuerza. Sin embargo, tenía un secreto que lo iba a cambiar todo.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:08:51.131001+00:00"/>
+        <meta name="calibre:title_sort" content="36 Preguntas para conocerte y 4 minutos para amarte"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

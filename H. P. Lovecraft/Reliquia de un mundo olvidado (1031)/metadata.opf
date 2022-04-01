@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b9991aa-31f9-48fe-b246-91037938b9e8</dc:identifier>
+        <dc:title>Reliquia de un mundo olvidado</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Heald, Hazel" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Heald, Hazel" opf:role="aut">Hazel Heald</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-12T22:00:00+00:00</dc:date>
+        <dc:description>Más allá de los Eones (Out of the Aeons) -a veces publicado comol como: Reliquia de un mundo olvidado- es un relato de terror del escritor norteamericano H.P. Lovecraft, escrito en colaboración con Hazel Heald. Este exquisito cuento fantástico fue publicado en la edición de abril de 1933 de la revista Weird Tales, con algunas curiosidades dignas de ser mencionadas. Más allá de los Eones nos relata la historia de una momia ubicada en un museo de Boston, aunque la verdadera trama involucra a varios engendros célebres de los mitos de Cthulhu, tales como Yig y Shub-Niggurath., además de un largo catálogo de libros prohibidos, entre ellos, el Necronomicón, del árabe loco Abdul Alhazred, El libro de Eibon (The Book of Eibon -Liber Ivonis-), los Manuscritos Pnakóticos (Pnakotic Manuscripts), y el ominoso Unaussprechlichen Kulten, creado por Robert E. Howard. El relato también es asaltado por la presencia -insólita- de Randolph Carter -aquel pobre diablo de La declaración de Randolph Carter (The Statement of Randolph Carter)-, quien se presenta bajo el seudónimo: Swami Chandraputra. Afortunadamente, H.P. Lovecraft ya mencionó este seudónimo en el relato: A través de las puertas de la llave de plata (Through the gates of the silver key), lo cual nos permite certificar la identidad de Randolph Carter.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Sobrenatural</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;Hazel Heald&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:39:43.921138+00:00"/>
+        <meta name="calibre:title_sort" content="Reliquia de un mundo olvidado"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

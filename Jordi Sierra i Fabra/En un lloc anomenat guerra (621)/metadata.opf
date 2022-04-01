@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">621</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86e06251-73cf-4248-b4b5-893dca76059d</dc:identifier>
+        <dc:title>En un lloc anomenat guerra</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-04-23T04:00:00+00:00</dc:date>
+        <dc:description>Una guerra llunyana, un país desconegut, un jove periodista que debuta com a corresponsal i un adolescent disposat a fer-li d’intèrpret a l’infern. Més enllà de la guerra, de les necessitats de l’un i de l’altre, de la supervivència del nen i l’afany d’aventura del periodista, el cor i l’amistat s’imposaran a la bogeria. Aquesta és la història d’unes vides al límit en la turbulència del nostre món.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:26:32.432541+00:00"/>
+        <meta name="calibre:title_sort" content="En un lloc anomenat guerra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

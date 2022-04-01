@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">617</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86a226b5-13bd-4e51-a70f-a07c71de3879</dc:identifier>
+        <dc:title>Escapada alrededor del arco iris</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Una novela con el espíritu de Woodstock que se publicó en 1983.&lt;/p&gt;&lt;p&gt;Un chico se escapa de su casa en California y cruza Estados Unidos de costa a costa para asistir al Festival, exactamente como lo hicieron miles de jóvenes en EE.UU., y también en Europa o Latinoamérica. En ese viaje descubre el mundo, a sí mismo y se cruza con Jodi, una misteriosa chica de la que se enamora.&lt;/p&gt;&lt;p&gt;El protagonista va al Festival de Woodstock en busca de la vida. Jodi, como los elefantes, va a morir allí.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">60994</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:26:26.581135+00:00"/>
+        <meta name="calibre:title_sort" content="Escapada alrededor del arco iris"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">285</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">170fc660-ca7f-4bbe-b2cf-0c504d948f75</dc:identifier>
+        <dc:title>No fotografíes soldados llorando</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-31T04:00:00+00:00</dc:date>
+        <dc:description>Damián es joven, aventurero y un excelente fotógrafo. Con solo veinticinco años se embarca en su primera misión como corresponsal de guerra junto al ejército español en Bosnia para plasmar la crudeza del conflicto. Lo acompañan su cámara y unas consignas muy claras: no correr riesgos innecesarios, no alejarse de las tropas y, la más rotunda, no fotografiar soldados llorando. Pero Damián hace caso omiso de esta última y se verá de pronto envuelto en una oscura intriga en el seno del ejército, cuando el soldado al que ha fotografiado llorando muere a manos de uno de los suyos.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:18:22.331571+00:00"/>
+        <meta name="calibre:title_sort" content="No fotografíes soldados llorando"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

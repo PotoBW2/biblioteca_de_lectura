@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">761</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39125bb2-efe4-453c-8594-7612bb10c278</dc:identifier>
+        <dc:title>El Caso Del Falso Accidente</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Con esta trepidante novela, Jordi Sierra i Fabra nos presenta a Berta Mir, que probablemente se convertirá en la detective más seguida por todos los jóvenes.
+«Auténtico fenómeno, Jordi Sierra i Fabra es el autor más leído por los adolescentes porque conecta con ellos, con la mentalidad de esta edad de grandes dudas y de grandes cambios, la edad de la rabia o de la rebeldía.»
+La Vanguardia
+La vida cambia para Berta Mir con dieciocho años recién cumplidos. Su padre, detective de profesión, sufre un accidente que resulta ser un intento de asesinato. ¿Quién querría asesinar a su padre, y por qué?Luchando contra el tiempo, Berta deberá resolver, con su ingenio y su valor, los tres casos en los que trabajaba su padre antes de que el asesino vuelva a intentarlo. Tres casos tras los cuales se esconde el culpable: ¿una mujer que engaña a su marido?, ¿un chico al que su padre hace seguir para evitar que tome drogas? o ¿una muchacha desaparecida, que se ha escapado de casa con su novio?El caso del falso accidente es la primera novela de Berta Mir, una chica que tendrá que tratar con criminales mientras sigue con sus amigos, sus amores, su grupo, tocando el bajo y cantando. Todo eso que forma parte de la complicada vida de una joven de dieciocho años.</dc:description>
+        <dc:publisher>www..net</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>child_series</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Berta Mir"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:30:11.206189+00:00"/>
+        <meta name="calibre:title_sort" content="Caso Del Falso Accidente, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

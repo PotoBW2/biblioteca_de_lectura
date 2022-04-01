@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61e37b1d-62df-4102-8bc9-d4ec5b1f9ed7</dc:identifier>
+        <dc:title>Morbo</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-15T04:00:00+00:00</dc:date>
+        <dc:description>Una mujer es arrojada de noche al río Llobregat, cerca de su desembocadura con el mar. Está desnuda, ha sido golpeada y asesinada. Es joven y mucho más que guapa: es inquietantemente bella. Incluso muerta, su morbo es evidente. Los dos inspectores encargados del caso pronto comprenderán que, precisamente esa belleza, es la causa de su muerte. Mientras la investigación comienza, tratando de descubrir la identidad de la muerta, cinco personas se mueven por las páginas de este «thriller» hipnótico y absorbente, cada una ocultando algo, cada una con su secreto a cuestas y su culpa en el alma. ¿Cuál de ellos es el asesino? Con una progresión climática que no da respiro, la investigación policial y los cinco sospechosos pronto van a encontrarse. Solo entonces comprenderemos el drama de Eva y por qué ha pagado con la vida el precio de su belleza.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">45973</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:18:38.755281+00:00"/>
+        <meta name="calibre:title_sort" content="Morbo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1276</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba6e1056-f3e0-47e8-977f-af7971279018</dc:identifier>
+        <dc:title>Cujo</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1981-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Cujo es un San Bernardo de unos cien kilos, el querido animal doméstico de Joe Camber, vecino de Castle Rock (estado de Maine), y el mejor amigo que jamás haya tenido el niño de diez años Brett Camber. Un buen día, Cujo persigue un conejo hasta una madriguera, una cueva que habitan unos murciélagos azotados por una terrible enfermedad. Lo que le sucede al perro y a quienes tienen la desgracia de encontrarse a su lado constituye el tema de la más sobrecogedora de todas las novelas de Stephen King. Vic Trenton, publicitario de Nueva York obsesionado por el esfuerzo de no perder a su único cliente importante, su inquieta y a veces infiel esposa Donna y su hijo de cuatro años Tad se trasladan a Castle Rock, buscando la paz campestre de Maine. Sin embargo, la vida en esta pequeña localidad —evocada de manera tan gráfica como los clásicos Winesburg o Spoon River— no es lo que parece. Tad se esfuerza valerosamente por sofocar el terror que le atenaza por la noche procedente del armario de su dormitorio, y Vicy Donna se enfrentan con la pesadilla de su matrimonio, pero ninguno de ellos puede saber que un monstruo siniestro les espera a la luz del día y que la corriente de sus vidas se irá arremolinando inexorablemente en el horripilante torbellino que es Cujo.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:47:31.765699+00:00"/>
+        <meta name="calibre:title_sort" content="Cujo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

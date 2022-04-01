@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">757</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4448fa0-6f2d-4313-b4f1-1a7a7ba3b5da</dc:identifier>
+        <dc:title>El caso del martillo blanco</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-01T04:00:00+00:00</dc:date>
+        <dc:description>Seguir a un chico acosado por dos compañeros de instituto parece algo sencillo. Buscar a la familia de una niña que ha descubierto que es adoptada solo es un poco más complicado. Nada que Berta Mir no pueda resolver a la vez que prepara con su grupo la grabación de su primer disco. Lo único que de verdad le preocupa es cómo reunir su parte del dinero para la producción del CD. Sin embargo, poco a poco la joven detective se verá envuelta en una guerra de bandas de tráfico de drogas químicas, en donde la espiral de tensión y violencia está asegurada. Mientras tanto, la vida familiar de Berta sigue tan alterada como siempre, con su padre convertido en un vegetal y la sensación de que el tiempo a veces no avanza.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Berta Mir"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:30:04.736639+00:00"/>
+        <meta name="calibre:title_sort" content="caso del martillo blanco, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

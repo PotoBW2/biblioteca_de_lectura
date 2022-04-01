@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d8c72e4-3485-4f2c-aebe-f0fca67968d8</dc:identifier>
+        <dc:title>The Cats Of Ulthar</dc:title>
+        <dc:creator opf:file-as="Lovercraft, H.P." opf:role="aut">H.P. Lovercraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Republic Polytechnic</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>H.P.</dc:subject>
+        <dc:subject>Lovercraft</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H.P. Lovercraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:14:41.702750+00:00"/>
+        <meta name="calibre:title_sort" content="The Cats Of Ulthar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

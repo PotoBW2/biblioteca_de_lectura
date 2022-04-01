@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">799</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec11abff-8537-4158-a162-c7ea31f30f59</dc:identifier>
+        <dc:title>Dos dies de maig</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T05:00:00+00:00</dc:date>
+        <dc:description>30 i 31 de maig de 1949. Francisco Franco, Caudillo d’Espanya, visita Barcelona, sumida en un clima d’eufòria i rendició a la dictadura. Però no tothom pensa igual i en dos dies, sota el silenci de la premsa, esclatarà una desena de bombes a la ciutat. En Miquel Mascarell, el darrer policia republicà que fa una nova vida al costat de la Patro, topa de cara amb un complot contra el dictador. Quan investiga l’assassinat d’un antic amic i company de la policia a petició de la filla d’aquest, descobrirà que pot capgirar la història del país. Si troba l’assassí potser no tindrà lloc l’atemptat. Si calla, el país pot haver d’enfrontar una nova guerra civil o un gir de cent-vuitanta graus com a conseqüència de la mort del Generalíssim. La clau: dos dies de recerca aclaparat pel pes de la responsabilitat, unes hores durant les quals Mascarell caminarà sobre la corda fluixa. Serà el destí o la seva decisió el que marqui la resolució de tot plegat?</dc:description>
+        <dc:publisher>ePUBCat</dc:publisher>
+        <dc:identifier opf:scheme="EPUBCAT ID">2793</dc:identifier>
+        <dc:identifier opf:scheme="EPUBCAT VERSIO">1.0</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novel·la</dc:subject>
+        <dc:subject>Policíac</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Miquel Mascarell"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:31:09.370421+00:00"/>
+        <meta name="calibre:title_sort" content="Dos dies de maig"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">439</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">769e2de8-d9cf-407c-9517-c9731fca9f3c</dc:identifier>
+        <dc:title>La noche de la jinetera</dc:title>
+        <dc:creator opf:file-as="Sierrai Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-11-17T05:00:00+00:00</dc:date>
+        <dc:description>Cuando recién llegado de sus vacaciones recibe la noticia de la muerte de su amigo Estanis, Daniel no se lo puede creer. Pero mucho menos se cree las circunstancias de esa muerte. Enviado a Cuba por el periódico para el que ambos trabajan para escribir un reportaje sobre las jineteras y los españoles que viajan por el sexo, poco antes de morir Estanis le contó a su mujer que había descubierto algo que podía convertirse en el reportaje de la década. Pero ¿realmente había descubierto algo tan relevante como para que lo asesinaran? ¿O el nuevo reportaje era una excusa para poder echar una cana al aire con alguna jinetera? Armado con las notas y las fotografías que Estanis había tomado en la isla, Daniel Ros deberá retomar el reportaje que el periódico había encargado inicialmente. Sin embargo, mientras sigue los pasos de su amigo por la isla y habla con todos los que trataron con él, la curiosidad y la necesidad de limpiar el nombre de Estanis le empujarán a investigar una muerte más que sospechosa.</dc:description>
+        <dc:publisher>Leer-e</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-84-15614-79-1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Narrativa Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:57.515991+00:00"/>
+        <meta name="calibre:title_sort" content="noche de la jinetera, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

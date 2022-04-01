@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">643</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84720241-3cbb-4b83-b505-24b7c5899713</dc:identifier>
+        <dc:title>El verdugo eléctrico</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Castro, Adolphe" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Castro, Adolphe" opf:role="aut">Adolphe Castro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-29T23:00:00+00:00</dc:date>
+        <dc:description>El verdugo eléctrico (The Electric Executioner) es un relato de terror del escritor norteamericano H.P. Lovecraft, escrito en colaboración con Adolphe Castro —con quien ya había trabajado en: La última prueba (The Last Test)—, y publicado en la edición de agosto de 1930 de la revista Weird Tales.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;Adolphe Castro&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:27:06.512842+00:00"/>
+        <meta name="calibre:title_sort" content="verdugo eléctrico, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

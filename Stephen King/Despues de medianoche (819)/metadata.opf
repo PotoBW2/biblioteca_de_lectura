@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">819</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3121c75a-5051-47d7-aa1a-4e033135f5ad</dc:identifier>
+        <dc:title>Después de medianoche</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-09-03T04:00:00+00:00</dc:date>
+        <dc:description>Algo sucede con el tiempo después de la medianoche: transcurre a una velocidad extraña, el aire parece más denso, la frontera entre lo real y lo imaginario se difumina. Pero ¿qué es lo que ocurre realmente? Quizás estas cuatro pavorosas novelas de Stephen King le proporcionen algunas respuestas inesperadas. Al fin y al cabo, la medianoche es la hora favorita de Stephen King. A la una después de medianoche, en «Los lagorieros» se narra un accidentado viaje de avión al que sólo sobreviven once pasajeros. Cuando consiguen aterrizar se encuentran con un mundo extraño en el que les está esperando algo ante lo cual desearían haber perecido en el avión… A las dos después de medianoche, en «Ventana secreta, secreto jardín», King nos desvela las extrañas conexiones que pueden existir entre un autor, sus lectores y los argumentos y personajes de sus novelas. Conexiones que pueden estar muy relacionadas con la vida y la muerte. A las tres después de medianoche, en «El policía de la biblioteca», Sam Peebles cree estar volviéndose loco desde que tuvo que atravesar el umbral de la biblioteca de Junction City. Aún no sabe que se está enfrentando a un enterrado fantasma de su infancia y a un destructivo policía, pero sólo si consigue descubrir la verdad tendrá una oportunidad de salir con vida. A las cuatro después de medianoche, con «El perro de la Polaroid», una amenaza se está cerniendo sobre la realidad. Cuando Kevin Delivan cumplió quince años le regalaron lo que más deseaba: una cámara Polaroid Sun 600. Con ella le estaban regalando una pesadilla espeluznante.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:31:42.042532+00:00"/>
+        <meta name="calibre:title_sort" content="Después de medianoche"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

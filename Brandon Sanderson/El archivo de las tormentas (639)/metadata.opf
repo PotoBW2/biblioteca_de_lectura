@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">639</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d53e33f4-01c8-408b-930d-2273fa544cba</dc:identifier>
+        <dc:title>El archivo de las tormentas</dc:title>
+        <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-05T22:00:00+00:00</dc:date>
+        <dc:description>Una guía de bolsillo para El camino de los reyes y Palabras radiantes. El objetivo de la presente guía breve es proporcionar datos y detalles que se puedan haber pasado por alto en una primera lectura de El camino de los reyes y Palabras radiantes, además de especular sobre lo que está por venir. En consecuencia, la guía revela acontecimientos de las dos primeras novelas de «El archivo de las tormentas».</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:27:00.143227+00:00"/>
+        <meta name="calibre:title_sort" content="archivo de las tormentas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

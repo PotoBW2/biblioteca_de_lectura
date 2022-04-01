@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb2977dc-97f8-4f59-9520-96e5a9d9ae0f</dc:identifier>
+        <dc:title>El alquimista y otros relatos</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-04-23T04:00:00+00:00</dc:date>
+        <dc:description>Este libro de recopilaciones incluyen «El alquimista, Dagón, Más allá del muro del sueño, Polaris, El caos reptante, Hechos tocantes al difunto Arthur Jermyn y su familia, La tumba y Celephaïs». Es una recopilación de los primeros relatos de terror escritos por H. P. Lovecraft y presagios de lo que después conseguiría con toda su obra. Los ocho relatos son de los primeros que escribió antes de llegar a novelas largas e historias más curradas como Los mitos de Cthulhu. El alquimista, escrito en 1908, a la edad de 17 años, es el primer relato conocido de Lovecraft.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:46:37.478071+00:00"/>
+        <meta name="calibre:title_sort" content="alquimista y otros relatos, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

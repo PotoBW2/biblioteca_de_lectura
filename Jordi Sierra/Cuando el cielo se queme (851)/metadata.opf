@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">851</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">631801e7-998f-4d2b-92bf-ab0dce5dfd56</dc:identifier>
+        <dc:title>Cuando el cielo se queme</dc:title>
+        <dc:creator opf:file-as="Sierra, Jordi" opf:role="aut">Jordi Sierra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-01T09:06:37+00:00</dc:date>
+        <dc:description>&lt;span style="orphans: 2; widows: 2;"&gt;—¿Cuándo volverá a reunirse el grupo?—Cuando el infierno se hiele.(Respuesta de The Eagles a un periodista en el momento de su separación)Lágrimas de cocodrilo fueron los más grandes, los mejores. Pero acabaron a bofetadas, rotos y separados. Incluso pagaron el peaje del éxito con la muerte de uno de sus miembros.Han pasado doce años y quieren volver.¿Lo conseguirán?&lt;/span&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788491391890</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Romantica</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:32:31.753747+00:00"/>
+        <meta name="calibre:title_sort" content="Cuando el cielo se queme"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

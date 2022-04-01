@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">920</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">baf8be00-39ad-44ca-a534-8b7adb8b03b6</dc:identifier>
+        <dc:title>http://www.cervantesvirtual.com/servlet/SirveObras/bnc/47531231</dc:title>
+        <dc:creator opf:file-as="ryj" opf:role="aut">ryj</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;ryj&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:34:22.797461+00:00"/>
+        <meta name="calibre:title_sort" content="http://www.cervantesvirtual.com/servlet/SirveObras/bnc/47531231"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

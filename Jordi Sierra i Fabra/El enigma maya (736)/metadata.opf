@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">736</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b9d9840-4b44-4c9b-997f-1681ae80441b</dc:identifier>
+        <dc:title>El enigma maya</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-01T05:00:00+00:00</dc:date>
+        <dc:description>El 27 de noviembre del año 2012, la embajada española en México tuvo que notificar a Georgina Mir, como único familiar vivo, que su padre, un famoso arqueólogo, había desaparecido, sin dejar ningún rastro, hacía tres días en Palenque, donde realizaba una excavación. Como una cruel broma, Georgina sintió que el destino se divertía con su familia: trece años antes, su madre también había desaparecido. Nunca la volvieron a ver. Todavía conmocionada, la joven viaja a Palenque dispuesta esta vez a no quedarse sin respuestas, a remover la tierra y el cielo si fuera necesario para recuperar a su padre. Lo que no podía imaginar es que se vería envuelta en una alocada carrera de pistas hasta dar con una verdad para la que no estaba preparada.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Las hijas de las tormentas"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:29:32.882284+00:00"/>
+        <meta name="calibre:title_sort" content="enigma maya, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

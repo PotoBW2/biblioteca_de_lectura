@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">264</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f56fda5d-004c-46f8-80cb-ce302c2fe443</dc:identifier>
+        <dc:title>Microsoft Word - Stephen King - Pesadillas y alucinaciones.doc</dc:title>
+        <dc:creator opf:file-as="myhell" opf:role="aut">myhell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-11-24T12:41:19+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;myhell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:17:51.636098+00:00"/>
+        <meta name="calibre:title_sort" content="Microsoft Word - Stephen King - Pesadillas y alucinaciones.doc"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

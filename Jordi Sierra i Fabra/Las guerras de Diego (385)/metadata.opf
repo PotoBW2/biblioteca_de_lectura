@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">385</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eac8d051-0ab7-4de9-884e-c1f93a9d91b0</dc:identifier>
+        <dc:title>Las guerras de Diego</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Diego es un niño cuya vida cambia de raíz el día en que su padre, militar, se va con las tropas del ejército español en misión humanitaria a un país muy lejano. Es el momento de acercarse a su abuelo paterno, un hombre que en su juventud fue un «hippy» irreverente y pacifista con ideas propias de su tiempo y que ahora es un hombre tan lúcido como especial, ácrata, radical y con una afilada lengua que no deja títere con cabeza. Abuelo y nieto sellan una especial alianza mediante la cual una o dos veces por semana ambos se juntan para que el hombre narre al niño la historia de todas las guerras acaecidas en España desde los Reyes Católicos hasta el presente. Con ello intenta demostrarle lo estúpidas, amargas, interesadas y terribles que son las contiendas, y lo duras que han sido para España a lo largo de más de quinientos años. Mientras uno y otro se internan por los entresijos de la narración, las cartas del padre, desde la distancia, entretejen otra realidad no menos latente y amarga: la del complicado mundo actual. Con la madre y la abuela como testigos de ese contundente relato oral, siempre dialogado mediante un juego constante de preguntas y respuestas, la novela se convierte en un perfecto y visceral repaso de la historia de España. Una historia que no conviene olvidar, porque se ha repetido una y otra vez a lo largo de los años.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">45944</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <dc:subject>Infantil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:20:42.419708+00:00"/>
+        <meta name="calibre:title_sort" content="guerras de Diego, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

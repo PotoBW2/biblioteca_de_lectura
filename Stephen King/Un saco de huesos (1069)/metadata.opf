@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1069</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d2757e7-c7fa-40e9-9428-3ea8934de890</dc:identifier>
+        <dc:title>Un saco de huesos</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-01-01T08:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="sinopsis minisalto"&gt;Sólo el gran maestro del terror podía haber escrito esta embrujada historia de amor donde ni siquiera la muerte es capaz de separar amantes…&lt;/p&gt; &lt;p class="sinopsis minisalto"&gt;Un saco de huesos es la novela más emocionante e inolvidable de Stephen King: una historia sobre el sufrimiento y el vínculo eterno de un hombre con un amor malogrado, sobre un nuevo amor amenazado por secretos del pasado y una inocente niña atrapada en el fuego cruzado de fuerzas naturales y sobrenaturales.&lt;/p&gt; &lt;p class="sinopsis minisalto"&gt;Cuatro años después de la repentina muerte de su esposa Jo, el novelista Mike Noonan sigue presa de una terrible depresión y espantosas pensadillas. Busca refugio en su casa de veraneo, pero en ese lugar un hombre poderoso, Max Devore, no tiene escrúpulos en manipular a la comunidad para conseguir sus siniestros propósitos: separar a su nieta de tres años de su joven madre viuda. Mike se involucra en el enfrentamiento y se ve atrapado en el misterio de la casa, ahora escenario de visitas fantasmales y obsesiones cada vez más abominables…&lt;/p&gt; &lt;p class="sinopsis"&gt;En Un saco de huesos la vida y la emoción se reflejan con una intensidad insólita. No es secreto que King es el narrador más espeluznante. Y aquí demuestra que también puede ser el más conmovedor.&lt;/p&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2015-10-28T13:23:54.447000+00:00"/>
+        <meta name="calibre:title_sort" content="Un saco de huesos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">806</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c358bfbf-2282-47cc-96bd-6d6e9dfbca9f</dc:identifier>
+        <dc:title>Donde el viento da la vuelta</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-04T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;span style="font-family: Arial, Verdana, sans-serif; font-size: 13px; line-height: 18px; widows: 1; background-color: rgb(255, 255, 255);"&gt;Ésta es la historia de Nino, un niño que es guerrillero, que lleva una ametralladora casi tan grande como él y pelea por la supervivencia en lo más intrincado de la selva guatemalteca. &lt;/span&gt;&lt;/p&gt;&lt;p class="description"&gt;&lt;span style="font-family: Arial, Verdana, sans-serif; font-size: 13px; line-height: 18px; widows: 1; background-color: rgb(255, 255, 255);"&gt;Lo que Nino hace es lo más cruel al que el ser humano puede estar obligado. Pero siempre hay una esperanza.&lt;/span&gt;
+
+&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00NC8TO4U</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:31:20.725993+00:00"/>
+        <meta name="calibre:title_sort" content="Donde el viento da la vuelta"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">810</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a55bbb5f-d0f1-4dbc-81f6-8fc5bc764403</dc:identifier>
+        <dc:title>Dioses y teología de la obra de Lovecraft</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-08T10:57:02+00:00</dc:date>
+        <dc:description>Pesé a que Lovecraft fue el profeta de la nueva religión él nunca intentó sistematizar los mitos, poniendo orden aquí y alla como lo hiciera Hesíodo con los mitos griegos. Solo dejó clara la base sobre la cual se inventarían las más horrorosas historias. Esta idea central era que antes de que apareciera el hombre la Tierra había tenido otros amos. A esta idea aluden determinados libros “aborrecibles”, ciertos grabados “abominables” y algunas esculturas “sacrílegas”. También menciona varios lugares que resultan sagrados y cita la existéncia de cultos y de rituales “blasfemos” que prefiere no detallar.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Sobrenatural</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:31:27.419997+00:00"/>
+        <meta name="calibre:title_sort" content="Dioses y teología de la obra de Lovecraft"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

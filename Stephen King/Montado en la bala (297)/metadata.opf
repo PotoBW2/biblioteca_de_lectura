@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff55d94e-1d1b-40ac-809f-923f67b753aa</dc:identifier>
+        <dc:title>Montado en la bala</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Alan Parker se ve obligado a hacer autostop para llegar al hospital donde su madre convalece de un grave accidente. Sin embargo, no imagina que durante el trayecto se enfrentará a la experiencia más terrorífica de su vida. En efecto, los sucesivos conductores que le recogen encarnan macabras fuerzas del más allá capaces de anticipar e incluso modificar el destino de Alan y de su madre. La clave del pavoroso enigma radica en un parque de atracciones, concretamente en una atracción llamada «la bala», similar a una montaña rusa y que, para horror de los lectores y el protagonista, detenta un inexplicable poder sobre la vida y la muerte… Un relato en el que la cotidianidad más absoluta se convierte en escenario del espanto más innombrable.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:18:40.130149+00:00"/>
+        <meta name="calibre:title_sort" content="Montado en la bala"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

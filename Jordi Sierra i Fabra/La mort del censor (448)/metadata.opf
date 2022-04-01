@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">448</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c41e50a-66d8-4419-80b6-21ecca93120a</dc:identifier>
+        <dc:title>La mort del censor</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Barcelona, 1963. L’inspector Hilari Soler és un policia estrany pels temps que corren. Enfrontat amb els seus superiors per haver denunciat un col·lega per conducta violenta, els seus dies a comissaria semblen comptats. Abans però haurà de resoldre una última patata calenta: el brutal assassinat —vint-i-set punyalades al cos i quatre bales a l’estómac— d’un funcionari que es dedica a controlar i censurar el que es vol publicar al país.
+De sospitosos n’hi ha una pila, per començar tres escriptors als quals els ha estat denegat el permís per publicar o un cantautor a qui li han censurat gairebé totes les cançons. Convençut que cap d’ells hauria tingut el valor de cometre un crim així, l’inspector Soler prefereix furgar en el passat d’aquell guardià de la moral franquista, un passat —per què no dir-ho— gens exemplar.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">36946</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Hilari Soler"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:22:14.131362+00:00"/>
+        <meta name="calibre:title_sort" content="mort del censor, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">861</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00121a32-6bd6-416b-9eb3-71fba8dd1cd4</dc:identifier>
+        <dc:title>Concert en Sol Major</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Un nen misteriós apareix al Portal de l’Àngel de Barcelona, just al xamfrà on toca un vell violinista de carrer. Durant les hores següents s’estableix entre tots dos un intens diàleg, i neix una estranya amistat. Fins al moment de la veritat, l’instant en el qual la música mostra qui és en realitat l’aparegut, i aleshores…</dc:description>
+        <dc:publisher>ePUBCat</dc:publisher>
+        <dc:identifier opf:scheme="EPUBCAT ID">0105</dc:identifier>
+        <dc:identifier opf:scheme="EPUBCAT VERSIO">2.0</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novel·la</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:32:46.641311+00:00"/>
+        <meta name="calibre:title_sort" content="Concert en Sol Major"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

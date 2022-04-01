@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">720</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cc0c98f-4f85-47ce-adf6-70b22b40f273</dc:identifier>
+        <dc:title>EL HOMBRE QUE NO QUERÍA ESTRECHAR MANOS</dc:title>
+        <dc:creator opf:file-as="Administrador" opf:role="aut">Administrador</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Administrador&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:29:08.647443+00:00"/>
+        <meta name="calibre:title_sort" content="HOMBRE QUE NO QUERÍA ESTRECHAR MANOS, EL"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

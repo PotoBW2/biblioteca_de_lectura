@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1076</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce47f014-54f5-4996-aa8b-80ddee95787e</dc:identifier>
+        <dc:title>Los sueños en la casa de la bruja</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1933-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La famosa Casa de la Bruja está ubicada en Arkham. Allí, Walter Gilman, un estudiante de matemática, irá descubriendo una serie de misteriosas desapariciones que comienzan doscientos años atrás, y que parecen desafiar toda lógica. El rasgo más destacable de Los sueños en la casa de la bruja es, precisamente, el abordaje que realiza Lovecraft sobre los inquietantes sueños que se producen al pernoctar en aquella casa maldita.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:41:06.386684+00:00"/>
+        <meta name="calibre:title_sort" content="sueños en la casa de la bruja, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

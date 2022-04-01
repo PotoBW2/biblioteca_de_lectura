@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">236</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b2d5ac9-6e9e-4c4c-9470-29e181aae7b3</dc:identifier>
+        <dc:title>Quatre dies de gener</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-23T04:00:00+00:00</dc:date>
+        <dc:description>El 22 de gener de 1939 el Govern abandona Barcelona a la seva sort i la ciutat queda a la mercè de les tropes de Franco. Durant quatre dies s’esdevé un caos total sota el pes de la derrota, la fam i la por, alhora que els vençuts emprenen la fugida cap a l’exili. En aquest marc, l’inspector Miquel Mascarell, l’últim policia de Barcelona, que no pot marxar perquè la seva dona està greument malalta, s’enfronta al darrer cas de la seva carrera, el de la filla d’una prostituta, una adolescent violentament assassinada. En aquests quatre dies, a peu per la ciutat desesperada, buscarà l’assassí i descobrirà que els vells feixistes amagats tornen a casa i reprenen les seves vides, disposats a la venjança. Amb un documentat rerefons històric que recrea d’una manera fidel la realitat d’aquell moment, Quatre dies de gener és la novel·la d’una resistència límit i la voluntat de supervivència de tot ésser humà davant l’adversitat.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Miquel Mascarell"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:17:13.737564+00:00"/>
+        <meta name="calibre:title_sort" content="Quatre dies de gener"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

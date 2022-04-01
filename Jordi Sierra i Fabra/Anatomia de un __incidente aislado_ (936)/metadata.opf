@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">936</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b20c8967-338c-4186-9941-4b9935be54e2</dc:identifier>
+        <dc:title>Anatomía de un «incidente aislado»</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-28T23:00:00+00:00</dc:date>
+        <dc:description>Un joven despierta de su inconsciencia en medio de un bosque. No sabe qué le ha pasado ni por qué está ahí. Apenas recuerda nada. Solo, como un fogonzazo, la imagen asustada de un chico negro.El mismo que aparece muerto en medio de la calle con un disparo en la cabeza. Una muerte inesperada y absurda. Nadie sabe quién le ha asesinado. Todos pueden ser sospechosos. Un día infernal para todos los que en vida se relacionaron con él. Un día a la búsqueda de respuestas.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:34:48.244600+00:00"/>
+        <meta name="calibre:title_sort" content="Anatomía de un «incidente aislado»"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

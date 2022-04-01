@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">229b4a08-fa66-4b15-8644-8f155fa54899</dc:identifier>
+        <dc:title>Casa Negra</dc:title>
+        <dc:creator opf:file-as="King, Stephen &amp; Straub, Peter" opf:role="aut">Stephen King</dc:creator>
+        <dc:creator opf:file-as="King, Stephen &amp; Straub, Peter" opf:role="aut">Peter Straub</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Hace veinte años, un chico llamado Jack Sawyer viajó a los Territorios, un mundo paralelo, para salvar a su madre. Ahora Jack, ex detective de homicidios, decide comprarse una casa en un pueblo tranquilo de Wisconsin. No conserva recuerdo alguno de sus aventuras en los Territorios, pero se vio obligado a dejar la policía de Los Ángeles cuando un suceso casual le despertó un inexplicable malestar. Cuando se produce una serie de horripilantes asesinatos en Wisconsin, el jefe de la policía local pide a Jack que lo ayude en su investigación. Pero ¿son esos asesinatos simplemente obra de un perturbado, o se ha desatado una fuerza misteriosa y maligna? ¿Cuál es la causa de las extrañas visiones que tiene Jack? ¿Acaso alguien trata de comunicarle algo? Jack se ve arrastrado de nuevo a los Territorios y hacia su propio pasado. Solamente allí podrá encontrar la fuerza necesaria para entrar en la Casa Negra y enfrentarse a los espantosos y viles seres del mal que esta cobija. En Casa Negra Stephen King y Peter Straub vuelven a contar otra historia de Jack Sawyer, protagonista de El talismán, el primer libro que escribieron juntos. Una obra maestra de la mano de dos genios de la literatura de terror. Una historia absolutamente espeluznante.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;, &quot;Peter Straub&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:47:59.077186+00:00"/>
+        <meta name="calibre:title_sort" content="Casa Negra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

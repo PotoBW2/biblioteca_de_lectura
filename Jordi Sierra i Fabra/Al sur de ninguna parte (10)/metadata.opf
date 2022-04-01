@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a969538-2f0e-4fdb-b151-ae8949d6e151</dc:identifier>
+        <dc:title>Al sur de ninguna parte</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-15T22:00:00+00:00</dc:date>
+        <dc:description>Una novela policíaca. La investigación de un asesinato que esconde un drama mucho más profundo. Balandú es el último pueblo río arriba, no llega a las quinientas personas. Más allá no hay nada, sólo las montañas, altas, casi inexpugnables. Una inmensa cordillera que inunda un mundo desconocido, de cientos de kilómetros cuadrados que se extienden hasta el mar. A ese horizonte ignoto lo llaman Ninguna Parte, así que Balandú, Tierra de Paz, está al sur de Ninguna Parte. Ni siquiera la guerrilla, ni el narcotráfico se interesan por este lugar. Por eso, el día que matan a Luis Bernardo todo cambia. Es cierto que muchos incluso respiran con alivio, pero la llegada de un policía de la ciudad dará inicio a unas investigaciones de asesinato que desvelarán verdades ocultas. . . Y para ningún vecino, pero sobre todo para el joven Fabio, que asiste al inspector como guía, nada volverá a ser igual.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:08:46.145579+00:00"/>
+        <meta name="calibre:title_sort" content="Al sur de ninguna parte"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

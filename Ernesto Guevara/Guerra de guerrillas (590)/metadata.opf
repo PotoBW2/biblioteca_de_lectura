@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">590</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">328b410e-79b3-4092-ac6e-875adee30789</dc:identifier>
+        <dc:title>Guerra de guerrillas</dc:title>
+        <dc:creator opf:file-as="Guevara, Ernesto" opf:role="aut">Ernesto Guevara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>El primer libro del Che, escrito tras su experiencia de lucha en Cuba, imprescindible para entender el pensamiento del guerrillero heroico, en el que teoría y práctica revolucionarias siempre fueron unidas.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Narrativa Variada</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ernesto Guevara&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:25:45.622397+00:00"/>
+        <meta name="calibre:title_sort" content="Guerra de guerrillas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

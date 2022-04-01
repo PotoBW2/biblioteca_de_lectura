@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1254</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfdebf7a-9161-461e-85b4-6dea62eca7c3</dc:identifier>
+        <dc:title>Duma Key</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="sinopsis"&gt;Unas pinturas de sorprendente fuerza y maestría podrían estar inspiradas en una terrible maldición…&lt;/p&gt; &lt;p class="sinopsis salto10"&gt;Tras sufrir un grave accidente, la vida del constructor millonario Edgard Fremantle cambia radicalmente. Ha perdido un brazo, se separa de su mujer y decide trasladarse a Duma Key para dedicarse a pintar. El paisaje de este cayo en la Florida, con viejas casonas y una vegetación tropical, y la extraña propietaria de la isla desatan en Edgar una fiebre creadora sobrehumana: los paisajes surrealistas, los mares embravecidos y las muñecas que dibuja parecen formar parte de un aterrador mensaje de advertencia…&lt;/p&gt; &lt;p class="sinopsis salto10"&gt;Una de las mejores novelas de &lt;strong&gt;Stephen King&lt;/strong&gt;, con elementos sobrenaturales que recuerdan a &lt;em&gt;La historia de Lisey&lt;/em&gt;. El cayo, su paisaje y los secretos que encierra su mar se convierten en un personaje más de la novela, fascinante y terrorífco.&lt;/p&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:46:53.075874+00:00"/>
+        <meta name="calibre:title_sort" content="Duma Key"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

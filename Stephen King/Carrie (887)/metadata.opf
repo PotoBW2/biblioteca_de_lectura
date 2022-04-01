@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">887</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c710e5a-f8d6-4035-bea9-d78c61f2c0ca</dc:identifier>
+        <dc:title>Carrie</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1974-04-05T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="sinopsis minisalto"&gt;El escalofriante caso de una joven de apariencia insignificante que se transformó en un ser de poderes anormales, sembrando el terror en la ciudad.&lt;/p&gt; &lt;p class="sinopsis minisalto"&gt;Con pulso mágico para mantener la tensión a lo largo de todo el libro, Stephen King narra la atormentada adolescencia de Carrie, y nos envuelve en una atmósfera sobrecogedora cuando la muchacha realiza una serie de descubrimientos hasta llegar al terrible momento de la venganza.&lt;/p&gt; &lt;p class="sinopsis"&gt;Esta novela fue llevada al cine con un inmenso éxito de público y crítica.&lt;/p&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:33:28.992776+00:00"/>
+        <meta name="calibre:title_sort" content="Carrie"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

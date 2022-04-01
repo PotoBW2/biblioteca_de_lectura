@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2eadd7d-feb5-4b93-a02c-50c961c72270</dc:identifier>
+        <dc:title>Le crime de Lord Arthur Savile</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-14T05:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14693</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Fairy tales</dc:subject>
+        <dc:subject>Manners and customs -- Fiction</dc:subject>
+        <dc:subject>English fiction -- Translations into French</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:20:18.043808+00:00"/>
+        <meta name="calibre:title_sort" content="Le crime de Lord Arthur Savile"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

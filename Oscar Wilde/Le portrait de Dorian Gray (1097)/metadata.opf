@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1097</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f7d9601-6da7-4f22-923d-b07dfc1b3c29</dc:identifier>
+        <dc:title>Le portrait de Dorian Gray</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-11-28T05:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/14192</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Didactic fiction</dc:subject>
+        <dc:subject>Supernatural -- Fiction</dc:subject>
+        <dc:subject>Conduct of life -- Fiction</dc:subject>
+        <dc:subject>Portraits -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- Victoria</dc:subject>
+        <dc:subject>1837-1901 -- Fiction</dc:subject>
+        <dc:subject>London (England) -- History -- 1800-1950 -- Fiction</dc:subject>
+        <dc:subject>Appearance (Philosophy) -- Fiction</dc:subject>
+        <dc:subject>Paranormal fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:41:42.259879+00:00"/>
+        <meta name="calibre:title_sort" content="Le portrait de Dorian Gray"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

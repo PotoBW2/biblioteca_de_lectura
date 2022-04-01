@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1103</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3867a0e2-e2ff-4775-af3e-8bc5d0fe5de1</dc:identifier>
+        <dc:title>Legión</dc:title>
+        <dc:creator opf:file-as="Brandon Sanderson" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;B&gt;Tres novelas cortas y cohesionadas que tienen la psicología como superpoder.&lt;/B&gt;&lt;/P&gt; &lt;p&gt;&lt;B&gt;Por el gran autor de fantasía del siglo XXI.&lt;/B&gt;&lt;/P&gt; &lt;P&gt;Brandon Sanderson recopila en este libro las novelas cortas protagonizadas por Stephen Leeds, una interesantísima mezcla de ciencia ficción y suspense que incluye dos historias inéditas en castellano hasta la fecha.&lt;/P&gt; &lt;P&gt;Stephen Leeds es un genio perfectamente cuerdo con alucinaciones alocadas. Es capaz de aprender cualquier nueva habilidad en cuestión de horas, pero para ello su mente necesita crear personas imaginarias a las que él llama "aspectos". Allá adonde va, se le une un equipo de expertos imaginarios que él usa para resolver problemas.&lt;/P&gt; &lt;P&gt;Pero, de pronto, su cerebro roza el colapso cuando los "aspectos" empiezan a cobrar vida. Una empresa lo contrata para recuperar una propiedad robada, y Stephen termina atravesando océanos y luchando contra terroristas. Lo que descubre puede alterar los cimientos de las tres...</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788417347697</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:42:00.317312+00:00"/>
+        <meta name="calibre:title_sort" content="Legión"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

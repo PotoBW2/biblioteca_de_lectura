@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">625</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9fc2b292-9639-4705-9ff6-82d0c0509526</dc:identifier>
+        <dc:title>En las montañas de la locura (trad. Miguel Temprano García)</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1936-01-01T00:00:00+00:00</dc:date>
+        <dc:description>«Me veo obligado a hablar, pues los hombres de ciencia se niegan a seguir mi consejo sin saber por qué. Si explico las razones por las que me opongo a esta planeada invasión de la Antártida —con su extensa búsqueda de fósiles y su minuciosa perforación y fundición del antiguo casquete glacial— es totalmente en contra de mi voluntad y mis reticencias son aun mayores porque es posible que sea en vano. Es inevitable que los hechos, tal como debo revelarlos, susciten dudas, pero si suprimiera todo lo que parece extravagante o increíble no quedaría nada. Las fotografías guardadas hasta ahora, tanto las aéreas como las normales, hablarán a mi favor, pues son tremendamente gráficas y elocuentes».</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:26:38.792948+00:00"/>
+        <meta name="calibre:title_sort" content="En las montañas de la locura (trad. Miguel Temprano García)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

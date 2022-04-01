@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">269</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3d0c40e-3b1d-463b-9a59-ddf2a3ab3efc</dc:identifier>
+        <dc:title>Paciente cero</dc:title>
+        <dc:creator opf:file-as="Maberry, Jonathan" opf:role="aut">Jonathan Maberry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-07T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Lunes, 13.00 horas. Joe Ledger mata al terrorista Javad Mustapha, alias el Paciente Cero, con dos tiros de su Glock 45. Miércoles, 08.00 horas: el Paciente Cero regresa de entre los muertos. Cuando tienes que matar al mismo terrorista dos veces la misma semana, o bien falla algo en tus aptitudes o el mundo se ha vuelto loco... y las aptitudes de Joe Ledger están perfectamente. Ledger es reclutado por el Gobierno para dirigir un nuevo grupo de respuesta rápida ultrasecreto llamado Departamento de Ciencia Militar (DCM) para ayudarlos a evitar que un grupo de terroristas active una terrible arma biológica que tiene la capacidad de convertir a la gente normal en zombis.&lt;/p&gt;</dc:description>
+        <dc:publisher>kms</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788498006049</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">599027cc-72af-4dfd-88c3-7af606ed2ca4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jonathan Maberry&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:17:59.538868+00:00"/>
+        <meta name="calibre:title_sort" content="Paciente cero"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

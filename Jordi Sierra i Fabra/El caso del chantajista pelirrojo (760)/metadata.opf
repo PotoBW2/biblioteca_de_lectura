@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">760</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a9fc951-2838-4ba1-8372-c80c2079ba05</dc:identifier>
+        <dc:title>El caso del chantajista pelirrojo</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-01T05:00:00+00:00</dc:date>
+        <dc:description>No uno, sino dos casos, y en el mismo día. Berta cree estar de suerte. Buscar a una adolescente captada por una presunta secta y entregar el precio de un chantaje, aunque sea de noche y en una zona oscura, no parecen trabajos muy complicados. Y sin embargo lo son, porque la muchacha escapada guarda un trágico secreto que obligará a Berta a tomar partido y porque el chantaje se convierte en un asesinato que la involucra de lleno en una espiral de incertidumbre y peligro. Por si todo eso fuera poco, en el horizonte aparece un guapo cantante que amenaza la estabilidad emocional de nuestra protagonista, y también su carrera en el grupo, a las puertas del verano más decisivo para ellos. Con un sentido del humor despiadado, esta historia vertiginosa dispara la adrenalina y no deja respiro hasta la última página, en una carrera contrarreloj a vida o muerte.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Berta Mir"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:30:09.679739+00:00"/>
+        <meta name="calibre:title_sort" content="caso del chantajista pelirrojo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">876</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">670c956c-8347-4e0b-b202-fb03f5a18275</dc:identifier>
+        <dc:title>﻿The Project Gutenberg eBook, Charmides and Other Poems, by Oscar Wilde</dc:title>
+        <dc:creator opf:file-as="States, This eBook is for the use of anyone anywhere in the United &amp; most" opf:role="aut">This eBook is for the use of anyone anywhere in the United States</dc:creator>
+        <dc:creator opf:file-as="States, This eBook is for the use of anyone anywhere in the United &amp; most" opf:role="aut">most</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;This eBook is for the use of anyone anywhere in the United States&quot;: &quot;&quot;, &quot;most&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:33:11.836002+00:00"/>
+        <meta name="calibre:title_sort" content="The Project Gutenberg eBook, Charmides and Other Poems, by Oscar Wilde"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

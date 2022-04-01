@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">780</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39b21bde-00de-49be-adc9-638f7a4c9378</dc:identifier>
+        <dc:title>El asesinato de la profesora de lengua</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La profesora de lengua, Soledad, está harta de que sus alumnos no se esfuercen en clase. Su desesperación ha llegado a tal límite, que les comunica una seria noticia: antes de acabar el día, asesinará a uno de ellos, si no consiguen detenerla antes. A los alumnos les va la vida en ello, así que no perderán un solo segundo. La búsqueda ha comenzado…</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:30:41.609558+00:00"/>
+        <meta name="calibre:title_sort" content="asesinato de la profesora de lengua, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

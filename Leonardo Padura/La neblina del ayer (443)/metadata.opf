@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">443</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f46b43e3-cf20-458c-92ba-2138bd060254</dc:identifier>
+        <dc:title>La neblina del ayer</dc:title>
+        <dc:creator opf:file-as="Padura, Leonardo" opf:role="aut">Leonardo Padura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Habana, verano de 2003. Han trascurrido catorce años desde que el teniente investigador Mario Conde, desencantado, abandonara la policía. En esos años han ocurrido muchos cambios en Cuba, y también en la vida de Mario Conde. Su inclinación por la literatura y la necesidad de ganarse la vida lo han llevado a dedicarse a la compra y venta de libros de segunda mano. El hallazgo fortuito de una valiosísima biblioteca le coloca al borde de un magnífico negocio, capaz de aliviar sus penurias materiales. Pero, en un libro de esa biblioteca, aparece una hoja de revista en la que una cantante de boleros de los años cincuenta, Violeta del Río, anuncia su retiro en la cumbre de su carrera. Atraído por su belleza, por el misterio de su retiro y el silencio posterior, Mario Conde —ahora con más años y más cicatrices en la piel y en el corazón— inicia una investigación, sin imaginar que, al seguir el rastro de Violeta del Río, despertará un pasado turbulento que, como la fabulosa biblioteca, ha estado tapiado durante más de cuarenta años.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Leonardo Padura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Mario Conde"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:22:04.000119+00:00"/>
+        <meta name="calibre:title_sort" content="neblina del ayer, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

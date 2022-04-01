@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">950</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0136581a-8a53-4272-8cf1-be18f65568e4</dc:identifier>
+        <dc:title>Vida de Don Quijote y Sancho</dc:title>
+        <dc:creator opf:file-as="Unamuno, Miguel de" opf:role="aut">Miguel de Unamuno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1905-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Es uno de los libros más representativos de Miguel de Unamuno, en que el autor no pretende descubrir el sentido que Cervantes le diera, sino el que le da él. La obra quizá sea también novela, ya que en sus páginas hidalgo y escudero reviven los episodios de la obra cervantina en compañía de un narrador que no se priva del autoatribuido derecho a injerirse en lo narrado, trasluciendo en el comentario una voluntad tanto crítica como creadora. Con una extraña mezcla de admiración y animadversión hacia Cervantes, Unamuno, tomando el "Quijote" en ocasiones como simple pretexto y sirviéndose en otras de él como de estímulo y fuente de inspiración, logró crear un inspirado ensayo de gran valor literario y filosófico.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Crítica y teoría literaria</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miguel de Unamuno&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:35:11.837503+00:00"/>
+        <meta name="calibre:title_sort" content="Vida de Don Quijote y Sancho"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

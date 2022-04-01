@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">347</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0856a6a3-0fb6-486a-87b9-17b555e9954b</dc:identifier>
+        <dc:title>Los dientes del dragón</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Sharar tiene 15 años. Sus sueños no son como los de cualquier adolescente de su edad. No le interesa salir con ningún chico. No le preocupan los exámenes. No sabe que quiere ser de mayor. Lo único que le importa es liberar a su hermana de la red de prostitución que la tiene secuestrada.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">57159</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:19:47.631223+00:00"/>
+        <meta name="calibre:title_sort" content="dientes del dragón, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

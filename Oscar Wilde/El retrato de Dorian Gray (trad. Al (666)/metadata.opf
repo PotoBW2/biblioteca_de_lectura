@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9828ee5-c912-4bab-a432-640000311b6e</dc:identifier>
+        <dc:title>El retrato de Dorian Gray (trad. Alejandro Palomas)</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1890-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En su única novela, el divino Oscar Wilde puso al día el mito de Fausto. En este caso, la víctima es Dorian Gray, un bello y presuntuoso joven a quien un amigo hace un retrato al óleo. Cuando Dorian trabe amistad con lord Henry Wotton, un cínico filósofo, este le convencerá de que sus más valiosas posesiones son su belleza y su juventud. Y, a partir de ahí, su deseo de que su retrato envejezca mientras él permanece joven se hace realidad. Pero ¿a qué precio?Estamos, simple y llanamente, ante uno de los libros más bellos e ingeniosos de todos los tiempos.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:27:42.134810+00:00"/>
+        <meta name="calibre:title_sort" content="retrato de Dorian Gray (trad. Alejandro Palomas), El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

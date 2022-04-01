@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1252</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">928a6c06-0a5c-46fc-b204-459dca48b437</dc:identifier>
+        <dc:title>El abismo en el tiempo</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1936-06-01T10:57:06+00:00</dc:date>
+        <dc:description>En la noche de los tiempos o La sombra fuera del tiempo (The Shadow out of Time en inglés) es un relato corto de horror cósmico y ciencia fantástica escrito por H. P. Lovecraft entre finales de 1934 y principios de 1935, y publicado por primera vez en la revista literaria Astounding Stories en junio de 1936, el año anterior a la muerte del escritor. Es considerado uno de los ocho relatos fundamentales dentro de los llamados Mitos de Cthulhu. En él se mezcla paradójicamente el deseo y el terror, y ejemplifica perfectamente la tesis de Sigmund Freud respecto a que lo siniestro es aquello que alguna vez fue conocido y ahora yace reprimido El Abismo en el Tiempo -también traducido como 'En la Noche de los tiempos'- , de H. P. Lovecraft, es una noveleta de terror que al principio sólo roza la ciencia ficción, pero a medida que transcurre se planta también en ese género. Nathaniel Wingate Peaslee es un profesor de económicas normal hasta que un día, en medio de una clase, entra en estado casi catatónico y despierta días después con una personalidad suplantada. La segunda personalidad, como descubre Nathaniel cuando vuelve a su cuerpo, se dedica todo el tiempo que puede a visitar bibliotecas y leer libros extraños. Cinco años después, cuando la conciencia de Nathaniel recupera sus actos, investiga quién y qué era esa mentalidad que parecía haberle suplantado para investigar sobre costumbres de su mundo. Luego comienzan las pesadillas…</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Sobrenatural</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:46:49.316043+00:00"/>
+        <meta name="calibre:title_sort" content="abismo en el tiempo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9a7c116-3e35-4ab5-bc56-44080685b5f2</dc:identifier>
+        <dc:title>Un llibre monstruós</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Un escriptor famós, en Roc, rep l’encàrrec del seu editor d’escriure un llibre de por, un llibre monstruós, terrorífic, que faci posar els pèls de punta… En Roc s’hi posa i ban aviat té enllestit el llibre de por més monstruós que us pugueu arribar a imaginar, quasi quasi tan monstruós com aquest llibre. Ho podreu resistir?</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Infantil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:11:03.783151+00:00"/>
+        <meta name="calibre:title_sort" content="llibre monstruós, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

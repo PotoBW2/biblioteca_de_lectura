@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">180</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">309619f0-98d2-47df-bec4-ad7b8b7f0d9a</dc:identifier>
+        <dc:title>El regreso de Johnny Pickup</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Los aficionados a la música y al &lt;i&gt;rock and roll&lt;/i&gt; están de enhorabuena. Porque esta es una novela que aúna música, nostalgia y humor a partes iguales. Finalista del premio convocado por la editorial Espasa en 1995, este divertido relato se ha convertido en una novela de culto en el ámbito de la literatura musical en lengua española. Rezuma humor, mala leche, irreverencia… es una parodia del mundo rockero y sus neuróticos protagonistas donde el egoísmo y la ley del dinero campan a sus anchas.&lt;/p&gt;&lt;p&gt;Nadie entendió nunca por qué Johnny Pickup, uno de los rockeros más importantes de todos los tiempos, desapareció de pronto en la cumbre de su éxito. Johnny cogió su guitarra y todos sus bártulos y se compró una isla en la Polinesia para pasar el resto de sus días. Treinta años después, George Saw, un conocido crítico musical neoyorquino, decide dedicar su vida a encontrar, convencer y organizar la vuelta triunfal de Johnny Pickup a los escenarios.&lt;/p&gt;&lt;p&gt;Con un magnífico manejo del humor y un estilo impecable, Jordi Sierra i Fabra, nos relata en esta espléndida novela las glorias y los intereses oscuros del mundo del &lt;i&gt;rock&lt;/i&gt;. Johnny Pickup junto con Bruce Springsteen, Madonna, Prince, Sting, David Bowie —a quienes el autor conoce personalmente— son los protagonistas de esta comedia de enredo e intriga ambientada en la ciudad de Nueva York.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">56668</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:15:53.113815+00:00"/>
+        <meta name="calibre:title_sort" content="regreso de Johnny Pickup, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

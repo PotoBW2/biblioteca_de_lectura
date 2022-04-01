@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">605</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f7ca45f-4edd-4b32-899e-51a9a4fb480f</dc:identifier>
+        <dc:title>Four Past Midnight (Illustrated)</dc:title>
+        <dc:creator opf:file-as="Morrow, Wolff King" opf:role="aut">Wolff King Morrow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-02-05T17:40:44+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Wolff King Morrow&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:26:07.281281+00:00"/>
+        <meta name="calibre:title_sort" content="Four Past Midnight (Illustrated)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

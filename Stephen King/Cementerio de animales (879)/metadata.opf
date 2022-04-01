@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">879</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ee311bd-c67b-4044-a81f-81aee515b63d</dc:identifier>
+        <dc:title>Cementerio de animales</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="sinopsis salto"&gt;"Church" estaba allí otra vez. Temía y deseaba algo semejante. Porque su hijita Ellie le había encargado que cuidara del gato, de "Church", y "Church" había muerto atropellado. Louis Creed era médico, había tenido al gato en los brazos y estaba muerto. Seguro. Pero había cedido ante la insistencia del viejo y había ido a enterrarlo a plena noche, más allá del cementerio de animales. Más allá. Y ahora estaba allí otra vez. Era "Church", no cabía duda, aunque arrastraba los cuartos traseros, apestaba como un condenado, sus ojos eran mucho más verdes y mucho más crueles y su comportamiento era perverso. Pero volvía a estar allí y Ellie no lo echaría de menos.&lt;/p&gt; &lt;p class="sinopsis"&gt;Sin embargo, Louis Creed sí volvería a echar de menos aquel lugar. Porque más allá del cementerio de animales, más allá de la valla de troncos que nadie se atrevía a traspasar, más allá de los cuarenta y cinco escalones, el poder del antiguo cementerio indio le reclamaba y le ofrecía su aberrante consuelo para una espiral de un dolor y un horror cada vez más intensos.&lt;/p&gt;</dc:description>
+        <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:33:16.414099+00:00"/>
+        <meta name="calibre:title_sort" content="Cementerio de animales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

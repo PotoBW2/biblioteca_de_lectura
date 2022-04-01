@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">824</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f2b873d-3cf4-497a-8547-975e06ca05cc</dc:identifier>
+        <dc:title>Deseo concedido</dc:title>
+        <dc:creator opf:file-as="Maxwell, Megan" opf:role="aut">Megan Maxwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Si algo tiene claro Lady Megan Philiphs es que ningún hombre doblegará su carácter y su voluntad. Acostumbrada a cuidar y velar por la seguridad de sus hermanos, Megan es una joven intrépida, de bello rostro moreno, a la que le divierten los retos y no le asusta el sonido del acero. Si algo tiene claro el guerrero Duncan McRae es que su vida es la guerra. Acostumbrado a liderar ejércitos, y a que la gente agache atemorizada la cabeza a su paso, al llegar al castillo de Dunstaffnage para asistir a la boda de su amigo Axel McDougall, se encuentra con un tipo de enemigo muy distinto al que conoce: la joven e inquietante Megan. ¿Conseguirán Megan y Duncan sobrevivir todos esos meses sin ahogarse? O por el contrario ¿la pasión les terminará consumiendo?</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Aventuras</dc:subject>
+        <dc:subject>Romántico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Megan Maxwell&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Las guerreras Maxwell"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:31:49.770025+00:00"/>
+        <meta name="calibre:title_sort" content="Deseo concedido"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

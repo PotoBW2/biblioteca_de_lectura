@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">952</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a14f183-91d2-43f4-b12c-d00fef4638e3</dc:identifier>
+        <dc:title>Microsoft Word - plegaria de chernobyl - pdfMachine from Broadgun Software, http://pdfmachine.com, a great PDF writer utility!</dc:title>
+        <dc:creator opf:file-as="Aleksievich, Svetlana" opf:role="aut">Svetlana Aleksievich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Svetlana Aleksievich&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:35:15.279435+00:00"/>
+        <meta name="calibre:title_sort" content="Microsoft Word - plegaria de chernobyl - pdfMachine from Broadgun Software, http://pdfmachine.com, a great PDF writer utility!"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

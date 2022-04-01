@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">359</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa1d980e-8aa0-4db2-a6a5-850c3e8fea9d</dc:identifier>
+        <dc:title>Llamando a las puertas del cielo</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-09T22:00:00+00:00</dc:date>
+        <dc:description>Silvia, estudiante de Medicina, marcha a la India para trabajar como cooperante durante el verano en un hospital ubicado en un recóndito lugar lejos del mundo. Al hacerlo, se opone a sus padres, a su novio, y toma así, siguiendo su instinto y su corazón, una decisión que cambiará su vida y su forma de penar. En la India conocerá el dolor y el sufrimiento de los que no tienen nada, pero también la alegría y la paz de su conciencia, y vivirá a caballo de dos, sino de tres mundos: por un lado Arturo, que la espera en España; por el otro Leo, el joven médico, cooperante como ella, capaz de renunciar a todo por estar allá; y finalmente Mahendra, el príncipe hindú que guarda el más doloroso de los secretos y que la sumergirá en un nuevo horizonte sin fronteras.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:20:03.810162+00:00"/>
+        <meta name="calibre:title_sort" content="Llamando a las puertas del cielo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

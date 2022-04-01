@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">641</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2e1e8d0-ede8-4cb7-88a0-e3ce1fa0c9bb</dc:identifier>
+        <dc:title>El viento por la cerradura</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-21T05:00:00+00:00</dc:date>
+        <dc:description>En «El viento por la cerradura» Stephen King vuelve a los paisajes fascinantes de Mundo Medio, la tierra de la maravillosa saga «La Torre Oscura», una de sus creaciones más impactantes. De camino hacia las Baronías Exteriores, Roland Deschain y su ka-tet, Jake, Susannah, Eddie y Acho, el bilibrambo, tendrán que sobrevivir a una violenta tormenta justo después de cruzar el río Whye. Buscan refugio para protegerse del vendaval y, para pasar las horas, Roland les cuenta dos historias sorprendentes que descubren más detalles de su propio pasado. Durante su primer año de pistolero, cuando Roland intentaba superar el gran sentimiento de culpabilidad que le había causado la muerte de su madre, su padre le envió a investigar el caso de un metamorfo, un hombrepieles que estaba depredando la población de Debaria. Roland interrogó a Bill Streeter, un chico valiente pero aterrorizado y único testigo superviviente de la última matanza de la bestia. Para tranquilizarle y prepararle para la dura prueba que le esperaba al día siguiente, empieza a recitarle uno de «Los cuentos mágicos del Eld» que su madre solía contarle antes de dormir: «Una persona nunca es demasiado vieja para nutrirse de historias», le dijo a Bill. «Hombre y niño, niña y mujer, nunca somos demasiado viejos. Por ellas vivimos». Y así es la historia que narra Roland: la leyenda inolvidable de Tim Corazón Tenaz, un cuento que cobra vida también para nosotros.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="La torre oscura"/>
+        <meta name="calibre:series_index" content="4.5"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:27:03.503423+00:00"/>
+        <meta name="calibre:title_sort" content="viento por la cerradura, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">964</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d19dab6c-a892-442c-abfc-a8419f7a227b</dc:identifier>
+        <dc:title>Torres de Medianoche</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Jordan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:37:44.216041+00:00"/>
+        <meta name="calibre:title_sort" content="Torres de Medianoche"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

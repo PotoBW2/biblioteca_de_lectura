@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">360</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83b0c8f6-8a3f-457a-a0ee-8ba3b2c87847</dc:identifier>
+        <dc:title>Les paraules ferides</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-01T05:00:00+00:00</dc:date>
+        <dc:description>El jove Li Huan és un dels nous guardes del camp de presoners. Un recinte esfereïdor on els reclusos, presos polítics contraris al Govern, no poden parlar entre ells, ni tampoc amb els vigilants. En Li Huan no serà un guarda qualsevol, serà el nou censor i haurà de llegir les cartes dels presoners i decidir quines paraules i frases cal prohibir. Però, no totes les paraules són iguals. Així com l’aigua erosiona la roca, les cartes a la seva estimada d’un dels presoners més veterans fan trontollar les creences més arrelades del jove censor. S’hi parla de poesia, d’amor, de llibertat… N’hi haurà prou d’encertar les paraules per ajudar-lo a obrir els ulls?</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">54440</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Didáctico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:20:05.104688+00:00"/>
+        <meta name="calibre:title_sort" content="Les paraules ferides"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

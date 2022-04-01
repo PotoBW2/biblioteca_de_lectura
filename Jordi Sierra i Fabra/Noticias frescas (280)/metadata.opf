@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">280</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a30c6cd6-038e-4008-a53a-21562c3b4d89</dc:identifier>
+        <dc:title>Noticias frescas</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-26T23:00:00+00:00</dc:date>
+        <dc:description>“¡Noticias frescas! Infórmese de todo lo que ocurre en el barrio. Escándalos, fraudes, injusticias... Todo lo encontrará en el Eco del Barrio, un periódico cargado de noticias, emociones y denuncias', gritan Víctor y Cía para vender su nueva publicación.Todo el mundo lo compra, lo lee, comenta las noticias y... ¿Por qué están todos los vecinos en la puerta de Víctor y gritan desesperadamente? Desde luego, no hay quien entienda a los vecinos. ¿Por qué están tan enfadados con Víctor y Cía? Noticias frescas es el primer volumen de la clásica serie de Jordi Sierra i Fabra 'Víctor y Cía'. Las aventuras de un niño y sus amigos en una época anterior a los móviles y los ordenadores.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Infantil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Víctor y Cía"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:18:15.361871+00:00"/>
+        <meta name="calibre:title_sort" content="Noticias frescas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

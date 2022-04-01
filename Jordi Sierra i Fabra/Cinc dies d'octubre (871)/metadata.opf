@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">871</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba24f554-a6b6-4d3b-9b65-0fc5b380c21f</dc:identifier>
+        <dc:title>Cinc dies d’octubre</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-01T05:00:00+00:00</dc:date>
+        <dc:description>1948. Un any després d’abandonar el Valle de los Caídos en ser indultat, Miquel Mascarell, el darrer policia de la Barcelona republicana, ha refet la seva vida al costat de la Patro, la jove que ha salvat dues vegades. La visita d’un home temible que li fa un encàrrec estrany, buscar la tomba del seu nebot, mort el 18 de juliol del 36, tornarà a enfrontar el vell inspector amb els seus fantasmes i la seva supervivència, en una ciutat enrarida que acaba de viure una guerra i busca un nou futur. Durant aquests mateixos dies, a Madrid, un consell de guerra jutja el grup dels vuitanta, els maquis que continuen lluitant contra la dictadura. Quin secret amaga el cadàver d’aquell jove de qui busca la tomba, en un cara o creu a vida o mort, al cap de dotze anys dels fets, quan no en queden testimonis vius? Ambientada amb exactitud i precisió en l’Espanya de l’època, Cinc dies d’octubre és una novel·la que ens fa tornar al passat, potser per comprendre el present.</dc:description>
+        <dc:publisher>ePUBCat</dc:publisher>
+        <dc:identifier opf:scheme="EPUBCAT ID">1943</dc:identifier>
+        <dc:identifier opf:scheme="EPUBCAT VERSIO">2.0</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novel·la</dc:subject>
+        <dc:subject>Policíac</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Miquel Mascarell"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:33:02.883678+00:00"/>
+        <meta name="calibre:title_sort" content="Cinc dies d’octubre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

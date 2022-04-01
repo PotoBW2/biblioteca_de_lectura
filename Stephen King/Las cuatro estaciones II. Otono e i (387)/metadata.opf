@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">387</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8203646e-4d42-4eaf-ba90-a95a8b1abc18</dc:identifier>
+        <dc:title>Las cuatro estaciones II. Otoño e invierno</dc:title>
+        <dc:creator opf:file-as="Stephen King" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-03T03:15:36+00:00</dc:date>
+        <dc:description>Al igual que en los dos primeros relatos —primavera y verano— que completan esta serie, Stephen King explora con escalofriante lucidez los niveles más profundos de la mente del ser humano. Esa barrera invisible donde se traspasan los límites de la razón, la moral o el bien para dejar paso al instinto más primitivo, al poder de la sombra y a la imaginación, donde el hombre —no en vano todos tenemos algo de doctor Jekyll y algo de míster Hyde— da rienda suelta a las pasiones más inconfesables e inquietantes, pero no por ello menos reales.Relatos1.- El otoño de la inocencia: El cuerpo (The Body (Fall from Innocence. The Body) - 1982)2.- Cuento de invierno: Método de respiración (The Breathing Method (A Winter's Tale. The Breathing Method) - 1982)</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <dc:subject>Lang:es</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:20:45.087614+00:00"/>
+        <meta name="calibre:title_sort" content="cuatro estaciones II. Otoño e invierno, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

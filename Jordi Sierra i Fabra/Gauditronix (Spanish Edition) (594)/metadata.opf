@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25a28ac9-89e8-4eb1-9fa3-6ce11ad752b5</dc:identifier>
+        <dc:title>Gauditronix (Spanish Edition)</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-04T07:00:00+00:00</dc:date>
+        <dc:publisher>SiF editorial</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07662B1DW</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:25:51.082788+00:00"/>
+        <meta name="calibre:title_sort" content="Gauditronix (Spanish Edition)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

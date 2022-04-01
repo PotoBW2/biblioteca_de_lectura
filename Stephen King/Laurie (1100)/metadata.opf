@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1100</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da55380e-bcf5-4aa2-a1f6-5be1e320636c</dc:identifier>
+        <dc:title>Laurie</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-16T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p style="margin: 0px 0px 14px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); text-align: center;"&gt;&lt;b&gt;Stephen King nos regala un precioso relato sobre la vida, la pérdida y la esperanza.&lt;/b&gt;&lt;/p&gt;&lt;p style="margin: -4px 0px 14px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Lloyd, un hombre que acaba de perder a su mujer, recibe un «regalo» inesperado por parte de su hermana. Laurie, una adorable cachorrilla mezcla de Border Collie y Mudi, que poco a poco cambiará su vida para siempre.&lt;/p&gt;&lt;p style="margin: -4px 0px 0px; padding: 0px; color: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 14px; orphans: 2; widows: 2; background-color: rgb(255, 255, 255);"&gt;Pero lo que prometía ser una vida apacible de paseos por la playa y comidas relajantes se ve truncada por un hecho inesperado.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Suspense</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:41:50.008546+00:00"/>
+        <meta name="calibre:title_sort" content="Laurie"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

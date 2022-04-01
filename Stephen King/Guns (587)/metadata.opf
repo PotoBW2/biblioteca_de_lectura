@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">587</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">623c76af-0c42-404e-81ea-12abbe5d67a4</dc:identifier>
+        <dc:title>Guns</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-25T05:00:00+00:00</dc:date>
+        <dc:description>In a pulls-no-punches essay intended to provoke rational discussion, Stephen King sets down his thoughts about gun violence in America. Anger and grief in the wake of the shootings at Sandy Hook Elementary School are palpable in this urgent piece of writing, but no less remarkable are King’s keen thoughtfulness and composure as he explores the contours of the gun-control issue and constructs his argument for what can and should be done. King’s earnings from the sale of this essay will go the Brady Campaign to Prevent Gun Violence.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:25:40.386951+00:00"/>
+        <meta name="calibre:title_sort" content="Guns"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

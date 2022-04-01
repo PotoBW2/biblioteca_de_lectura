@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">399</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2f16fbd-066c-43b9-bc03-37142324d34f</dc:identifier>
+        <dc:title>La esquina del círculo</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-21T22:00:00+00:00</dc:date>
+        <dc:description>Daniel Ros despierta bruscamente una mañana con la visita de la policía. Su viejo amigo Javier Mora ha aparecido asesinado. Junto a Paco Muntaner, el inspector que lo acompaña en muchas de sus aventuras, se embarcará en un peligroso recorrido por el mundo de los famosos, la música, y el poder que gozaron, en su momento, las grandes compañías discográficas.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:02.652386+00:00"/>
+        <meta name="calibre:title_sort" content="esquina del círculo, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

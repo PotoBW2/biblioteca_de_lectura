@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">453</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89dbf753-04ce-43a3-8ebc-d1dd5c0c3a4a</dc:identifier>
+        <dc:title>La mitad oscura</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-01-11T05:00:00+00:00</dc:date>
+        <dc:description>Cuando Thad Beaumont en pleno bloqueo creativo, después de que su novela Las súbitas bailarinas optara al Premio Nacional de Literatura y lo perdiera, decidió seguir los consejos de su mujer y publicar una serie de thrillers retorcidos y sangrientos bajo el seudónimo de George Stark, no pensó, ni por asomo, que le sería tan difícil «deshacerse» de ese otro yo que, no se explicaba cómo, había dejado de ser ficticio. Cuando el comisario Alan Pangborn apareció en su casa acusándole de un brutal asesinato, Thad quería afirmar su inocencia, asegurar que nada tenía que ver con todos esos monstruosos asesinatos cometidos tan cerca de su casa, ni con la retorcida mente que protagonizaba sus novelas policíacas, ni con las llamadas de aquella voz que, obscena y susurrante, le pedía al teléfono que se rindiese. Pero ¿cómo podía explicar que sus huellas ensangrentadas aparecieran por todas partes en la escena del crimen?</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:22:22.383896+00:00"/>
+        <meta name="calibre:title_sort" content="mitad oscura, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

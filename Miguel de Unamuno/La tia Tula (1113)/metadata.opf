@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28de6e99-c8d5-4ea1-ab44-29a308727353</dc:identifier>
+        <dc:title>La tía Tula</dc:title>
+        <dc:creator opf:file-as="Unamuno, Miguel de" opf:role="aut">Miguel de Unamuno</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1921-01-01T05:00:00+00:00</dc:date>
+        <dc:description>«La tía Tula», sin duda la más popular de las novelas de Miguel de Unamuno (1864-1936), es, según su autor, «la historia de una joven que, rechazando novios, se queda soltera para cuidar a unos sobrinos, hijos de una hermana que se le muere. Vive con el cuñado, a quien rechaza para marido, pues no quiere manchar con el débito conyugal el recinto en que respiran aire de castidad sus hijos. Satisfecho el instinto de maternidad, ¿para qué perder su virginidad? Es virgen madre». Narra la historia de la mujer que renuncia a una vida propia para hacer el papel de madre de los hijos de una hermana muerta y se añaden elementos recurrentes en la obra de Miguel de Unamuno (1864-1936): la pelea por la fe religiosa, el dilema entre el mérito y el reconocimiento exterior o el histrionismo, la sinceridad de la vida moral y la conciencia del dolor. Siguiendo su característica manera de novelar, en que excluye casi por completo la descripción de fenómenos externos para atender exclusivamente al paisaje interior de la personalidad humana, Miguel de Unamuno ha creado en «La tía Tula» un personaje fuera de lo corriente, a través del cual explora la dicotomía virginidad-maternidad, tan ligada a los fundamentos del cristianismo. Escrita en tercera persona, en la que a su autor no le parece imprescindible colocarla en un momento temporal determinado, pues es universal y clásica como una Antígona del siglo XX, dura para la época: el feminismo a ultranza de Tula para quien los hombres son sólo "unos brutos" sin pulir, que, incluso, no se deja guíar por su confesor porque rehuye ser dirigida por los hombres aunque se trate de un sacerdote, la carga sexual que es la espina dorsal del engranaje de la obra, la maternidad frustrada y encontrada a través de los hijos de otras...</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miguel de Unamuno&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:42:35.917931+00:00"/>
+        <meta name="calibre:title_sort" content="tía Tula, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

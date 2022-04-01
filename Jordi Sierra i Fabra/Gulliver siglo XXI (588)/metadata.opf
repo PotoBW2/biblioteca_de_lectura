@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">588</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d62a3a20-cbf3-43c8-9520-a551d3572bb3</dc:identifier>
+        <dc:title>Gulliver siglo XXI</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-05T22:00:00+00:00</dc:date>
+        <dc:description>La extraordinaria historia de Gulliver y sus cuatro viajes se aborda aquí desde un nuevo prisma: el de un astronauta que llega a un extraño planeta en el que nada es normal. Gigantes, liliputienses... una narración eterna que se recicla para nuestro tiempo.Jordi Sierra i Fabra rinde tributo a uno de los grandes clásicos de nuestro tiempo, la inmortal novela de Jonathan Swift, tan denostada cuando apareció.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Infantil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:25:42.062692+00:00"/>
+        <meta name="calibre:title_sort" content="Gulliver siglo XXI"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">533</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">467c257d-27cc-4c48-88ea-94fe354367d6</dc:identifier>
+        <dc:title>Insomnia</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Todo empieza con un accidente de tráfico en el verano de 1992 en Derry. Los ánimos en la ciudad están crispados. La llegada de Susan Day, activista feminista que defiende el aborto, complica las cosas hasta el punto de que Ed Deepneau, antiabortista, quiere estrellar un avión contra el Centro de la Mujer. Mientras, Ralph Roberts, un anciano que padece insomnio a causa de la muerte de su esposa, empieza a ver cosas extrañas, y descubre que algo está cambiando en el pueblo. El odio y la violencia han creado las condiciones necesarias para que aparezcan tres extraños personajes al servicio de la muerte, el propósito y el azar.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:24:17.044370+00:00"/>
+        <meta name="calibre:title_sort" content="Insomnia"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

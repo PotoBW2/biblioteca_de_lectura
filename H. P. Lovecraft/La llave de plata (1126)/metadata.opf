@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1126</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e693da16-ed16-48c9-bdc4-6beb5294e160</dc:identifier>
+        <dc:title>La llave de plata</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Randolph Carter descubre una extraña llave de plata en un cofre que contiene también un pergamino con indescifrables descripciones. Poco tiempo después desaparece tras ser visto cerca del lugar donde transcurrió su infancia, un lugar cargado de misterios y de antiguas historias de brujería, un mundo de sueños se abrirá al traspasar la puerta que le abre la llave, pero ¿habrá retorno? Cierto tiempo más tarde, un grupo de familiares y algún que otro desconocido se reúnen para repartir la herencia del desaparecido Carter, pero en esa reunión se planteará la incógnita sobre la certeza de la desaparición de Carter; la respuesta, en las páginas de 'La llave de plata'. En esta obra, Lovecraft nos muestra su faceta menos narrativa acercándose a una lírica de las palabras que nos describen mundos irreales y atemporales en un relato que, por sus características, peca de disperso y que aburrirá a lo más aficionados al misterio y horror más tangible. Eso sí, el relato es un ejercicio de creación de ambientes y de otras realidades que merece su lectura por el simple poder evocador de Lovecraft, capaz de cerrar el relato con una sorpresa y con el último fragmento perimetral para concluir el círculo de misterio que componen las páginas de esta obra.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Ciclo Randolph Carter"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:43:06.297900+00:00"/>
+        <meta name="calibre:title_sort" content="llave de plata, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">818</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">007ed884-5904-44f9-a254-01ad45fef58f</dc:identifier>
+        <dc:title>Deu dies de juny</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Novena entrega de la sèrie Mascarell, Deu dies de juny ens retorna a un passat no molt llunyà, a la cruel realitat dels internats franquistes, i ens mostra la fam i les humiliacions que van haver de patir els fills i les filles dels derrotats, apartats dels seus pares «per al seu bé» i convertits, en molts casos, en carn de canó de la pitjor de les barbàries.
+Juny de 1951, durant els dies que precedeixen a la revetlla de Sant Joan. Miquel Mascarell descobreix per sorpresa que un vell enemic és viu i lliure. Es tracta de Laureano Andrada, l’únic home a qui, abans de la Guerra, va apuntar amb una pistola i va desitjar matar; un vell pederasta irredempt, desafiador, que amb l’arribada de la dictadura ha sortit de la presó i, per si això no fos prou, continua treballant amb nens.
+Durant els deu dies següents, acusat d’assassinat, perseguit per la policia i alliberat per en David Fortuny, un antic agent reconvertit en detectiu privat, Mascarell viurà amagat, lluny de la Patro i de la seva filla petita Raquel, disfressat i col·laborant amb Fortuny per demostrar la seva innocència. Un Fortuny excombatent, fals heroi de guerra, seguidor del Règim i, per tant, als antípodes del que pensa i creu en Mascarell. Un autèntic xoc de trens enmig de la voràgine dels dies més decisius en la vida de l’exinspector.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">50593</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Miquel Mascarell"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:31:40.249079+00:00"/>
+        <meta name="calibre:title_sort" content="Deu dies de juny"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

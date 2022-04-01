@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">578</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">657d9ae3-5991-4b8a-8166-268a4b6000af</dc:identifier>
+        <dc:title>Herbert West: Reanimador</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1921-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Desde sus días como estudiante en la facultad de Medicina de la Universidad de Miskatonic de Arkham, Herbert West sueña con alcanzar la fama si logra crear un elixir para reanimar la vitalidad en los cadáveres frescos. Junto con su compañero de estudios, sus experimentos los llevan a profanar tumbas de un cementerio cercano para probar y perfeccionar la fórmula de su elixir. Pero sus resultados son un tanto... desalentadores. Herbert West: Reanimador ha servido de inspiración para, por lo menos, tres películas: Re-Animator (1985), Bride of Re-Animator (1990) y Beyond Reanimator (2003).</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:25:27.698960+00:00"/>
+        <meta name="calibre:title_sort" content="Herbert West: Reanimador"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

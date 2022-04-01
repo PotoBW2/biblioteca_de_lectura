@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">962</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f6a80c54-e0cf-4ff1-8164-d789b20005b0</dc:identifier>
+        <dc:title>Un poco de abril, algo de mayo, todo septiembre</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-01T04:00:00+00:00</dc:date>
+        <dc:description>Para Olga el amor es lo más importante, su única salvación. Solo tiene diecinueve años, pero su vida se ha visto truncada por la enfermedad. Pese a que las estadísticas van en su contra, decide luchar por su sueño: el amor. Como cualquier otra persona, busca a alguien como ella, alguien con quien compartir el resto de su vida… y decide poner un anuncio en el periódico. Jaime busca un amor de verdad. Tiene el corazón roto y está jugando con fuego. Responde al anuncio de Olga y se enamora perdidamente en cuanto la ve. Pero tiene un secreto que pondrá a prueba la frágil conexión que ha nacido entre los dos. Quizá un poco de abril, algo de mayo y todo septiembre sea todo lo que necesita el amor para fraguar…</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">49580</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Romántico</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:37:41.203338+00:00"/>
+        <meta name="calibre:title_sort" content="poco de abril, algo de mayo, todo septiembre, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

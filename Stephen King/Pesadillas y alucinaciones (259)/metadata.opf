@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">259</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">347cd573-3034-40f6-93a0-b058cb5769a4</dc:identifier>
+        <dc:title>Pesadillas y alucinaciones</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Cuando la gente ve fantasmas, siempre se ve primero a sí misma”, afirma Stephen King, y pocas reflexiones servirían mejor que ésta como moraleja de sus historias: el mundo de la fantasía está poblado por las sombras de la conciencia. Los relatos de Pesadillas y alucinaciones son otros tantos retazos de esas sombras, las que enturbian los límites entre el sueño y la vigilia, la realidad y el horror que subyace en lo real: desde la historia de una venganza tan terrible como merecida, hasta el pueblo habitado por los fantasmas de los rockeros muertos, pasando por vampiros con fuerte instinto paternal, niños demoníacos o un insólito doctor Watson que descubre un caso antes que Sherlock Holmes.&lt;/p&gt;</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:17:44.391216+00:00"/>
+        <meta name="calibre:title_sort" content="Pesadillas y alucinaciones"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

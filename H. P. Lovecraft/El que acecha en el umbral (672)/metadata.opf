@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">672</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43b37c8e-2a6e-4c7d-ac76-58cc27395bc7</dc:identifier>
+        <dc:title>El que acecha en el umbral</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August" opf:role="aut">August Derleth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1945-01-01T00:00:00+00:00</dc:date>
+        <dc:description>El queacecha en el umbral, como se desprende del inquietante título, secentra de un modo explícito en ese auténtico punto focal del horrorlovecraftiano que es el símbolo de la «puerta». Una puerta que, cuando se abre,no provoca la mera irrupción de los monstruos del otro lado, cual si delportillo de una simple jaula se tratara; enlas inmediaciones del umbral blasfemo, la substancia misma del espacio-tiemporesulta íntimamente transformada, y el mundo parece empezar a disolverse enel maligno vaho de sus arcanos. Máximologro de la fecunda colaboración Lovecraft-Derleth, esta novela es una piezaclave de los Mitos de Cthulhu que no puede faltar en el amplio apartado dedicado a esta temática, una de las más inquietantes y sugestivas de lanarrativa contemporánea.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;August Derleth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:27:52.122240+00:00"/>
+        <meta name="calibre:title_sort" content="que acecha en el umbral, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

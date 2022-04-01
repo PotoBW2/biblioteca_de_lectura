@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01d6c913-73dc-49f6-a999-bb719690d6fc</dc:identifier>
+        <dc:title>UR</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-12T05:00:00+00:00</dc:date>
+        <dc:description>El protagonista de «UR» es el enamorado profesor de inglés Wesley Smith quien después de una desagradable ruptura parece no poder sacarse a su ex-novia de la cabeza: «¿Por qué no lees en el ordenador, como hacemos el resto?». Incitado por su pregunta y motivado por la sugerencia de un estudiante, Wesley realiza el pedido de un lector Kindle en Amazon.com. El dispositivo (¿rosa?) que llegará en una caja sellada con el logotipo de la sonrisa —a través de la opción de «Entrega en un día» que no solicitó— le permitirá acceder a un mundo literario que ni el más ávido de los amantes de los libros podría haber acaso imaginado. Pero una vez que la puerta ha sido abierta, hay cosas que uno desearía no haber leído nunca.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:10:14.239293+00:00"/>
+        <meta name="calibre:title_sort" content="UR"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

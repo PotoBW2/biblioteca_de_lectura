@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1033</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1e55405-c1ff-4ade-abb7-7c25e55648cc</dc:identifier>
+        <dc:title>Relatos de los mitos de Cthulhu 2</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August &amp; Bloch, Robert &amp; Kuttner, Henry &amp; Shea, J. Vernon" opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August &amp; Bloch, Robert &amp; Kuttner, Henry &amp; Shea, J. Vernon" opf:role="aut">August Derleth</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August &amp; Bloch, Robert &amp; Kuttner, Henry &amp; Shea, J. Vernon" opf:role="aut">Robert Bloch</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August &amp; Bloch, Robert &amp; Kuttner, Henry &amp; Shea, J. Vernon" opf:role="aut">Henry Kuttner</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Derleth, August &amp; Bloch, Robert &amp; Kuttner, Henry &amp; Shea, J. Vernon" opf:role="aut">J. Vernon Shea</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1969-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Alrededor de la figura casi legendaria de Lovecraft, surgieron una serie de autores que explotaron y desarrollaron la terrible mitología evocada por el genio de Providence, dando lugar a uno de los fenómenos literarios más sugestivos e inquitantes de nuestro siglo: LOS MITOS DE CTHULHU. Por primera vez completa en castellano, ésta es la recopilación de LOS MITOS llevada a cabo por August Derleth, colaborador directo y albacea literario de Lovecraft.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;August Derleth&quot;: &quot;&quot;, &quot;Robert Bloch&quot;: &quot;&quot;, &quot;Henry Kuttner&quot;: &quot;&quot;, &quot;J. Vernon Shea&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:39:46.922580+00:00"/>
+        <meta name="calibre:title_sort" content="Relatos de los mitos de Cthulhu 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

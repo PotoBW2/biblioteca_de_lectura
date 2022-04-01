@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">739</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7afb22e0-5258-4593-8794-703b43eac15f</dc:identifier>
+        <dc:title>El diario de Alonzo Typer</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H.P. &amp; Lumley, William" opf:role="aut">H.P. LOVECRAFT</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H.P. &amp; Lumley, William" opf:role="aut">William Lumley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-29T23:00:00+00:00</dc:date>
+        <dc:description>El diario de Alonzo Typer (The Diary of Alonzo Typer) es un relato de terror del escritor norteamericano H.P. Lovecraft, escrito en colaboración con William Lumley, publicado en la edición de febrero de 1938 de la revista Weird Tales. El diario de Alonzo Typer integra los mitos de Cthulhu a través de sus libros prohibidos, mencionando al espeluznante De Vermis Misteriis, además de un terrible pueblo venusino, cuya integración a los mitos nunca se concretó del todo.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H.P. LOVECRAFT&quot;: &quot;&quot;, &quot;William Lumley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:29:37.612045+00:00"/>
+        <meta name="calibre:title_sort" content="diario de Alonzo Typer, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

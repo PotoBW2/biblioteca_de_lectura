@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">708</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc127101-da8a-4dad-880a-5ba9a0a49b6e</dc:identifier>
+        <dc:title>El instituto</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-12T04:00:00+00:00</dc:date>
+        <dc:description>En mitad de la noche, en un barrio tranquilo de Minneapolis, raptan a Luke Ellis, de doce años, tras haber asesinado a sus padres. Una operación que dura menos de dos minutos. Luke se despierta en la siniestra institución conocida como El Instituto, en una habitación que se asemeja a la suya pero sin ventanas. En habitaciones parecidas hay otros niños: Kalisha, Nick, George, Iris y Avery Dixon, entre otros, que comparten capacidades especiales como telequinesia o telepatía. Todos ellos se alojan en la Mitad Delantera de la institución. Los mayores, en cambio, se encuentran en la Mitad Trasera. Como dice Kalisha: «Allí entras pero no sales». La señora Sigsby, la directora, y el resto del personal se dedican a aprovecharse sin compasión del talento paranormal de los chicos. Si te portas bien te premian. Si no, el castigo es brutal. Luke se da cuenta de que las víctimas van desapareciendo y son trasladadas a la Mitad Trasera, así que se obsesiona con escapar y pedir ayuda. Pero nunca nadie ha escapado de El Instituto…</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">55000</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:28:49.357519+00:00"/>
+        <meta name="calibre:title_sort" content="instituto, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

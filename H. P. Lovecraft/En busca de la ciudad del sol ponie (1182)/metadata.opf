@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1302c4f0-4c9b-43cc-91a7-f93f5f6e1dd1</dc:identifier>
+        <dc:title>En busca de la ciudad del sol poniente</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1943-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Tres veces soñó Randolph Carter con la ciudad maravillosa, y tres veces fue arrebatado mientras se hallaba en la elevada terraza que hay sobre ella. Toda dorada y magnífica, resplandecía en el crepúsculo, con sus murallas, templos y columnatas y puentes curvos de mármol veteado, fuentes con jarrones de plata y surtidores con los colores del arco iris en amplias plazas y perfumados jardines…</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:44:51.996539+00:00"/>
+        <meta name="calibre:title_sort" content="En busca de la ciudad del sol poniente"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

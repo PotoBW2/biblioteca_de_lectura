@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">231</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40b103d9-b70b-4312-81f2-f6e757606cf4</dc:identifier>
+        <dc:title>Quizás mañana la palabra amor…</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-09T22:00:00+00:00</dc:date>
+        <dc:description>Todos los días nos cruzamos con gente a la que seguramente no volvamos a ver jamás. Pero ¿qué pasa si volvemos a encontrarnos? Dora escucha cómo las puertas del psiquiátrico se cierran tras ella. Sabe que todavía está en la cuerda floja, como le recuerdan las marcas de sus muñecas. Necesita tiempo para ella, para asimilar lo que pasó, lo que la llevó a esa situación a la que está empezando a sobrevivir. Hilario sabe que todo el mundo tiene secretos. Pero los suyos pesan como una losa. Todavía no sabe si ayudando a los demás se está ayudando a sí mismo. Necesita tiempo para él, para asimilar lo que pasó, aquello que le llevó hasta ella.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:17:07.052157+00:00"/>
+        <meta name="calibre:title_sort" content="Quizás mañana la palabra amor…"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

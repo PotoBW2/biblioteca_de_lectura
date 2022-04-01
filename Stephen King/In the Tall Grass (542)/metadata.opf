@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb108e6c-d204-43b3-985c-be268ffac52e</dc:identifier>
+        <dc:title>In the Tall Grass</dc:title>
+        <dc:creator opf:file-as="King, Stephen &amp; Hill, Joe" opf:role="aut">Stephen King</dc:creator>
+        <dc:creator opf:file-as="King, Stephen &amp; Hill, Joe" opf:role="aut">Joe Hill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-09T04:00:00+00:00</dc:date>
+        <dc:description>In the Tall Grass begins with a sister and brother who pull off to the side of the road after hearing a young boy crying for help from beyond the tall grass. Within minutes they are disoriented, in deeper than seems possible, and they’ve lost one another. The boy’s cries are more and more desperate. What follows is a terrifying, entertaining, and masterfully told tale, as only Stephen King can deliver.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;, &quot;Joe Hill&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:24:29.025019+00:00"/>
+        <meta name="calibre:title_sort" content="In the Tall Grass"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

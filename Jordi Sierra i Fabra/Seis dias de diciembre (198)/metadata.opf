@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">198</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc645486-3119-4a55-a729-8dd8b94eb19e</dc:identifier>
+        <dc:title>Seis días de diciembre</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Barcelona 1949. Un maletín robado y un conocido del pasado colocan al ex inspector Mascarell frente la investigación de obras de arte expoliadas por los nazis. Diciembre de 1949. Lenin, el chorizo con el que Miquel Mascarell se reencontró en mayo de ese mismo año en la cárcel, le pide ayuda para salir de un lío: ha robado una cartera a un presunto turista inglés que ha sido asesinado por ella. Ahora le persiguen a él. ¿Qué contiene la cartera? Ni más ni menos que uno de los catálogos de cuadros robados por los nazis antes y durante la Segunda Guerra Mundial. El asesinado pertenecía a los Monument Men, la organización que tras la guerra se dedicaba a buscar y recuperar las obras de arte expoliadas por los nazis, y le seguía los pasos a uno de ellos, oculto en Barcelona y en posesión de un preciado botín por el que vale la pena matar. Con la familia de Lenin instalada en su casa y alterando su paz, con el aliento del comisario Amador en su nuca y con el misterio de una enrevesada trama que bucea en las telarañas de la derrotada ciudad, llena de personajes ocultos y nuevos asesinatos que lo complican todo, Miquel volverá a enfrentarse sin más armas que su inquebrantable voluntad a los fantasmas del pasado, tratando, como siempre, de ser fiel a sus principos y de mantener su ética.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Miquel Mascarell"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:16:17.266414+00:00"/>
+        <meta name="calibre:title_sort" content="Seis días de diciembre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

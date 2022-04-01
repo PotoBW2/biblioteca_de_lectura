@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">232dbb61-e8a9-41ce-901f-48763cceae21</dc:identifier>
+        <dc:title>Estelar</dc:title>
+        <dc:creator opf:file-as="Brandon Sanderson" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-12T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;**La continuación de *Escuadrón* , ** **la nueva saga épica de Brandon Sanderson.** Este es el segundo libro de una serie épica sobre una chica que guarda un secreto en un peligroso mundo en guerra por el futuro de la humanidad. En él continúan las aventuras de Spensa Nightshade, la joven piloto que ha conseguido un puesto en el escuadrón de defensa de la humanidad contra los ataques alienígenas. En realidad, ella siempre quiso ser piloto: poder probar que es una heroína, como su padre. Y aunque llegó a lo más alto, los secretos que desenmascaró sobre su padre fueron aplastantes. Los rumores sobre su cobardía resultaron ciertos. Abandonó su vuelo durante la batalla contra los Krell. Peor aún# se volvió contra su equipo y los atacó. Sin embargo, Spensa está segura de que hay aún más por descubrir en esa historia. Y, si es necesario, viajará hasta el fin de la galaxia para salvar a la humanidad. **Sobre *Estelar* :** &lt;br&gt;«Un poco de *Perdidos en el espacio* , un poco de *Halo* , un poco de *The Expanse* y mucho de Sanderson. Una novela que nos deja con muchas preguntas.» &lt;br&gt;Alexelcapo, @EvilAFM **&lt;br&gt;### Críticas&lt;br&gt;**Sobre *Estelar* ** «Un poco de *Perdidos en el espacio* , un poco de *Halo* , un poco de *The Expanse* y mucho de Sanderson. Una novela que nos deja con muchas preguntas.».- Alexelcapo, @EvilAFM &lt;br&gt;### Descripción del producto&lt;br&gt;**La continuación de *Escuadrón* , ** **la nueva saga épica de Brandon Sanderson.** Este es el segundo libro de una serie épica sobre una chica que guarda un secreto en un peligroso mundo en guerra por el futuro de la humanidad. En él continúan las aventuras de Spensa Nightshade, la joven piloto que ha conseguido un puesto en el escuadrón de defensa de la humanidad contra los ataques alienígenas. En realidad, ella siempre quiso ser piloto: poder probar que es una heroína, como su padre. Y aunque llegó a lo más alto, los secretos que desenmascaró sobre su padre fueron aplastantes. Los rumores sobre su cobardía resultaron ciertos. Abandonó su vuelo durante la batalla contra los Krell. Peor aún# se volvió contra su equipo y los atacó. Sin embargo, Spensa está segura de que hay aún más por descubrir en esa historia. Y, si es necesario, viajará hasta el fin de la galaxia para salvar a la humanidad. **Sobre *Estelar* :** &lt;br&gt;«Un poco de *Perdidos en el espacio* , un poco de *Halo* , un poco de *The Expanse* y mucho de Sanderson. Una novela que nos deja con muchas preguntas.» &lt;br&gt;Alexelcapo, @EvilAFM&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON_ES">B082QZ45Y3</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788417347765</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:44:37.473671+00:00"/>
+        <meta name="calibre:title_sort" content="Estelar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1090</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ca05136-43d4-4a9b-b546-e677b72aa194</dc:identifier>
+        <dc:title>Los amados muertos</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Eddy, C.M." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:creator opf:file-as="Lovecraft, H. P. &amp; Eddy, C.M." opf:role="aut">C.M. Eddy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-12T22:00:00+00:00</dc:date>
+        <dc:description>Los amados muertos (The loved dead) es un relato de terror del escritor norteamericano Howard Phillip Lovecraft, escrito en 1923 con la colaboración de C.M. Eddy. A pesar de no ser una de las mejores producciones de Lovecraft, Los amados muertos es un relato destacable, especialmente en su narrativa, mucho menos densa y barroca de lo habitual. Quizás esta moderación en las formas fue producto de Eddy, aunque en los momentos centrales del cuento se puede intuir la mano inconfundible del genio de Providence.La publicación de Los amados muertos trajo grandes polémicas debido a narrar la historia de un asesino en serie con características sádicas y necrofílicas. Además la narración de algunas escenas de afición hacia los muertos como la que encuentran al protagonista acostado con un cadáver desnudo, llevó a que la obra incluso llegara a prohibirse, no obstante esto pudo haber sido por tratar un tabú casi prohibido en la sociedad norteaméricana de aquella época lo que llevó a parte de la población, la gran mayoría padres, a no considerarla apta para sus hijos. Esta historia comienza con el personaje principal, cuyo nombre no es revelado en la historia, que aparentemente su suerte es la de estar condenado al encierro por su afición hacia lo muerto, según él mismo dice. Luego comienza a contar la historia de su vida y el porqué de la situación en que se encuentra, donde se da a conocer como era de niño, adolescente y luego adulto. En todas estas etapas se observa una persona fría, sin intereses comunes al resto de los demás pues en su niñez no le interesaba jugar con los otros niños, ni hacer amigos en este y posteriores cursos de su vida por lo que empieza a poseer tendencias hacia el aislamiento desde temprana edad. Su vida infantil según dice, se desarrolló en Fenham y fue marcada por trágicos sucesos, la muerte de su abuelo, madre y padre respectivamente todos estos a edad temprana y es con estos hechos que comienza su verdadera afición hacia la muerte, llegando a sentir un amor óptimo hacia los muertos y todo lo relacionado con la muerte ya fuese olor, cementerios, paisajes macabros entre otras cosas, desarrollando una avanzada necrofilia. Esto lo lleva a trabajar como empleado de una compañía de pompas fúnebres situada en Bayboro, un pueblo ubicado a 50 km de Fenham. En Bayboro comete disímiles asesinatos que le provocaban cierto placer, después se ve obligado a irse cuando el jefe de la compañía lo descubre durmiendo con un cadáver completamente desnudo, después de esto participa en la primera guerra mundial, y luego vuelve a donde había trabajado antes ya que el jefe de la compañía había muerto. En este punto comienza a matar de nuevo, pero se vuelve más descuidado por lo que es descubierto y se ve obligado a huir pero en su fuga estrangula a una familia, lo que da la prueba definitiva, sus huellas dactilares en el cuello de sus más recientes víctimas, después de tanto correr por un pantano cerca de su comunidad natal, pasando hambre, sed y con su aprensión cerca decide unirse con los muertos que tanto ama, por lo que se suicida cortándose las venas con su cuchilla de afeitar.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Sobrenatural</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;, &quot;C.M. Eddy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:41:30.889799+00:00"/>
+        <meta name="calibre:title_sort" content="amados muertos, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

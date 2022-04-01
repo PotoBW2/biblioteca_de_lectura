@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">606</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3f777b8-ea4d-49f6-85a3-8a34af6d62eb</dc:identifier>
+        <dc:title>Filo de sable</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-28T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;span style="orphans: 2; widows: 2;"&gt;El nuevo caso del comisario Hilario Soler, tras La muerte del censor, ilumina algunas de las sombras más oscuras de nuestra historia reciente. &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;span style="orphans: 2; widows: 2;"&gt;&lt;div&gt;Ejecutado. En medio de la calle. Un charco de sangre en el suelo y un agujero de bala en la nuca. Pero la policía no encuentra ningún casquillo, es obra de un profesional. Hilario Soler, el investigador insobornable, el hombre honesto que incomoda superiores y compañeros, se encarga del caso: la víctima era el chófer de uno de los generales retirados más destacados del régimen. Prueba a prueba, indicio a indicio, una terrible sospecha se abrirá paso ante los ojos incrédulos de los investigadores. Una sospecha tan insoslayable como peligrosa y repulsiva.&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Harlequin Ibérica, una división de HarperCollins, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">14126695-3d51-4889-a877-a14ba48e5d38</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Policíaca</dc:subject>
+        <dc:subject>NOVELA NEGRA</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Hilario Soler"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:26:08.881900+00:00"/>
+        <meta name="calibre:title_sort" content="Filo de sable"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

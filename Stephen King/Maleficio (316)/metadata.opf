@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">316</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45aa3205-61c0-43ff-bb0a-b40b7f2fa10e</dc:identifier>
+        <dc:title>Maleficio</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1984-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Bill Halleck es un marido ejemplar, excelente padre de familia. Tiene una hermosa casa, considerable fortuna, merecido prestigio como abogado y... algunos kilos de más. Pero cierto día, Bill atropella con su automóvil a una gitana en la calle, y el padre de la mujer le lanza una extraña maldición. Son apenas dos palabras: "mas delgado"... En seis semanas, Bill pierde cincuenta kilos. Sin cesar, se vuelve mas y mas delgado. Desesperado, intenta romper el maleficio que se abate sobre su vida.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:19:05.206281+00:00"/>
+        <meta name="calibre:title_sort" content="Maleficio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

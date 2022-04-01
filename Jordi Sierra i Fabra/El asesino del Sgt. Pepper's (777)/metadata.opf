@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">777</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8a725a9-ade3-4b2a-96bb-f0bd01a11e18</dc:identifier>
+        <dc:title>El asesino del Sgt. Pepper's</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-23T22:00:00+00:00</dc:date>
+        <dc:description>Los Beatles se habían reunido de nuevo. El mundo de la música estaba conmocionado. Su primer concierto sería en Palma de Mallorca. Todos los VIP's invitados por la compañía discográfica EMI viajaban hacia allí en un transatlántico que había zarpado desde Barcelona y se había convertido en el escenario de una fiesta loca. Y de pronto, el primer crimen. Un asesino psicópata andaba suelto por el barco.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:30:36.115078+00:00"/>
+        <meta name="calibre:title_sort" content="asesino del Sgt. Pepper's, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

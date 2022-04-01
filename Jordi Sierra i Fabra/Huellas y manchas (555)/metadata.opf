@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">555</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86329ed1-813b-4107-9f32-6c6631fea429</dc:identifier>
+        <dc:title>Huellas y manchas</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-09T22:00:00+00:00</dc:date>
+        <dc:description>Cecilia tiene 17 años y cuida a su madre, enferma terminal. Al llegar la hora de la verdad, las preguntas no resueltas son más necesarias: ¿por qué la tuvo a ella mediante inseminación?, ¿por qué en Estados Unidos, sola, tan lejos de sus abuelos?, ¿qué esconde el pasado de su madre? Gracias a Emilio, un muchacho que vive encerrado en su casa y se comunica con el mundo únicamente mediante ordenadores, Cecilia descubrirá un secreto guardado durante años. Una novela única, excepcional, basada en un hecho real: el del primer nacido por inseminación que gracias a las tecnologías descubrió quién era su padre.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:24:47.649039+00:00"/>
+        <meta name="calibre:title_sort" content="Huellas y manchas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

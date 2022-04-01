@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">257</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7274edf0-3aca-4dc5-8b93-c0c5d2a59240</dc:identifier>
+        <dc:title>Pet Sematary</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1983-01-01T05:00:00+00:00</dc:date>
+        <dc:description>When the Creeds move into a beautiful old house in rural Maine, it all seems too good to be true: physician father, beautiful wife, charming little daughter, adorable infant son — and now an idyllic home. As a family, they've got it all...right down to the friendly cat. But the nearby woods hide a blood-chilling truth — more terrifying than death itself...and hideously more powerful. A multilayered examination into the nature of untimely death, shattering loss, and utter desperation, “Pet Sematary” tears asunder the very fabric connecting our seemingly normal world and the afterlife...leaving readers with an awful truth too haunting to forget.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:17:41.482025+00:00"/>
+        <meta name="calibre:title_sort" content="Pet Sematary"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

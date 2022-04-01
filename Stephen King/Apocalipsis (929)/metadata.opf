@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">929</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17f7b239-d523-4fea-af6f-675930f8cda3</dc:identifier>
+        <dc:title>Apocalipsis</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-01-01T03:00:00+00:00</dc:date>
+        <dc:description>Una novela de tonos apocalípticos en la que el Bien lucha contra el Mal. Un virus se escapa de un laboratorio secreto del Gobierno norteamericano en Texas. Como consecuencia de ello, muere más del 99 por ciento de la población mundial. Los supervivientes se alinean en dos bandos: el del Bien, liderado por Madre Abigail, una anciana de 104 años, y el del Mal, capitaneado por Randall Flagg, el Hombre Oscuro. Al enfrentarse ambas fuerzas en una lucha épica que tiene lugar en el desierto de Nevada, el futuro del mundo pende de un hilo. Esta novela se publicó originalmente en 1978 bajo el nombre de La danza de la muerte. King la reeditó en 1990 con el nombre de Apocalipsis, añadiendo textos eliminados en la original, así como revisando algunas partes del mismo. El origen de este libro es el cuento Marejada nocturna (incluido en El umbral de la noche).</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">1c4f66eb-f3a6-4e61-8686-419d13e2233c</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:34:37.120507+00:00"/>
+        <meta name="calibre:title_sort" content="Apocalipsis"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

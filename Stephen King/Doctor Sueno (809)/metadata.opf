@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">809</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34bafbdd-d883-49c0-b054-9acf265cab64</dc:identifier>
+        <dc:title>Doctor Sueño</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-07T05:00:00+00:00</dc:date>
+        <dc:description>Llega la esperada continuación de El Resplandor. Danny Torrance, aquel niño que recorría en triciclo las siniestras habitaciones del Hotel Overlook, es ahora un adulto con muchos problemas. Ha aprendido a controlar en parte sus visiones y trabaja en un asilo de ancianos donde los ayuda a morir en paz cuando llega el momento. Por eso le llaman Doctor Sueño. Pero su don le pone en contacto con otros que comparten «el resplandor» y para salvar a una niña, tendrá que luchar contra los seres malignos más repugnantes.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="El resplandor"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:31:25.726853+00:00"/>
+        <meta name="calibre:title_sort" content="Doctor Sueño"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">724</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1549e670-9419-4381-81df-8739d6a1cab9</dc:identifier>
+        <dc:title>El heredero oscuro de la sangre</dc:title>
+        <dc:creator opf:file-as="Sthauros, Ahna" opf:role="aut">Ahna Sthauros</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-06-11T22:00:00+00:00</dc:date>
+        <dc:description>Diane es la invitada forzosa de Marek, Príncipe de la Oscuridad, un vampiro de carisma oscuro que se pasea en sus sueños desde su más tierna infancia. En el palacio de las mentiras, lugar en el que demonios y vampiros compiten ferozmente para obtener favores de Il Divus, tendrá que aprender a disimular para sobrevivir en la tela de araña que él va construyendo a su alrededor con mentiras sobre sus amigos, sobre el Senado y sobre su amor Alleyne. Mientras, los vampiros de su familia y los Pretors la buscan sin descanso tras el consentimiento del Senado vampírico y se ven obligados a colaborar con los Custodios, los cazavampiros, para encontrarla dado que cosas muy extrañas están ocurriendo en el seno de la Liga de los Custodios. Por una razón o por otra, todo el mundo quiere encontrar a Diane, pero solo ella es capaz de salir de la horrible trampa que le ha tendido Marek. La joven Princesa tendrá que sacar a la luz sus inconmensurables poderes para poder hacer frente a ese ser malévolo. ¿Será capaz de lograrlo aun a sabiendas de que tendrá que renunciar a su humanidad para conseguirlo? ¿Alleyne y los Pretors lograrán encontrarla antes de que Marek se adueñe de ella?.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ahna Sthauros&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Los hijos de los Ángeles Caídos"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:29:14.433376+00:00"/>
+        <meta name="calibre:title_sort" content="heredero oscuro de la sangre, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

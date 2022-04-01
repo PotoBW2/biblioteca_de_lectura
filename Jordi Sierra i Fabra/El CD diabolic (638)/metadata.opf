@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">638</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e3872f3-9eff-491d-a4e9-633ad0cb3467</dc:identifier>
+        <dc:title>El CD diabòlic</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Un jove, que viu apassionadament la música i vol arribar a ser una estrella del rock, acaba de rebre una notícia que l’enfonsa: la discogràfica li torna la maqueta del que havia de ser el primer disc seu i li diu que no l’hi edita. Aquest fracàs el tanca en ell mateix: no té empenta per tocar, per compondre, per manifestar els seus sentiments a la noia que estima… El Senyor de la Música, però, l’ajudarà a capgirar aquesta situació quan li ven un CD molt especial, que l’ajudarà a treure el bo i millor que porta dins seu.</dc:description>
+        <dc:publisher>ePUBCat</dc:publisher>
+        <dc:identifier opf:scheme="EPUBCAT ID">2794</dc:identifier>
+        <dc:identifier opf:scheme="EPUBCAT VERSIO">1.0</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novel·la</dc:subject>
+        <dc:subject>Infantil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:26:58.659859+00:00"/>
+        <meta name="calibre:title_sort" content="CD diabòlic, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

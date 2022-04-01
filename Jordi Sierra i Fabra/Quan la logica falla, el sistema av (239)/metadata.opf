@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">93f25d3d-063a-4364-9cc3-0beb2dee302d</dc:identifier>
+        <dc:title>Quan la lògica falla, el sistema avisa… Zuk-1</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-04-23T04:00:00+00:00</dc:date>
+        <dc:description>A Ezebel, capital de la Unitat de Comunitats i del Sistema, l’any 9847 de l’Era de Terra 2. Terra 2. Any 9847. Homes i màquines conviuen i són iguals davant la Constitució. Zuk-1 és una màquina única, amb cervell humà, dedicada a la investigació científica. Un fet excepcional fa que el Sistema l’avisi: a la fàbrica de reciclatge i residus de la capital han assassinat una màquina. Rere aquest fet, s’hi amaga el robatori i tràfic il·legal de components per a la pervivència de l’espècie. Qui en pot ser el responsable, si les màquines no poden matar i a la fàbrica només hi havia màquines i una dona? Ah, Zuk-1, poc podies imaginar-te que la Cúpula del Sistema pensaria en tu per resoldre un cas tan greu! I vés amb compte! T’advertim que no serà gens senzill…</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:17:18.073354+00:00"/>
+        <meta name="calibre:title_sort" content="Quan la lògica falla, el sistema avisa… Zuk-1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

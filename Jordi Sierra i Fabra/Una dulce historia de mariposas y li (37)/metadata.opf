@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f86cf839-4bd7-4233-ba61-d3cea8141024</dc:identifier>
+        <dc:title>Una dulce historia de mariposas y libélulas</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Esta es la historia de Qin, un hombre, un padre, un pobre y humilde campesino de las montañas de Loess. La suya y la de su familia, su esposa Gong, sus hijos Cheng y Shan, sus nueras Li y Yu, su nieto Wu y el que está en camino y a punto de nacer. La historia de un viaje en busca de una niña muerta para que su hijo pequeño, Zhai, tenga compañía en el más allá.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">45943</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Infantil</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:10:30.570151+00:00"/>
+        <meta name="calibre:title_sort" content="dulce historia de mariposas y libélulas, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

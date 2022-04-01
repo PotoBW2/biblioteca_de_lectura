@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">619</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb08b54b-b4e7-43a7-b1e7-10a92de18354</dc:identifier>
+        <dc:title>Ensayos y artículos</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1900-08-09T23:00:00+00:00</dc:date>
+        <dc:description>ENSAYOS -EL Crítico Artista (Diálogo) -La Decadencia de la Mentira (Observaciones) -Pluma, Lápiz y Veneno. Estudio en Verso. -La Verdad Sobre las Máscaras (Apuntes sobre la ilusión) ARTÍCULOS -Fantoches y Actores -La tumba de Keats -Sobre si se debe leer o no -El club de los trece -Marruecos a caballo -Un chino muy sabio -Una obra fascinante -Impresiones sobre Yanquilandia -La invasión Yanqui -El envío -Los modelos en Londres -Otras ideas radicales acerca de la reforma del traje -El vestido de la mujer -Guía del matrimonio</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Variada</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:26:29.590402+00:00"/>
+        <meta name="calibre:title_sort" content="Ensayos y artículos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

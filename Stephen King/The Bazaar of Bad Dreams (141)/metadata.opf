@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dde0505c-71a7-43da-983f-25a68601a323</dc:identifier>
+        <dc:title>The Bazaar of Bad Dreams</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Some of these stories have been previously published, but that doesn’t mean they were done then, or even that they’re done now. Until a writer either retires or dies, the work is not finished; it can always use another polish and a few more revisions. There’s also a bunch of new ones. Something else I want you to know: how glad I am, Constant Reader, that we’re both still here. Cool, isn’t it?</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">31303</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:14:50.214037+00:00"/>
+        <meta name="calibre:title_sort" content="The Bazaar of Bad Dreams"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

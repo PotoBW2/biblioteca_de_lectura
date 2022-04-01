@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c946552f-adb5-42cf-abb0-734a46cebe8d</dc:identifier>
+        <dc:title>Horror 7</dc:title>
+        <dc:creator opf:file-as="otros, Stephen King y" opf:role="aut">Stephen King y otros</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Autores en esta recopilacion:
+Stephen King, Ramsey Campbell, William F. Nolan, Robert Bloch, Richard Matheson, David B. Silva, G. Wayne Miller, James Kisner, John Kisner, Douglas E. Winter, Richard Christian Matheson, Ray Russell, Stanley Wiater, Joe R. Lansdale, Katherine Marie Ramsland, Mort Castle, James Herbert, Dennis Hamilton, Charles R. Saunders, Ardath Mayhar, Steve Rasnic Tem, Thomas F. Monteleone, John Robert Bensink, J. N. Williamson, Thomas Sullivan y Alan Rodgers.
+Texto de la contracubierta:
+Los mejores relatos inéditos de horror de la década de los 80.
+Los autores aquí reunidos son los clásicos contempóraneos del género; los nuevos ya consagrados y premiados; y los novísimos que se han ganado el derecho a figurar en una selección de primera categoría.
+Stephen King, el gran maestro de lo macabro, Ramsey Campbell, galardonado con los grandes premios de la literatura fantástica: el British y el World Fantasy, Robert Bloch, el genial autor de Psicosis, Richard Matheson, James Herbert, Steve Rasnic Tem, Joe R. Lansdale…, hasta completar 25 autores con lo mejor del terror contemporáneo.</dc:description>
+        <dc:identifier opf:scheme="ISBN">978-84-270-1446-6</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King y otros&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:44:12.268125+00:00"/>
+        <meta name="calibre:title_sort" content="Horror 7"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">410</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ba2897ae-1013-492b-8879-9be9c0f82985</dc:identifier>
+        <dc:title>La tormenta del siglo</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Por primera vez, Stephen King nos presenta un relato escrito expresamente para la televisión. La llaman la «tormenta del siglo» y se estima que será devastadora. Los habitantes de la isla de Little Tall ya han sido testigos de las violentas tormentas que azotan Maine, pero esta es distinta. No solo trae consigo vientos huracanados y copiosas nevadas, sino también algo mucho peor. Algo que ni siquiera los isleños han visto jamás. Algo que nadie quiere ver... Todo se origina con la brutal muerte de un anciano y con la implacable exigencia del asesino: «Si me dais lo que quiero, me marcharé».</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:18.534493+00:00"/>
+        <meta name="calibre:title_sort" content="tormenta del siglo, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

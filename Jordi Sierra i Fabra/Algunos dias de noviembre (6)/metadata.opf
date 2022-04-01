@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">799da1c9-5ffb-4e58-a92e-679e65507fe9</dc:identifier>
+        <dc:title>Algunos días de noviembre</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-01T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Con datos, cifras, testimonios y frases reales, como siempre producto de una exhaustiva investigación, Sierra y Fabra vuelve a elaborar un retrato social de la dictadura, con intriga, toques de humor y mucho amor.&lt;/p&gt;&lt;p&gt;Noviembre de 1951. Miquel Mascarell ha acabado aceptando la oferta de David Fortuny de trabajar con él en su agencia de detectives, aunque sólo "en algunos casos" o si hay mucha actividad. Los dos siguen enfrentados ideológicamente, pero a la postre acaban siendo extraños amigos. Patro también le anima para que esté ocupado.&lt;/p&gt;&lt;p&gt;Una elegante mujer, esposa de un importante agente del mundo del espectáculo, los contrata. Su marido está recibiendo amenazas de muerte. Además, les paga generosamente. Por desgracia, todo se tuerce: se comete un asesinato. Mascarell y David Fortuny tendrán que introducirse en los entresijos de un mundillo tan apasionante como desconocido para ellos: el del cine, el teatro y las varietés, con actores y actrices que matarían por un papel o por mantenerse en la cima del éxito. Así descubrirán que mucha gente odiaba al agente amenazado. Pero, de entre toda la maraña de personajes, ¿quién miente?&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">53186</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Mascarell"/>
+        <meta name="calibre:series_index" content="11"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:08:40.060683+00:00"/>
+        <meta name="calibre:title_sort" content="Algunos días de noviembre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

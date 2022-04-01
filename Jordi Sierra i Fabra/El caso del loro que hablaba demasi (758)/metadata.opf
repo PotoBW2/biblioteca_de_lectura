@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">758</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">74c2bf46-ba7a-4156-9e23-0f9353d27795</dc:identifier>
+        <dc:title>El caso del loro que hablaba demasiado</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-01T05:00:00+00:00</dc:date>
+        <dc:description>Han pasado unas semanas desde que su padre sufriera un intento de asesinato, y Berta Mir se ha hecho cargo de la agencia de detectives en la que él era el único empleado. Mientras su grupo va a debutar tocando en vivo y Cristóbal Mir continúa postrado en una cama, ella ha de enfrentarse a un nuevo y en apariencia sencillo caso: una anciana octogenaria la contrata para que busque a su loro, un animal exótico en vías de extinción que vale una fortuna. Berta acabará metida hasta las cejas, sin pretenderlo, en la historia familiar de la propietaria del animal, que esconde no pocos secretos, muertes y desapariciones. También se verá involucrada en el asesinato del hombre que le vendió el loro a su clienta, miembro de una mafia dedicada al tráfico de animales exóticos, una de las lacras actuales más crueles y salvajes para la naturaleza del planeta.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Berta Mir"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:30:06.370447+00:00"/>
+        <meta name="calibre:title_sort" content="caso del loro que hablaba demasiado, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

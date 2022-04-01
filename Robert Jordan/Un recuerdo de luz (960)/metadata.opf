@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">960</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1dc2c889-028d-481d-a128-448a6d1e8106</dc:identifier>
+        <dc:title>Un recuerdo de luz</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert &amp; Sanderson, Brandon" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:creator opf:file-as="Jordan, Robert &amp; Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-02T04:00:00+00:00</dc:date>
+        <dc:description>Los dirigentes de las naciones se reúnen en Campo de Merrilor para apoyar a Rand al’Thor o frenar su plan de romper los sellos de la prisión del Oscuro, algo que podría ser una señal de locura o la última esperanza de la humanidad. Egwene, la Sede Amyrlin, se inclina por lo primero. En Andor, los trollocs invaden Caemlyn. En el Sueño del Lobo, Perrin Aybara combate contra Verdugo. Mientras se aproxima a Ebou Dar, Mat Cauthon hace planes para visitar a su esposa, Tuon, ahora Fortuona, emperatriz de Seanchan. Toda la humanidad está en peligro, y el resultado se decidirá en Shayol Ghul. La Rueda gira, y la era actual llega a su fin. La Última Batalla determinará el destino del mundo.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Aventuras</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Jordan&quot;: &quot;&quot;, &quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="La rueda del tiempo"/>
+        <meta name="calibre:series_index" content="14"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:37:38.163401+00:00"/>
+        <meta name="calibre:title_sort" content="recuerdo de luz, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

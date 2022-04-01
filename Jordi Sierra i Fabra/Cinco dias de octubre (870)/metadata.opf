@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">870</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd633567-c4f8-4dcd-91b7-1cfe26ceaede</dc:identifier>
+        <dc:title>Cinco días de octubre</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-01T05:00:00+00:00</dc:date>
+        <dc:description>1948. Un año después de abandonar el Valle de los Caídos tras su indulto, Miquel Mascarell, el último policía de la Barcelona republicana, ha rehecho su vida al lado de Patro, la joven a quien ya ha salvado dos veces. La visita de un hombre temible y su extraño encargo, buscar la tumba de su sobrino muerto el 18 de julio del 36, volverá a poner al viejo inspector en el disparadero, enfrentado a sus fantasmas, su supervivencia y moviéndose por una ciudad extraña que vive la posguerra en busca de un nuevo futuro. En esos mismos días, en Madrid, un consejo de guerra juzga al grupo de los 80, los maquis que siguen la lucha contra la dictadura. ¿Qué secreto esconde el cadáver de aquel joven cuya tumba busca Mascarell, en un cara y cruz con la vida y la muerte, doce años después y sin testigos vivos de aquel incidente? Ambientada con exactitud y precisión en la España de su tiempo, Cinco días de octubre es una novela que nos hace retroceder al pasado para comprender, quizá, nuestro presente y la forma en qué sobrevivimos.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Miquel Mascarell"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:33:00.839919+00:00"/>
+        <meta name="calibre:title_sort" content="Cinco días de octubre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

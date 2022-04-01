@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">409</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b910259d-326f-402b-a477-47084b5fd3f9</dc:identifier>
+        <dc:title>La Torre Oscura</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-09-21T04:00:00+00:00</dc:date>
+        <dc:description>Todo lo bueno se acaba, Lector Constante, y ni siquiera Stephen King es capaz de narrar una historia que nunca termina. El autor teme que los lectores que han seguido todas las aventuras de Roland desde su principio puedan llegar a cansarse. Sin embargo, ahora queda poco y lo último a veces es lo mejor. Los compañeros del ka-tet de Roland se encuentran separados en el espacio y en el tiempo y su primera meta es volver a juntarse. Susannah ha sobrevivido al parto del ser monstruoso. Jake, Ancho y el padre Callahan luchan contra sus enemigos en Nueva York. Roland y Eddie siguen en el año 1977 en Maine; allí buscan la puerta de regreso a donde están sus amigos. Y así comienza nuestra historia, una nueva incursión de Stephen King en los mundos de la fantasía más desbordada. Si has llegado hasta aquí, lector, sigue un poco más, no temas llegar al final del camino. ¡Bienvenido a la Torre Oscura!</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="La torre oscura"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:16.724692+00:00"/>
+        <meta name="calibre:title_sort" content="Torre Oscura, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">794</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0202166d-89d9-454d-870f-343faeb6acfa</dc:identifier>
+        <dc:title>Edad: 143 años</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Siglo XXI. El anhelo de la máxima longevidad y la esperanza de la inmortalidad a examen. Dos mil ciento cuarenta y siete seres humanos esperan ser deshibernados, vencidas sus enfermedades y superadas sus limitaciones heredadas del siglo XX. La nueva legislación impide las prácticas de hibernación y el futuro de los ya hibernados que esperan su vuelta a la vida es incierto. Un hombre, un médico, va a luchar contra el sistema para, no sólo lograr la deshibernación de los sarcófagos, sino cambiar la ley. En el juicio inmediato ante el más alto tribunal de la Confederación Europea, se plantea y se pone de manifiesto la complejidad del más apasionante tema del futuro en la historia de la evolución humana, hasta llegar a un climax absoluto con el veredicto final. En el interín, las nuevas enfermedades asolan ya a la Tierra, y el hijo del protagonista es una de sus víctimas. ¿Supervivencia o razón? La clave la tienen su abogado y un fiscal, unos jueces y la opinión pública, en el juicio más expectante de la historia</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Ciencia Ficcion - Grandes Exitos (Ultramar)"/>
+        <meta name="calibre:series_index" content="99"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:31:02.458930+00:00"/>
+        <meta name="calibre:title_sort" content="Edad: 143 años"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

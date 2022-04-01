@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">435</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef98563d-d966-482a-8678-8618fdea9703</dc:identifier>
+        <dc:title>La piel de la revuelta</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;23 de febrero de 1905. Barcelona. Un niño de 11 años sufre un grave accidente en la fábrica de la Colonia Güell. Mientras se debate entre la vida y la muerte, el cura de la colonia, los dos hijos del patrón y los obreros de la fábrica ofrecen su piel para salvar la vida del niño, en un hecho histórico sin precedentes que el tiempo ha ido borrando y lo ha relegado prácticamente al olvido.&lt;/p&gt;&lt;p&gt;Por vez primera, obreros, patrones e Iglesia unen sus fuerzas en un acto singular que fue conocido en su época como «el hecho de la piel» y que tuvo una amplísima repercusión en los medios de comunicación y la vida cotidiana de la época. Esta es la historia de una familia obrera en la Cataluña de principios del siglo &lt;small&gt;XX&lt;/small&gt;, los Vidal: padre, madre y cuatro hijos. Es también la historia de Esteve, que entrega su piel, y la de Ventura el héroe irreductible y rebelde que se niega a ser como los demás.&lt;/p&gt;&lt;p&gt;&lt;i&gt;La piel de la revuelta&lt;/i&gt; que arranca en 1905 y se entrelaza con los acontecimientos de la &lt;i&gt;Setmana Tràgica&lt;/i&gt; de Barcelona, es un fresco de una época crucial, escrito con minuciosidad en los detalles, ágil en la narración, con un estilo vigoroso, y una trama de alto voltaje. Por esta novela escrita originalmente en castellano, el autor obtuvo el Premio de Novela Histórica Néstor Luján, en su traducción al catalán.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">61050</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:52.113536+00:00"/>
+        <meta name="calibre:title_sort" content="piel de la revuelta, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

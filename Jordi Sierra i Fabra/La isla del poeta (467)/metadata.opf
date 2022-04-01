@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76ea7667-0466-4dc4-875d-c37b4d79ffa3</dc:identifier>
+        <dc:title>La isla del poeta</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Isa tiene diecinueve años y un deseo: conocer al poeta cuyos libros salvaron su vida en la adolescencia, ver al hombre cuyos versos la animaron a luchar cuando estuvo frente a la muerte. Pero ese poeta, Isaac Estruch, lleva veinte años retirado en una pequeña isla de las caribeñas aguas de Cartagena de Indias, en Colombia. Encerrado allí, sin querer ver a nadie, Isaac es un ermitaño con fama de irascible. Pese a todo, Isa cruza el Atlántico y se planta frente a su cabaña. En unas horas su vida cambiará porque encontrará ante sí lo inesperado. La isla del poeta habla de la renuncia al éxito, de la soledad, del amor a la poesía y de lo que puede llevar a un escritor a consagrarse con sólo tres libros y después desaparecer. Y también habla de la perseverancia de una joven dispuesta a luchar por su propio sueño imposible. En una noche, los dos protagonistas desmenuzarán algo más que una historia personal, y su diálogo se convertirá en un descenso a las profundidades de sus respectivas almas. La isla del poeta es una de las aproximaciones más íntimas de Jordi Sierra i Fabra a la esencia de la condición humana: los sentimientos e impulsos que nos guían.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">45946</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:22:42.358364+00:00"/>
+        <meta name="calibre:title_sort" content="isla del poeta, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

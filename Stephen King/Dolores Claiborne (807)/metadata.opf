@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">807</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">641106da-e387-49ab-87d9-6040179de39f</dc:identifier>
+        <dc:title>Dolores Claiborne</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-11-01T04:00:00+00:00</dc:date>
+        <dc:description>Una novela íntima y espeluznante, repleta de horrores que, sin embargo, provienen de este mundo. Durante treinta años, los habitantes de Little Tall Island han esperado averiguar qué pasó durante el extraño día —el día del eclipse total— en que murió el marido de Dolores Claiborne. Ahora es la policía quien quiere averiguar qué pasó ayer cuando la rica mujer para la que Dolores hacía las tareas domésticas, una mujer postrada en la cama, murió repentinamente. Sin otra opción más que hablar, Dolores presenta su conmovedora confesión de los lazos extraños y terribles que han forjado sus intimidades ocultas, de la ferocidad de un amor maternal y sus abominables consecuencias, de la ira silenciosa que puede llenar de odio el corazón de una mujer. Cuando Dolores Claiborne es acusada de asesinato, las malas noticias no hacen más que empezar. Porque lo que vendrá a continuación es algo que solamente Stephen King podría imaginar, y lo demuestra abriendo de par en par los secretos más oscuros y los pecados más condenables de los hombres y mujeres de un enquistado pueblo de Maine, guiando al lector por la vida subterránea de un municipio de imagen impecable.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:31:22.343323+00:00"/>
+        <meta name="calibre:title_sort" content="Dolores Claiborne"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

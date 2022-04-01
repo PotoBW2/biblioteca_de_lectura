@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">636</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84c53259-58dc-4ab5-82b6-dc9f978e5668</dc:identifier>
+        <dc:title>El testamento de un lugar llamado Tierra</dc:title>
+        <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1987-01-01T00:00:00+00:00</dc:date>
+        <dc:description>A través de ... en un lugar llamado Tierra y Regreso a un lugar llamado Tierra, asistimos a la evolución del hombre y la máquina en un futuro quizá no muy lejano. De la paz inicial, el ser humano pasa a la rebelión, en busca de su propia identidad. Con el fin de la guerra, son las máquinas las que sienten la necesidad del reencuentro con su creador. Y ésta es la base de El testamento de un lugar llamado Tierra. ¿Es posible la reunificación? ¿Han aprendido unos y otros de sus errores?De nuevo Balhissay, como en las dos primeras obras, es la clave y la respuesta de todos los interrogantes, pero los protagonistas de esta última parte, el profesor Steinein y la joven científico Zil, dos máquinas que se rebelan contra la Unidad y escapan del Sistema. habrán de buscar la respuesta en el otro confín del Universo. ¿Dónde? El futuro depende de ellas y de lo que encuentren al final de su viaje.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Trilogía de las Tierras"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:26:55.357888+00:00"/>
+        <meta name="calibre:title_sort" content="testamento de un lugar llamado Tierra, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52bd69e0-ad31-43b3-a9d4-652d86f77813</dc:identifier>
+        <dc:title>Parco</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-19T04:00:00+00:00</dc:date>
+        <dc:description>PARCO no es una novela usual. PARCO es un grito. PARCO es una historia diferente, al límite, afilada, cortante como una cuchilla, contundente, directa, un pulso en tiempos oscuros. PARCO podría hablar de cualquiera de nosotros, marginales, reales, situados en el extremo de una vida. Una historia que arranca en un reformatorio, con un joven asesino, un misterio y un camino por recorrer. Por el camino: el miedo, la angustia, unas circunstancias desesperadas, una búsqueda sin recompensa. Huir, salir, defenderse, luchar, y al final…</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <dc:subject>Psicológico</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:17:53.245296+00:00"/>
+        <meta name="calibre:title_sort" content="Parco"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

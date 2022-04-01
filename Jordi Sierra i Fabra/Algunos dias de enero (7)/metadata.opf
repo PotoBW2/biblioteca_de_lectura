@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ed996e1-689b-47bd-98ea-da6e7107ec6b</dc:identifier>
+        <dc:title>Algunos días de enero</dc:title>
+        <dc:creator opf:file-as="Jordi Sierra i Fabra" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-07T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;El duodécimo caso del ex inspector Mascarell nos lleva a la Barcelona de 1951 y en la Red Odessa. Mucho más que una novela negra.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Enero de 1952. Hace trece años que terminó la Guerra Civil y que Miquel Mascarell conocer la Patro, fue detenido y condenado a trabajos en el Valle de los Caídos. Los recuerdos se agolpan en la mente del ex inspector. Pero consigue distraerse ayudante David Fortuny a su agencia de detectives, donde los problemas no cesan y, una vez más, se verá obligado a intervenir en un caso de lo más singular. Miguel es testigo del asesinato de un hombre, pero no puede explicar nada a la policía si no si quiere ver involucrado. Aunque ya lo está: aparece otro cadáver y, en un abrir y cerrar de ojos, tendrá que enfrentarse a la trama internacional más compleja de su vida.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;En una diabólica sucesión de eventos, Miguel tendrá que encarar una de las decisiones más trascendentes de su dilatada carrera policial, la de hacer justicia por su contraviniendo sus principios o quedarse al margen, sabiendo que decenas de asesinos pueden seguir libres.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401026560</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B08ZCPT6XC</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Inspector Mascarell"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:08:41.560855+00:00"/>
+        <meta name="calibre:title_sort" content="Algunos días de enero"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

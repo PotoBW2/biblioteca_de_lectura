@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">175</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76267b81-bc8e-452a-8873-4d9b5cc98609</dc:identifier>
+        <dc:title>Siete noches de una vida (…con el Boss)</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-07-01T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;1981. Bruce Springsteen actúa en España por primera vez. Una pareja se conoce esta noche, unidos por la música del Boss. Desde este momento, y hasta 1999, en las siete primeras visitas del rockero, veremos noche a noche a lo largo de esos conciertos, como es su vida, lo que esperan, lo que les ha sucedido, sus sueños cumplidos o insatisfechos.&lt;/p&gt;&lt;p&gt;En paralelo, como telón de fondo, la evolución del país en estos 18 años, pues Bruce tuvo la habilidad de venir a España en momentos muy concretos de nuestro reciente pasado. Su música fue la banda sonora de aquellos años y esos siete conciertos marcaron un hito.&lt;/p&gt;</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">56667</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:15:45.477856+00:00"/>
+        <meta name="calibre:title_sort" content="Siete noches de una vida (…con el Boss)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

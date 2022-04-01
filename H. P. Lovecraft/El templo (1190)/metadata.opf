@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1190</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c18c1e2c-dc13-414a-8577-d3c514977d25</dc:identifier>
+        <dc:title>El templo</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1920-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Primera historia de Lovecraft en ser publicada. El Templo narra en forma de bitácora, la historia de Karl Heinrich Graf von Altberg-Ehrenstein, Capitán de corbeta de la Marina Imperial Alemana, al mando del submarino U-29, los sucesos que desembocaron el hundimiento de esta nave y el descubrimiento de un templo sumergido habitado por extraños seres.</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:45:05.743221+00:00"/>
+        <meta name="calibre:title_sort" content="templo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

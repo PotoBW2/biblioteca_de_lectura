@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">927</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0eab196-b500-49cb-90d6-ebca7a7f8910</dc:identifier>
+        <dc:title>Arcanum ilimitado</dc:title>
+        <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Brandon Sanderson crea mundos, y esos mundos están conectados. Su universo se expande por las sagas El Archivo de las Tormentas y Nacidos de la Bruma (Mistborn), también por obras como Elantris, construyendo una constelación de reinos llamado Cosmere.Ahora este espectacular volumen recopila, por primera vez, nueve relatos y novelas cortas representativos de cada uno de esos mundos, con sus distintos sistemas de magia. La colección del Cosmere abarca los límites conocidos del universo de Sanderson —incluida una novela corta inédita de El Archivo de las Tormentas, Danzante del Filo—, así como ilustraciones, notas… y secretos.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Nova"/>
+        <meta name="calibre:series_index" content="282"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:34:33.460141+00:00"/>
+        <meta name="calibre:title_sort" content="Arcanum ilimitado"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

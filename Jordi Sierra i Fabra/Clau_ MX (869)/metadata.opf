@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">869</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73fa0975-9bb3-4c60-b5f8-e4edafa75bee</dc:identifier>
+        <dc:title>Clau: MX</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Un home apareix assassinat a la catedral de Sant Patrici de Nova York. Quina relació té aquest incident amb la recerca de Josef Mengele (el carnisser d’Auschwitz), els míssils MX i els serveis secrets del Japó, la Unió Soviètica i els Estats Units? La resposta la té Tracy Hauser. Encara que… ella no ho sap.</dc:description>
+        <dc:publisher>ePUBCat</dc:publisher>
+        <dc:identifier opf:scheme="EPUBCAT ID">1273</dc:identifier>
+        <dc:identifier opf:scheme="EPUBCAT VERSIO">2.0</dc:identifier>
+        <dc:language>cat</dc:language>
+        <dc:subject>Novel·la</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:32:58.880767+00:00"/>
+        <meta name="calibre:title_sort" content="Clau: MX"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

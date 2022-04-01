@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">51</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b4da336-b326-45c4-872a-31d04b21f1c8</dc:identifier>
+        <dc:title>Trilogía de las Tierras</dc:title>
+        <dc:creator opf:file-as="Sierra i Fabra, Jordi" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Un futuro no muy lejano: seres humanos y máquinas son iguales ante la Constitución. Más aún, las máquinas, que han salvado a la humanidad del Holocausto, son el motor del progreso y la vida social. La acusación de asesinato de una máquina por parte de un hombre alterará la convivencia y desencadenará el inicio de la revolución pendiente. Hal Yakzuby, un científico que defiende al humano acusado de asesinato, y Balhissay 2-15, la máquina que conoce los entresijos de la historia y la verdad del presente, se enfrentan en un juicio apasionante que marcará el futuro del planeta.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:11:16.306103+00:00"/>
+        <meta name="calibre:title_sort" content="Trilogía de las Tierras"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
