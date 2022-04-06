@@ -6,14 +6,16 @@
         <dc:title>The Colour Out Of Space</dc:title>
         <dc:creator opf:file-as="Lovercraft, H.P." opf:role="aut">H.P. Lovercraft</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>2022-04-06T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;" The Color Out of Space " es una historia corta de ciencia ficción y terror del autor estadounidense HP Lovecraft , escrita en marzo de 1927. En la historia, un narrador anónimo reúne la historia de un área conocida por los lugareños como el "páramo maldito ". en las colinas al oeste de la ciudad ficticia de Arkham , Massachusetts . El narrador descubre que hace muchos años un meteorito se estrelló allí, envenenando a todos los seres vivos cercanos; la vegetación crece grande pero de mal sabor, los animales se vuelven locos y se deforman en formas grotescas, y las personas se vuelven locas o mueren una por una.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Republic Polytechnic</dc:publisher>
         <dc:language>eng</dc:language>
         <dc:subject>H.P.</dc:subject>
         <dc:subject>Lovercraft</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;H.P. Lovercraft&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T21:38:35.527561+00:00"/>
-        <meta name="calibre:title_sort" content="The Colour Out Of Space"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:38:35+00:00"/>
+        <meta name="calibre:title_sort" content="Colour Out Of Space, The"/>
     </metadata>
     <guide>
         <reference type="cover" title="Portada" href="cover.jpg"/>
