@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">103</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32bcee62-7446-4c6f-8970-a26681980705</dc:identifier>
+        <dc:title>The Outsider</dc:title>
+        <dc:creator opf:file-as="Lovecraft, H. P." opf:role="aut">H. P. Lovecraft</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1926-04-07T05:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;"The Outsider" is a short story by American horror writer H. P. Lovecraft. Written between March and August 1921, it was first published in Weird Tales, April 1926. In this work, a mysterious man who has been living alone in a castle for as long as he can remember decides to break free in search of human contact. "The Outsider" is one of Lovecraft's most commonly reprinted works and is also one of the most popular stories ever to be published in Weird Tales.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>Cuentos</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. P. Lovecraft&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:13:32+00:00"/>
+        <meta name="calibre:title_sort" content="Outsider, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
