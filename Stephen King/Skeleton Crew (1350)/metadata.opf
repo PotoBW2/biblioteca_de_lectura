@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1350</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79fb3b20-23a2-40ac-bfe9-c8c487404bda</dc:identifier>
+        <dc:title>Skeleton Crew</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-04-15T18:03:01+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;In the introduction to &lt;em&gt;Skeleton Crew&lt;/em&gt; (1985), his second collection of stories, King pokes fun at his penchant for "literary elephantiasis," makes scatological jokes about his muse, confesses how much money he makes (gross and net), and tells a story about getting arrested one time when he was "suffused with the sort of towering, righteous rage that only drunk undergraduates can feel." He winds up with an invitation to a scary voyage: "Grab onto my arm now. Hold tight. We are going into a number of dark places, but I think I know the way."&lt;/p&gt;&lt;p&gt;And he sure does. &lt;em&gt;Skeleton Crew&lt;/em&gt; contains a superb short novel ("The Mist") that alone is worth the price of admission, plus two forgettable poems and 20 short stories on such themes as an evil toy monkey, a human-eating water slick, a machine that avenges murder, and unnatural creatures that inhabit the thick woods near Castle Rock, Maine. The short tales range from simply enjoyable to surprisingly good. &lt;/p&gt;&lt;p&gt;In addition to "The Mist," the real standout is "The Reach," a beautifully subtle story about a great-grandmother who was born on a small island off the coast of Maine and has lived there her whole life. She has never been across "the Reach," the body of water between island and mainland. This is the story that King fans give to their friends who don't read horror in order to show them how literate, how charming a storyteller he can be. Don't miss it. &lt;em&gt;--Fiona Webster&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;This hefty sampler of King's shorter works, from all stages of the horror master's career, demonstrates the range of his abilities. Some of the stories here rank among his best, and "even the less successful ones are fun," PW observed. &lt;br /&gt;Copyright 1986 Reed Business Information, Inc. &lt;/p&gt;</dc:description>
+        <dc:publisher>New American Library</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451142931</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Fantastic fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Modern fiction</dc:subject>
+        <dc:subject>Fiction - Horror</dc:subject>
+        <dc:subject>Horror tales</dc:subject>
+        <dc:subject>Horror &amp; Ghost Stories</dc:subject>
+        <dc:subject>American</dc:subject>
+        <dc:subject>Horror tales; American</dc:subject>
+        <dc:subject>Fantastic fiction; American</dc:subject>
+        <dc:subject>antique</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-04-12T16:45:15.641419+00:00"/>
+        <meta name="calibre:title_sort" content="Skeleton Crew"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1356</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb1e0523-ae29-4ec2-a889-669b8e61dddf</dc:identifier>
+        <dc:title>The Dead Zone</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-23T04:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;In the &lt;/p&gt;&lt;p&gt;If any of King's novels exemplifies his skill at portraying the concerns of his generation, it's &lt;em&gt;The Dead Zone&lt;/em&gt; (1979). Although it contains a horrific subplot about a serial killer, it isn't strictly a horror novel. It's the story of an unassuming high school teacher, an Everyman, who suffers a gap in time--like a Rip Van Winkle who blacks out during the years 1970-75--and thus becomes acutely conscious of the way that American society is rapidly changing. He wakes up as well with a gap in his brain, the "dead zone" of the title. The zone gives him crippling headaches, but also grants him second sight, a talent he doesn't want and is reluctant to use. The crux of the novel concerns whether he will use that talent to alter the course of history.&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Dead Zone&lt;/em&gt; is a tight, well-crafted book. When asked in 1983 which of his novels so far was "the best," Stephen King answered, "The one that I think works the best is &lt;em&gt;Dead Zone&lt;/em&gt;. It's the one that [has] the most story." &lt;em&gt;--Fiona Webster&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"Stephen King has done it again. A spellbinder, a compulsive page-turner." &lt;br /&gt;-_Atlanta Journal_ &lt;/p&gt;&lt;p&gt;"Enthralling...superb." &lt;br /&gt;-_Dallas Times Herald_&lt;/p&gt;
+
+SUMMARY:
+John Smith awakens from an interminable coma with an accursed power-the power to see the future and the terrible fate awaiting mankind in...the dead zone.</dc:description>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780451155757</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">26d831cd-94c6-4a61-9500-f8cdf30643ca</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Psychics</dc:subject>
+        <dc:subject>Horror fiction</dc:subject>
+        <dc:subject>New England</dc:subject>
+        <dc:subject>Occult</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Horror &amp; Ghost Stories</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Horror - General</dc:subject>
+        <dc:subject>Fiction - Horror</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Occult fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-04-12T16:50:59.482972+00:00"/>
+        <meta name="calibre:title_sort" content="Dead Zone, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

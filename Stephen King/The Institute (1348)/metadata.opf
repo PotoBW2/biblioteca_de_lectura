@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1348</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5dd59c9b-0c25-4ff5-a0b7-97d288855574</dc:identifier>
+        <dc:title>The Institute</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-10T04:00:00+00:00</dc:date>
+        <dc:description>&lt;b&gt;From #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author Stephen King, the most riveting and unforgettable story of kids confronting evil since &lt;i&gt;It&amp;#8212;&lt;/i&gt;publishing just as the second part of &lt;i&gt;It&lt;/i&gt;, the movie, lands in theaters.&lt;/b&gt;&lt;BR&gt;In the middle of the night, in a house on a quiet street in suburban Minneapolis, intruders silently murder Luke Ellis's parents and load him into a black SUV. The operation takes less than two minutes. Luke will wake up at The Institute, in a room that looks just like his own, except there's no window. And outside his door are other doors, behind which are other kids with special talents&amp;#8212;telekinesis and telepathy&amp;#8212;who got to this place the same way Luke did: Kalisha, Nick, George, Iris, and ten-year-old Avery Dixon. They are all in Front Half. Others, Luke learns, graduated to Back Half, "like the roach motel," Kalisha says. "You check in, but you don't check out."&lt;BR&gt; &lt;BR&gt;In this most sinister of institutions, the director, Mrs....</dc:description>
+        <dc:publisher>Scribner</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781982110598</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">a233bf9e-021d-4935-bace-945ea30f1de6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-12T16:42:22.612065+00:00"/>
+        <meta name="calibre:title_sort" content="The Institute"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

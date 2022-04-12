@@ -6,10 +6,14 @@
         <dc:title>Blockade Billy</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>2010-04-20T04:30:00+00:00</dc:date>
+        <dc:description>Stephen King vuelve a darnos una muestra de su talento narrativo en este libro que aúna dos relatos cortos de sabor intenso. «Blockade Billy» nos introduce en la misteriosa vida de William Blakely, el mejor jugador de la historia del baseball al que, asombrosamente, nadie recuerda ya. Su rastro ha desaparecido por completo de todos los registros deportivos. Y con razón. El joven Billy ocultó un oscuro secreto que solo el maestro indiscutible del terror contemporáneo podía desvelar. En «Moralidad» conoceremos a una joven enfermera atrapada por la turbia proposición del acaudalado y anciano reverendo al que cuida. Dividida entre sus principios y una acuciante situación económica, su decisión cambiará su vida y la de su marido para siempre. Una lectura escalofriante para los amantes de las sensaciones fuertes.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
         <dc:language>es</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Intriga</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T20:34:00.032024+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:34:00+00:00"/>
         <meta name="calibre:title_sort" content="Blockade Billy"/>
     </metadata>
     <guide>

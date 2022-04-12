@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1334</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0e33a53-2dd9-4c4c-868f-f1699df34601</dc:identifier>
+        <dc:title>Stephen King - Relatos Raros \( PDFDrive.com \).epub</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Ariel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-02-04T01:52:13+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">353e17ac-4125-4147-9dde-dd1cb5ae7b76</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ariel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-11T21:07:48.831817+00:00"/>
+        <meta name="calibre:title_sort" content="Stephen King - Relatos Raros \( PDFDrive.com \).epub"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

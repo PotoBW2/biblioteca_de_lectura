@@ -6,10 +6,12 @@
         <dc:title>El ciclo del hombre lobo</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>1982-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;El primer grito fue el de un ferroviario aislado por la nieve, cuando sintió unos colmillos desgarrando su garganta. Al mes siguiente se oyó un grito de agonía proferido por una mujer a quien atacaban en su habitación. Cada vez que la luna llena brilla en la aislada y solitaria ciudad de Tarkers Mills se producen escenas de increíble horror. Nadie sabe quién será la próxima víctima. Pero sí hay una certeza. Cuando la luna se muestra en todo su esplendor, un terror paralizante recorre Tarkers Mills. En el viento se oyen gruñidos que parecen palabras humanas. Y por todas partes aparecen huellas de un monstruo insaciable.&lt;/p&gt;</dc:description>
         <dc:language>es</dc:language>
+        <dc:subject>Terror</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T21:46:17.669240+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:46:17+00:00"/>
         <meta name="calibre:title_sort" content="ciclo del hombre lobo, El"/>
     </metadata>
     <guide>

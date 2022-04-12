@@ -9,9 +9,10 @@
         <dc:date>2017-02-08T23:00:00+00:00</dc:date>
         <dc:description>El temido profesor de matemáticas está a punto de jubilarse, aunque sigue en su empeño de que sus alumnos comprendan la importancia de su asignatura. Cuando es víctima inesperada de una broma preparada para otra persona, decide dar una lección a tres de sus alumnos que no podrán olvidar. Deberán ir a su casa y pasar una serie de pruebas para poder aprobar la asignatura.</dc:description>
         <dc:publisher>2017</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788469832929</dc:identifier>
         <dc:language>spa</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T21:42:28.872761+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:42:28+00:00"/>
         <meta name="calibre:title_sort" content="venganza del profesor de matemáticas, La"/>
     </metadata>
     <guide>

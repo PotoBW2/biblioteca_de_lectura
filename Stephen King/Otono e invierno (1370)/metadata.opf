@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22381c6c-de3d-475f-95fe-27b4ddb28112</dc:identifier>
+        <dc:title>Otoño e invierno</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1982-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Al igual que en los dos primeros relatos —primavera y verano— que completan esta serie, Stephen King explora con escalofriante lucidez los niveles más profundos de la mente del ser humano. Esa barrera invisible donde se traspasan los límites de la razón, la moral o el bien para dejar paso al instinto más primitivo, al poder de la sombra y a la imaginación, donde el hombre —no en vano todos tenemos algo de doctor Jekyll y algo de míster Hyde— da rienda suelta a las pasiones más inconfesables e inquietantes, pero no por ello menos reales.</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-12T17:46:56.318644+00:00"/>
+        <meta name="calibre:title_sort" content="Otoño e invierno"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

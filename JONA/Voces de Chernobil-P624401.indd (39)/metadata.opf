@@ -7,9 +7,13 @@
         <dc:creator opf:file-as="JONA" opf:role="aut">JONA</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-11-05T15:13:09+00:00</dc:date>
+        <dc:description>Chernóbil, 1986. «Cierra las ventanillas y acuéstate. Hay un incendio en la central. Vendré pronto». Esto fue lo último que un joven bombero dijo a su esposa antes de acudir al lugar de la explosión. No regresó. Y en cierto modo, ya no volvió a verle, pues en el hospital su marido dejó de ser su marido. Todavía hoy ella se pregunta si su historia trata sobre el amor o la muerte. Voces de Chernóbil está planteado como si fuera una tragedia griega, con coros y unos héroes marcados por un destino fatal, cuyas voces fueron silenciadas durante muchos años por una polis representada aquí por la antigua URSS. Pero, a diferencia de una tragedia griega, no hubo posibilidad de catarsis.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
         <dc:language>es</dc:language>
+        <dc:subject>Crónica</dc:subject>
+        <dc:subject>Historia</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;JONA&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T20:10:36.981870+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:10:36+00:00"/>
         <meta name="calibre:title_sort" content="Voces de Chernóbil-P624401.indd"/>
     </metadata>
     <guide>

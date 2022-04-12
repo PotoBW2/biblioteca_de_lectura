@@ -6,14 +6,18 @@
         <dc:title>La voz interior</dc:title>
         <dc:creator opf:file-as="Fabra, Jordi Sierra i" opf:role="aut">Jordi Sierra i Fabra</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>1997-01-01T05:00:00+00:00</dc:date>
         <dc:description>En un internado femenino dirigido por religiosas se ha cometido una falta grave: un chico ha estado de noche en la habitación de una alumna de COU. Como no se sabe de qué alumna se trata, la directora reúne a todas las chicas del pabellón y amenaza con expedientarlas si no aparece la culpable. La amenaza surte efecto y al días siguiente hay una delación anónima y una expulsión. Pero sor María, monja inquieta, abierta y nada convencional, se niega a dar el caso por cerrado. Cree que la delatora no podrá soportar mucho tiempo el peso de su mala acción, y emprende uan singular investigación policial para averiguar quién es y poder ayudarla.</dc:description>
         <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">49079</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
         <dc:language>spa</dc:language>
         <dc:subject>Novela</dc:subject>
         <dc:subject>Juvenil</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Jordi Sierra i Fabra&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T21:42:17.259837+00:00"/>
+        <meta name="calibre:series" content="Gran angular"/>
+        <meta name="calibre:series_index" content="165"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:42:17+00:00"/>
         <meta name="calibre:title_sort" content="voz interior, La"/>
     </metadata>
     <guide>

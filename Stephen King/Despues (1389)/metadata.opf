@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1389</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4867aa70-0282-48c5-9b90-c9c8d6e32b03</dc:identifier>
+        <dc:title>Después</dc:title>
+        <dc:creator opf:file-as="Stephen King" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-11T22:00:00+00:00</dc:date>
+        <dc:description>En ocasiones, para crecer debes vencer a tus demonios.
+
+Jamie Conklin, el único hijo de una madre soltera, solo quiere tener una infancia normal. Sin embargo, nació con una habilidad sobrenatural que su madre le insta a mantener en secreto y que le permite ver aquello que nadie puede y enterarse de lo que el resto del mundo ignora. Cuando una inspectora del Departamento de Policía de Nueva York le obliga a evitar el último atentado de un asesino que amenaza con seguir atacando incluso desde la tumba, Jamie no tardará en descubrir que el precio que debe pagar por su poder tal vez es demasiado alto.
+
+Después es Stephen King en estado puro, una novela inquietante y emotiva sobre la inocencia perdida y las pruebas que hay que superar para diferenciar el bien del mal. Deudora del gran clásico del autor It (Eso), Después es un relato poderoso, terrorífico e inolvidable sobre la necesidad de plantarle cara a la maldad en todas sus formas.</dc:description>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-12T20:20:37.320532+00:00"/>
+        <meta name="calibre:title_sort" content="Después"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

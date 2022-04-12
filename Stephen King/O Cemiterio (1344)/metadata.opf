@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1344</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">486e297a-efa8-4edd-adec-23c57bf43da7</dc:identifier>
+        <dc:title>O Cemitério</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-16T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div style="text-align: justify;"&gt;&lt;span class="Apple-style-span" style="font-family: 'MS Shell Dlg 2', sans-serif; font-size: 12px; "&gt;Uma das histórias mais assustadoras de Stephen King, “O cemitério” mostra como a dor e a loucura, muitas vezes, dividem a mesma estrada. Louis Creed, um jovem médico de Chicago, acredita que encontrou seu lugar naquela pequena cidade do Maine. A boa casa, o trabalho na universidade, a felicidade da esposa e dos filhos lhe trazem a certeza de que fez a melhor escolha. Num dos primeiros passeios familiares para explorar a região, conhecem um simitério no bosque próximo a sua casa. Ali, gerações e gerações de crianças enterraram seus animais de estimação. Para além dos pequenos túmulos, onde letras infantis registram seu primeiro contato com a morte, há, no entanto, um outro cemitério. Uma terra maligna que atrai pessoas com promessas sedutoras e onde forças estranhas são capazes de tornar real o que sempre pareceu impossível.&lt;/span&gt;&lt;/div&gt;
+
+&lt;div&gt;&lt;p&gt;Uma das histórias mais assustadoras de Stephen King, “O Cemitério” 
+mostra como a dor e a loucura, muitas vezes, dividem a mesma estrada.&lt;/p&gt;
+&lt;p&gt;Louis Creed, um jovem médico de Chicago, acredita que encontrou seu 
+lugar naquela pequena cidade do Maine. A boa casa, o trabalho na 
+universidade, a felicidade da esposa e dos filhos lhe trazem a certeza 
+de que fez a melhor escolha. Num dos primeiros passeios familiares para 
+explorar a região, conhecem um simitério no bosque próximo a sua casa. 
+Ali, gerações e gerações de crianças enterraram seus animais de 
+estimação. Para além dos pequenos túmulos, onde letras infantis 
+registram seu primeiro contato com a morte, há, no entanto, um outro 
+cemitério. Uma terra maligna que atrai pessoas com promessas sedutoras e
+ onde forças estranhas são capazes de tornar real o que sempre pareceu 
+impossível.&lt;/p&gt;&lt;/div&gt;
+
+Louis Creed, um jovem médico de Chicago, acredita que encontrou seu lugar naquela pequena cidade do Maine. A boa casa, o trabalho na universidade, a felicidade da esposa e dos filhos lhe trazem a certeza de que fez a melhor escolha. Num dos primeiros passeios familiares para explorar a região, conhecem um "simitério" no bosque próximo a sua casa. Ali, gerações e gerações de crianças enterraram seus animais de estimação.
+Para além dos pequenos túmulos, onde letras infantis registram seu primeiro contato com a morte, há, no entanto, um outro cemitério. Uma terra maligna que atrai pessoas com promessas sedutoras e onde forças estranhas são capazes de tornar real o que sempre pareceu impossível.</dc:description>
+        <dc:publisher>Suma de Letras</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00CEZUV26</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788581051574</dc:identifier>
+        <dc:language>por</dc:language>
+        <dc:subject>Ficção norte-americana - Terror</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <dc:subject>Suspense</dc:subject>
+        <dc:subject>Mistério</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-12T15:44:42.586200+00:00"/>
+        <meta name="calibre:title_sort" content="Cemitério, O"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

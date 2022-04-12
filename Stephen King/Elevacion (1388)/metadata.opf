@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1388</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b415bb7e-a03d-4a9f-9497-359e9682d743</dc:identifier>
+        <dc:title>Elevación</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-07T19:32:23.525000+00:00</dc:date>
+        <dc:description>King vuelve a Castle Rock con un mensaje para nuestros tiempos. «La prueba de que un maestro aún puede elevar más su leyenda.»USA Today El cuerpo de Scott Carey sufre un extraño fenómeno: pierde peso sin parar pero no se vuelve más delgado, su báscula le dice que cada día es un poco más ligero, sin importar si lleva o no ropa o cómo de pesada sea esta.Castle Rock es una ciudad pequeña en la que las noticias vuelan y Scott no quiere ser sometido a pruebas y experimentos, así que solo confía su secreto a su amigo el doctor Ellis.Sin embargo, el misterio de su insólita enfermedad causará efectos inesperados en la convivencia de la pequeña ciudad y sacará a la luz lo mejor de la gente que le rodea. Elevación es una historia fascinante y conmovedora y un antídoto contra nuestra cultura individualista. La crítica ha dicho...«Escrita en el característico estilo translúcido de King y ambientada en una de sus localizaciones marca de la casa, esta historia atípicamente luminosa es un atrevido llamamiento a elevarnos por encima de nuestras diferencias... mágico, oportuno... encantador y, sin embargo, provocador.»Booklist «Stephen King sigue teniendo el poder de sorprender a sus amados "lectores constantes"... Un narrador aún en el mejor momento de su carrera.»Associated Press</dc:description>
+        <dc:publisher>Penguin Random House Grupo Editorial España</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07XYHNNM8</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">JeevDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788491293767</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-12T20:17:52.451458+00:00"/>
+        <meta name="calibre:title_sort" content="Elevación"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

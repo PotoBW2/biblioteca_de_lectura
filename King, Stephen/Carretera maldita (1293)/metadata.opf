@@ -6,10 +6,12 @@
         <dc:title>Carretera maldita</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">King, Stephen</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>1981-01-01T05:00:00+00:00</dc:date>
+        <dc:description>Barton Daves es un hombre dispuesto a no dejarse avasallar por las atrocidades del progreso urbano, y menos si este se materializa en forma de una carretera que pasará por delante de su casa y trastocará su apacible existencia. Así pues, Barton se arma con una Magnum 44, un fusil de alta precisión y una provisión de explosivos, decidido a detener la construcción de la nueva carretera a cualquier precio…</dc:description>
         <dc:language>es</dc:language>
+        <dc:subject>Drama</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;King, Stephen&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T21:48:05.662040+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:48:05+00:00"/>
         <meta name="calibre:title_sort" content="Carretera maldita"/>
     </metadata>
     <guide>

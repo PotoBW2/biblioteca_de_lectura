@@ -9,11 +9,12 @@
         <dc:date>1974-04-05T04:00:00+00:00</dc:date>
         <dc:description>&lt;p class="sinopsis minisalto"&gt;El escalofriante caso de una joven de apariencia insignificante que se transformó en un ser de poderes anormales, sembrando el terror en la ciudad.&lt;/p&gt; &lt;p class="sinopsis minisalto"&gt;Con pulso mágico para mantener la tensión a lo largo de todo el libro, Stephen King narra la atormentada adolescencia de Carrie, y nos envuelve en una atmósfera sobrecogedora cuando la muchacha realiza una serie de descubrimientos hasta llegar al terrible momento de la venganza.&lt;/p&gt; &lt;p class="sinopsis"&gt;Esta novela fue llevada al cine con un inmenso éxito de público y crítica.&lt;/p&gt;</dc:description>
         <dc:publisher>Plaza &amp; Janés</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">2885727a-6756-4259-93f6-52050131646d</dc:identifier>
         <dc:language>spa</dc:language>
         <dc:subject>Fantástico</dc:subject>
         <dc:subject>Terror</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T20:33:28.992776+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:33:28+00:00"/>
         <meta name="calibre:title_sort" content="Carrie"/>
     </metadata>
     <guide>

@@ -6,10 +6,11 @@
         <dc:title>niebla</dc:title>
         <dc:creator opf:file-as="Unamuno, Miguel de" opf:role="aut">Miguel de Unamuno</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>1913-12-31T16:00:00+00:00</dc:date>
+        <dc:description>Miguel de Unamuno escribió «Niebla», en 1907, y desde su primera publicación en 1914 no ha dejado de reeditarse y se ha traducido a multitud de idiomas, lo que prueba su interés y vigencia, pero ¿qué es «Niebla»? Su autor la calificó de "novela malhumorada", de "nivola", de "rechifla amarga". La realidad supuesta de «Niebla» es la de un caso patológico en busca de su ser a través del diálogo, pero el autor ha organizado esta anécdota en un juego de espejos, un laberinto de apariencias y simulacros donde al final lo único real es el propio acto de lectura que estamos realizando, en el que Unamuno da a sus lectores importancia de recreadores, de eslabón final de la cadena narrativa.</dc:description>
         <dc:language>es</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Miguel de Unamuno&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T21:40:26.916597+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:40:26+00:00"/>
         <meta name="calibre:title_sort" content="niebla"/>
     </metadata>
     <guide>

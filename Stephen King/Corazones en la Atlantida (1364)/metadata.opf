@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1364</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">081a78fa-bcd3-4f4e-be91-30b588a8437d</dc:identifier>
+        <dc:title>Corazones en la Atlántida</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-09-13T22:00:00+00:00</dc:date>
+        <dc:description>Aunque algunos episodios de la década de los sesenta nos parezcan irreales, no son ficticios, ocurrieron de verdad. Stephen King, que ha sido el primer escritor de la generación de la televisión que ha logrado un enorme éxito, publicó en 1974 "Carrie", su primera novela, justo un año antes de la retirada de las últimas tropas americanas de Vietnam. Las imágenes de aquella guerra y de las protestas en contra habían inundado las pequeñas pantallas de las casas americanas durante casi diez años, dejando una huella imborrable en toda una generación. En "Corazones en la Atlántida", King hipnotiza a sus lectores con una ficción profundamente sembrada en esos años, los sesenta, y explora, a lo largo de cuatro décadas, los estigmas y la herencia psicológica de la guerra de Vietnam en las personas. Lleno de peligro, lleno de suspense y, sobre todo, lleno de sentimientos, este libro de Stephen King transportará a algunos lectores a un lugar que nunca antes han visitado y a otros a un lugar que nunca podrán abandonar del todo…</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-12T17:25:17.208963+00:00"/>
+        <meta name="calibre:title_sort" content="Corazones en la Atlántida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

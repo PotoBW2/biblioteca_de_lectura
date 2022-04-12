@@ -3,7 +3,7 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">1121</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">e6541905-2c4d-4c16-b2c3-61deb77a2327</dc:identifier>
-        <dc:title>La niebla</dc:title>
+        <dc:title>La Niebla</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>1984-12-31T23:00:00+00:00</dc:date>
@@ -15,8 +15,8 @@
         <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Skeleton Crew"/>
         <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2022-04-01T21:42:55.831005+00:00"/>
-        <meta name="calibre:title_sort" content="niebla, La"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:42:55+00:00"/>
+        <meta name="calibre:title_sort" content="Niebla, La"/>
     </metadata>
     <guide>
         <reference type="cover" title="Portada" href="cover.jpg"/>

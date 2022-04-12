@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1385</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3dae17de-a0b2-49ab-ae8b-44f1b53130e1</dc:identifier>
+        <dc:title>Billy Summers</dc:title>
+        <dc:creator opf:file-as="Stephen King" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-24T07:22:56+00:00</dc:date>
+        <dc:description>&lt;p style=""&gt;
+  &lt;b&gt;Stephen King, el narrador legendario de imaginación incontenible,
+    nos  regala una espectacular novela sobre un buen tipo con un
+    trabajo muy malo.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Billy Summers es un asesino a sueldo y el mejor en lo suyo, pero
+  tiene  una norma: solo acepta un encargo si su objetivo es realmente
+  mala persona.&lt;/p&gt;
+&lt;p&gt;Ahora Billy quiere dejarlo, pero todavía le queda un último golpe. Y
+  siendo uno de los mejores francotiradores del mundo, un veterano
+  condecorado de la guerra de Irak, un auténtico Houdini cuando toca
+  desaparecer después de finiquitar un trabajo, ¿qué podría salirle mal?&lt;/p&gt;
+&lt;p&gt;Todo.&lt;/p&gt;
+&lt;p&gt;
+  &lt;b&gt;Reseñas:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;«&lt;i&gt;Billy Summers&lt;/i&gt; es un excelente relato de redención que
+  engancha y conmueve.»&lt;br /&gt;
+  &lt;i&gt;La Razón&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;«No hay asesinato más criminal ni caos más entretenido. Otra lectura
+  adictiva de un maestro de mente proteica.»&lt;br /&gt;
+  &lt;i&gt;Kirkus&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;«Otra novedad excepcional de un escritor que siempre les da a los
+  lectores mucho más de lo que esperan.»&lt;br /&gt;
+  &lt;i&gt;Publishers Weekly&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;«Ver al indiscutido Rey del Terror adentrarse en el territorio de los
+  thrillers &lt;i&gt;noir&lt;/i&gt; es la prueba de que Stephen King todavía es
+  capaz  de sorprendernos y dejarnos sin palabras.»&lt;br /&gt;
+  &lt;i&gt;Esquire&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;«A King nunca se le ha dado mejor envolver a sus lectores en una
+  narrativa impelente y con muchos tentáculos que se completa con un
+  final emocionante y perfectamente orquestado.»&lt;br /&gt;
+  &lt;i&gt;Booklist&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;«No importa lo que escriba: Stephen King siempre será considerado un
+  escritor de terror. Es inevitable, pues demasiadas pesadillas que
+  rondan  la cultura popular son responsabilidad suya. Sin embargo, en
+    &lt;i&gt;Billy Summers&lt;/i&gt; no hay elementos sobrenaturales (salvo una
+  referencia oculta  a cierto hotel embrujado). En lugar de eso, se pone
+  en modo &lt;i&gt;noir&lt;/i&gt; y  nos cuenta el relato de un asesino a sueldo con
+  un último trabajo por  delante. Divaga, ignora en su justa medida las</dc:description>
+        <dc:publisher>2021</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788401026379</dc:identifier>
+        <dc:language>spa</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-12T20:14:00.618232+00:00"/>
+        <meta name="calibre:title_sort" content="Billy Summers"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

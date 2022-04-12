@@ -6,10 +6,12 @@
         <dc:title>La mitad oscura</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>1989-01-11T05:00:00+00:00</dc:date>
+        <dc:description>Cuando Thad Beaumont en pleno bloqueo creativo, después de que su novela Las súbitas bailarinas optara al Premio Nacional de Literatura y lo perdiera, decidió seguir los consejos de su mujer y publicar una serie de thrillers retorcidos y sangrientos bajo el seudónimo de George Stark, no pensó, ni por asomo, que le sería tan difícil «deshacerse» de ese otro yo que, no se explicaba cómo, había dejado de ser ficticio. Cuando el comisario Alan Pangborn apareció en su casa acusándole de un brutal asesinato, Thad quería afirmar su inocencia, asegurar que nada tenía que ver con todos esos monstruosos asesinatos cometidos tan cerca de su casa, ni con la retorcida mente que protagonizaba sus novelas policíacas, ni con las llamadas de aquella voz que, obscena y susurrante, le pedía al teléfono que se rindiese. Pero ¿cómo podía explicar que sus huellas ensangrentadas aparecieran por todas partes en la escena del crimen?</dc:description>
         <dc:language>es</dc:language>
+        <dc:subject>Terror</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T21:42:58.107742+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:42:58+00:00"/>
         <meta name="calibre:title_sort" content="mitad oscura, La"/>
     </metadata>
     <guide>

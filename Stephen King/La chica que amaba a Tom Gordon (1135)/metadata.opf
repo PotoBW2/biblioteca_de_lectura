@@ -6,10 +6,12 @@
         <dc:title>La chica que amaba a Tom Gordon</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>1999-01-01T05:00:00+00:00</dc:date>
+        <dc:description>El mundo tenía dientes y podía morderte en cualquier momento. Trissha McFarland lo descubrió cuando tenía nueve años. A las diez de una mañana de principios de junio estaba sentada en el asiento trasero del Dodge Caravan de su madre, vestida con una sudadera azul de los Red Sox (la que llevaba 36 Gordon estampado en la espalda), y jugaba con su muñeca. A las diez y media se había perdido en el bosque. A las once intentaba contener su terror, no pensar: Esto va en serio, esto va muy en serio. Intentaba no pensar que, en ocasiones, cuando la gente se perdía en el bosque salía gravemente dañada. A veces incluso moría.</dc:description>
         <dc:language>es</dc:language>
+        <dc:subject>Terror</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T21:43:23.161584+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:43:23+00:00"/>
         <meta name="calibre:title_sort" content="chica que amaba a Tom Gordon, La"/>
     </metadata>
     <guide>

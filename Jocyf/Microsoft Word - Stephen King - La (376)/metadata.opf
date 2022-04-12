@@ -6,10 +6,15 @@
         <dc:title>Microsoft Word - Stephen King - La torre oscura 3 - Las tierras baldias.doc</dc:title>
         <dc:creator opf:file-as="Jocyf" opf:role="aut">Jocyf</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>1991-03-04T16:00:00+00:00</dc:date>
+        <dc:description>Roland ya no está solo en su búsqueda de la Torre Oscura. Le acompañan Eddie y Susannah, quienes llegaron desde diferentes momentos de Nueva York en La llegada de los tres . Ya les ha entrenado en las artes antiguas de los pistoleros. Sin embargo, el ka-tet aún no está completo. Roland ha de traer a una persona más desde Nueva York a Mundo Medio, una persona que ya ha estado allí y ha muerto no una vez, sino dos, y que sigue viva. El ka-tet, los cuatro unidos por su destino, tendrá que viajar a través de las envenenadas tierras baldías para llegar a la temible ciudad derruida de Lud. Su única esperanza será subirse a un tren rabioso que también busca su destrucción.</dc:description>
+        <dc:publisher>EDICIONES B, S.A.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">84-406-4430-2</dc:identifier>
         <dc:language>es</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Jocyf&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T20:20:26.096411+00:00"/>
+        <meta name="calibre:series" content="La torre oscura"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:20:26+00:00"/>
         <meta name="calibre:title_sort" content="Microsoft Word - Stephen King - La torre oscura 3 - Las tierras baldias.doc"/>
     </metadata>
     <guide>

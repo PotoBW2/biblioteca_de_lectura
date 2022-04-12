@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1381</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ab4bd23-0e2c-4af5-b243-bf9e045f9c31</dc:identifier>
+        <dc:title>Mientras escribo</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-12-31T23:00:00+00:00</dc:date>
+        <dc:description>«Si no tiene tiempo para leer, no tendrá el tiempo o las herramientas necesarias para escribir». Una clase magistral de Stephen King sobre el oficio de escribir. Una obra auténtica, lúcida y pragmática en la que se une la historia de su vida con el arte de la escritura. Pocas veces un libro sobre el oficio de escribir ha resultado tan clarificador, útil y revelador. Mientras escribo empieza con el relato de la asombrosa infancia de Stephen King y su extraño y temprano interés por la escritura. Una serie de vividos recuerdos de la adolescencia, de la universidad y de los años de lucha que lo llevaron a la culminación de su primera novela, Carne, aportan al lector una amena y a menudo divertida perspectiva sobre la formación del escritor. A continuación King describe las herramientas básicas del oficio y expone y ejemplifica sus muy personales opiniones sobre el secreto de la escritura. Mientras escribo culmina con el conmovedor relato de cómo su necesidad de escribir lo estimuló a conseguir recuperarse de su casi fatal accidente en el verano de 2000. Brillantemente estructurada, amena e inspiradora, esta obra resultará motivadora para todos sus lectores -fans del autor, críticos literarios, futuros escritores o estudiosos del arte de escribir-, que descubrirán además las vicisitudes del hombre que se esconde tras el famoso escritor.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Crítica y teoría literaria</dc:subject>
+        <dc:subject>Memorias</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-12T19:37:35.518259+00:00"/>
+        <meta name="calibre:title_sort" content="Mientras escribo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

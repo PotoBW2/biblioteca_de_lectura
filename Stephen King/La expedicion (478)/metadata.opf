@@ -9,11 +9,12 @@
         <dc:date>1985-10-01T04:00:00+00:00</dc:date>
         <dc:description>Ya nadie disputa a Stephen King el primer puesto en la literatura de terror: sus muchos millones de lectores son prueba fehaciente de ello. Su brillante imaginación revela las sombras que subyacen en lo evidente y hace que todos nos sintamos menos seguros de la realidad. «La expedición», que da título a este volumen de escalofriantes cuentos, advierte angustiosamente contra los riesgos de la curiosidad; la anciana de la «Abuela» quizá no sea la compañía adecuada para un niño cuando este queda aislado en una casa distante; el protagonista de «Superviviente» no tiene nada que comer, excepto... La locura está agazapada en la máquina de escribir del redactor de «La balada del proyectil flexible»… Una vez más, Stephen King nos ofrece atmósferas sobrecogedoras y emociones incontrolables.</dc:description>
         <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">8ff525f8-8081-4e66-9cfc-6b719daca9bc</dc:identifier>
         <dc:language>spa</dc:language>
         <dc:subject>Relato</dc:subject>
         <dc:subject>Terror</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T20:22:58.106575+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:22:58+00:00"/>
         <meta name="calibre:title_sort" content="expedición, La"/>
     </metadata>
     <guide>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1366</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07e5de26-7ff2-40ca-a969-dbb5a02faa73</dc:identifier>
+        <dc:title>El Misterio de Salem's Lot</dc:title>
+        <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Veinte años atrás, por una apuesta infantil, Ben Mears entró en la casa de los Marsten. Y lo que vio entonces aún puebla sus pesadillas. Ahora, como escritor consagrado vuelve a Salem's Lot para exorcisar sus fantasmas. Salem's Lot es un pueblo tranquilo y adormilado donde nunca pasa nada, excepto la vieja tragedia de la casa de los Marsten. Y el perro muerto colgado de la verja del cementerio. Y el misterioso hombre que se instaló en la casa de los Marsten. Y los niños que desaparecen, los animales que mueren desangrados. Y la espantosa presencia de Ellos, quienesquiera que sean. Ellos.</dc:description>
+        <dc:identifier opf:scheme="ISBN">84-01-49102-9</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-12T17:39:30.852105+00:00"/>
+        <meta name="calibre:title_sort" content="Misterio de Salem's Lot, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
