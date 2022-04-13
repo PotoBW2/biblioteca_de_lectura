@@ -6,10 +6,16 @@
         <dc:title>el horror de dunwich</dc:title>
         <dc:creator opf:file-as="Lovecraft, Howard P." opf:role="aut">Howard P. Lovecraft</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>1928-01-01T00:00:00+00:00</dc:date>
+        <dc:description>«Nadie, ni siquiera quienes conocen los hechos relacionados con el horror reciente, puede decir con exactitud qué sucede con Dunwich; aunque las leyendas antiguas hablan de ritos impíos y aquelarres de los indios, en medio de los cuales invocaban a sombras prohibidas en las grandes colinas redondeadas y realizaban salvajes plegarias orgiásticas contestadas por fuertes crujidos y truenos bajo tierra».Wilbur Whateley, hijo precoz y monstruoso de una solitaria familia de Dunwich, conserva parte del atroz secreto del Necronomicón, el libro prohibido. El secreto no puede, no debe, ser revelado a los hombres: las fuerzas del mal perviven y pueden invocarse. Una vez desatadas, el mundo conocerá su apocalipsis.El horror de Dunwich es uno de los relatos más perturbadores de la literatura de terror. Las ilustraciones de Santiago Caruso se cuentan entre las mejores recreaciones gráficas del imaginario de H. P. Lovecraft.
+
+«Nadie, ni siquiera quienes conocen los hechos relacionados con el horror reciente, puede decir con exactitud qué sucede con Dunwich; aunque las leyendas antiguas hablan de ritos impíos y aquelarres de los indios, en medio de los cuales invocaban a sombras prohibidas en las grandes colinas redondeadas y realizaban salvajes plegarias orgiásticas contestadas por fuertes crujidos y truenos bajo tierra». Wilbur Whateley, hijo precoz y monstruoso de una solitaria familia de Dunwich, conserva parte del atroz secreto del Necronomicón, el libro prohibido. El secreto no puede, no debe, ser revelado a los hombres: las fuerzas del mal perviven y pueden invocarse. Una vez desatadas, el mundo conocerá su apocalipsis. El horror de Dunwich es uno de los relatos más perturbadores de la literatura de terror. Las ilustraciones de Santiago Caruso se cuentan entre las mejores recreaciones gráficas del imaginario de H. P. Lovecraft.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
         <dc:language>es</dc:language>
+        <dc:subject>Terror</dc:subject>
+        <dc:subject>Novela</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Howard P. Lovecraft&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T20:28:59.285106+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:28:59+00:00"/>
         <meta name="calibre:title_sort" content="horror de dunwich, el"/>
     </metadata>
     <guide>

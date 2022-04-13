@@ -6,10 +6,15 @@
         <dc:title>Het Granaatappelhuis - oscar wilde</dc:title>
         <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>2017-09-04T04:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/55485</dc:identifier>
         <dc:language>es</dc:language>
+        <dc:subject>Fairy tales</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>English -- Translations into Dutch</dc:subject>
+        <dc:subject>Short stories</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T20:25:23.413762+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:25:23+00:00"/>
         <meta name="calibre:title_sort" content="Het Granaatappelhuis - oscar wilde"/>
     </metadata>
     <guide>

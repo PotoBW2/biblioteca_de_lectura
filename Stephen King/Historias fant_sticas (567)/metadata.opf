@@ -6,10 +6,13 @@
         <dc:title>Historias fant?sticas</dc:title>
         <dc:creator opf:file-as="King, Stephen" opf:role="aut">Stephen King</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>1984-12-31T23:00:00+00:00</dc:date>
+        <dc:description>El maestro del terror vuelve a ofrecer unas páginas electrizantes escritas en su mejor estilo. Siguiendo la tradición de Poe, Stevenson y Lovecraft, King nos abre la puerta de acceso a un mundo de horrores inimaginables. Stephen King ha fundido aquí imágenes de terrores ancestrales con la iconografía de la actual sociedad norteamericana. Los relatos incluidos en este libro, originales y trepidantes, han cautivado a millones de lectores en todo el mundo.</dc:description>
         <dc:language>es</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Terror</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Stephen King&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T20:25:07.999375+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:25:07+00:00"/>
         <meta name="calibre:title_sort" content="Historias fant?sticas"/>
     </metadata>
     <guide>
