@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1397</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">352e3e23-e9f8-49bd-aeeb-db00b808f447</dc:identifier>
+        <dc:title>FantasmaCanterville</dc:title>
+        <dc:creator opf:file-as="Cruz, Marina" opf:role="aut">Marina Cruz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-11T18:47:47+00:00</dc:date>
+        <dc:language>es</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Marina Cruz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-04-18T19:52:58.609205+00:00"/>
+        <meta name="calibre:title_sort" content="FantasmaCanterville"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

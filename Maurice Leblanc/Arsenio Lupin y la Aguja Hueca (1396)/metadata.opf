@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf84c85d-0a0b-40ce-8c7a-88e3fae21207</dc:identifier>
+        <dc:title>Arsenio Lupin y la Aguja Hueca</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1908-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Esta entrega de la serie del famoso ladrón de guante blanco, empieza con una escena nocturna muy inquietante y sitúa desde el primer momento al lector en un estado de gran tensión, lo que supone una distracción para que el lector pueda aplicar su ingenio a descubrir el verdadero misterio que se plantea, el enigma que permitió a César ocupar la Galia y posteriormente a los normandos iniciar en Francia su despliegue por Europa. Se trata de una gran mole calcárea frente a la costa que oculta un secreto y, según cuenta la leyenda, un inmenso tesoro. Tan divertido como siempre, pero de una lógica deslumbrante, es sobre todo la tensión emocional lo que probablemente ha hecho de esta entrega de la serie la más y mejor valorada por los aficionados al misterio.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Policial</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Arsenio Lupin"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2022-04-18T19:44:10.938878+00:00"/>
+        <meta name="calibre:title_sort" content="Arsenio Lupin y la Aguja Hueca"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
