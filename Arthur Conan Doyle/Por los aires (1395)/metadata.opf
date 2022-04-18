@@ -24,14 +24,14 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-01-01T05:00:00+00:00</dc:date>
         <dc:description>¿Qué tienen en común Sir Arthur Conan Doyle, Roald Dahl, Ambrose Bierce, Ray Bradbury y Stephen King? Pues que a ninguno de ellos le hace mucha gracia eso de tomar un avión. El presente libro reúne diecisiete narraciones breves que nos recuerdan todo lo que puede salir mal cuando uno está suspendido a nueve mil metros de altura, atravesando a toda velocidad el espacio y encerrado en un tubo metálico (¡como en un ataúd!) junto a cientos de extraños. Por los aires nos descubre todas las maneras por las que tu viaje por los cielos puede convertirse en una auténtica pesadilla, incluyendo algunas en las que nunca habías pensado..., pero que seguro cruzarán tu mente la próxima vez que te acerques a un aeropuerto. Esta antología, que incluye dos relatos inéditos de Joe Hill y el propio King, es, en palabras del rey del terror, «una lectura ideal para el avión... especialmente durante los descensos tormentosos».</dc:description>
-        <dc:publisher>ePubLibre</dc:publisher>
-        <dc:identifier opf:scheme="EPL">55127</dc:identifier>
+        <dc:publisher>Lends</dc:publisher>
         <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">55127</dc:identifier>
         <dc:language>spa</dc:language>
         <dc:subject>Relato</dc:subject>
         <dc:subject>Terror</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Arthur Conan Doyle&quot;: &quot;&quot;, &quot;Richard Matheson&quot;: &quot;&quot;, &quot;Ambrose Bierce&quot;: &quot;&quot;, &quot;E. C. Tubb&quot;: &quot;&quot;, &quot;Tom Bissell&quot;: &quot;&quot;, &quot;Dan Simmons&quot;: &quot;&quot;, &quot;Cody Goodfellow&quot;: &quot;&quot;, &quot;John Varley&quot;: &quot;&quot;, &quot;Joe Hill&quot;: &quot;&quot;, &quot;David J. Schow&quot;: &quot;&quot;, &quot;Ray Bradbury&quot;: &quot;&quot;, &quot;Bev Vincent&quot;: &quot;&quot;, &quot;Roald Dahl&quot;: &quot;&quot;, &quot;Peter Tremayne&quot;: &quot;&quot;, &quot;Stephen King&quot;: &quot;&quot;, &quot;James Dickey&quot;: &quot;&quot;, &quot;E. Michael Lewis&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-12T21:33:57.811623+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-12T21:33:57+00:00"/>
         <meta name="calibre:title_sort" content="Por los aires"/>
     </metadata>
     <guide>
