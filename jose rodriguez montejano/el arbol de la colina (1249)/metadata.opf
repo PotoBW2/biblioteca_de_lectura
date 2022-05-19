@@ -6,10 +6,14 @@
         <dc:title>el arbol de la colina</dc:title>
         <dc:creator opf:file-as="montejano, jose rodriguez" opf:role="aut">jose rodriguez montejano</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:date>1940-11-08T10:57:54+00:00</dc:date>
+        <dc:description>El árbol de la colina (The Tree on the Hill) es un relato de terror del escritor norteamericano H.P. Lovecraft (1890-1937), compuesto en 1934 y publicado de manera póstuma en la revista Polaris durante 1940. El árbol de la colina es uno de los relatos de terror de H.P. Lovecraft escritos en colaboración, en este caso, con Duane W. Rimel, con quien ya había escrito otros dos cuentos: La exhumación (The Disinterment) y La hechicería de Aphlar (The Sorcery of Aphlar). El árbol de la colina está narrado en primera persona. Su protagonista explora las afueras de un pueblo llamado Hampden, donde encuentra un inusual árbol en la cima de una colina. Desde allí observa las impresionantes Montañas Bitterroot, cuya geografía parece imposible, mientras el misterioso árbol favorece algún tipo de sueño lúcido acerca de un templo o tumba en una tierra abrasada por tres soles rojos. En el interior del templo, de muros violetas y azules, las sombras reptan y se congregan alrededor de tres mortíferos ojos en llamas que escrutan al protagonista. El árbol de la colina pertenece al Ciclo Onírico de H.P. Lovecraft, relatos donde el sueño y las pesadillas ocupan un rol preponderante.</dc:description>
         <dc:language>es</dc:language>
+        <dc:subject>Ficción</dc:subject>
+        <dc:subject>Sobrenatural</dc:subject>
+        <dc:subject>Terror</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;jose rodriguez montejano&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T21:46:44.563993+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:46:44+00:00"/>
         <meta name="calibre:title_sort" content="arbol de la colina, el"/>
     </metadata>
     <guide>
