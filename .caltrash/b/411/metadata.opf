@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">411</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7439724-f9fe-4cf6-9356-77b381e76f02</dc:identifier>
+        <dc:title>La tormenta</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert &amp; Sanderson, Brandon" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:creator opf:file-as="Jordan, Robert &amp; Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-26T23:00:00+00:00</dc:date>
+        <dc:description>El Tarmon Gai’don, la Última Batalla, se cierne amenazadora y la humanidad no está preparada. Rand al’Thor, el Dragón Renacido, se esfuerza por conseguir la unión de reinos y alianzas para el enfrentamiento decisivo. Mientras frena la invasión seanchan hacia el norte —con la esperanza de conseguir al menos una tregua— sus aliados observan con espanto la sombra que parece crecer en el corazón del propio Dragón Renacido. Egwene al’Vere, la Sede Amyrlin de las Aes Sedai rebeldes, está cautiva en la Torre Blanca y sujeta a los caprichos de la tiránica dirigente. Su lucha pondrá a prueba el temple de las Aes Sedai, y el conflicto que plantea su presencia decidirá el futuro de la Torre Blanca… y quizás el del propio mundo.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Aventuras</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:series" content="La rueda del tiempo"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:21:19+00:00"/>
+        <meta name="calibre:title_sort" content="tormenta, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

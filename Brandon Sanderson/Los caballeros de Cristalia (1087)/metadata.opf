@@ -5,18 +5,19 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">ddbf1441-484c-484d-b48d-3b249efb4b80</dc:identifier>
         <dc:title>Los caballeros de Cristalia</dc:title>
         <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-11-01T04:00:00+00:00</dc:date>
-        <dc:description>¡Alcatraz Smedry es famoso! O al menos lo es en la ciudad de Nalhalla, en los Reinos Libres, donde los castillos son rascacielos y los taxis dragones. ¡Gente a la que nunca había visto le pide un autógrafo! Pero la novedad de la fama se acaba pronto. Los Bibliotecarios malvados han llegado a la ciudad con un tratado en el que solicitan que el reino de Mokia se rinda, y los regidores de los Reinos Libres parecen ansiosos por firmarlo. Lo peor es que los Caballeros de Cristalia han degradado a Bastille y se han llevado su espada y su armadura. Pero algo extraño está ocurriendo. ¿Podrán Alcatraz, Bastille y su pandilla de extraños parientes descifrar de qué se trata? ¿O están los Reinos Libres perdidos para siempre?</dc:description>
+        <dc:description>¡Alcatraz Smedry es famoso! O al menos lo es en la ciudad de Nalhalla, en los Reinos Libres, donde los castillos son rascacielos y los taxis dragones. ¡Gente a la que nunca había visto le pide un autógrafo! Pero la novedad de la fama se acaba pronto. Los Bibliotecarios malvados han llegado a la ciudad con un tratado en el que solicitan que el reino de Mokia se rinda, y los regidores de los Reinos Libres parecen ansiosos por firmarlo. Lo peor es que los Caballeros de Cristalia han degradado a Bastille y se han llevado su espada y su armadura. Pero algo extraño está ocurriendo. ¿Podrán Alcatraz, Bastille y su pandilla de extraños parientes descifrar de qué se trata? ¿O están los Reinos Libres perdidos para siempre?
+
+¡Alcatraz Smedry es famoso!O al menos lo es en la ciudad de Nalhalla, en los Reinos Libres, donde los castillos son rascacielos y los taxis dragones. ¡Gente a la que nunca había visto le pide un autógrafo! Pero la novedad de la fama se acaba pronto. Los Bibliotecarios malvados han llegado a la ciudad con un tratado en el que solicitan que el reino de Mokia se rinda, y los regidores de los Reinos Libres parecen ansiosos por firmarlo. Lo peor es que los Caballeros de Cristalia han degradado a Bastille y se han llevado su espada y su armadura. Pero algo extraño está ocurriendo. ¿Podrán Alcatraz, Bastille y su pandilla de extraños parientes descifrar de qué se trata? ¿O están los Reinos Libres perdidos para siempre?</dc:description>
         <dc:publisher>ePubLibre</dc:publisher>
         <dc:language>spa</dc:language>
         <dc:subject>Novela</dc:subject>
         <dc:subject>Juvenil</dc:subject>
         <dc:subject>Fantástico</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Alcatraz vs. los bibliotecarios malvados"/>
         <meta name="calibre:series_index" content="3"/>
-        <meta name="calibre:timestamp" content="2022-04-01T21:41:24.735522+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:41:24+00:00"/>
         <meta name="calibre:title_sort" content="caballeros de Cristalia, Los"/>
     </metadata>
     <guide>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">343</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7bc5c10-9916-4468-9dbb-b0077c924102</dc:identifier>
+        <dc:title>Los huesos del escriba</dc:title>
+        <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-01T00:00:00+00:00</dc:date>
+        <dc:description>El abuelo Smedry está en problemas.¡Alcatraz al rescate!En su segunda escaramuza contra los Bibliotecarios malvados que rigen el mundo, Alcatraz y su singular pandilla de luchadores siguen las huellas del abuelo Smedry hasta la antigua y misteriosa Biblioteca de Alejandría. Los habitantes de las Tierras Silenciadas, —las regiones controladas por los Bibliotecarios, como Canadá, Europa v Estados Unidos— creen que la biblioteca fue destruida hace tiempo. Los habitantes de los Reinos Libres conocen la verdad: la Biblioteca de Alejandría todavía existe y es uno de los lugares más peligrosos del planeta. Es el lugar que habitan unos de los Bibliotecarios más temibles: los Conservadores, una secta de muertos vivientes que se alimentan de almas. ¿Lograrán Alcatraz y sus amigos rescatar al abuelo Smedry y salir de allí con vida?</dc:description>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:timestamp" content="2022-04-01T20:19:41+00:00"/>
+        <meta name="calibre:title_sort" content="huesos del escriba, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

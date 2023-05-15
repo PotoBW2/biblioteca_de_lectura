@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1295</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50a37199-3398-498b-adba-76bd62932ec6</dc:identifier>
+        <dc:title>Calamity</dc:title>
+        <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-13T08:00:00+00:00</dc:date>
+        <dc:description>Los Épicos nacieron cuando Calamity iluminó los cielos. Desde esa noche histórica, el destino de David ha estado entrelazado con el de esos malvados. Steelheart asesinó a su padre. Firefight le robó el corazón. Y ahora Regalia ha convertido a su mayor aliado en un peligroso enemigo. David conocía el secreto del Profesor. Secreto que guardó incluso cuando el Profesor se esforzaba por controlar los efectos de sus poderes épicos. Pero no pudo superar enfrentarse a Obliterarion en Babilar. El Profesor, que fue líder de los Reckoners, se ha entregado totalmente a su destino de Épico. Se ha hundido es esas tenebrosas sombras de violencia propias de todos los Épicos. Y todo saben que de las sombras no se vuelve… Pero todo se equivocan. Es posible redimir a los Épicos. Megan ya lo demostró. No todo está perdido. Al menos, no definitivamente. Y David está lo suficientemente loco como para enfrentarse al Gran Épico más poderoso de la historia con tal de recuperar a su amigo. O al menos, morir intentándolo.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:series" content="Reckoners"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:48:09+00:00"/>
+        <meta name="calibre:title_sort" content="Calamity"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

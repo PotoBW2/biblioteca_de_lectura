@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">33025b07-9834-4b37-85f4-4b8303fd431b</dc:identifier>
         <dc:title>La espada infinita. Redención</dc:title>
         <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-01-01T05:00:00+00:00</dc:date>
         <dc:description>Adiestrado desde su nacimiento en esgrima y combate, un joven caballero llamado Siris ha luchado ferozmente para enfrentarse al tiránico Rey Dios en un combate cara a cara. Esta es la misión que ha heredado de su estirpe y que se remonta incontables generaciones, en un continuo esfuerzo por liberar a su pueblo de la esclavitud. Pero cuando finalmente parece lograr su cometido, Siris se ve de pronto arrojado a un mundo mucho más peligroso, lleno de guerreros, ladrones, conflictos antiguos, peleas y alianzas cambiantes entre mortales, inmortales y aspirantes a reyes. Sus ansias de libertad lo harán emprender a un viaje épico en busca de un ser —el único en el mundo— capaz de desentrañar los verdaderos secretos de Infinity Blade, la Espada Infinita.</dc:description>
         <dc:publisher>ePubLibre</dc:publisher>
@@ -13,10 +13,9 @@
         <dc:subject>Novela</dc:subject>
         <dc:subject>Aventuras</dc:subject>
         <dc:subject>Fantástico</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Infinity Blade"/>
         <meta name="calibre:series_index" content="2"/>
-        <meta name="calibre:timestamp" content="2022-04-01T20:24:21.238937+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:24:21+00:00"/>
         <meta name="calibre:title_sort" content="espada infinita. Redención, La"/>
     </metadata>
     <guide>

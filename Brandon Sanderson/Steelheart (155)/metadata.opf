@@ -5,11 +5,17 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">3b816b5c-12db-4958-8a93-689afaa5eb55</dc:identifier>
         <dc:title>Steelheart</dc:title>
         <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Diez años atrás, Calamity irrumpió en la ciudad en la forma de una explosión en el cielo que otorgó a algunos seres poderes extraordinarios. A estos se los empezó a llamar Épicos, y pronto subyugaron a la población empleando sus increíbles poderes con el afán de gobernar la voluntad de los hombres y conquistar el mundo. Ahora, un tirano y furioso Épico llamado Steelheart se ha proclamado dueño y señor de la ciudad de Chicago Nova. De él se dice que es invencible; ninguna bala puede hacerle daño, ninguna espada puede atravesar su piel, ningún fuego quemar su cuerpo. Nadie se atreve a desafiarlo… Nadie salvo los Reckoners, un grupo clandestino que no goza de poderes pero sí de una férrea disciplina, conseguida tras pasarse la vida estudiando el comportamiento de los Épicos con el objetivo de hallar sus puntos débiles y poder así exterminarlos. El joven David Charleston se unirá a ellos con el fin de vengar la muerte de su padre a manos de Steelheart. Los Reckoners quieren venganza, y el chico tiene una cualidad que le distingue del resto: sabe que el Épico no es invencible. David es el único que ha visto sangrar a Steelheart.
+
+Diez años atrás, Calamity irrumpió en la ciudad en la forma de una explosión en el cielo que otorgó a algunos seres poderes extraordinarios. A estos se los empezó a llamar Épicos, y pronto subyugaron a la población empleando sus increíbles poderes con el afán de gobernar la voluntad de los hombres y conquistar el mundo. Ahora, un tirano y furioso Épico llamado Steelheart se ha proclamado dueño y señor de la ciudad de Chicago Nova. De él se dice que es invencible; ninguna bala puede hacerle daño, ninguna espada puede atravesar su piel, ningún fuego quemar su cuerpo. Nadie se atreve a desafiarlo… Nadie salvo los Reckoners, un grupo clandestino que no goza de poderes pero sí de una férrea disciplina, conseguida tras pasarse la vida estudiando el comportamiento de los Épicos con el objetivo de hallar sus puntos débiles y poder así exterminarlos. El joven David Charleston se unirá a ellos con el fin de vengar la muerte de su padre a manos de Steelheart. Los Reckoners quieren venganza, y el chico tiene una cualidad que le distingue del resto: sabe que el Épico no es invencible. David es el único que ha visto sangrar a Steelheart.</dc:description>
         <dc:language>es</dc:language>
-        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
-        <meta name="calibre:timestamp" content="2022-04-01T20:15:12.531727+00:00"/>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:series" content="Reckoners"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:15:12+00:00"/>
         <meta name="calibre:title_sort" content="Steelheart"/>
     </metadata>
     <guide>

@@ -5,16 +5,15 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">9b3d28a9-110d-4a1c-a3d4-e9845e682a35</dc:identifier>
         <dc:title>Firefight</dc:title>
         <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-01-01T00:00:00+00:00</dc:date>
         <dc:description>La ciudad de Chicago Nova es libre.Le dijeron a David que era imposible, que ni siquiera los Reckoners habían sido capaces de matar a un Gran Épico. Sin embargo, Steelheart —invencible, inmortal, inamovible— ha muerto. Y David fue el responsable de su fin. Acabar con Steelheart debería haber completado la vida de David. Pero en realidad, solo le sirvió para ser consciente de todas las preguntas para las que no tiene respuesta. Y en Chicago Nova nadie puede contestarlas. Pese a todo, en Babilonia Restaurada, el lugar antes conocido como Manhattan, quizá pueda encontrar las respuestas. Es una urbe inundada y triste, gobernada por la Gran Épica Regalia, pero David está seguro de que por allí pasa el camino que le llevará a lo que busca. Es arriesgado entrar en una ciudad bajo el yugo de una despótica Gran Épica, pero para David la apuesta vale la pena. Porque la muerte de Steelheart solo logró dejarle un enorme vacío donde antes residía su sed de venganza: en el corazón. Había logrado llenar ese vacío con Firefight, una Épica desaparecida. Y ahora se embarcará en una empresa más peligrosa y siniestra que la rebelión contra Steelheart.Partirá en busca de Firefight y de las respuestas que necesita.Por primera vez en todo el mundo, esta edición de Firefight incluye el relato Mitosis, cuya lectura se sitúa entre el primero y el segundo libro de la presente trilogía.</dc:description>
         <dc:language>spa</dc:language>
         <dc:subject>Ciencia ficción</dc:subject>
         <dc:subject>Fantástico</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Reckoners"/>
         <meta name="calibre:series_index" content="2"/>
-        <meta name="calibre:timestamp" content="2022-04-01T21:44:32.517752+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T21:44:32+00:00"/>
         <meta name="calibre:title_sort" content="Firefight"/>
     </metadata>
     <guide>
