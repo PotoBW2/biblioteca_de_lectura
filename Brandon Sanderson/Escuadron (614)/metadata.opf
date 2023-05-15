@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">20181a11-52b0-4921-b1ad-7c73129b1e69</dc:identifier>
         <dc:title>Escuadrón</dc:title>
         <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.40.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-11-01T04:00:00+00:00</dc:date>
         <dc:description>El mundo de Spensa lleva décadas bajo un ataque continuo. Los pilotos son los héroes de lo que queda de la raza humana, y pilotar un caza siempre ha sido el sueño de Spensa. Desde niña se ha imaginado elevándose hacia el cielo y demostrando su valentía. Pero su destino está entremezclado con el de su padre, un piloto al que derribaron, anulando así cualquier posibilidad de que Spensa accediera a la escuela de vuelo. Nadie dejará que Spensa olvide lo que hizo su padre; sin embargo, el destino funciona de formas misteriosas. Tal vez la escuela de vuelo esté casi fuera de su alcance, pero ella está decidida a volar. Y un descubrimiento casual en una caverna perdida podría proporcionarle un modo de reclamar las estrellas.</dc:description>
         <dc:publisher>ePubLibre</dc:publisher>
@@ -14,10 +14,9 @@
         <dc:language>spa</dc:language>
         <dc:subject>Novela</dc:subject>
         <dc:subject>Fantástico</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Escuadrón"/>
         <meta name="calibre:series_index" content="1"/>
-        <meta name="calibre:timestamp" content="2022-04-01T20:26:22.246619+00:00"/>
+        <meta name="calibre:timestamp" content="2022-04-01T20:26:22+00:00"/>
         <meta name="calibre:title_sort" content="Escuadrón"/>
     </metadata>
     <guide>

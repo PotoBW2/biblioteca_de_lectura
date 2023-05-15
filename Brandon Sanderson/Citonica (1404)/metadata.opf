@@ -17,14 +17,14 @@ Pero la única manera de que Spensa descubra su verdadera naturaleza es dejar at
 
 Tener valor significa afrontar el miedo. Y esta misión es aterradora.</dc:description>
         <dc:publisher>ePubLibre</dc:publisher>
-        <dc:identifier opf:scheme="EPL">61625</dc:identifier>
         <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:identifier opf:scheme="EPL">61625</dc:identifier>
         <dc:language>spa</dc:language>
         <dc:subject>Novela</dc:subject>
         <dc:subject>Fantástico</dc:subject>
         <meta name="calibre:series" content="Escuadrón"/>
         <meta name="calibre:series_index" content="3"/>
-        <meta name="calibre:timestamp" content="2023-05-15T18:04:18.418679+00:00"/>
+        <meta name="calibre:timestamp" content="2023-05-15T18:04:18+00:00"/>
         <meta name="calibre:title_sort" content="Citónica"/>
     </metadata>
     <guide>
