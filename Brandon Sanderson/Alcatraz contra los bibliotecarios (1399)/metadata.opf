@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1399</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e40c11d-6214-467d-a452-81f975f10493</dc:identifier>
+        <dc:title>Alcatraz contra los bibliotecarios malvados</dc:title>
+        <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-01T05:00:00+00:00</dc:date>
+        <dc:description>En su decimotercer cumpleaños, el huérfano Alcatraz Smedry recibe un curioso paquete: una bolsa de arena, herencia de sus padres, que han desaparecido. La bolsa es robada de inmediato, y entonces Alcatraz comprende que no se trata de una arena cualquiera. Con ella, los Bibliotecarios Malvados que controlan en secreto algunos de los países más poderosos del mundo podrán controlar también algunos de los Reinos Libres. Alcatraz y un grupo de chicos inusuales se convertirán en los encargados de luchar contra ellos y acabar con los Bibliotecarios de una vez por todas.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:series" content="Alcatraz vs. los bibliotecarios malvados"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2023-05-15T18:03:25.153154+00:00"/>
+        <meta name="calibre:title_sort" content="Alcatraz contra los bibliotecarios malvados"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1404</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f852bfe-de9a-4a9f-971e-e9579423e68a</dc:identifier>
+        <dc:title>Citónica</dc:title>
+        <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-01T03:00:00+00:00</dc:date>
+        <dc:description>La vida de Spensa como miembro de la Fuerza de Defensa Desafiante dista mucho de ser normal y corriente. Demostró ser una de las mejores pilotos de caza estelar en el enclave humano de Detritus y salvó a su pueblo del exterminio a manos de los krells, la enigmática especie alienígena que los tenía prisioneros desde hace décadas. Por si fuera poco, viajó a años-luz de distancia de su hogar como espía infiltrada en la Supremacía, a un lugar donde descubrió que había toda una galaxia más allá de su pequeño y desolado planeta natal.
+
+Ahora la Supremacía, el gobierno galáctico empecinado en dominar toda vida humana, ha desatado una guerra a escala galáctica. Y Spensa ha visto las armas que pretenden emplear para terminarla: los zapadores, unas antiguas y enigmáticas fuerzas alienígenas que pueden arrasar sistemas estelares enteros en un instante. Spensa sabe que, por muchos pilotos con los que cuente la FDD, no hay manera de derrotar a ese depredador.
+
+Sin embargo, Spensa es citónica. Se enfrentó a un zapador y percibió algo siniestramente familiar en él. Y quizá, si logra descubrir lo que es ella misma, podría ser algo más que solo otra piloto en la guerra. Podría salvar la galaxia.
+
+Pero la única manera de que Spensa descubra su verdadera naturaleza es dejar atrás todo lo que conoce y entrar en la ninguna-parte, un lugar del que muy pocos han regresado jamás.
+
+Tener valor significa afrontar el miedo. Y esta misión es aterradora.</dc:description>
+        <dc:publisher>ePubLibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">61625</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:series" content="Escuadrón"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2023-05-15T18:04:18.418679+00:00"/>
+        <meta name="calibre:title_sort" content="Citónica"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="cover.jpg"/>
+    </guide>
+</package>
